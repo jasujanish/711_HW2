@@ -22,4 +22,5 @@ for file in files:
             f.write(f"Title: {sect['heading']}\n")
             for para in sect['paragraphs']:
                 f.write(f"{para}\n")
-            f.write("\n")
+            if(len(sect['paragraphs'])>0):
+                f.write("jasujazmudzinski\n\n")

@@ -42,11 +42,12 @@ def parse_sections(soup):
 main_text = parse_sections(soup)
 with open("pittsburgh_history_britannica.txt", "w", encoding="utf-8") as f:
     for sect in main_text:
-        f.write(f"Title: {sect['heading']}\n")
+        f.write(f"Pittsburgh ({sect['heading']})\n")
         for para in sect['paragraphs']:
             f.write(f"{para}\n")
-        f.write("\n")
+    f.write("jasujazmudzinski\n")
 
 with open("britannica.txt", "w", encoding="utf-8") as f:
     f.write(str(soup.prettify()))
+    f.write("\njasujazmudzinski\n")
 # '''

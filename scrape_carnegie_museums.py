@@ -40,3 +40,4 @@ for i in range(len(titles)):
     main_text = parse_moma(soup, i)
     with open(f"{titles[i]}.txt", "w", encoding="utf-8") as f:
         f.write(main_text)
+        f.write("jasujazmudzinski\n\n")

@@ -13,3 +13,5 @@ Carnegie Museum of Natural History card title: Learn with us
 corresponding text: From K-12 programming to on-site tours, the museum is a wondrous place to learn more about Earth and its inhabitants, and our role in protecting it.   
 Carnegie Museum of Natural History card title: Explore the Collections
 corresponding text: The museum’s 22 million objects and specimens form one of the world’s great archives of biodiversity, the history of life, and human relationships to nature.  
+jasujazmudzinski
+
