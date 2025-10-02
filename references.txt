@@ -7,3 +7,5 @@
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
+#BM-25Rank Documentation
+https://pypi.org/project/rank-bm25/

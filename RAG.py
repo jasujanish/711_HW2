@@ -6,6 +6,8 @@ from typing import List, Tuple
 import os
 import re
 import faiss
+import spacy
+from rank_bm25 import BM250kapi
 
 embed_model = SentenceTransformer('sentence-transformer/all-MiniLM-L6-v2')
 
@@ -38,7 +40,7 @@ def chunk_text(text, chunk_size, overlap):
 
 def semantic_chunk_text(text, chunk_size, overlap, keyword=None):
     if keyword:
-        sub_docs = [s.strip() for s in re.split(re.escpae(keyword), text) if s.strip()]
+        sub_docs = [s.strip() for s in re.split(re.escape(keyword), text) if s.strip()]
     else:
         sub_docs = [text]
     chunks = []
@@ -124,6 +126,19 @@ def faiss_retrieve(query: str, mode: str = 'top', k: int =3, threshold: float = 
     else:
         raise ValueError("mode must be 'top' or 'threshold'")
 
+    return results
+
+nlp = spacy.load("en_core_web_sm")
+
+tokenized_corpus = [[token.lemma_.lower() for token in nlp(doc) if not token.is_punct and not token.is_space] for doc in all_chunks]
+bm25 = BM250kapi(tokenized_corpus)
+
+def BM25_rank_retrive(query: str, k: int = 5):
+    doc = nlp(query.lower())
+    tokenized_query = [token.lemma_ for token in doc if not token.is_punct and not token.is_space]
+    scores = bm25.get_scores(tokenized_query)
+    top_indices = np.argsort(scores)[::-1][:k]
+    results = [(all_chunks[i], float(scores[i])) for i in top_indices]
     return results
 
 #hybrid can use reranking after we rank once already
