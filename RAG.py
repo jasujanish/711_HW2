@@ -5,6 +5,7 @@ from sentence_transformers import SentenceTransformer
 from typing import List, Tuple
 import os
 import re
+import faiss
 
 embed_model = SentenceTransformer('sentence-transformer/all-MiniLM-L6-v2')
 
@@ -59,6 +60,7 @@ for doc in documents:
 
 chunk_embeddings = embed_model.encode(all_chunks, prompt_name='query')
 
+#dense retrieval function
 def dense_retrieve(query: str, mode: str = 'top', k: int = 3, threshold: float = 0.7, metric: str='cosine', normalize: bool = True) -> List[Tuple[str, float]]:
     query_embedding = embed_model.encode([query], prompt_name="query")[0]
     if normalize:
@@ -92,10 +94,36 @@ def dense_retrieve(query: str, mode: str = 'top', k: int = 3, threshold: float =
             indices = indices[np.argsort(scores[indices])[::-1]]
         else:
             indices = indices[np.argsort(scores[indices])]
-        results = [(all_chunks[i], scores[i]) for i in top_indices]
+        results = [(all_chunks[i], scores[i]) for i in indices]
+    else:
+        raise ValueError("mode must be 'top' or 'threshold'")
+    return results
+
+#matrix required for FAISS
+xb = np.array(chunk_embeddings, dtype=np.float32)
+d = xb.shape[1]
+#normalize for cosine sim
+faiss.normalize_L2(xb)
+index = faiss.IndexFlatIP(d)
+index.add(xb)
+
+def faiss_retrieve(query: str, mode: str = 'top', k: int =3, threshold: float = 0.7):
+    query_embedding = embed_model.encode([query], prompt_name="query").astype("float32")
+    faiss.normalize_L2(query_embedding)
+    scores, indices = index.search(query_embedding, k)
+    if mode == 'top':
+        results = [(all_chunks[i], float(scores[0][j])) for j, i in enumerate(indices[0])]
+    
+    elif mode == 'threshold':
+        #we can adjust max_k based off of data set size
+        max_k = min(len(all_chunks), 1000)
+        scores, indices = index.search(query_embedding, max_k)
+        mask = scores[0] >= threshold
+        results = [(all_chunks[i], float(s)) for i, s in zip(indices[0][mask], scores[0][mask])]
+
     else:
         raise ValueError("mode must be 'top' or 'threshold'")
 
-
+    return results
 
 #hybrid can use reranking after we rank once already
