@@ -141,4 +141,22 @@ def BM25_rank_retrive(query: str, k: int = 5):
     results = [(all_chunks[i], float(scores[i])) for i in top_indices]
     return results
 
-#hybrid can use reranking after we rank once already
+def min_max_normalize(results):
+    scores = np.array([score for _, score in results], dtype=float)
+    min_s, max_s = scores.min(), scores.max()
+    norm_scores = (scores-min_s) / (max_s - min_s)
+    return [(doc, score) for (doc, _), score in zip(results, norm_scores)]
+
+def z_score_normalize(results):
+    scores = np.array([score for _, score in results], dtype=float)
+    mean_s = np.mean(scores)
+    std_s = np.std(scores)
+    norm_scores = (scores - mean_s) / std_s
+    return [(doc, score) for (doc, _), score in zip(results, norm_scores)]
+
+def rank_based_normalize(results):
+    scores = np.array([score for _, score in results], dtype=float)
+    ranks = np.argsort(np.argsort(scores))
+    norm_scores = 1 - (ranks / (len(scores) - 1))
+    return [(doc, score) for (doc, _), score in zip(results, norm_scores)]
+
