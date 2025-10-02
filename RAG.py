@@ -211,9 +211,9 @@ def generate_with_context(query: str, context_chunks: List[str], max_new_tokens:
         outputs = lm_model.generate(
             **inputs,
             max_new_tokens=max_new_tokens,
-            temperature=0.1
-            top_p=0.95
-            do_sample=True
+            temperature=0.1,
+            top_p=0.95,
+            do_sample=True,
             pad_token_id=tokenizer.eos_token_id
         )
 
@@ -246,9 +246,9 @@ def generate_without_context(query: str, max_new_tokens: int = 100) -> str:
         outputs = lm_model.generate(
             **inputs,
             max_new_tokens=max_new_tokens,
-            temperature=0.1
-            top_p=0.95
-            do_sample=True
+            temperature=0.1,
+            top_p=0.95,
+            do_sample=True,
             pad_token_id=tokenizer.eos_token_id
         )
 
