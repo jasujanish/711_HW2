@@ -32,9 +32,9 @@ def parse_pages(dir='things_to_do'):
     files = [f for f in os.listdir(dir) if f.endswith('.html')]
     output_list = []
     i = 0
-    for fname in files:
+    for f in files:
         i+=1
-        path = os.path.join(dir, fname)
+        path = os.path.join(dir, f)
         with open(path, 'r', encoding="utf-8") as f:
             response = f.read()
         curr_soup = BeautifulSoup(response, 'html.parser')

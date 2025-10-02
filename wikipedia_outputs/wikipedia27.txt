@@ -1,3 +1,27 @@
+Title: Summary
+
+['Steel Curtain (defensive line, 1971–1981)', 'The Black and Gold', 'Blitzburgh', 'Rooneymen']
+['Pittsburgh Pirates (1933–1939)', 'Pittsburgh Steelers (1940–1942, 1945–present)', 'Phil-Pitt " Steagles " (1943)', 'Card-Pitt (1944)']
+['Forbes Field ( 1933 – 1963 )', 'Pitt Stadium ( 1958 – 1969 )', 'Three Rivers Stadium ( 1970 – 2000 )', 'Acrisure Stadium ( 2001 –present)']
+1943 due to loss of players during World War II (temporary merger with Philadelphia Eagles ):
+['Shibe Park (four games)']
+1944 due to loss of players during World War II (temporary merger with Chicago Cardinals ):
+['Comiskey Park (two games)']
+['Eastern Division (1933–1943, 1945–1949)', 'Western Division (1944)', 'American Conference (1950–1952)', 'Eastern Conference (1953–1969) Century Division (1967–1969)', 'American Football Conference (1970–present) AFC Central (1970–2001) AFC North (2002–present)']
+['Century Division (1967–1969)']
+['AFC Central (1970–2001)', 'AFC North (2002–present)']
+['Super Bowl championships: 6 1974 ( IX ), 1975 ( X ), 1978 ( XIII ), 1979 ( XIV ), 2005 ( XL ), 2008 ( XLIII )']
+['AFC: 1974, 1975, 1978, 1979, 1995, 2005, 2008, 2010']
+['AFC Central: 1972, 1974, 1975, 1976, 1977, 1978, 1979, 1983, 1984, 1992, 1994, 1995, 1996, 1997, 2001', 'AFC North: 2002, 2004, 2007, 2008, 2010, 2014, 2016, 2017, 2020']
+['NFL: 1947, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1982, 1983, 1984, 1989, 1992, 1993, 1994, 1995, 1996, 1997, 2001, 2002, 2004, 2005, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2020, 2021, 2023, 2024']
+['Rooney family (1933–present)']
+['Art Rooney (1933–1975)', 'Dan Rooney (1975–2002)', 'Art Rooney II (2003–present)']
+The Pittsburgh Steelers are a professional American football team based in Pittsburgh. The Steelers compete in the National Football League (NFL) as a member of the American Football Conference (AFC) North division. Founded in 1933, the Steelers are the seventh-oldest franchise in the NFL, and the oldest franchise in the AFC.
+In contrast with their status as a perennial losing franchise in the pre- merger NFL, where they were the oldest team never to have won a league championship, the Steelers of the post- merger (modern) era are among the most successful NFL franchises, especially during their dynasty in the 1970s. The team is tied with the New England Patriots for the most Super Bowl titles at six, and they have both played in (16 times) and hosted (11 times) more conference championship games than any other team in the NFL. The Steelers have also won eight AFC championships, tied with the Denver Broncos, but behind the Patriots' record 11 AFC championships. The team is tied with the Broncos, Dallas Cowboys, and San Francisco 49ers for the second-most Super Bowl appearances with eight.
+The Steelers, whose history may be traced to a regional pro team that was established in the early 1920s, joined the NFL as the Pittsburgh Pirates on July 8, 1933. The team was owned by Art Rooney and took its original name from the baseball team of the same name, as was common practice for NFL teams at the time. To distinguish them from the baseball team, local media took to calling the football team the Rooneymen, an unofficial nickname that persisted for decades after the team had adopted its current nickname. The ownership of the Steelers has remained within the Rooney family since the organization's founding. Art Rooney's son, Dan Rooney, owned the team from 1988 until his death in 2017. Much control of the franchise has been given to Dan Rooney's son, Art Rooney II.
+The Steelers enjoy a large, widespread fanbase nicknamed Steeler Nation. They currently play their home games at Acrisure Stadium on Pittsburgh's North Side in the North Shore neighborhood, which also hosts the University of Pittsburgh Panthers. Built in 2001 as Heinz Field, the stadium replaced Three Rivers Stadium, which had hosted the Steelers for 31 seasons. Prior to Three Rivers, the Steelers had played their games in Pitt Stadium and at Forbes Field.
+jasujazmudzinski
+
 Title: History
 Title: Rooney family era (1933–present)
 The Steelers first took to the field as the Pittsburgh Pirates on September 20, 1933, losing 23–2 to the New York Giants. Through the 1930s, the Pirates never finished higher than second place in their division, or with a record better than.500 ( 1936 ). Pittsburgh did make history in 1938 by signing Byron White, a future Justice of the U.S. Supreme Court, to what was at the time the biggest contract in NFL history, but he played only one year with the Pirates before signing with the Detroit Lions. Prior to the 1940 season, the Pirates renamed themselves the Steelers.
@@ -23,8 +47,6 @@ jasujazmudzinski
 
 Title: Summary
 Since the NFL merger in 1970, the Pittsburgh Steelers have compiled a regular-season record of 444–282–2 (.635) and an overall record of 480–305–2 (.635) including the playoffs, reached the playoffs 30 times, won their division 22 times, played in 16 AFC championship games, and won six of eight Super Bowls. They are also the only NFL team not to have a season with 12 or more losses since the league expanded to a 16-game schedule in 1978.
-jasujazmudzinski
-
 Title: Ownership
 Since 2008, the Rooney family has brought in several investors for the team while retaining control of the team itself. This came about so that the team could comply with NFL ownership regulations. Dan Rooney, and his son, Art Rooney II, president of the franchise, wanted to stay involved with the franchise, while two of the brothers – Timothy and Patrick – wanted to further pursue racetracks that they own in Florida and New York. Since 2006, many of the racetracks have added video slot machines, causing them to violate "NFL policy that prohibits involvement with racetrack and gambling interests".
 Upon Dan Rooney's death in 2017, he and Art Rooney II retained control of the team with the league-minimum 30%, the following made up the other investors at the time:
@@ -40,8 +62,6 @@ jasujazmudzinski
 
 Title: Civil rights advocacy
 The franchise, along with the Rooney family have for generations been strong advocates for equality of opportunity for both minorities and women. Among these achievements of the Steelers was the first to hire an African-American assistant coach (September 29, 1957, with Lowell Perry ), the first to start an African-American quarterback (December 3, 1973, with Joe Gilliam ), the first team to boast of an African-American Super Bowl MVP (January 12, 1975, with Franco Harris ), the first to hire an African-American Coordinator (September 2, 1984, with Tony Dungy ), the first owner to push for passage of an "equal opportunity" mandating that at least one minority candidate is given an interview in all head coach hiring decisions throughout the league (the Rooney Rule in the early 2000s), and the first to hire a female as full-time athletic trainer ( Ariko Iso on July 24, 2002).
-jasujazmudzinski
-
 Title: Championships
 Title: Super Bowl championships
 [['Season', 'Coach', 'Super Bowl', 'Location', 'Opponent', 'Score', 'Record'], ['1974', 'Chuck Noll', 'IX', 'Tulane Stadium ( New Orleans )', 'Minnesota Vikings', '16–6', '10–3–1'], ['1975', 'X', 'Orange Bowl ( Miami )', 'Dallas Cowboys', '21–17', '12–2'], ['1978', 'XIII', 'Dallas Cowboys', '35–31', '14–2'], ['1979', 'XIV', 'Rose Bowl ( Pasadena )', 'Los Angeles Rams', '31–19', '12–4'], ['2005', 'Bill Cowher', 'XL', 'Ford Field ( Detroit )', 'Seattle Seahawks', '21–10', '11–5'], ['2008', 'Mike Tomlin', 'XLIII', 'Raymond James Stadium ( Tampa )', 'Arizona Cardinals', '27–23', '13–3'], ['Total Super Bowls won:', '6']]
@@ -49,8 +69,6 @@ jasujazmudzinski
 
 Title: AFC championships
 [['Season', 'Coach', 'Location', 'Opponent', 'Score'], ['1974', 'Chuck Noll', 'Oakland-Alameda County Coliseum ( Oakland )', 'Oakland Raiders', '24–13'], ['1975', 'Three Rivers Stadium ( Pittsburgh )', 'Oakland Raiders', '16–10'], ['1978', 'Houston Oilers', '34–5'], ['1979', 'Houston Oilers', '27–13'], ['1995', 'Bill Cowher', 'Indianapolis Colts', '20–16'], ['2005', 'Invesco Field at Mile High ( Denver )', 'Denver Broncos', '34–17'], ['2008', 'Mike Tomlin', 'Heinz Field (Pittsburgh)', 'Baltimore Ravens', '23–14'], ['2010', 'New York Jets', '24–19'], ['Total AFC Championships won:', '8']]
-jasujazmudzinski
-
 Title: Division championships
 The Steelers were a part of the NFL Eastern Division from 1933 to 1943 and were briefly in the Western Division in 1944, before returning to the Eastern Division until 1949. The team was then in the American Conference from 1950 to 1952, and the Eastern Conference from 1953 to 1966. They were then placed in the Century Division of the Eastern Conference in 1967. When the league reformed into the NFC and AFC in 1970, the Steelers were placed in the AFC Central until 2001 when they were realigned into the AFC North Division.
 [['Year', 'Coach', 'Record'], ['1972', 'Chuck Noll', '11–3'], ['1974', '10–3–1'], ['1975', '12–2'], ['1976', '10–4'], ['1977', '9–5'], ['1978', '14–2'], ['1979', '12–4'], ['1983', '10–6'], ['1984', '9–7'], ['1992', 'Bill Cowher', '11–5'], ['1994', '12–4'], ['1995', '11–5'], ['1996', '10–6'], ['1997', '11–5'], ['2001', '13–3'], ['2002', '10–5–1'], ['2004', '15–1'], ['2007', 'Mike Tomlin', '10–6'], ['2008', '12–4'], ['2010', '12–4'], ['2014', '11–5'], ['2016', '11–5'], ['2017', '13–3'], ['2020', '12–4'], ['Total Division Championships won:', '24']]
@@ -71,8 +89,6 @@ jasujazmudzinski
 
 Title: Rivals
 The Pittsburgh Steelers have three primary rivals, all within their division: ( Cleveland Browns, Baltimore Ravens, and Cincinnati Bengals ). They also have rivalries with other teams that arose from post-season battles in the past, most notably the Las Vegas Raiders, Dallas Cowboys, Denver Broncos, New England Patriots, and Tennessee Titans. They also have an intrastate rivalry with the Philadelphia Eagles, but under the current scheduling the teams play each other only once every four years.
-jasujazmudzinski
-
 Title: Divisional rivals
 Cleveland Browns
 The Steelers and Cleveland Browns have been divisional rivals since the two cities' teams began playing against each other in 1950. After posting a 9–31 record in the first 40 games of the series between the two cities, the Steelers have gone 66–27–1 (including 42–6 in games played in Pittsburgh) since 1970 and currently lead the series 75–58–1; The Steelers have particularly dominated the Browns since their return to the NFL in 1999 and won twelve straight meetings between 2003 and 2009. Additionally, the Browns posted losing streaks of 16 (1970–85) and 15 (2004–present) games in Pittsburgh. Former Steelers head coach Bill Cowher coached the Browns special teams and secondary before following Marty Schottenheimer for a brief tenure as Kansas City Chiefs defensive coordinator and then hired by Pittsburgh. This has only intensified the rivalry. The teams have met three times in the postseason (1994, 2002, and 2021) with the Steelers winning the first two meetings, but losing the most recent in 2021.
@@ -108,8 +124,6 @@ jasujazmudzinski
 Title: Culture
 Title: Mascot
 Prior to the 2007 season, the Steelers introduced Steely McBeam as their official mascot. As part of the 75th anniversary celebrations of the team, his name was selected from a pool of 70,000 suggestions submitted by fans of the team. Diane Roles of Middlesex Township, submitted the winning name which was "meant to represent steel for Pittsburgh's industrial heritage, "Mc" for the Rooney family's Irish roots, and Beam for the steel beams produced in Pittsburgh, as well as for Jim Beam, her husband's favorite alcoholic beverage." Steely McBeam is visible at all home games and participates in the team's charitable programs and other club-sponsored events. Steely's autograph is known to be drawn with an oversized S, and the L is drawn to look like a beam of steel.
-jasujazmudzinski
-
 Title: Fanbase
 The Steelers have a tradition of having a large fanbase, which has spread from Pittsburgh. In August 2008, ESPN.com ranked the Steelers' fans as the best in the NFL, citing their "unbelievable" sellout streak of 299 consecutive games. The team gained a large fan base nationally based on its success in the 1970s, but many consider the collapse of the city's steel industry at the end of the 1970s dynasty into the 1980s (and the resulting diaspora ) to be a large catalyst for the size of the fan base in other cities. The Steelers have sold out every home game since the 1972 season.
 The Pittsburgh Steelers have numerous unofficial fan clubs in many cities throughout the country, that typically meet in bars or taverns on game days. This phenomenon is known to occur for other NFL teams as well, but "Steeler bars" are more visible than most, including representative establishments even in cities that field their own NFL teams.
@@ -118,12 +132,8 @@ jasujazmudzinski
 
 Title: Fight songs
 The Steelers have no official fight song, but many fan versions of "Steelers Polka" (a parody of " Pennsylvania Polka ") by ethnic singer Jimmy Pol, both originating in the 1970s, have been recorded. Since 1994, the song " Here We Go " by local singer Roger Wood has been popular among fans. Since 2002, the 1979 Styx song " Renegade " is played near the end of the third quarter or the start of the fourth quarter at the start of a defensive stand to rally the crowd, featuring a compilation of recent Steelers defensive highlights. Another song from hometown rapper Wiz Khalifa, " Black and Yellow ", which is an ode to growing up in Pittsburgh, is also a standard part of the Steelers home game experience.
-jasujazmudzinski
-
 Title: Cheerleaders
 The Steelers were the first NFL team to have a cheerleading squad, they were known as the Steelerettes. Their run only lasted from 1961 to 1969. To this day, they were the only cheerleaders the team had in their history.
-jasujazmudzinski
-
 Title: Basketball
 During the offseason, the Steelers have long participated in charity basketball games throughout Western Pennsylvania and neighboring areas. The games usually feature six active players as well as their player-coach playing against a group of local civic leaders. The players, whose participants aren't announced until the day of the game, sign free autographs for fans during halftime.
 jasujazmudzinski
@@ -132,8 +142,6 @@ Title: Facilities
 Title: Stadiums
 [['', 'This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. ( June 2017 ) ( Learn how and when to remove this message )']]
 In 2001, the Steelers moved into Heinz Field. The franchise dating back to 1933 has had several homes. For 31 seasons, the Steelers shared Forbes Field with the Pittsburgh Pirates from 1933 to 1963. In 1958, though they started splitting their home games at Pitt Stadium three blocks away at the University of Pittsburgh. From 1964 to 1969, the Steelers played exclusively at the on-campus facility before moving with the Pirates to Three Rivers Stadium on the city's Northside. The team moved to what was then known as Heinz Field in 2001. In February 2022, after Heinz declined to sign a new deal after naming rights expired, the Steelers signed a deal with Acrisure and renamed the stadium to Acrisure Stadium.
-jasujazmudzinski
-
 Title: Training camp
 The Steelers hold training camp east of the city at Saint Vincent College in Latrobe. The site is one of the most storied in the league with Peter King of SI.com describing it as: "... I love the place. It's the perfect training-camp setting, looking out over the rolling hills of the Laurel Highlands in west-central Pennsylvania, an hour east of Pittsburgh. On a misty or foggy morning, standing atop the hill at the college, you feel like you're in Scotland. Classic, wonderful slice of American culture. If you can visit one training camp, this is the one to see."
 The team has its headquarters and practice facilities at the state-of-the-art University of Pittsburgh Medical Center Sportsplex on Pittsburgh's Southside. Constructed in 2000, the facility combines the vast expertise of sports medical professionals and researchers as well as hosting the University of Pittsburgh Panthers football team.
@@ -143,8 +151,6 @@ jasujazmudzinski
 Title: Historical facilities
 The Rooney family has long had a close relationship with Duquesne University in the city and from the teams founding in the 1930s to the late 1990s used Art Rooney Field and other facilities on campus as either its primary or secondary in-season training site as well as Greenlee Field during the 1930s.
 In the 1970s and 1980s, the team had season scrimmages at South Park in the suburban south hills of Pittsburgh. During various seasons including the strike season of 1987, the Steelers used Point Stadium in nearby Johnstown for game week practices. During the 1950s St. Bonaventure University (where Art Rooney's brother Silas was serving as athletic director) and suburban Ligonier also served as a pre-season training camp sites.
-jasujazmudzinski
-
 Title: Statistics
 Title: Players of note
 Title: Current roster
@@ -194,12 +200,8 @@ jasujazmudzinski
 
 Title: NFL MVPs
 [['NFL MVP Winners'], ['Season', 'Player', 'Position'], ['1946', 'Bill Dudley', 'HB'], ['1978', 'Terry Bradshaw', 'QB']]
-jasujazmudzinski
-
 Title: Defensive Player of the Year Awards winners
 [['NFL Defensive Player of the Year'], ['Season', 'Player', 'Position'], ['1972', 'Joe Greene', 'DT'], ['1974'], ['1975', 'Mel Blount', 'CB'], ['1976', 'Jack Lambert', 'LB'], ['1993', 'Rod Woodson', 'DB'], ['2008', 'James Harrison', 'LB'], ['2010', 'Troy Polamalu', 'S'], ['2021', 'T. J. Watt', 'LB']]
-jasujazmudzinski
-
 Title: Rookie of the Year Award winners
 [['NFL Offensive Rookie of the Year', 'Season', 'Player', 'Position', 'NFL Defensive Rookie of the Year', 'Season', 'Player', 'Position'], ['NFL Offensive Rookie of the Year Season Player Position 1972 Franco Harris RB 1984 Louis Lipps WR / RS 2004 Ben Roethlisberger QB', '1972', 'Franco Harris', 'RB', '1984', 'Louis Lipps', 'WR / RS', '2004', 'Ben Roethlisberger', 'QB', 'NFL Defensive Rookie of the Year Season Player Position 1969 Joe Greene DT 1974 Jack Lambert LB 2001 Kendrell Bell LB', '1969', 'Joe Greene', 'DT', '1974', 'Jack Lambert', 'LB', '2001', 'Kendrell Bell', 'LB'], ['NFL Offensive Rookie of the Year'], ['Season', 'Player', 'Position'], ['1972', 'Franco Harris', 'RB'], ['1984', 'Louis Lipps', 'WR / RS'], ['2004', 'Ben Roethlisberger', 'QB'], ['NFL Defensive Rookie of the Year'], ['Season', 'Player', 'Position'], ['1969', 'Joe Greene', 'DT'], ['1974', 'Jack Lambert', 'LB'], ['2001', 'Kendrell Bell', 'LB']]
 [['NFL Offensive Rookie of the Year'], ['Season', 'Player', 'Position'], ['1972', 'Franco Harris', 'RB'], ['1984', 'Louis Lipps', 'WR / RS'], ['2004', 'Ben Roethlisberger', 'QB']]
@@ -209,8 +211,6 @@ jasujazmudzinski
 
 Title: Super Bowl MVPs
 [['Super Bowl MVP winners'], ['Super Bowl', 'Player', 'Position'], ['IX', 'Franco Harris', 'RB'], ['X', 'Lynn Swann', 'WR'], ['XIII', 'Terry Bradshaw', 'QB'], ['XIV'], ['XL', 'Hines Ward', 'WR'], ['XLIII', 'Santonio Holmes', 'WR']]
-jasujazmudzinski
-
 Title: NFL All-Decade Teams
 The following Steelers were named to NFL All-Decade Teams (and 75th and 100th Anniversary All-Time Teams, selected in 1994 and 2019, respectively). Only those who spent time with Pittsburgh during the respective decades are listed. Bold indicates those elected to the Pro Football Hall of Fame.
 [['NFL 1930s All-Decade Team', 'No.', 'Player', 'Position', 'Tenure', 'NFL 1940s All-Decade Team', 'No.', 'Player', 'Position', 'Tenure', 'NFL 1950s All-Decade Team', 'No.', 'Player', 'Position', 'Tenure'], ['NFL 1930s All-Decade Team No. Player Position Tenure 15 Johnny "Blood" McNally HB 1934, 1937–38', '15', 'Johnny "Blood" McNally', 'HB', '1934, 1937–38', 'NFL 1940s All-Decade Team No. Player Position Tenure 35 Bill Dudley HB 1942, 1945–46 76 Bucko Kilroy T 1943 79 Vic Sears T 1943 70 Al Wistert T 1943', '35', 'Bill Dudley', 'HB', '1942, 1945–46', '76', 'Bucko Kilroy', 'T', '1943', '79', 'Vic Sears', 'T', '1943', '70', 'Al Wistert', 'T', '1943', 'NFL 1950s All-Decade Team No. Player Position Tenure 22 Bobby Layne QB 1958–62 70 Ernie Stautner DT 1950–63 80 Jack Butler DB 1951–59', '22', 'Bobby Layne', 'QB', '1958–62', '70', 'Ernie Stautner', 'DT', '1950–63', '80', 'Jack Butler', 'DB', '1951–59', ''], ['NFL 1930s All-Decade Team'], ['No.', 'Player', 'Position', 'Tenure'], ['15', 'Johnny "Blood" McNally', 'HB', '1934, 1937–38'], ['NFL 1940s All-Decade Team'], ['No.', 'Player', 'Position', 'Tenure'], ['35', 'Bill Dudley', 'HB', '1942, 1945–46'], ['76', 'Bucko Kilroy', 'T', '1943'], ['79', 'Vic Sears', 'T', '1943'], ['70', 'Al Wistert', 'T', '1943'], ['NFL 1950s All-Decade Team'], ['No.', 'Player', 'Position', 'Tenure'], ['22', 'Bobby Layne', 'QB', '1958–62'], ['70', 'Ernie Stautner', 'DT', '1950–63'], ['80', 'Jack Butler', 'DB', '1951–59']]
@@ -237,8 +237,6 @@ jasujazmudzinski
 Title: All-time team
 In 2007, in celebration of the franchise's 75th season, the team announced an updated All-Time team of the 33 best players who have ever played for the Steelers. This team supplanted the previous All-Time team of 24 players named as part of the 50th anniversary commemoration in 1982.
 A "Legends team" consisting of the club's best pre-1970s players was released concurrently with the latest All-Time team.
-jasujazmudzinski
-
 Title: Dapper Dan Sportsman of the Year
 [['', 'This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. ( June 2023 ) ( Learn how and when to remove this message )']]
 The regional Dapper Dan Charities has since 1939 named the "Sportsman of the Year" in the Pittsburgh region. 19 Steelers have won the award in 23 events:
@@ -253,8 +251,6 @@ jasujazmudzinski
 
 Title: Coaches
 The Steelers have had 16 coaches through their history. They have cycled through the fewest head coaches in the modern NFL history. Their first coach was Forrest Douds, who coached them to a 3–6–2 record in 1933. Chuck Noll had the longest term as head coach with the Steelers; he is one of only four coaches to coach a single NFL team for 23 years. Hired prior to the 2007 season, the Steelers current coach is Mike Tomlin.
-jasujazmudzinski
-
 Title: Current staff
 [[''], ['', 'Front office Owner/president – Art Rooney II Vice president – Art Rooney Jr. Vice president of player personnel – Dan Rooney Jr. General manager – Omar Khan Assistant general manager – Andy Weidl Director of player scouting – Mark Sadowski Assistant director of player scouting – Max Gruder Director of college scouting – Dan Colbert Director of pro scouting – Sheldon White Director of football administration – Cole Marcoux Director of player development – Darrel Young Head coaches Head coach – Mike Tomlin Offensive coaches Offensive coordinator – Arthur Smith Quarterbacks – Tom Arth Running backs – Eddie Faulkner Wide receivers – Zach Azzanni Tight ends – Alfredo Roberts Offensive line – Pat Meyer Assistant offensive line – Isaac Williams Offensive assistant – Matt Baker Offensive assistant – Mateo Kambui', '', '', 'Defensive coaches Defensive coordinator – Teryl Austin Defensive line – Karl Dunbar Outside linebackers – Denzel Martin Inside linebackers – Scott McCurley Defensive backs – Gerald Alexander Assistant secondary – Anthony Midget Defensive quality control – Jason Brooks Special teams coaches Special teams coordinator – Danny Smith Strength and conditioning Head strength and conditioning – Phil Matusz Assistant strength and conditioning – Justus Galac Senior conditioning coordinator – Garrett Giemont Sports science coordinator – Roderick Moore → Coaching staff → Front office → More NFL staffs']]
 ['v', 't', 'e']
@@ -270,13 +266,9 @@ jasujazmudzinski
 Title: Offensive coordinator history
 Source:
 [['Years', 'Name'], ['2024–present', 'Arthur Smith'], ['2023', 'Eddie Faulkner (interim)'], ['2021–2023', 'Matt Canada'], ['2018–2020', 'Randy Fichtner'], ['2012–2017', 'Todd Haley'], ['2007–2011', 'Bruce Arians'], ['2004–2006', 'Ken Whisenhunt'], ['2001–2003', 'Mike Mularkey'], ['1999–2000', 'Kevin Gilbride'], ['1998', 'Ray Sherman'], ['1996–1997', 'Chan Gailey'], ['1992–1995', 'Ron Erhardt'], ['1990–1991', 'Joe Walton'], ['1983–1989', 'Tom Moore']]
-jasujazmudzinski
-
 Title: Defensive coordinator history
 Source:
 [['Years', 'Name'], ['2022–present', 'Teryl Austin'], ['2015–2021', 'Keith Butler'], ['2004–2014 1995–1996', 'Dick LeBeau'], ['2000–2003', 'Tim Lewis'], ['1997–1999', 'Jim Haslett'], ['1992–1994', 'Dom Capers'], ['1990–1991', 'Dave Brazil'], ['1989', 'Rod Rust'], ['1984–1988', 'Tony Dungy'], ['1979–1983', 'Woody Widenhofer'], ['1978', 'George Perles'], ['1973–1977', 'Bud Carson']]
-jasujazmudzinski
-
 Title: Media
 As of 2006, the Steelers' flagship radio stations were WDVE 102.5 FM and WBGG 970 AM. Both stations are owned by iHeartMedia. Games are also available on 51 radio stations in Pennsylvania, Western Maryland, Ohio, and Northern West Virginia. The announcer is Tunch Ilkin. Craig Wolfley is the sideline reporter. Myron Cope, the longtime color analyst and inventor of the " Terrible Towel ", retired after the 2004 season, and died in 2008. Longtime lead announcer Bill Hillgrove retired after the 2023 season.
 Pre-season games not shown on one of the national broadcasters are seen on CBS O&O KDKA-TV, channel 2; independent sister station WPKD-TV, channel 19; and AT&T SportsNet Pittsburgh. KDKA-TV's Bob Pompeani and former Steelers quarterback Charlie Batch do the announcing for the pre-season games, as well as the two hosting the pre-game program Steelers Kickoff during the regular season prior to the national airing of The NFL Today. Pompeani and former Steelers lineman Chris Hoke also host the Xfinity Xtra Point following the game on days when CBS does not have that week's NFL doubleheader. When CBS has a week's doubleheader, the show airs on WPKD-TV. Coach Mike Tomlin's weekly press conference is shown live on AT&T SportsNet Pittsburgh. Both Batch and Hoke replaced former Steelers lineman Edmund Nelson, who retired from broadcasting in 2015.
@@ -287,12 +279,8 @@ jasujazmudzinski
 Title: Figures with broadcasting résumés
 The Steelers franchise has a rich history of producing well-known sportscasters over the years. The most famous of these is probably Myron Cope, who served as a Steelers radio color commentator for 35 seasons ( 1970 – 2004 ).
 Several former Steelers players have gone on to careers in media after completing their playing careers.
-jasujazmudzinski
-
 Title: Newspaper
 The Steelers Digest is the only official newspaper for the Pittsburgh Steelers. It has been published for 22 years and is currently published by Dolphin/Curtis Publishing in Miami, Florida, which also handles several other publications. The newspaper is very widely acknowledged by Steelers fans. Issues are mailed out to paying subscribers weekly through the season after every regular-season game and continue through playoffs as long as the Steelers do. After a Super Bowl victory, a bonus issue is published, which is followed by a draft preview, draft recap, and training camp edition every other month, then leading into the pre-season. There are typically 24 issues of the paper within a publishing year. The newspaper is listed on the official Steelers.com page.
-jasujazmudzinski
-
 Title: Usage in popular culture
 The Steelers' success over several decades has permeated film and literature. The Steelers are portrayed in the following big-budget Hollywood films:
 ['The January 11, 1975, episode of the Mary Tyler Moore Show featured Super Bowl IX (featuring the Steelers) as a plot device.', 'Black Sunday in 1977', 'Heaven Can Wait in 1978', 'Smokey and the Bandit II in 1980', 'Fighting Back in 1980', 'Hey Kid, Catch! in 1980', '...All the Marbles in 1981', 'Evening Shade (TV series) 1990–1994', 'The Waterboy cameo by Bill Cowher in 1998', 'The Longest Yard in 2005', 'The Chief a theater production.', 'Black and Yellow in 2010.', 'The Dark Knight Rises in 2012 features several Steelers players as the fictional Gotham Rogues, which was filmed in Heinz Field', "Mad Men's April 14, 2013, episode has Don Draper, Pete Campbell and Roger Sterling meeting with two HJ Heinz executives. The executives are told that not only would the ad firm have given them tickets to the Steelers' November 19, 1967, game at the Giants, the firm would have worked it so that the Steelers would have won (they lost 20–28).", 'Concussion in 2015 features players from the team suffering from CTE.']

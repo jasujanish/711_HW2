@@ -1,13 +1,19 @@
+Title: Summary
+
+['April\xa022, 1794; 231 years ago ( 1794-04-22 ) (borough)', 'March\xa018, 1816; 209 years ago ( 1816-03-18 ) (city)']
+['Bobby Wilson', 'Theresa Kail-Smith', 'Robert Charland III', 'Anthony Coghill', 'Barbara Greenwood Warwick', 'Daniel Lavelle (President)', 'Deborah Gross', 'Erika Strassburger', 'Khari Mosley']
+['15122, 15201-15244, 15250-15255, 15257-15262, 15264-15265, 15267-15268, 15270, 15272, 15274-15279, 15281-15283, 15286, 15289-15290, 15295']
+Pittsburgh ( / ˈ p ɪ t s b ɜːr ɡ / PITS -burg ) is a city in Allegheny County, Pennsylvania, United States, and its county seat. The city is located in southwestern Pennsylvania at the confluence of the Allegheny River and Monongahela River, which combine to form the Ohio River. It is the second-most populous city in Pennsylvania with a population of 302,971 at the 2020 census, while the Pittsburgh metropolitan area at over 2.43 million residents is the largest metropolitan area in both the Ohio Valley and Appalachia, the second-largest in Pennsylvania, and 28th-largest in the U.S. The greater Pittsburgh–Weirton–Steubenville combined statistical area includes parts of Ohio and West Virginia.
+Pittsburgh is known as "the Steel City" for its dominant role in the history of the U.S. steel industry. It developed as a vital link of the Atlantic coast and Midwest, as the mineral-rich Allegheny Mountains led to the region being contested by the French and British empires, Virginians, Whiskey Rebels, and Civil War raiders. For part of the 20th century, Pittsburgh was behind only New York City and Chicago in corporate headquarters employment; it had the most U.S. stockholders per capita. Deindustrialization in the late 20th century resulted in massive layoffs among blue-collar workers as steel and other heavy industries declined, coinciding with several Pittsburgh-based corporations moving out of the city. However, the city divested from steel and, since the 1990s, Pittsburgh has focused its energies on the healthcare, education, and technology industries.
+Pittsburgh is home to large medical providers, including the University of Pittsburgh Medical Center and Allegheny Health Network, as well as 68 colleges and universities, including Carnegie Mellon University and the University of Pittsburgh. The area has served as the federal agency headquarters for cyber defense, software engineering, robotics, energy research, and the nuclear navy. The city is home to ten Fortune 500 companies and seven of the largest 300 U.S. law firms. Pittsburgh is sometimes called the "City of Bridges" for its 446 bridges. Its rich industrial history left the area with renowned cultural institutions, including the Carnegie Museums of Pittsburgh, Pittsburgh Zoo & Aquarium, Phipps Conservatory and Botanical Gardens, the National Aviary, and a diverse cultural district. The city's major league professional sports teams include the Pittsburgh Steelers, Pittsburgh Penguins, and Pittsburgh Pirates. Pittsburgh is additionally where Jehovah's Witnesses traces its earliest origins, and was the host of the 2009 G20 Pittsburgh summit.
+jasujazmudzinski
+
 Title: Etymology
 Pittsburgh was named in 1758, by Scottish General John Forbes, in honor of British statesman William Pitt, 1st Earl of Chatham. As Forbes was a Scotsman, he probably pronounced the name / ˈ p ɪ t s b ər ə / PITS -bər-ə (similar to Edinburgh ).
 Pittsburgh was incorporated as a borough on April 22, 1794, with the following Act: "Be it enacted by the Pennsylvania State Senate and Pennsylvania House of Representatives of the Commonwealth of Pennsylvania... by the authority of the same, that the said town of Pittsburgh shall be... erected into a borough, which shall be called the borough of Pittsburgh for ever."
 From 1891 to 1911, the city's name was federally recognized as "Pittsburg", though use of the final h was retained during this period by the city government and other local organizations. After a public campaign, the federal decision to drop the h was reversed. The Pittsburg Press continued spelling the city without an h until 1921.
-jasujazmudzinski
-
 Title: History
 Kingdom of France 1690s–1763 Great Britain 1681–1781 United States 1776–present
-jasujazmudzinski
-
 Title: Native Americans
 The area of the Ohio headwaters was long inhabited by the Shawnee and several other settled groups of Native Americans. Shannopin's Town was an 18th-century Lenape (Delaware) town located roughly from where Penn Avenue is today, below the mouth of Two Mile Run, from 30th Street to 39th Street. According to George Croghan, the town was situated on the south bank of the Allegheny, nearly opposite what is now known as Washington's Landing, formerly Herr's Island, in what is now the Lawrenceville neighborhood.: 289
 jasujazmudzinski
@@ -42,8 +48,6 @@ jasujazmudzinski
 Title: 21st century
 During the late 2000s recession, Pittsburgh was economically strong, adding jobs when most cities were losing them. It was one of the few cities in the United States to see housing property values rise. Between 2006 and 2011, the Pittsburgh metropolitan statistical area (MSA) experienced over 10% appreciation in housing prices, the highest appreciation of the largest 25 metropolitan statistical areas in the United States, with 22 of the largest 25 metropolitan statistical areas experiencing depreciations in housing values.
 In September 2009, the 2009 G20 Pittsburgh summit was held in Pittsburgh.
-jasujazmudzinski
-
 Title: Geography
 Pittsburgh has an area of 58.3 square miles (151 km 2 ), of which 55.6 square miles (144 km 2 ) is land and 2.8 square miles (7.3 km 2 ), or 4.75%, is water. The 80th meridian west passes directly through the city's downtown.
 The city is located on the Allegheny Plateau, within the ecoregion of the Western Allegheny Plateau. The Downtown area (also known as the Golden Triangle) sits where the Allegheny River flows from the northeast and the Monongahela River from the southeast to form the Ohio River. The convergence is at Point State Park and is referred to as "the Point." The city extends east to include the Oakland and Shadyside sections, which are home to the University of Pittsburgh, Carnegie Mellon University, Chatham University, Carnegie Museum and Library, and many other educational, medical, and cultural institutions. The southern, western, and northern areas of the city are primarily residential.
@@ -64,8 +68,6 @@ jasujazmudzinski
 Title: Regional identity
 Pittsburgh falls within the borders of the Northeastern United States as defined by multiple US Government agencies. Pittsburgh is the principal city of the Pittsburgh Combined Statistical Area, a combined statistical area defined by the U.S. Census Bureau.
 Pittsburgh falls within the borders of Appalachia as defined by the Appalachian Regional Commission, and has long been characterized as the "northern urban industrial anchor of Appalachia." In its post-industrial state, Pittsburgh has been characterized as the "Paris of Appalachia", recognizing the city's cultural, educational, healthcare, and technological resources, and is the largest city in Appalachia.
-jasujazmudzinski
-
 Title: Climate
 [['Pittsburgh, Pennsylvania'], ['Climate chart ( explanation )'], ['J F M A M J J A S O N D 2.6 36 21 2.4 39 23 3 49 30 3.1 62 40 4 71 49 4.3 79 58 3.8 83 63 3.5 81 62 3.1 74 54 2.3 63 43 3.2 51 35 2.9 39 25 █ Average max. and min. temperatures in °F █ Precipitation totals in inches', 'J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D', '2.6 36 21', '2.4 39 23', '3 49 30', '3.1 62 40', '4 71 49', '4.3 79 58', '3.8 83 63', '3.5 81 62', '3.1 74 54', '2.3 63 43', '3.2 51 35', '2.9 39 25', '█ Average max. and min. temperatures in °F', '█ Precipitation totals in inches'], ['J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D'], ['2.6 36 21', '2.4 39 23', '3 49 30', '3.1 62 40', '4 71 49', '4.3 79 58', '3.8 83 63', '3.5 81 62', '3.1 74 54', '2.3 63 43', '3.2 51 35', '2.9 39 25'], ['█ Average max. and min. temperatures in °F'], ['█ Precipitation totals in inches'], ['Metric conversion'], ['Metric conversion J F M A M J J A S O N D 66 2 −6 61 4 −5 75 10 −1 79 17 5 100 22 10 109 26 15 97 28 17 88 27 16 79 24 12 58 17 6 82 11 2 72 4 −4 █ Average max. and min. temperatures in °C █ Precipitation totals in mm', 'J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D', '66 2 −6', '61 4 −5', '75 10 −1', '79 17 5', '100 22 10', '109 26 15', '97 28 17', '88 27 16', '79 24 12', '58 17 6', '82 11 2', '72 4 −4', '█ Average max. and min. temperatures in °C', '█ Precipitation totals in mm'], ['Metric conversion'], ['J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D'], ['66 2 −6', '61 4 −5', '75 10 −1', '79 17 5', '100 22 10', '109 26 15', '97 28 17', '88 27 16', '79 24 12', '58 17 6', '82 11 2', '72 4 −4'], ['█ Average max. and min. temperatures in °C'], ['█ Precipitation totals in mm']]
 [['J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D'], ['2.6 36 21', '2.4 39 23', '3 49 30', '3.1 62 40', '4 71 49', '4.3 79 58', '3.8 83 63', '3.5 81 62', '3.1 74 54', '2.3 63 43', '3.2 51 35', '2.9 39 25'], ['█ Average max. and min. temperatures in °F'], ['█ Precipitation totals in inches']]
@@ -102,8 +104,6 @@ Title: Demographic changes
 Since the 1940s, city initiatives for redevelopment have driven demographic changes in Pittsburgh. In the 1950s, the Lower Hill District underwent significant upheaval when 1,551 mostly Black residents and 413 businesses were displaced for the construction of the Civic Arena, which opened in 1961. This project, part of Pittsburgh's revitalization efforts, led to the neighborhood's population dropping to an estimated 12,000 today.
 In the 1960s, the Urban Redevelopment Authority of Pittsburgh (URA) aimed to revitalize East Liberty, resulting in the construction of Penn Center Mall and the displacement of about 3,800 people. By the early 2000s, private developers catering to a wealthier demographic introduced businesses like Home Depot, Whole Foods, and Google. This redevelopment, supported by the URA, transformed East Liberty into a desirable area for millennials.
 These changes have sparked criticism, with some residents arguing that the government's actions were part of a strategy to disperse Black and low-income populations or facilitate gentrification of neighborhoods. The demolition of housing units like the East Mall public housing complex in 2009, replaced by businesses like Target, is cited as evidence of this process.
-jasujazmudzinski
-
 Title: Religion
 [['Religion in Pittsburgh (2014)'], ['Religion', '', 'Percent'], ['Protestantism', '', '42%'], ['Catholicism', '', '32%'], ['Other Christian', '', '3%'], ['No religion', '', '18%'], ['Others', '', '4%'], ["Don't know", '', '1%']]
 According to a 2014 study by the Pew Research Center, 78% of the population of the city identified themselves as Christians, with 42% professing attendance at a variety of churches that could be considered Protestant, and 32% professing Catholic beliefs. 18% claimed no religious affiliation. The same study said that other religions (including Judaism, Buddhism, Islam, and Hinduism) collectively made up about 4% of the population.
@@ -156,8 +156,6 @@ jasujazmudzinski
 Title: Food
 Pittsburgh is known for several specialties including pierogies, kielbasa, chipped chopped ham sandwiches, and Klondike bars. Many restaurants were favorably mentioned, among them were Superior Motors in Braddock, Driftwood Oven in Lawrenceville, Spork in Bloomfield, Fish nor Fowl in Garfield, Bitter Ends Garden & Luncheonette in Bloomfield, and Rolling Pepperoni in Lawrenceville.
 Pittsburgh is home to the annual pickle -themed festival Picklesburgh.
-jasujazmudzinski
-
 Title: Local dialect
 The Pittsburgh English dialect, commonly called Pittsburghese, was influenced by Scots-Irish, German, and Eastern European immigrants and African Americans. Locals who speak the dialect are sometimes referred to as " Yinzers " (from the local word "yinz" [var. yunz ], a blended form of "you ones", similar to "y'all" and "you all" in the South). Common Pittsburghese terms are: "slippy" (slippery), "redd up" (clean up), "jagger bush" (thorn bush), and "gum bands" (rubber bands). The dialect is also notable for dropping the verb "to be". In Pittsburghese one would say "the car needs washed" instead of "needs to be washed", "needs washing", or "needs a wash." The dialect has some tonal similarities to other nearby regional dialects of Erie and Baltimore but is noted for its somewhat staccato rhythms. The staccato qualities of the dialect are thought to originate either from Welsh or other European languages. The many local peculiarities have prompted The New York Times to describe Pittsburgh as "the Galapagos Islands of American dialect". The lexicon itself contains notable loans from Polish and other European languages; examples include babushka, pierogi, and halušky.
 jasujazmudzinski
@@ -166,8 +164,6 @@ Title: Livability
 Pittsburgh has five city parks and several parks managed by the Nature Conservancy. The largest, Frick Park, provides 664 acres (269 ha) of woodland park with extensive hiking and biking trails throughout steep valleys and wooded slopes. Birding enthusiasts visit the Clayton Hill area of Frick Park, where over 100 species of birds have been recorded.
 Residents living in extremely low-lying areas near the rivers or one of the 1,400 creeks and streams may have occasional floods, such as those caused when the remnants of Hurricane Ivan hit rainfall records in 2004. River flooding is relatively rare due to federal flood control efforts extensively managing locks, dams, and reservoirs. Residents living near smaller tributary streams are less protected from occasional flooding. The cost of a comprehensive flood control program for the region has been estimated at a prohibitive $50 billion.
 Pittsburgh has the greatest number of bars per capita in the nation.
-jasujazmudzinski
-
 Title: Sports
 Pittsburgh hosted the first professional football game and the first World Series. College sports also have large followings with the University of Pittsburgh in football and sharing Division I basketball fans with Robert Morris and Duquesne.
 Pittsburgh has a long history with its major professional sports teams—the Steelers of the National Football League, the Penguins of the National Hockey League, and the Pirates of Major League Baseball —which all share the same team colors, the official city colors of black and gold. Pittsburgh is the only city in the United States where this practice of sharing team colors in solidarity takes place. The black-and-gold color scheme has since become widely associated with the city and personified in its famous Terrible Towel. Further, the Pittsburgh Riverhounds professional soccer team of the USL Championship division wear black and gold colors.
@@ -181,8 +177,6 @@ Minor league/other
 [['Team', 'Founded', 'League', 'Sport', 'Venue', 'Championships'], ['Pittsburgh Riverhounds', '1999', 'USL Championship (USLC)', 'Soccer', 'Highmark Stadium', ''], ['Steel City Yellow Jackets', '2014', 'ABA', 'Basketball', 'A Giving Heart Community Center', '1'], ['Pittsburgh Riveters', '2024', 'USL W League (USLW)', 'Soccer', 'Highmark Stadium', '']]
 ['^ The Pirates won championships in 1901, 1902, 1909, 1925, 1960, 1971, and 1979. 1901 and 1902 were Pre World-Series Era Champions.', '^ The Steelers won championships in 1974, 1975, 1978, 1979, 2005, and 2008.', '^ The Penguins won championships in 1991, 1992, 2009, 2016, and 2017.']
 ** Pittsburgh's ABA franchise won the 1968 title, but the Steel City Yellow Jackets franchise is heir to it only in location.
-jasujazmudzinski
-
 Title: College
 Power 5
 [['School', 'Prominent sports', 'Venues', 'Conference', 'National Championships'], ['University of Pittsburgh', 'Pitt Football ( FBS )', 'Acrisure Stadium', 'ACC', '9 [ o 1 ]'], ['Pitt Basketball', 'Petersen Events Center', '1927–28 1929–30']]
@@ -219,8 +213,6 @@ jasujazmudzinski
 
 Title: Soccer
 The Riverhounds, an American professional soccer team, were founded in 1998. Like the major league teams in the city, the Riverhounds wear black and gold kits. The club plays in the Eastern Conference of the USL Championship, the second tier of the American soccer pyramid. The Riverhounds play their home games at Highmark Stadium, a soccer-specific stadium located in Station Square.
-jasujazmudzinski
-
 Title: Golf
 Golf has deep roots in the area. The oldest U.S. course in continuous use, Foxburg Country Club dating from 1887 calls the region home. Suburban Oakmont Country Club holds the record for most times as host for the U.S. Open at nine; it has also hosted the U.S. Women's Open, PGA Championships, and U.S. Amateurs.
 Golf legends Arnold Palmer, Jim Furyk, and Rocco Mediate learned the game and began their careers on Pittsburgh area courses. Suburban courses such as Laurel Valley Golf Club and the Fox Chapel Golf Club have hosted PGA Championships (1937, 1965), the Ryder Cup (1975), LPGA Championships (1957–58), Senior Players Championships (2012–14), and the Senior PGA Championship (2005).
@@ -231,8 +223,6 @@ jasujazmudzinski
 Title: Professional wrestling
 Many notable professional wrestlers and promoters have hailed from the city or started their careers in Pittsburgh, including Bruno Sammartino, Kurt Angle, Shane Douglas, Corey Graves, Dominic DeNucci, Elias, Britt Baker and many more.
 The Fineview section of Pittsburgh served as the base of the televised show Studio Wrestling during the 1960s. The Keystone State Wrestling Alliance (KSWA) is a professional wrestling promotion which was founded in Pittsburgh in 2000. It is the only promotion based in Pittsburgh. It operates in the city's Lawrenceville neighborhood. The KSWA performs Monthly on Saturdays at its main venue on 51st Street.
-jasujazmudzinski
-
 Title: Annual sporting events
 Pittsburgh hosts several annual major sporting events initiated in the late 20th century, including the:
 ['Three Rivers Regatta (since 1977)', 'Pittsburgh Vintage Grand Prix (since 1983)', 'Dirty Dozen Cycle Race (since 1983)', 'Pittsburgh Marathon (since 1985)', 'Great Race 10K (since 1985)', 'Head of the Ohio Regatta (since 1987)']
@@ -244,8 +234,6 @@ Title: Government and politics
 Title: Government
 The Government of Pittsburgh is composed of the Mayor of Pittsburgh, the Pittsburgh City Council, and various boards and commissions. The mayor and the nine-member council each serve four-year terms. Since the 1950s the Mayor's Chief of Staff has assumed a large role in advising, long term planning, and as a "gatekeeper" to the mayor. City council members are chosen by plurality elections in each of nine districts. The government's official offices are in the Pittsburgh City-County Building.
 The Pennsylvania Supreme Court holds sessions in Pittsburgh, as well as Harrisburg and Philadelphia. Pittsburgh is represented in the Pennsylvania General Assembly by three Senate Districts and nine House Districts. Federally, Pittsburgh is part of Pennsylvania's 12th congressional district.
-jasujazmudzinski
-
 Title: Politics
 In 2006, Council President Luke Ravenstahl was sworn in as mayor at age 26, becoming the youngest mayor in the history of any major American city. His successor, Bill Peduto, was sworn in on January 6, 2014. In November 2021, Pittsburgh elected its first African-American mayor, Ed Gainey.
 Prior to the American Civil War, Pittsburgh was strongly abolitionist. It is considered the birthplace of the national Republican Party, as the party held its first convention here in February 1856. From the Civil War to the 1930s, Pittsburgh was a Republican stronghold. The effects of the Great Depression, combined with entrenched local GOP scandals, resulted in a shift among voters to the Democratic Party. With the exceptions of the 1973 and 1977 elections (where lifelong Democrats ran off the party ticket), Democrats have been elected consecutively to the mayor's office since the 1933 election. The city's ratio of party registration is 5 to 1 Democrat.
@@ -256,8 +244,6 @@ jasujazmudzinski
 Title: Law enforcement
 The area's largest law enforcement agency is the Pittsburgh Bureau of Police, with close to 850 sworn officers. The city also has separate housing and school police departments. Other agencies also provide police protection within the city because of overlapping jurisdictional boundaries. The Allegheny County Sheriff focuses on jail and courthouse security. The Allegheny County Police primarily patrols county-owned parks and airports, while providing detective/investigatory functions for smaller suburbs and the Port Authority police patrols rapid transit. Pennsylvania State Police Troop B provides patrols for the city and immediate suburbs.
 The county's lead law enforcement officer is Allegheny County District Attorney Stephen Zappala while the Allegheny County Medical Examiner heads forensics. Crimes of a federal nature are covered by the U.S. Attorney for Western Pennsylvania.
-jasujazmudzinski
-
 Title: Crime
 Pittsburgh annually ranks as one of America's safest big cities, in 2013 being named the 3rd "most secure" big city by Farmers Insurance. Among crime rates of the 60 largest U.S. cities, 43 had more instances of property crime while 16 had less when compared to Pittsburgh. More instances of violent crime were reported in 21 of the largest cities while 37 had less. The FBI recommends against using data for ranking. Per 100,000 persons stats (2012):
 [['', 'Murder', 'Rape', 'Robbery', 'Assault', 'Burglary', 'Theft', 'Motor vehicle', 'Total violent', 'Total property'], ['City', '13.1', '15.1', '363.3', '360.4', '812.8', '2,438.2', '174.3', '752.0', '3,425.4']]
@@ -284,8 +270,6 @@ jasujazmudzinski
 Title: Media
 Title: Newspapers
 There are two major daily newspapers in Pittsburgh: the Pittsburgh Post-Gazette and the Pittsburgh Tribune-Review online only (no longer in print for Pittsburgh Area). Weekly papers in the region include the Pittsburgh Business Times, Pittsburgh City Paper, Pittsburgh Catholic, Pittsburgh Jewish Chronicle, The New People, and the New Pittsburgh Courier. Independent student-written university-based newspapers include The Pitt News of the University of Pittsburgh, The Tartan of Carnegie Mellon University, The Duquesne Duke of Duquesne University, and The Globe of Point Park University. The University of Pittsburgh School of Law is also home to JURIST, the world's only university-based legal news service.
-jasujazmudzinski
-
 Title: Television
 The Pittsburgh metro area is served by multiple local television and radio stations. The Pittsburgh designated market area (DMA) is the 22nd-largest in the U.S. with 1,163,150 homes (1.045% of the total U.S.). The major network television stations include KDKA-TV 2 ( CBS ), WTAE 4 ( ABC ), WPXI 11 ( NBC ), WINP-TV 16 ( Ion ), WPKD-TV 19 ( Independent ), WPNT 22 ( The CW / MyNetworkTV ), WPCB 40 ( Cornerstone ), and WPGH-TV 53 ( Fox ). KDKA-TV, WINP-TV, and WPCB are owned-and-operated by their respective networks.
 WQED 13 is the local PBS member station in Pittsburgh. It was established on April 1, 1954, and was the first community-sponsored television station and the fifth public station in the United States. The station has produced much original content for PBS, including Mr. Rogers' Neighborhood, several National Geographic specials, and Where in the World is Carmen Sandiego?
@@ -293,8 +277,6 @@ jasujazmudzinski
 
 Title: Radio
 A wide variety of radio stations serve the Pittsburgh market. The first was KDKA 1020 AM, also the world's first commercially licensed radio station, which began airing on November 2, 1920. Other stations include KQV 1410 AM ( news ), WBGG 970 AM ( sports ), KDKA-FM 93.7 FM (sports), WKST-FM 96.1 FM ( Top 40 ), WAMO-AM 660 AM and 107.3 FM ( urban contemporary ) WBZZ 100.7 FM ( adult contemporary ), WDVE 102.5 FM ( album rock ), WPGB 104.7 FM (Country), and WXDX 105.9 FM ( modern rock ). There are also three public radio stations in the area: WESA 90.5 FM ( National Public Radio affiliate), WQED 89.3 FM (classical), and WYEP 91.3 FM ( adult alternative ). Three non-commercial stations are run by Carnegie Mellon University ( WRCT 88.3 FM), the University of Pittsburgh ( WPTS 92.1 FM), and Point Park University ( WPPJ 670 AM).
-jasujazmudzinski
-
 Title: Film
 Pittsburgh's 116-year-old film industry accelerated after the 2006 passage of the Pennsylvania Film Production Tax Credit. According to the Pittsburgh Film Office, over 124 major motion pictures have been filmed, in whole or in part, in Pittsburgh, including The Mothman Prophecies, Wonder Boys, Dogma, Hoffa, The Silence of the Lambs, Sudden Death, Flashdance, Southpaw, Striking Distance, Mrs. Soffel, Jack Reacher, Inspector Gadget, The Next Three Days, The Perks of Being a Wallflower, Zack and Miri Make a Porno, and Fences. Pittsburgh became "Gotham City" in 2011 during filming of The Dark Knight Rises. George A. Romero shot nearly all his films in the area, including his Living Dead series. From 2017 to 2023, Pittsburgh welcomed a series of major film and television productions like Fences, Mindhunter, Ma Rainey's Black Bottom, Sweet Girl, and I'm Your Woman, significantly contributing to the local economy.
 Film production in Pittsburgh has notably impacted the region's economy and job creation, largely due to the 25% tax credit incentive established in 2007. The Pittsburgh Film Office states that the film and television industry provides employment to over 10,000 people and pays over $500 million in wages in southwestern Pennsylvania. Furthermore, the industry supports over 345,000 local businesses and contributes over $41 billion to them.
@@ -304,8 +286,6 @@ jasujazmudzinski
 
 Title: Utilities
 The city is served by Duquesne Light, one of the original 1912 power companies founded by George Westinghouse. Water service is provided by the Pittsburgh Water and Sewer Authority and Pennsylvania American Water. Natural gas is provided by Equitable Gas, Columbia Gas, Dominion Resources, Direct Energy, and Novec.
-jasujazmudzinski
-
 Title: Health care
 The two largest area health care providers are the University of Pittsburgh Medical Center (UPMC) (since 1893) and Allegheny Health Network (since 1882).
 The first military hospital in U.S. history and the first west of the Atlantic Plain—General Edward Hand Hospital—served the area from 1777 to 1845. Since 1847, Pittsburgh has hosted the world's first "Mercy Hospital". This was followed by West Penn hospital in 1848, Passavant Hospital in 1849, the University of Pittsburgh School of Medicine in 1883, Children's Hospital in 1887, and Magee Womens Hospital in 1911. In 1954, Allegheny General (AGH) was among the first to administer Cobalt therapy.
@@ -318,16 +298,12 @@ Title: Health discoveries
 While he was a professor at the University of Pittsburgh, American virologist Jonas Salk developed one of the first successful polio vaccines, which came into use in 1955.
 UPMC has pioneered several world firsts including the first known cystic fibrosis heart-lung transplant (1983), the world's first simultaneous liver and heart transplant operation on a child (6-year-old Stormie Jones in 1984), the youngest heart-lung transplant (9 years old in 1985), the world's first heart-liver-kidney transplant (1989), the world's first heart-liver transplant on an infant (1997), the first pediatric heart-double lung-liver transplant (1998), the nation's first double hand transplant (2009), and the first total forearm and hand transplant (2010), as well as the state's first heart transplant (1968).
 The Lancet published a 2012 UPMC study of two 9-year quadriplegics being able to move a robotic arm by thought, to pick up objects, shake hands, and even eat. Wiring the brain around spine damage to restore arm and leg muscle function was successful using robotic arms controlled via an embedded computer to translate signals near a small group of neurons with 200 needles.
-jasujazmudzinski
-
 Title: Transportation
 Pittsburgh is a city of bridges. With 446, it has three bridges more than Venice, Italy, which has historically held the title "City of Bridges". Around 40 bridges cross the three rivers near the city. The Smithfield Street Bridge was the world's first lenticular truss bridge. The city's Three Sisters Bridges offer a picturesque view of the city from the North. The southwestern "entrance" to Downtown for travelers coming in from Interstate 79 and the Pittsburgh International Airport is through the Fort Pitt Tunnel and over the Fort Pitt Bridge. The Fort Duquesne Bridge carrying Interstate 279 is the main gateway from Downtown to both PNC Park, Acrisure Stadium and the Rivers Casino. The Panhandle Bridge carries Pittsburgh Regional Transit's Blue/Red/Silver subway lines across the Monongahela River. The renovated J&L Steel Company bridge has been a key traffic/running-biking trail conduit connecting the Southside Works and Pittsburgh Technology Center. Over 2,000 bridges span the landscape of Allegheny County.
 jasujazmudzinski
 
 Title: Public transportation statistics
 Pittsburgh is served by Pittsburgh Regional Transit, the 26th-largest transit agency in the country prior to the COVID-19 pandemic. The average amount of time people spend commuting with public transit in Pittsburgh, for example to and from work, on a weekday is 73 minutes, while 23% of public transit riders ride for more than two hours every day. The average amount of time people wait at a stop or station for public transit is 17 minutes, while 33% of riders wait for over 20 minutes on average every day. The average distance people usually ride in a single trip with public transit is 3.9 mi (6.3 km), while 11% travel for over 7.5 mi (12 km) in a single direction.
-jasujazmudzinski
-
 Title: Expressways and highways
 [['Expressways', 'Other Highways'], ['', 'Parkway North', '', 'US 19', 'PA 88'], ['', 'Parkway East & West', '', 'Truck US 19', 'PA 121'], ['', 'Crosstown', '', 'PA 8', 'PA 130'], ['', 'Allegheny Valley Expressway', '', 'PA 50', 'PA 380'], ['', 'Ohio River Boulevard', '', 'PA 51', 'PA 837'], ['', '', '', 'PA 60', 'PA 885']]
 Locals refer to the interstates fanning out from downtown Pittsburgh as the "parkways." Interstate 376 is both the "parkway east" connecting to Interstate 76 ( Pennsylvania Turnpike ) and the "parkway west" connecting to Interstate 79, the Pittsburgh International Airport, the Ohio end of the Turnpike and Interstate 80. The "parkway north" is Interstate 279 connecting to I-79. The "crosstown" is Interstate 579 allowing access to the heart of downtown, the Liberty Tunnels and the PPG Paints Arena. The 45-mile-long and 70-mile-long expressway sections of Pennsylvania Route 28 and U.S. Route 22 also carry traffic from downtown to the northeast and western suburbs, respectively. Interstate 70, 79 and 76 (the Turnpike) roughly form a triangular-shaped "beltway" with Interstate 68 and 80 within the media market's northern and southern limits. Turnpike spurs such as the Mon–Fayette Expressway, Pennsylvania Route 576 and Route 66 also help traffic flow. The non-expressway Pittsburgh/Allegheny County Belt System serves navigation in the region.
@@ -336,14 +312,10 @@ jasujazmudzinski
 Title: Airports
 Pittsburgh International Airport provides commercial passenger service from over 15 airlines to the Pittsburgh metropolitan area. Arnold Palmer Regional Airport also provides limited commercial passenger service and is 44 miles (71 km) east of Pittsburgh.
 Other airports that have or have had scheduled commercial service include Morgantown Municipal Airport (79 miles (127 km) south of Pittsburgh), Youngstown–Warren Regional Airport (81 miles (130 km) northwest of Pittsburgh), Akron–Canton Airport (120 miles (190 km) northwest of Pittsburgh), Johnstown–Cambria County Airport (60 miles (97 km) east of Pittsburgh) and Erie International Airport (123 miles (198 km) north of Pittsburgh).
-jasujazmudzinski
-
 Title: Intercity passenger rail and bus
 Amtrak provides intercity rail service to Pittsburgh Union Station, via the Capitol Limited between Chicago and Washington, D.C., and the Pennsylvanian to New York City.
 Megabus, Greyhound Lines, and Fullington Trailways connect Pittsburgh with distant cities by bus; Greyhound and Fullington Trailways buses stop at the Grant Street Transportation Center intercity bus terminal. Popular destinations include Philadelphia, New York City, and Washington, D.C.
 Until declines in passenger travel in the 1950s and 1960s, several stations served Pittsburgh: Baltimore & Ohio Station, Pittsburgh & Lake Erie Railroad Station, Wabash Pittsburgh Terminal and Pittsburgh Union Station.
-jasujazmudzinski
-
 Title: Regional mass transit
 Pittsburgh Regional Transit, formerly known as the Port Authority of Allegheny County, is the region's mass transit system. While serving only a portion of the Pittsburgh area, the nation's 20th-largest metropolitan area, it is the 11th-largest transit agency in the United States. Pittsburgh Regional Transit runs a network of intracity and intercity bus routes, the Monongahela Incline Funicular railway (more commonly known as an "incline") on Mount Washington, a light rail system that runs mostly above-ground in the suburbs and underground as a subway in the city, and one of the nation's largest busway systems. Pittsburgh Regional Transit owns the Duquesne Incline but it is operated by a non-profit preservation trust, but accepts Pittsburgh Regional Transit passes and charges PRT fares.
 The Bus System lines are labeled by number and letter. These are the largest portion of Pittsburgh Regional Transit and serve on streets and designated busways. Buses serve most of the county, extending as far as Pittsburgh International Airport, Monroeville, McCandless, and the borders of Westmoreland County and Beaver County, Pennsylvania. Meanwhile, the light rail system (commonly known as the "T") runs along both new tracks and those refurbished from the streetcar era. The light rail runs from Acrisure Stadium to South Hills Village and Library, taking commuters through one of two routes: one which serves Castle Shannon, Mt. Lebanon, and Beechview, and the other is an express line using railways through Overbrook.
@@ -352,15 +324,13 @@ jasujazmudzinski
 Title: Freight rail
 Pittsburgh's rail industry dates to 1851 when the Pennsylvania Railroad first opened service between the Pittsburgh and Philadelphia. The Baltimore and Ohio Railroad entered the city in 1871. In 1865, Andrew Carnegie opened the Pittsburgh Locomotive and Car Works, which manufactured for the industry until 1919. Carnegie also founded the Union Railroad in 1894 for heavy freight services and it still serves the area's steel industry, while George Westinghouse 's Wabtec has been a leader in rail engines and switching since 1869.
 Pittsburgh is home to one of Norfolk Southern Railway 's busiest freight corridors, the Pittsburgh Line, and operates up to 70 trains per day through the city. The suburban Conway Rail Yard, built in 1889, was the largest freight rail center in the world from 1956 until 1980 and is today the nation's second-largest. CSX, the other major freight railroad in the eastern U.S., also has major operations around Pittsburgh.
-jasujazmudzinski
-
 Title: Port
 The Port of Pittsburgh ranks as the 20th-largest port in the United States with almost 34 million short tons of river cargo for 2011. The port ranked ninth-largest in the U.S. when measured in domestic trade.
-jasujazmudzinski
-
 Title: Notable people
 Title: Sister cities
 Pittsburgh's sister cities are:
 ['Bilbao, Spain', 'Da Nang, Vietnam', 'Fernando de la Mora, Paraguay', 'Gaziantep, Turkey', 'Glasgow, Scotland', 'Karmiel, Israel', 'Matanzas, Cuba', 'Misgav, Israel', 'Naucalpan, Mexico', 'Ostrava, Czech Republic', 'Prešov, Slovakia', 'Saarbrücken, Germany', 'Saitama, Japan', 'San Isidro, Nicaragua', 'Sheffield, England', 'Skopje, North Macedonia', 'Sofia, Bulgaria', 'Wuhan, China', 'Zagreb, Croatia']
+jasujazmudzinski
+
 jasujazmudzinski
 
