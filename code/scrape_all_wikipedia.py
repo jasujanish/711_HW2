@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup, Tag
 import re
 import os
 
-urls = ["https://en.wikipedia.org/wiki/List_of_Carnegie_Mellon_University_people", "https://en.wikipedia.org/wiki/Carnegie_Mellon_University", "https://en.wikipedia.org/wiki/Carnegie_Mellon_College_of_Fine_Arts", "https://en.wikipedia.org/wiki/Carnegie_Mellon_CyLab", "https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Art", "https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Computer_Science", "https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Drama", "https://en.wikipedia.org/wiki/Carnegie_Mellon_University_Computational_Biology_Department", "https://en.wikipedia.org/wiki/Carnegie_Mellon_University_Usable_Privacy_and_Security_Laboratory", "https://en.wikipedia.org/wiki/Carnegie_Mellon_University,_Australia", "https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Design", "https://en.wikipedia.org/wiki/Dietrich_College_of_Humanities_and_Social_Sciences", "https://en.wikipedia.org/wiki/Heinz_College", "https://en.wikipedia.org/wiki/Human%E2%80%93Computer_Interaction_Institute", "https://en.wikipedia.org/wiki/Information_Networking_Institute", "https://en.wikipedia.org/wiki/Integrated_Innovation_Institute", "https://en.wikipedia.org/wiki/Language_Technologies_Institute", "https://en.wikipedia.org/wiki/Margaret_Morrison_Carnegie_College", "https://en.wikipedia.org/wiki/Mellon_College_of_Science", "https://en.wikipedia.org/wiki/Mellon_Institute_of_Industrial_Research", "https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Music", "https://en.wikipedia.org/wiki/Pittsburgh_Science_of_Learning_Center", "https://en.wikipedia.org/wiki/Robotics_Institute", "https://en.wikipedia.org/wiki/Social_and_Decision_Sciences_(Carnegie_Mellon_University)", "https://en.wikipedia.org/wiki/Swartz_Center_for_Entrepreneurship", "https://en.wikipedia.org/wiki/Tepper_School_of_Business", "https://en.wikipedia.org/wiki/Pittsburgh_Pirates", "https://en.wikipedia.org/wiki/Pittsburgh_Steelers", "https://en.wikipedia.org/wiki/Pittsburgh_Penguins", "https://en.wikipedia.org/wiki/History_of_Pittsburgh", "https://en.wikipedia.org/wiki/Pittsburgh", "https://en.wikipedia.org/wiki/Government_of_Pittsburgh", "https://en.wikipedia.org/wiki/Culture_of_Pittsburgh"]
+urls = ["https://en.wikipedia.org/wiki/List_of_Carnegie_Mellon_University_people", "https://en.wikipedia.org/wiki/Carnegie_Mellon_University", "https://en.wikipedia.org/wiki/Carnegie_Mellon_College_of_Fine_Arts", "https://en.wikipedia.org/wiki/Carnegie_Mellon_CyLab", "https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Art", "https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Computer_Science", "https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Drama", "https://en.wikipedia.org/wiki/Carnegie_Mellon_University_Computational_Biology_Department", "https://en.wikipedia.org/wiki/Carnegie_Mellon_University_Usable_Privacy_and_Security_Laboratory", "https://en.wikipedia.org/wiki/Carnegie_Mellon_University,_Australia", "https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Design", "https://en.wikipedia.org/wiki/Dietrich_College_of_Humanities_and_Social_Sciences", "https://en.wikipedia.org/wiki/Heinz_College", "https://en.wikipedia.org/wiki/Human%E2%80%93Computer_Interaction_Institute", "https://en.wikipedia.org/wiki/Information_Networking_Institute", "https://en.wikipedia.org/wiki/Integrated_Innovation_Institute", "https://en.wikipedia.org/wiki/Language_Technologies_Institute", "https://en.wikipedia.org/wiki/Margaret_Morrison_Carnegie_College", "https://en.wikipedia.org/wiki/Mellon_College_of_Science", "https://en.wikipedia.org/wiki/Mellon_Institute_of_Industrial_Research", "https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Music", "https://en.wikipedia.org/wiki/Pittsburgh_Science_of_Learning_Center", "https://en.wikipedia.org/wiki/Robotics_Institute", "https://en.wikipedia.org/wiki/Social_and_Decision_Sciences_(Carnegie_Mellon_University)", "https://en.wikipedia.org/wiki/Swartz_Center_for_Entrepreneurship", "https://en.wikipedia.org/wiki/Tepper_School_of_Business", "https://en.wikipedia.org/wiki/Pittsburgh_Pirates", "https://en.wikipedia.org/wiki/Pittsburgh_Steelers", "https://en.wikipedia.org/wiki/Pittsburgh_Penguins", "https://en.wikipedia.org/wiki/History_of_Pittsburgh", "https://en.wikipedia.org/wiki/Pittsburgh", "https://en.wikipedia.org/wiki/Government_of_Pittsburgh", "https://en.wikipedia.org/wiki/Culture_of_Pittsburgh", "https://en.wikipedia.org/wiki/The_Andy_Warhol_Museum", "https://en.wikipedia.org/wiki/Carnegie_Museum_of_Art", "https://en.wikipedia.org/wiki/Carnegie_Museum_of_Natural_History", "https://en.wikipedia.org/wiki/Carnegie_Science_Center", "https://en.wikipedia.org/wiki/Heinz_History_Center", "https://en.wikipedia.org/wiki/The_Frick_Pittsburgh", "https://en.wikipedia.org/wiki/Pittsburgh_Symphony_Orchestra", "https://en.wikipedia.org/wiki/Pittsburgh_Opera", "https://en.wikipedia.org/wiki/Pittsburgh_Cultural_Trust", "https://en.wikipedia.org/wiki/Picklesburgh"]
 def download_pages():
     Headers = {"User-Agent": "HW_Project/1.0 (+https://github.com/njasuja/11711_HW2; njasuja@andrew.cmu.edu)"}
     for i in range(len(urls)):
@@ -142,9 +142,9 @@ def parse_sections(soup, min_chunk):
         })
     return sections
 
-num_pages = 33
+num_pages = 43
 chunk_min = 200
-to_download = False
+to_download = True
 dir = "wikipedia_inputs"
 if to_download:
     num_pages = download_pages()+1
@@ -161,7 +161,7 @@ for i in range(len(files)):
         response = f.read()
     curr_soup = BeautifulSoup(response, 'html.parser')
     main_text = parse_sections(curr_soup, chunk_min)
-    with open(f"wikipedia_outputs/wikipedia{i}.txt", "w", encoding="utf-8") as f:
+    with open(f"text_outputs/wikipedia{i}.txt", "w", encoding="utf-8") as f:
         for sect in main_text:
             if(sect['heading'] == "jasujazmudzinski"):
                 f.write("jasujazmudzinski\n\n")
