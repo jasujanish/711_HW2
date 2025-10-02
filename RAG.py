@@ -147,6 +147,12 @@ def min_max_normalize(results):
     norm_scores = (scores-min_s) / (max_s - min_s)
     return [(doc, score) for (doc, _), score in zip(results, norm_scores)]
 
+def max_normalize(results):
+    scores = np.array([score for _, score in results], dtype=float)
+    max_s = scores.max()
+    norm_scores = scores / max_s
+    return [(doc, score) for (doc, _), score in zip(results, norm_scores)]
+
 def z_score_normalize(results):
     scores = np.array([score for _, score in results], dtype=float)
     mean_s = np.mean(scores)
@@ -159,4 +165,114 @@ def rank_based_normalize(results):
     ranks = np.argsort(np.argsort(scores))
     norm_scores = 1 - (ranks / (len(scores) - 1))
     return [(doc, score) for (doc, _), score in zip(results, norm_scores)]
+
+#hybrid that normalizes first, we can esperiment with the noramlizer
+def weighted_avgerage_hybrid(query: str, top_k: int = 5, alpha: float = 0.5, dense_normalizer: str = "min-max", sparse_normalizer: str = "min-max"):
+    dense_results = faiss_retrieve(query, k=top_k)
+    sparse_results = BM25_rank_retrive(query, k=top_k)
+
+    normalizers = {"min-max": min_max_normalize, "z-score": z_score_normalize, "rank": rank_based_normalize, "max": max_normalize}
+
+    dense_results = normalizers[dense_normalizer](dense_results)
+    sparse_results = normalizers[sparse_normalizer](sparse_results)
+
+    all_docs = list(set([d for d, _ in dense_results] + [d for d, _ in sparse_results]))
+    doc_idx = {doc: i for i, doc in enumerate(all_docs)}
+    scores_dense = np.zeros(len(all_docs))
+    scores_sparse = np.zeros(len(all_docs))
+
+    for doc, score in dense_results:
+        scores_dense[doc_idx[doc]] = score
+    for doc, score in sparse_results:
+        scores_sparse[doc_idx[doc]] = score
+    combined_scores = alpha * scores_dense + (1 - alpha) * scores_sparse
+    top_indices = np.argsort(combined_scores)[::-1][:top_k]
+    return [(all_docs[i], combined_scores[i]) for i in top_indices]
+
+#dont forget to take a deep breath is kind of a meme, we can remove it and see performance without it
+def generate_with_context(query: str, context_chunks: List[str], max_new_tokens: int = 100) -> str:
+    context = "\n".join([f" - {chunk}" for chunk in context_chunks])
+
+    messages = [
+        {
+            "role": "system",
+            "content": "You are a very helpful assistant answering questions about Pittsburgh and Carnegie Mellon University (CMU). Use only the provided context to answer questions. Be concise and accurate. Only generate your answer."
+        },
+        {
+            "role": "user",
+            "content": f"""Here is some context about Pittsburgh and CMU: {context}
+            Based on this context, please answer the following question. Don't forget to take a deep breath: {query}"""
+        }
+    ]
+    prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generation_prompt=True, enable_thinking=False)
+    inputs = tokenizer(prompt, return_tensors="pt")
+
+    with torch.no_grad():
+        outputs = lm_model.generate(
+            **inputs,
+            max_new_tokens=max_new_tokens,
+            temperature=0.1
+            top_p=0.95
+            do_sample=True
+            pad_token_id=tokenizer.eos_token_id
+        )
+
+        response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+
+        try:
+            answer.split("<|im_start|>assistant")[-1].split("</think>")[-1].strip()
+        except IndexError:
+            parts = response.split(query)
+            answer = parts[-1].strip() if len(parts) > 1 else response
+
+        return answer
+
+
+def generate_without_context(query: str, max_new_tokens: int = 100) -> str:
+    messages = [
+        {
+            "role": "system",
+            "content": "You are a very helpful assistant answering questions about Pittsburgh and Carnegie Mellon University (CMU). Be concise and accurate. Only generate your answer."
+        },
+        {
+            "role": "user",
+            "content":  f"""please answer the following question. Don't forget to take a deep breath: {query}"""
+        }
+    ]
+    prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generation_prompt=True, enable_thinking=False)
+    inputs = tokenizer(prompt, return_tensors="pt")
+
+    with torch.no_grad():
+        outputs = lm_model.generate(
+            **inputs,
+            max_new_tokens=max_new_tokens,
+            temperature=0.1
+            top_p=0.95
+            do_sample=True
+            pad_token_id=tokenizer.eos_token_id
+        )
+
+        response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+
+        try:
+            answer.split("<|im_start|>assistant")[-1].split("</think>")[-1].strip()
+        except IndexError:
+            parts = response.split(query)
+            answer = parts[-1].strip() if len(parts) > 1 else response
+
+        return answer
+
+def rag(query: str, k: int = 3) -> str:
+    #hybrid can take the additional arguements  alpha: float dense_normalizer: str sparse_normalizer: str
+    results = weighted_avgerage_hybrid(query, top_k=k)
+    context_chunks = [chunk for chunk, _ in results]
+    answer = generate_with_context(query, context_chunks)
+    return answer, results
+
+def non_rag(query: str) -> str:
+    answer = generate_without_context(query)
+    return answer
+
+
+
 

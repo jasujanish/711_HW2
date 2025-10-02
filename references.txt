@@ -9,3 +9,5 @@
 }
 #BM-25Rank Documentation
 https://pypi.org/project/rank-bm25/
+#normalizer and hybrid Documentation
+https://arxiv.org/html/2410.20381v1
