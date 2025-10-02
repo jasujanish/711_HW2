@@ -9,10 +9,6 @@ html_content = response.text
 with open("britannica_pittsburgh_history.html", "w", encoding="utf-8") as f:
     f.write(html_content)
 '''
-with open("britannica_pittsburgh_history.html", "r", encoding="utf-8") as f:
-    response = f.read()
-soup = BeautifulSoup(response, 'html.parser')
-
 
 def parse_sections(soup):
     sections = []
@@ -39,6 +35,9 @@ def parse_sections(soup):
             })
     return sections
 
+with open("britannica_pittsburgh_history.html", "r", encoding="utf-8") as f:
+    response = f.read()
+soup = BeautifulSoup(response, 'html.parser')
 main_text = parse_sections(soup)
 with open("pittsburgh_history_britannica.txt", "w", encoding="utf-8") as f:
     for sect in main_text:

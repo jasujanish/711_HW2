@@ -1,0 +1,1200 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+                                
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="mobile-web-app-capable" content="yes" />
+
+        <meta name="theme-color" content="#000000" />
+
+                                                        <style>/*! modern-normalize v0.6.0 | MIT License | https://github.com/sindresorhus/modern-normalize */:root{-moz-tab-size:4;-o-tab-size:4;tab-size:4}html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}hr{height:0}abbr[title]{-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;font-size:1em}sub,sup{position:relative;vertical-align:baseline;font-size:75%;line-height:0}sub{bottom:-.25em}sup{top:-.5em}button,input,optgroup,select,textarea{margin:0;font-family:inherit;font-size:100%;line-height:1.15}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{padding:0;border-style:none}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{padding:0}progress{vertical-align:baseline}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}[hidden]{display:none!important}@-webkit-keyframes fadein{0%{opacity:0}to{opacity:1}}@keyframes fadein{0%{opacity:0}to{opacity:1}}@-webkit-keyframes faderight{0%{opacity:0;-webkit-transform:translateX(-100px);transform:translateX(-100px)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes faderight{0%{opacity:0;-webkit-transform:translateX(-100px);transform:translateX(-100px)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-webkit-keyframes fadeleft{0%{opacity:0;-webkit-transform:translateX(100px);transform:translateX(100px)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes fadeleft{0%{opacity:0;-webkit-transform:translateX(100px);transform:translateX(100px)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-webkit-keyframes fadeup{0%{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes fadeup{0%{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes fadenavprimary{0%{opacity:0;-webkit-transform:translateX(-50px);transform:translateX(-50px)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes fadenavprimary{0%{opacity:0;-webkit-transform:translateX(-50px);transform:translateX(-50px)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-webkit-keyframes fadenavsecondary{0%{opacity:0;-webkit-transform:translateY(50px);transform:translateY(50px)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes fadenavsecondary{0%{opacity:0;-webkit-transform:translateY(50px);transform:translateY(50px)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes navopen{0%{width:0;height:0%}to{width:100%;height:100%}}@keyframes navopen{0%{width:0;height:0%}to{width:100%;height:100%}}@-webkit-keyframes ebslide-left{0%{right:-600%}to{right:0}}@keyframes ebslide-left{0%{right:-600%}to{right:0}}@-webkit-keyframes ebslide-right{0%{left:-600%}to{left:0}}@keyframes ebslide-right{0%{left:-600%}to{left:0}}@-webkit-keyframes ebslide-down{0%{top:-100%}to{top:0}}@keyframes ebslide-down{0%{top:-100%}to{top:0}}@-webkit-keyframes ebslide-up{0%{top:0}to{top:-100%}}@keyframes ebslide-up{0%{top:0}to{top:-100%}}@-webkit-keyframes subnavopen{0%{opacity:0;max-height:1px}to{opacity:1;max-height:700px}}@keyframes subnavopen{0%{opacity:0;max-height:1px}to{opacity:1;max-height:700px}}@-webkit-keyframes spotimage{0%{mask-position:150% 150%;-webkit-mask-position:150% 150%}to{mask-position:100% 100%;-webkit-mask-position:100% 100%}}@keyframes spotimage{0%{mask-position:150% 150%;-webkit-mask-position:150% 150%}to{mask-position:100% 100%;-webkit-mask-position:100% 100%}}@-webkit-keyframes spotimageleft{0%{mask-position:-150% 150%;-webkit-mask-position:-150% 150%}to{mask-position:0 100%;-webkit-mask-position:0 100%}}@keyframes spotimageleft{0%{mask-position:-150% 150%;-webkit-mask-position:-150% 150%}to{mask-position:0 100%;-webkit-mask-position:0 100%}}.bg--bluegrad{background:#0c74bc;background:-webkit-gradient(linear,left top,left bottom,from(#0c74bc),to(#04b2f1));background:linear-gradient(180deg,#0c74bc,#04b2f1);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#0c74bc",endColorstr="#04b2f1",GradientType=1)}.critical-fade{opacity:0;width:100%;max-width:100%;-webkit-transition:opacity .5s ease;transition:opacity .5s ease}.is-hidden,.show-for-print,[v-cloak]{display:none!important}.show-for-sr,.show-on-focus{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);white-space:nowrap}.show-on-focus:active,.show-on-focus:focus{position:static!important;width:auto;height:auto;overflow:visible;clip:auto}*,:after,:before{-webkit-box-sizing:border-box;box-sizing:border-box}html{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility;scroll-behavior:smooth;scroll-padding-top:70px}@media only screen and (min-width:1024px){html html{scroll-padding-top:117px}}@media screen and (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}body{margin:0 auto;background-color:#fff;color:#000;line-height:1}html:not(.hideHeader) body{padding-top:70px}@media only screen and (min-width:1024px){html:not(.hideHeader) body{padding-top:117px}}a>svg,button>svg{pointer-events:none}::-moz-selection{background-color:rgba(0,0,0,.8);color:#fff}::selection{background-color:rgba(0,0,0,.8);color:#fff}@media (hover:hover){a[href^="tel:"]{color:inherit}}blockquote,dd,div,dl,dt,form,li,ol,p,pre,td,th,ul{margin:0;padding:0}p{font-size:inherit;text-rendering:optimizeLegibility}em,i{font-style:italic}em,i,small{line-height:inherit}small{font-size:80%}a{-webkit-transition:color .3s ease;transition:color .3s ease;line-height:inherit;text-decoration:none}a,button{color:currentColor;cursor:pointer}button{margin:0;padding:0;background:transparent;border:none;font-size:inherit;text-transform:none;-webkit-appearance:none;-moz-appearance:none;appearance:none}button[disabled]{opacity:.5}button[disabled],html input[disabled]{cursor:default}img{display:inline-block;vertical-align:middle}img,svg{max-width:100%;height:auto}a img,hr{border:0}hr{margin:1rem auto;border-bottom:1px solid rgba(0,0,0,.4)}.bg--dark hr{border-color:hsla(0,0%,100%,.4)}dl,ol,ul{list-style-position:outside}li{font-size:inherit}ul{list-style-type:disc}ol,ol ol,ol ul,ul,ul ol,ul ul{margin-left:1.25rem}dl dt{font-weight:700}blockquote{padding:.5625rem 1.25rem 0 1.1875rem;border-left:1px solid #ccc}blockquote,blockquote p{line-height:1.6}cite{display:block;font-size:.8125rem}cite:before{content:"— "}abbr{border-bottom:1px dotted #0a0a0a;color:#0a0a0a;cursor:help}figure{margin:0}code{padding:.125rem .3125rem .0625rem;border:1px solid #ccc;font-weight:400}code,kbd{background-color:#eee;color:#0a0a0a}kbd{margin:0;padding:.125rem .25rem 0;font-family:Consolas,Liberation Mono,Courier,monospace}@-webkit-keyframes spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@-webkit-keyframes floating{0%{-webkit-transform:translateY(0);transform:translateY(0)}50%{-webkit-transform:translateY(10%);transform:translateY(10%)}to{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes floating{0%{-webkit-transform:translateY(0);transform:translateY(0)}50%{-webkit-transform:translateY(10%);transform:translateY(10%)}to{-webkit-transform:translateY(0);transform:translateY(0)}}body{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-ms-flex:1 0 auto;flex:1 0 auto;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;width:100%;max-width:100%;overflow-x:hidden}html:not(.ie11) body{min-height:100vh;min-height:calc(var(--vh, 1vh)*100)}.layout--form-max,.layout--wrapper{width:100%;margin-right:auto;margin-left:auto}.layout--form-max{max-width:750px}.layout--hero-summary-max{max-width:510px}.layout--hero-summary-max,.layout--text-max{width:100%;margin-right:auto;margin-left:auto}.layout--text-max{max-width:1032px}.layout--author{max-width:824px}.layout--author,.layout--text-detail{width:100%;margin-right:auto;margin-left:auto}.layout--text-detail{max-width:1032px}.layout--search{max-width:1170px}.layout--quote,.layout--search{width:100%;margin-right:auto;margin-left:auto}.layout--quote{max-width:1096px}.layout--fence-max{width:100%;margin-right:auto;margin-left:auto;max-width:1280px}.layout--page-title,.layout--wide{width:100%;margin-right:auto;margin-left:auto;max-width:1300px}.layout--super{max-width:1600px}.layout--hd,.layout--super{width:100%;margin-right:auto;margin-left:auto}.layout--hd{max-width:1920px}.layout--fluid-h,.layout--padded-h{padding-right:30px;padding-left:30px}@media only screen and (min-width:414px){.layout--fluid-h,.layout--padded-h{padding-right:2.25rem;padding-left:2.25rem}}@media only screen and (min-width:1024px){.layout--fluid-h,.layout--padded-h{padding-right:2.75rem;padding-left:2.75rem}}.layout--fluid-h .layout--fluid-h{padding-right:0;padding-left:0}.layout--fluid-v,.layout--padded-v{padding-top:1rem;padding-bottom:1rem}@media only screen and (min-width:414px){.layout--fluid-v,.layout--padded-v{padding-top:2.25rem;padding-bottom:2.25rem}}@media only screen and (min-width:1024px){.layout--fluid-v,.layout--padded-v{padding-top:2.75rem;padding-bottom:2.75rem}}.layout--fluid-v .layout--fluid-v{padding-top:0;padding-bottom:0}.layout--spaced-v{padding-top:5rem;padding-bottom:5rem}.layout--spaced-v-1{padding-top:1rem;padding-bottom:1rem}.layout--spaced-v-modal{padding-top:3rem;padding-bottom:8rem}.sticky{position:sticky;z-index:1;top:3.125rem;width:100%}.bg--dark{color:#fff}.bg--light{color:#000}.bg--none{--bg-color:transparent;--is-collapsed:0}.bg--none,.bg--none .bg--mimic{background-color:transparent}.bg--lower-none:not(.bg--lower-no-collapse)+.bg--none:not(.bg--no-collapse),.bg--lower-none:not(.bg--lower-no-collapse)+.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse),.bg--lower-none:not(.bg--lower-no-collapse)+.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse),.bg--lower-none:not(.bg--lower-no-collapse)+.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse),.bg--none:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--none:not(.bg--no-collapse),.bg--none:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse),.bg--none:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse),.bg--none:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse)>:first-child.bg--none:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--gray6{--bg-color:#f9f9f9;--is-collapsed:0}.bg--gray6,.bg--gray6 .bg--mimic{background-color:#f9f9f9}.bg--gray6:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray6:not(.bg--no-collapse),.bg--gray6:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse),.bg--gray6:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse),.bg--gray6:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse),.bg--lower-gray6:not(.bg--lower-no-collapse)+.bg--gray6:not(.bg--no-collapse),.bg--lower-gray6:not(.bg--lower-no-collapse)+.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse),.bg--lower-gray6:not(.bg--lower-no-collapse)+.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse),.bg--lower-gray6:not(.bg--lower-no-collapse)+.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse)>:first-child.bg--gray6:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--gray3{--bg-color:#888;--is-collapsed:0}.bg--gray3,.bg--gray3 .bg--mimic{background-color:#888}.bg--gray3:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray3:not(.bg--no-collapse),.bg--gray3:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse),.bg--gray3:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse),.bg--gray3:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse),.bg--lower-gray3:not(.bg--lower-no-collapse)+.bg--gray3:not(.bg--no-collapse),.bg--lower-gray3:not(.bg--lower-no-collapse)+.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse),.bg--lower-gray3:not(.bg--lower-no-collapse)+.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse),.bg--lower-gray3:not(.bg--lower-no-collapse)+.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse)>:first-child.bg--gray3:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--gray{--bg-color:#9a9a9a;--is-collapsed:0}.bg--gray,.bg--gray .bg--mimic{background-color:#9a9a9a}.bg--gray:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray:not(.bg--no-collapse),.bg--gray:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse),.bg--gray:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse),.bg--gray:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse),.bg--lower-gray:not(.bg--lower-no-collapse)+.bg--gray:not(.bg--no-collapse),.bg--lower-gray:not(.bg--lower-no-collapse)+.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse),.bg--lower-gray:not(.bg--lower-no-collapse)+.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse),.bg--lower-gray:not(.bg--lower-no-collapse)+.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse)>:first-child.bg--gray:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--white{--bg-color:#fff;--is-collapsed:0}.bg--white,.bg--white .bg--mimic{background-color:#fff}.bg--lower-white:not(.bg--lower-no-collapse)+.bg--white:not(.bg--no-collapse),.bg--lower-white:not(.bg--lower-no-collapse)+.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse),.bg--lower-white:not(.bg--lower-no-collapse)+.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse),.bg--lower-white:not(.bg--lower-no-collapse)+.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse),.bg--white:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--white:not(.bg--no-collapse),.bg--white:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse),.bg--white:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse),.bg--white:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse)>:first-child.bg--white:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--image{--bg-color:#1a1a1a;--is-collapsed:0}.bg--image,.bg--image .bg--mimic{background-color:#1a1a1a}.bg--image:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--image:not(.bg--no-collapse),.bg--image:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse),.bg--image:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse),.bg--image:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse),.bg--lower-image:not(.bg--lower-no-collapse)+.bg--image:not(.bg--no-collapse),.bg--lower-image:not(.bg--lower-no-collapse)+.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse),.bg--lower-image:not(.bg--lower-no-collapse)+.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse),.bg--lower-image:not(.bg--lower-no-collapse)+.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse)>:first-child.bg--image:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--logo{--bg-color:#1a1a1a;--is-collapsed:0}.bg--logo,.bg--logo .bg--mimic{background-color:#1a1a1a}.bg--logo:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--logo:not(.bg--no-collapse),.bg--logo:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse),.bg--logo:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse),.bg--logo:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse),.bg--lower-logo:not(.bg--lower-no-collapse)+.bg--logo:not(.bg--no-collapse),.bg--lower-logo:not(.bg--lower-no-collapse)+.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse),.bg--lower-logo:not(.bg--lower-no-collapse)+.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse),.bg--lower-logo:not(.bg--lower-no-collapse)+.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse)>:first-child.bg--logo:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--black{--bg-color:#000;--is-collapsed:0}.bg--black,.bg--black .bg--mimic{background-color:#000}.bg--black:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--black:not(.bg--no-collapse),.bg--black:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse),.bg--black:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse),.bg--black:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse),.bg--lower-black:not(.bg--lower-no-collapse)+.bg--black:not(.bg--no-collapse),.bg--lower-black:not(.bg--lower-no-collapse)+.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse),.bg--lower-black:not(.bg--lower-no-collapse)+.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse),.bg--lower-black:not(.bg--lower-no-collapse)+.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse)>:first-child.bg--black:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--red{--bg-color:#ff4100;--is-collapsed:0}.bg--red,.bg--red .bg--mimic{background-color:#ff4100}.bg--lower-red:not(.bg--lower-no-collapse)+.bg--red:not(.bg--no-collapse),.bg--lower-red:not(.bg--lower-no-collapse)+.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse),.bg--lower-red:not(.bg--lower-no-collapse)+.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse),.bg--lower-red:not(.bg--lower-no-collapse)+.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse),.bg--red:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--red:not(.bg--no-collapse),.bg--red:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse),.bg--red:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse),.bg--red:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse)>:first-child.bg--red:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--yellow{--bg-color:#ffb612;--is-collapsed:0}.bg--yellow,.bg--yellow .bg--mimic{background-color:#ffb612}.bg--lower-yellow:not(.bg--lower-no-collapse)+.bg--yellow:not(.bg--no-collapse),.bg--lower-yellow:not(.bg--lower-no-collapse)+.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse),.bg--lower-yellow:not(.bg--lower-no-collapse)+.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse),.bg--lower-yellow:not(.bg--lower-no-collapse)+.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse),.bg--yellow:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--yellow:not(.bg--no-collapse),.bg--yellow:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse),.bg--yellow:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse),.bg--yellow:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse)>:first-child.bg--yellow:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--blue{--bg-color:#096c93;--is-collapsed:0}.bg--blue,.bg--blue .bg--mimic{background-color:#096c93}.bg--blue:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--blue:not(.bg--no-collapse),.bg--blue:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse),.bg--blue:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse),.bg--blue:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse),.bg--lower-blue:not(.bg--lower-no-collapse)+.bg--blue:not(.bg--no-collapse),.bg--lower-blue:not(.bg--lower-no-collapse)+.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse),.bg--lower-blue:not(.bg--lower-no-collapse)+.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse),.bg--lower-blue:not(.bg--lower-no-collapse)+.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse)>:first-child.bg--blue:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--green{--bg-color:#2a870c;--is-collapsed:0}.bg--green,.bg--green .bg--mimic{background-color:#2a870c}.bg--green:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--green:not(.bg--no-collapse),.bg--green:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse),.bg--green:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse),.bg--green:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse),.bg--lower-green:not(.bg--lower-no-collapse)+.bg--green:not(.bg--no-collapse),.bg--lower-green:not(.bg--lower-no-collapse)+.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse),.bg--lower-green:not(.bg--lower-no-collapse)+.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse),.bg--lower-green:not(.bg--lower-no-collapse)+.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse)>:first-child.bg--green:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--pink{--bg-color:#dfaada;--is-collapsed:0}.bg--pink,.bg--pink .bg--mimic{background-color:#dfaada}.bg--collapse,.bg--lower-pink:not(.bg--lower-no-collapse)+.bg--pink:not(.bg--no-collapse),.bg--lower-pink:not(.bg--lower-no-collapse)+.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse),.bg--lower-pink:not(.bg--lower-no-collapse)+.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse),.bg--lower-pink:not(.bg--lower-no-collapse)+.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse),.bg--pink:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--pink:not(.bg--no-collapse),.bg--pink:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse),.bg--pink:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse),.bg--pink:not([class*=bg--lower-]):not(.bg--no-collapse)+.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse)>:first-child.bg--pink:not(.bg--no-collapse){--is-collapsed:1;padding-top:0}.bg--logo.bg--logo:before{content:"";position:absolute;top:30%;left:30%;width:40%;height:40%;background-color:transparent;background-image:url(/svg/logo-white.svg);background-repeat:no-repeat;background-position:50%;background-size:contain;opacity:.5}.lobotomize *+*{margin-top:1rem}.lobotomize br{margin:0!important}.lobotomize--level>*+*{margin-top:1rem}.lobotomize--level br{margin:0!important}.autoMargins *{margin-top:1rem}.autoMargins--none *,.autoMargins .visuallyHidden+*,.autoMargins :first-child{margin-top:0}h1,h2,h3,h4,h5,h6{margin:0}.h1{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:28px;font-size:1.75rem;letter-spacing:0;line-height:1;text-transform:none}@media only screen and (min-width:320px) and (max-width:1919px){.h1{font-size:calc(1.063vw + 24.6px)}}@media only screen and (min-width:1920px){.h1{font-size:45px;font-size:2.8125rem}}.h2{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:20px;font-size:1.25rem;letter-spacing:0;line-height:1}@media only screen and (min-width:320px) and (max-width:1919px){.h2{font-size:calc(.25vw + 19.2px)}}@media only screen and (min-width:1920px){.h2{font-size:24px;font-size:1.5rem}}.h3{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:20px;font-size:1.25rem;letter-spacing:.02em;text-transform:uppercase;line-height:1}@media only screen and (min-width:320px) and (max-width:1919px){.h3{font-size:calc(.125vw + 19.6px)}}@media only screen and (min-width:1920px){.h3{font-size:22px;font-size:1.375rem}}.h4{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:18px;font-size:1.125rem;letter-spacing:.05em;line-height:1;text-transform:uppercase;font-size:25px;font-size:1.5625rem}@media only screen and (min-width:320px) and (max-width:1919px){.h4{font-size:calc(.125vw + 17.6px)}}@media only screen and (min-width:1920px){.h4{font-size:20px;font-size:1.25rem}}.h5{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:18px;font-size:1.125rem;letter-spacing:.05em;line-height:1;text-transform:uppercase;font-size:24px;font-size:1.5rem}@media only screen and (min-width:320px) and (max-width:1919px){.h5{font-size:calc(.125vw + 17.6px)}}@media only screen and (min-width:1920px){.h5{font-size:20px;font-size:1.25rem}}.h6{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:18px;font-size:1.125rem;letter-spacing:.05em;line-height:1;text-transform:uppercase;font-size:23px;font-size:1.4375rem}@media only screen and (min-width:320px) and (max-width:1919px){.h6{font-size:calc(.125vw + 17.6px)}}@media only screen and (min-width:1920px){.h6{font-size:20px;font-size:1.25rem}}.text--content{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:400;font-size:15px;font-size:.9375rem;letter-spacing:0;line-height:1.7}@media only screen and (min-width:320px) and (max-width:1919px){.text--content{font-size:calc(.187vw + 14.4px)}}@media only screen and (min-width:1920px){.text--content{font-size:18px;font-size:1.125rem}}.text--content h1{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:28px;font-size:1.75rem;letter-spacing:0;line-height:1;text-transform:none}@media only screen and (min-width:320px) and (max-width:1919px){.text--content h1{font-size:calc(1.063vw + 24.6px)}}@media only screen and (min-width:1920px){.text--content h1{font-size:45px;font-size:2.8125rem}}.text--content h2{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:20px;font-size:1.25rem;letter-spacing:0;line-height:1}@media only screen and (min-width:320px) and (max-width:1919px){.text--content h2{font-size:calc(.25vw + 19.2px)}}@media only screen and (min-width:1920px){.text--content h2{font-size:24px;font-size:1.5rem}}.text--content h3{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:20px;font-size:1.25rem;letter-spacing:.02em;text-transform:uppercase;line-height:1}@media only screen and (min-width:320px) and (max-width:1919px){.text--content h3{font-size:calc(.125vw + 19.6px)}}@media only screen and (min-width:1920px){.text--content h3{font-size:22px;font-size:1.375rem}}.text--content h4{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:18px;font-size:1.125rem;letter-spacing:.05em;line-height:1;text-transform:uppercase;font-size:25px;font-size:1.5625rem}@media only screen and (min-width:320px) and (max-width:1919px){.text--content h4{font-size:calc(.125vw + 17.6px)}}@media only screen and (min-width:1920px){.text--content h4{font-size:20px;font-size:1.25rem}}.text--content h5{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:18px;font-size:1.125rem;letter-spacing:.05em;line-height:1;text-transform:uppercase;font-size:24px;font-size:1.5rem}@media only screen and (min-width:320px) and (max-width:1919px){.text--content h5{font-size:calc(.125vw + 17.6px)}}@media only screen and (min-width:1920px){.text--content h5{font-size:20px;font-size:1.25rem}}.text--content h6{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:18px;font-size:1.125rem;letter-spacing:.05em;line-height:1;text-transform:uppercase;font-size:23px;font-size:1.4375rem}@media only screen and (min-width:320px) and (max-width:1919px){.text--content h6{font-size:calc(.125vw + 17.6px)}}@media only screen and (min-width:1920px){.text--content h6{font-size:20px;font-size:1.25rem}}.text--content.text--center li{max-width:-webkit-fit-content;max-width:-moz-fit-content;max-width:fit-content;margin-right:auto;margin-left:auto}.text--content .lobotomize li+li{margin-top:0}.ddOptions__cta,.form__file-cta,.form__file-group,.RLTimePicker input,[type=color],[type=date],[type=datetime-local],[type=datetime],[type=email],[type=month],[type=number],[type=password],[type=search],[type=tel],[type=text],[type=time],[type=url],[type=week],select,textarea{font-weight:600;font-size:15px;font-size:.9375rem;letter-spacing:.025em;font-family:ttnormspro,sans-serif;font-style:normal;font-weight:400;line-height:1;text-transform:none;display:block;-webkit-box-sizing:border-box;box-sizing:border-box;width:100%;height:56px;padding:.5rem 0;-webkit-transition:border-color .3s ease;transition:border-color .3s ease;background-color:transparent;border:1px solid transparent;border-bottom-color:hsla(0,0%,53.3%,.5);border-radius:0;color:#000;-webkit-appearance:none;-moz-appearance:none;appearance:none}@media only screen and (min-width:320px) and (max-width:1919px){.ddOptions__cta,.form__file-cta,.form__file-group,.RLTimePicker input,[type=color],[type=date],[type=datetime-local],[type=datetime],[type=email],[type=month],[type=number],[type=password],[type=search],[type=tel],[type=text],[type=time],[type=url],[type=week],select,textarea{font-size:15px}}@media only screen and (min-width:1920px){.ddOptions__cta,.form__file-cta,.form__file-group,.RLTimePicker input,[type=color],[type=date],[type=datetime-local],[type=datetime],[type=email],[type=month],[type=number],[type=password],[type=search],[type=tel],[type=text],[type=time],[type=url],[type=week],select,textarea{font-size:15px;font-size:.9375rem}}textarea{max-width:100%}textarea[rows]{height:auto}input::-webkit-input-placeholder,textarea::-webkit-input-placeholder{color:#000}input::-moz-placeholder,textarea::-moz-placeholder{color:#000}input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#000}input::-ms-input-placeholder,textarea::-ms-input-placeholder{color:#000}input::placeholder,textarea::placeholder{color:#000}input:disabled,input[readonly],textarea:disabled,textarea[readonly]{background-color:#e6e6e6;cursor:not-allowed}[type=button],[type=submit]{border:none;border-radius:0;-webkit-appearance:none;-moz-appearance:none;appearance:none}input[type=search]{-webkit-box-sizing:border-box;box-sizing:border-box}[type=checkbox]+label[for],[type=radio]+label[for]{cursor:pointer}[type=file]{width:100%}label{display:block;margin:0}.ddOptions__cta,select{width:100%;height:56px;padding:0 1.5rem 0 0;-webkit-transition:border-color .3s ease,border-color .3s ease,-webkit-box-shadow .5s;transition:border-color .3s ease,border-color .3s ease,-webkit-box-shadow .5s;transition:border-color .3s ease,box-shadow .5s,border-color .3s ease;transition:border-color .3s ease,box-shadow .5s,border-color .3s ease,-webkit-box-shadow .5s;background-color:transparent;background-image:url("data:image/svg+xml;utf8, <svg xmlns='http://www.w3.org/2000/svg' version='1.1' width='32' height='24' viewBox='0 0 32 24'><polygon points='0, 0 32, 0 16, 24' style='fill: currentColor'></polygon></svg>");background-repeat:no-repeat;background-position:right -1rem center;background-size:9px 6px;border:1px solid transparent;border-bottom-color:hsla(0,0%,53.3%,.5);border-radius:0;line-height:1;-moz-appearance:none;appearance:none;background-origin:content-box;-webkit-appearance:none}.ddOptions__cta::-ms-expand,select::-ms-expand{display:none}@media screen and (min-width:0\0){select{background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAIpJREFUeNrEkckNgDAMBBfRkEt0ObRBBdsGXUDgmQfK4XhH2m8czQAAy27R3tsw4Qfe2x8uOO6oYLb6GlOor3GF+swURAOmUJ+RwtEJs9WvTGEYxBXqI1MQAZhCfUQKRzDMVj+TwrAIV6jvSUEkYAr1LSkcyTBb/V+KYfX7xAeusq3sLDtGH3kEGACPWIflNZfhRQAAAABJRU5ErkJggg==")}}select:disabled{background-color:#e6e6e6;cursor:not-allowed}select::-ms-expand{display:none}select[multiple]{height:auto;background-image:none}fieldset{margin:0;padding:0;border:none}table{width:100%;margin-bottom:1rem;border-radius:0;font-family:ttnormspro,sans-serif;font-style:normal;font-weight:400;font-size:15px;font-size:.9375rem;letter-spacing:0;line-height:1.7}@media only screen and (min-width:320px) and (max-width:1919px){table{font-size:calc(.187vw + 14.4px)}}@media only screen and (min-width:1920px){table{font-size:18px;font-size:1.125rem}}table tbody,table tfoot,table thead{background-color:rgba(0,0,0,.05);border:1px solid rgba(0,0,0,.05)}.bg--dark table tbody,.bg--dark table tfoot,.bg--dark table thead{background-color:hsla(0,0%,100%,.05);border:1px solid hsla(0,0%,100%,.05)}table caption{padding:.5rem .625rem .625rem;font-weight:700}table thead{background-color:rgba(0,0,0,.3);color:#000}.bg--dark table thead{background-color:hsla(0,0%,100%,.05)}table tfoot{background-color:rgba(0,0,0,.3);color:#000}.bg--dark table tfoot{background-color:hsla(0,0%,100%,.05)}table tfoot tr,table thead tr{background-color:transparent}table tfoot td,table tfoot th,table thead td,table thead th{text-transform:uppercase;padding:.5rem .625rem .625rem;text-align:left}table tbody th,table tfoot td,table tfoot th,table thead td,table thead th{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600}table tbody td,table tbody th{padding:.5rem .625rem .625rem}table tbody tr:nth-child(2n){background-color:rgba(0,0,0,.05);border-bottom:0}.bg--dark table tbody tr:nth-child(2n){background-color:hsla(0,0%,100%,.05)}@media (prefers-reduced-motion:reduce){*{-webkit-transition-duration:.1s!important;transition-duration:.1s!important;-webkit-animation-duration:.1s!important;animation-duration:.1s!important}}.icon{display:inline-block;position:relative;vertical-align:middle;width:1em;max-width:100%;height:1em;fill:currentColor}.icon--back{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.icon--reverse{-webkit-transform:scaleX(-1);transform:scaleX(-1)}.icon--eb{font-size:36px;font-size:2.25rem}.hover-label{position:relative;overflow:visible}.hover-label__label{opacity:0;position:absolute;z-index:2;top:100%;left:50%;width:auto;min-width:-webkit-fit-content;min-width:-moz-fit-content;min-width:fit-content;max-width:120px;padding:.5rem;-webkit-transform:translate(-50%,10px);transform:translate(-50%,10px);-webkit-transition:opacity .3s ease,-webkit-transform .3s ease;transition:opacity .3s ease,-webkit-transform .3s ease;transition:opacity .3s ease,transform .3s ease;transition:opacity .3s ease,transform .3s ease,-webkit-transform .3s ease;background-color:#000;color:#fff;text-align:center;pointer-events:none;font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;letter-spacing:.1em;font-size:15px;font-size:.9375rem;line-height:1}.hover-label__label:before{content:"";display:block;position:absolute;top:-.25rem;left:50%;width:0;height:0;margin-left:-.25rem;border-right:.25rem solid transparent;border-bottom:.3rem solid #000;border-left:.25rem solid transparent}.header__inner .hover-label__label{background-color:#ffb612;color:#000}.header__inner .hover-label__label:before{border-bottom-color:#ffb612}.hover-label:focus .hover-label__label,.hover-label:hover .hover-label__label{opacity:1;-webkit-transform:translate(-50%,4px);transform:translate(-50%,4px)}.no-js [data-modal-open]{display:none}.modal-is-open body{overflow:hidden}.js [data-modal][hidden]{display:block;visibility:hidden;opacity:0;pointer-events:none}.widget{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap;width:auto;max-width:1280px;margin:1rem auto}.widget__heading{width:100%;margin:0 1rem 1rem;font-size:1.3rem}body{padding-top:70px}@media only screen and (min-width:1024px){body{padding-top:117px}}.hideHeader body{padding-top:0}body:before{content:"";background:#000;height:70px;width:100%;position:absolute;top:0;left:0}@media only screen and (min-width:1024px){body:before{height:117px}}.header{display:-webkit-box;display:-ms-flexbox;display:flex;position:absolute;z-index:1000;top:0;left:0;width:100%;height:70px;-webkit-transition:height .3s ease,background-color .3s ease,padding .3s ease,-webkit-transform .3s ease,-webkit-box-shadow .3s ease;transition:height .3s ease,background-color .3s ease,padding .3s ease,-webkit-transform .3s ease,-webkit-box-shadow .3s ease;transition:height .3s ease,background-color .3s ease,transform .3s ease,padding .3s ease,box-shadow .3s ease;transition:height .3s ease,background-color .3s ease,transform .3s ease,padding .3s ease,box-shadow .3s ease,-webkit-transform .3s ease,-webkit-box-shadow .3s ease;background-color:#000;-webkit-box-shadow:0 0 0 transparent;box-shadow:0 0 0 transparent;color:#000;-webkit-transition-delay:.25s;transition-delay:.25s;max-width:100vw;will-change:height,background-color,transform,box-shadow,padding}@media print{.header{position:absolute!important}}.header.isFloating{height:70px;padding-top:0!important;-webkit-box-shadow:0 0 10px rgba(0,0,0,.25);box-shadow:0 0 10px rgba(0,0,0,.25)}@media only screen and (min-width:1024px){.header.isFloating{height:70px}}html:not(.headerIsFloating) .header{padding-top:0!important}@media only screen and (min-width:1024px){html:not(.headerIsFloating) .header{height:117px}}.header__inner,.header__layout{display:-webkit-box;display:-ms-flexbox;display:flex}.header__inner{-ms-flex-preferred-size:auto;flex-basis:auto;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;-ms-flex-negative:1;flex-shrink:1;-ms-flex-wrap:nowrap;-webkit-box-align:center;-ms-flex-align:center;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left;position:relative;flex-wrap:nowrap;margin:auto 0;-webkit-transition:height .3s ease;transition:height .3s ease;font-size:0;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;align-items:center}.header__inner--left,.header__inner--right{display:-webkit-box;display:-ms-flexbox;display:flex}.header__inner--left{width:100%}.header a.show-on-focus{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:400;font-size:15px;font-size:.9375rem;letter-spacing:0;line-height:1.7;position:absolute!important;z-index:1;top:1rem;left:1rem;-webkit-box-flex:0;-ms-flex:none;flex:none;padding:.25rem .5rem;background-color:#fff!important;color:#000!important}@media only screen and (min-width:320px) and (max-width:1919px){.header a.show-on-focus{font-size:calc(.187vw + 14.4px)}}@media only screen and (min-width:1920px){.header a.show-on-focus{font-size:18px;font-size:1.125rem}}.header__button{display:inline-block;-webkit-transition:color .3s ease,font-size .3s ease;transition:color .3s ease,font-size .3s ease;line-height:1;margin-left:16px}.header__button:hover{color:#ffb612}@media print{.header__button{display:none}}@media only screen and (min-width:320px) and (max-width:1499px){.header__button{margin-left:calc(.67797vw + 13.83051px)}}@media only screen and (min-width:1500px){.header__button{margin-left:24px}}@media only screen and (max-width:319px){.header__button{margin-left:8px}}.header__button .icon{-webkit-transition:none;transition:none}.header__button--logo{margin-left:0;margin-right:auto;max-height:70px;max-width:130px;-webkit-transition:all .3s ease;transition:all .3s ease}@media only screen and (min-width:320px) and (max-width:519px){.header__button--logo{max-width:calc(35vw + 18px)}}@media only screen and (min-width:520px){.header__button--logo{max-width:200px}}@media only screen and (min-width:1024px){.header__button--logo{max-height:117px;max-width:280px;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);margin:0 auto auto}}@media only screen and (min-width:1024px) and (min-width:1024px) and (max-width:1919px){.header__button--logo{max-width:calc(3.34821vw + 245.71429px)}}@media only screen and (min-width:1024px) and (min-width:1920px){.header__button--logo{max-width:310px}}@media only screen and (min-width:1024px){html.headerIsFloating .header__button--logo{max-width:200px}}html.hero--headstyle-alt:not(.headerIsFloating) .header__button--logo{opacity:0}@media only screen and (min-width:1024px){html.hero--headstyle-alt:not(.headerIsFloating) .header__button--logo{max-width:200px}}@media print{.header__button--logo{display:block}}.header__button--logo-svg{width:100%}.header__button--experience-builder{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2;padding:1rem;color:#fff;margin-left:auto;margin-right:1rem;font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:15px;font-size:.9375rem;letter-spacing:.1em;line-height:1;text-transform:uppercase}@media only screen and (min-width:320px) and (max-width:1919px){.header__button--experience-builder{font-size:calc(.187vw + 14.4px)}}@media only screen and (min-width:1920px){.header__button--experience-builder{font-size:18px;font-size:1.125rem}}.header__button--experience-builder .icon{margin-right:1rem}@media only screen and (max-width:1439px){.header__button--experience-builder span{display:none}}body.theme--sports .header__button--experience-builder{display:none}.header__button--menu{-webkit-box-ordinal-group:11;-ms-flex-order:10;order:10;font-size:27px;font-size:1.6875rem}@media only screen and (min-width:1024px){.header__button--menu{font-size:35px;font-size:2.1875rem}}.header__button--weather{display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;position:relative;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.header__button--weather .weather-icon__temp{margin-left:.5rem}.header__button--weather canvas{-webkit-box-ordinal-group:0;-ms-flex-order:-1;order:-1;max-width:38px;height:auto}@media only screen and (min-width:1024px){.header__button--weather canvas{max-width:38px}html:not(.headerIsFloating) .header__button--weather{top:1px}}@media only screen and (max-width:1023px){.header__button--weather{display:none}}@media print{.header__button--weather{display:none!important}}.header__button--saved{font-size:24px;font-size:1.5rem;-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}@media only screen and (min-width:1024px){.header__button--saved{font-size:27px;font-size:1.6875rem}}.header__button--saved .saved-counter__count{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:14px;font-size:.875rem;letter-spacing:-.1em;line-height:1;margin-top:0;color:#000!important;font-size:.75rem!important;margin-left:-.5px}@media only screen and (min-width:320px) and (max-width:1919px){.header__button--saved .saved-counter__count{font-size:calc(.063vw + 13.8px)}}@media only screen and (min-width:1920px){.header__button--saved .saved-counter__count{font-size:15px;font-size:.9375rem}}@media only screen and (min-width:1024px){.header__button--saved{font-size:27px;font-size:1.6875rem}.header__button--saved .saved-counter__count{margin-top:0;font-size:.875rem!important}}.header__button--search{font-size:25px;font-size:1.5625rem}@media only screen and (max-width:1023px){.header__button--search{margin-left:0!important}}@media only screen and (min-width:1024px){.header__button--search{font-size:29px;font-size:1.8125rem;margin-right:0}}.header__links{display:none;-webkit-box-ordinal-group:1;-ms-flex-order:0;order:0;width:-webkit-max-content;width:-moz-max-content;width:max-content;padding:0;list-style-type:none}@media only screen and (min-width:1024px){.header__links{display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}}.header__links ul{margin:0}.header__links li{display:inline-block;margin-right:2rem;list-style-type:none}.header__links li:last-of-type{margin-right:0}.header__links a{font-family:ttnormspro,sans-serif;font-style:normal;font-weight:600;font-size:15px;font-size:.9375rem;letter-spacing:.1em;line-height:1;text-transform:uppercase}@media only screen and (min-width:320px) and (max-width:1919px){.header__links a{font-size:calc(.187vw + 14.4px)}}@media only screen and (min-width:1920px){.header__links a{font-size:18px;font-size:1.125rem}}.header__links a:hover{color:#ffb612}.header.isFloating{opacity:0;position:fixed;-webkit-transform:translateY(-100%);transform:translateY(-100%)}.header.isFloating.scrolled--down{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}@media only screen and (min-width:520px){.header.isFloating.scrolled--down{opacity:0;-webkit-transform:translateY(-100%);transform:translateY(-100%)}}.header.isFloating.scrolled--up{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}.saved-counter__link{display:block;opacity:0;position:relative;-webkit-transform:scale(0);transform:scale(0);-webkit-transition:opacity .5s ease,-webkit-transform .5s ease;transition:opacity .5s ease,-webkit-transform .5s ease;transition:transform .5s ease,opacity .5s ease;transition:transform .5s ease,opacity .5s ease,-webkit-transform .5s ease}.saved-counter.is-showing .saved-counter__link{opacity:1;-webkit-transform:scale(1);transform:scale(1)}.saved-counter__count{position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}</style>
+                        <link rel="stylesheet" media="print"
+                  href="/dist/styles/main.min.1736357674.css"
+                  onload="this.media='all'">
+            
+                <style>
+        :root {
+            --aos-duration: 500ms;
+            --aos-delay: 100ms;
+        }
+    </style>
+
+        
+        
+        <script>
+        WebFontConfig = {
+            monotype: {
+                //projectId: '11df8dcd-d1d4-4b52-87ba-2189038e7173' //fonts.com
+            }
+                    };
+        (function(d) {
+            var wf = d.createElement('script'), s = d.scripts[0]
+            wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js'
+            s.parentNode.insertBefore(wf, s)
+        })(document)
+    </script>
+
+
+                        <!-- HEAD ANALYTICS -->
+        
+
+        
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/apple-touch-icon-167x167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+                
+                     <title>&#039;Burgh Bits and Bites Food Tour | Visit Pittsburgh</title>
+<script>dl = [];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dl','GTM-T3X66WZ');
+</script><meta name="keywords" content="hotels, travel, dining, restaurants, events, places to stay, attractions, things to do, weddings, sports, music, nightlife, meetings, Tempest, Steelers, football, MeetPittsburgh, SportsPittsburgh,">
+<meta name="description" content="Connecting people to communities through food. ‘Burgh Bits and Bites Food Tour is a food tasting adventure and historic walking tour of Pittsburgh">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="all">
+<meta content="100064910193240" property="fb:profile_id">
+<meta content="en_US" property="og:locale">
+<meta content="Visit Pittsburgh" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="/directory/burgh-bits-and-bites-food-tour/" property="og:url">
+<meta content="&#039;Burgh Bits and Bites Food Tour | Visit Pittsburgh" property="og:title">
+<meta content="Connecting people to communities through food. ‘Burgh Bits and Bites Food Tour is a food tasting adventure and historic walking tour of Pittsburgh" property="og:description">
+<meta content="https://idss-proxy.imgix.net/https://files.idss.com/C32/048a7c25-af0f-4edb-9f53-43c4b4f8a7f1/bb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;crop=focalpoint&amp;fit=min&amp;fp-x=0.5&amp;fp-y=0.5&amp;h=630&amp;q=80&amp;w=1200&amp;s=e55a0c16f4661986c6c47ce246bb1eeb" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="630" property="og:image:height">
+<meta content="&#039;Burgh Bits and Bites Food Tour" property="og:image:alt">
+<meta content="https://www.pinterest.com/visitpittsburgh/" property="og:see_also">
+<meta content="https://www.youtube.com/channel/UChtK_mzDRJokXAQoS6gFNnQ" property="og:see_also">
+<meta content="https://www.instagram.com/visitpittsburgh/" property="og:see_also">
+<meta content="https://www.facebook.com/VisitPittsburgh/" property="og:see_also">
+<meta name="facebook-domain-verification" content="61t6riuwngukboajxe7ehdo9eo2i2m">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@">
+<meta name="twitter:title" content="&#039;Burgh Bits and Bites Food Tour | Visit Pittsburgh">
+<meta name="twitter:description" content="Connecting people to communities through food. ‘Burgh Bits and Bites Food Tour is a food tasting adventure and historic walking tour of Pittsburgh">
+<meta name="twitter:image" content="https://idss-proxy.imgix.net/https://files.idss.com/C32/048a7c25-af0f-4edb-9f53-43c4b4f8a7f1/bb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;crop=focalpoint&amp;fit=min&amp;fp-x=0.5&amp;fp-y=0.5&amp;h=418&amp;q=80&amp;w=800&amp;s=f3ae935d0ac86b6920d1e587616df718">
+<meta name="twitter:image:width" content="800">
+<meta name="twitter:image:height" content="418">
+<meta name="twitter:image:alt" content="&#039;Burgh Bits and Bites Food Tour">
+<link href="https://www.visitpittsburgh.com/directory/burgh-bits-and-bites-food-tour/" rel="canonical">
+<link href="https://www.visitpittsburgh.com/" rel="home">
+<link type="text/plain" href="https://www.visitpittsburgh.com/humans.txt" rel="author"></head>
+
+ 
+
+<body role="document" class="theme--primary" data-entry-id="1372127"><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T3X66WZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+            <!-- TOP BODY ANALYTICS -->
+    
+
+    
+                
+
+<div class="header layout--padded-h" data-float-distance="100">
+    <div class="header__layout layout--wrapper">
+                <a href="#main" class="show-on-focus">Skip to content</a>
+        <div class="header__inner bg--dark ">
+                        <div class="header__inner--left">
+                                <a href="https://www.visitpittsburgh.com/"
+                class="header__button header__button--logo"
+                aria-label="Home"
+                >
+                                            <img src="/svg/PGH_logo-horz-wht.svg" width="542" height="96" />
+                                    </a>
+
+                                                <div class="header__links">
+                    <ul class="nav__header">
+                        <li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/newsletter-signup/"
+                              class="nav__link">Newsletter</a></li>
+                    </ul>
+
+                                            <button class="header__button header__button--experience-builder persona_cta"
+                                data-modal-open="experience-builder"
+                                aria-label="Toggle the persona quiz"
+                        >
+                        
+                            <span>Discover Your Persona</span><svg class="icon icon-mystery-pierogi icon--eb"
+                                                aria-label="mystery icon"
+                                role="image"
+                    ><use href="#mystery-pierogi"></use></svg></button>
+                                    </div>
+                            </div>
+            
+            <div class="header__inner--right">
+            
+                                
+                            <a href="/plan-your-trip/weather/"
+               hidden
+               class="weather-icon hover-label header__button header__button--weather"
+               data-weather-icon
+               data-weather-icon-color="#FFB612"
+               data-weather-icon-floating-color="#FFB612"
+               data-weather-icon-width="62"
+               data-weather-icon-height="62"
+               aria-label="Current Weather is Clear sky - Read more about weather">
+                <div class="hover-label__label">
+                    76<sup>&deg;</sup>F
+                                    </div>
+            </a>
+            
+                                
+
+
+
+<div class="saved-counter header__button header__button--saved is-hidden" data-saved-counter>
+            <a href="/itinerary/"
+           class="saved-counter__link hover-label"
+           tabindex="-1"           aria-label="0 Saved Items"><svg class="icon icon-heart"
+                                                aria-label="heart icon"
+                                role="image"
+                    ><use href="#heart"></use></svg><div class="saved-counter__count" data-saved-count>0</div>
+            <div class="saved-counter__label hover-label__label">Saved</div>
+        </a>
+    </div>
+                
+                                <button
+                    class="header__button header__button--search"
+                    aria-label="Toggle the Site Search"
+                    data-modal-open="quick-search"
+                ><svg class="icon icon-search"
+                                                aria-label="search icon"
+                                role="image"
+                    ><use href="#search"></use></svg></button>
+
+
+
+                                <button class="header__button header__button--menu"
+                        data-modal-open="main-nav"><svg class="icon icon-hamburger"
+                                                aria-label="Menu icon"
+                                role="image"
+                    ><use href="#hamburger"></use></svg></button>
+            </div>
+        </div>
+    </div>
+</div>
+    
+                
+
+
+<div
+    class="modal modal--nav nav bg--none-95 bg--no-collapse"
+        data-modal="main-nav"
+    data-modal-auto    role="dialog"
+    aria-modal="true"
+    hidden
+>
+    <div class="modal__inner" data-modal-focus>
+                                        <h2 class="show-for-sr">Navigation</h2>
+        
+                
+                <div class="modal__content nav__content">
+
+            
+                                    <div class="nav__wrapper js-nav-parent">
+
+                <div class="nav__main bg--dark layout--fluid-v layout--fluid-h">
+            <div class="nav__bg"><div class="nav__bg-inner"></div></div>
+            <div class="nav__bgsub"></div>
+            <div class="layout--full">
+                <div class="nav__holder row row--lg-full-height row--xs-between">
+                    <div class="nav__meta col col--lg-full-height col--xs-12 col--lg-4">
+                                                                        <a href="https://www.visitpittsburgh.com/" class="nav__logo logo--modal" aria-label="Home">
+                                                            <img src="/svg/PGH_logo-wht.svg" width="542" height="96" />
+                                                    </a>
+                        <div class="nav__links">
+                            <div class="nav__actions">
+                                                                    <a class="nav__actions-link" href="https://www.sportspittsburgh.com/">
+                                        <img src="/svg/sports-pittsburgh-logo.svg" width="542" height="96" />
+                                    </a>
+                                                            </div>
+                            <div class="nav__social">
+                                <ul class="page-social"><li><a href="https://www.facebook.com/VisitPittsburgh/" target="_blank" rel="noopener"><svg class="icon icon-facebook"
+                                                aria-label="Facebook"
+                                role="image"
+                    ><use href="#facebook"></use></svg></a></li><li><a href="https://www.instagram.com/visitpittsburgh/" target="_blank" rel="noopener"><svg class="icon icon-instagram"
+                                                aria-label="Instagram"
+                                role="image"
+                    ><use href="#instagram"></use></svg></a></li><li><a href="https://www.youtube.com/channel/UChtK_mzDRJokXAQoS6gFNnQ" target="_blank" rel="noopener"><svg class="icon icon-youtube"
+                                                aria-label="YouTube"
+                                role="image"
+                    ><use href="#youtube"></use></svg></a></li><li><a href="https://www.pinterest.com/visitpittsburgh/" target="_blank" rel="noopener"><svg class="icon icon-pinterest"
+                                                aria-label="Pinterest"
+                                role="image"
+                    ><use href="#pinterest"></use></svg></a></li></ul>                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="nav__ancillary col col--lg-full-height col--xs-12 col--lg-4">
+                                                <ul class="nav__primary nav__nav js-nav">                        
+                            <li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/things-to-do/"
+                              class="nav__link">Things to Do</a><button class="subnav-toggle js-submenu"
+                            type="button"
+                            aria-label="Expand Subnavigation"
+                            aria-expanded="false"
+                            aria-controls="submenu-1035604"></button></div><ul id="submenu-1035604" class="nav__subnav js-subnav is-hidden"><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/things-to-do/free-things-to-do/"
+                              class="nav__link">Free Things to Do</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/things-to-do/family-fun/"
+                              class="nav__link">Family Fun</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/things-to-do/tours-sightseeing/"
+                              class="nav__link">Tours & Sightseeing</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/things-to-do/outdoor-adventure/"
+                              class="nav__link">Outdoor Adventure</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/things-to-do/arts-culture/"
+                              class="nav__link">Arts & Culture</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/things-to-do/shopping/"
+                              class="nav__link">Shopping</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/things-to-do/health-wellness/"
+                              class="nav__link">Health & Wellness</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/"
+                              class="nav__link">Pittsburgh Sports Teams</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/things-to-do/casinos-gaming/"
+                              class="nav__link">Casinos & Gaming</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="/events-festivals/film-festivals/"
+                              class="nav__link">Film Festivals</a></li></ul></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/events-festivals/"
+                              class="nav__link">Events & Festivals</a><button class="subnav-toggle js-submenu"
+                            type="button"
+                            aria-label="Expand Subnavigation"
+                            aria-expanded="false"
+                            aria-controls="submenu-1035724"></button></div><ul id="submenu-1035724" class="nav__subnav js-subnav is-hidden"><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/events-festivals/submit-your-event/"
+                              class="nav__link">Submit Your Event</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/"
+                              class="nav__link">This Week in Pittsburgh</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="/america-250/"
+                              class="nav__link">Celebrate America's 250th</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/events-festivals/annual-events/"
+                              class="nav__link">Annual Events</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/events-festivals/holidays/"
+                              class="nav__link">Holiday Events</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/events-festivals/halloween-events/"
+                              class="nav__link">Halloween Events</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/events-festivals/film-festivals/"
+                              class="nav__link">Film Festivals</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/events-festivals/food-festivals/"
+                              class="nav__link">Food Festivals</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/events-festivals/marathons-runs-walks/"
+                              class="nav__link">Marathons, Runs & Walks</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/events-festivals/oktoberfest-pittsburgh/"
+                              class="nav__link">Oktoberfest Pittsburgh</a></li></ul></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/hotels-resorts/"
+                              class="nav__link">Hotels & Resorts</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/restaurants-culinary/"
+                              class="nav__link">Restaurants & Culinary</a><button class="subnav-toggle js-submenu"
+                            type="button"
+                            aria-label="Expand Subnavigation"
+                            aria-expanded="false"
+                            aria-controls="submenu-1035748"></button></div><ul id="submenu-1035748" class="nav__subnav js-subnav is-hidden"><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/restaurants-culinary/bars-nightlife/"
+                              class="nav__link">Bars & Nightlife</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/restaurants-culinary/craft-breweries/"
+                              class="nav__link">Pittsburgh Craft Breweries</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/restaurants-culinary/wineries-distilleries/"
+                              class="nav__link">Wineries & Distilleries</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/restaurants-culinary/farms-farmers-markets/"
+                              class="nav__link">Farms & Farmers Markets</a></li></ul></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/"
+                              class="nav__link">Plan Your Trip</a><button class="subnav-toggle js-submenu"
+                            type="button"
+                            aria-label="Expand Subnavigation"
+                            aria-expanded="false"
+                            aria-controls="submenu-1035768"></button></div><ul id="submenu-1035768" class="nav__subnav js-subnav is-hidden"><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/visitors-guide/"
+                              class="nav__link">Pittsburgh Insider's Guide</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/group-tour/"
+                              class="nav__link">Group Tour</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/beyond-pittsburgh/"
+                              class="nav__link">Pittsburgh & Its Countryside</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/transportation/"
+                              class="nav__link">Transportation</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/explore-black-culture-heritage/"
+                              class="nav__link">Explore Black Culture & Heritage</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/lgbtq-travel/"
+                              class="nav__link">LGBTQIA+ Travel in Pittsburgh</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/pet-friendly-travel/"
+                              class="nav__link">Pet-friendly Travel</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/college-visits/"
+                              class="nav__link">College Visits</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/senior-travel/"
+                              class="nav__link">Senior Travel</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/medical-travel/"
+                              class="nav__link">Medical Travel</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/accessibility-guide/"
+                              class="nav__link">Accessibility Guide</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/weather/"
+                              class="nav__link">Weather</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/welcome-centers/"
+                              class="nav__link">Welcome Centers</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/plan-your-trip/newsletter-signup/"
+                              class="nav__link">Newsletter</a></li></ul></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/neighborhoods/"
+                              class="nav__link">Neighborhoods</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/nfl-draft-pittsburgh/"
+                              class="nav__link">2026 NFL Draft</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/meetings-and-events/"
+                              class="nav__link">Meetings and Events</a><button class="subnav-toggle js-submenu"
+                            type="button"
+                            aria-label="Expand Subnavigation"
+                            aria-expanded="false"
+                            aria-controls="submenu-1035854"></button></div><ul id="submenu-1035854" class="nav__subnav js-subnav is-hidden"><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/meetings-and-events/reasons-to-meet-in-pittsburgh/"
+                              class="nav__link">Meet in Pittsburgh</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/meetings-and-events/hotels/"
+                              class="nav__link">Hotels</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/meetings-and-events/event-services/"
+                              class="nav__link">Event Services</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/meetings-and-events/meeting-planner-toolkit/"
+                              class="nav__link">Marketing Toolkit</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/meetings-and-events/request-for-proposal/"
+                              class="nav__link">Submit RFP</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/meetings-and-events/contact-us/"
+                              class="nav__link">Contact Us</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/meetings-and-events/show-your-badge/"
+                              class="nav__link">Show Your Badge</a></li></ul></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.sportspittsburgh.com/"
+               target="_blank" rel="noopener"               class="nav__link">SportsPITTSBURGH</a><button class="subnav-toggle js-submenu"
+                            type="button"
+                            aria-label="Expand Subnavigation"
+                            aria-expanded="false"
+                            aria-controls="submenu-1671162"></button></div><ul id="submenu-1671162" class="nav__subnav js-subnav is-hidden"><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.sportspittsburgh.com/about-sportspittsburgh/"
+               target="_blank" rel="noopener"               class="nav__link">About SportsPITTSBURGH</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.sportspittsburgh.com/sports-planner/"
+               target="_blank" rel="noopener"               class="nav__link">Sports Event Planner</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.sportspittsburgh.com/sports-planner/sports-facilities/"
+               target="_blank" rel="noopener"               class="nav__link">Sports Facilities</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.sportspittsburgh.com/attendee-experiences/events-calendar/"
+               target="_blank" rel="noopener"               class="nav__link">Calendar of Events</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.sportspittsburgh.com/attendee-experiences/"
+               target="_blank" rel="noopener"               class="nav__link">Sports Event Attendee</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.sportspittsburgh.com/power-of-sports-economy/"
+               target="_blank" rel="noopener"               class="nav__link">Power of Sports Economy</a></li></ul></li>
+                        </ul>
+
+                                                <ul class="nav__secondary nav__nav">
+                            <li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/weddings-reunions/"
+                              class="nav__link">Weddings & Reunions</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/media/"
+                              class="nav__link">Media</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/partners/"
+                              class="nav__link">Partners</a></li>
+                                                            <li class="nav__item">
+                                    <button class="nav__link nav__button--eb persona_cta"
+                                            data-modal-open="experience-builder"
+                                            aria-label="Toggle the persona quiz"><svg class="icon icon-mystery-pierogi icon--eb"
+                                                aria-label="mystery icon"
+                                role="image"
+                    ><use href="#mystery-pierogi"></use></svg>Discover Your Persona
+                                    </button>
+                                </li>
+                                                    </ul>
+                    </div>
+                    <div class="nav__side col col--lg-full-height col--xs-12 col--lg-4">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+                <button type="button"
+                class="nav__close-bg"
+                data-modal-close
+                aria-hidden="true"
+                tabindex="-1"
+                aria-label="close"></button>
+    </div>
+
+                    </div>
+
+                
+                                <button type="button"
+                    data-modal-close
+                    class="close-button modal__close"
+                    aria-label="Close">
+                <svg class="icon icon-ex"
+                                            role="presentation"
+                    ><use href="#ex"></use></svg>            </button>
+            </div>
+
+    
+    </div>
+    
+<div class="critical-fade" data-dms-root>
+                
+    
+        
+
+
+
+
+
+                                    
+                
+        
+    
+
+
+
+    
+    
+
+
+        
+
+
+
+
+
+
+
+    
+        
+        
+    <main id="main" role="main" class="detail" data-dms-partner-pageview data-dms-partner-id="169753" data-dms-partner-name="'Burgh Bits and Bites Food Tour" data-dms-category-id="3461" data-dms-category-name="Family Fun" data-dms-entry-id="1372127">
+        <article class="detail__inner">
+            <div class="detail__primary  bg--light bg--no-collapse layout--spaced-v layout--fluid-h">
+                <div class="layout--wide">
+                    <div class="detail__primary-inner row">
+                                                <div class="col col--xs-12 col--desktop-6 col--desktop-full-height m--xs-t0">
+                            <div class="detail__primary-content lobotomize--level">
+                                                                
+
+
+	
+	    <div class="breadcrumbs breadcrumbs--back breadcrumbs--standard bg--none bg--light layout--fluid-h">
+	        <div class="breadcrumbs__inner layout--fence-max">
+	            <nav aria-label="breadcrumbs" >
+	                <ul class="breadcrumbs__list">
+
+	                    
+	                        	                        	                        	                            	                            <li class="breadcrumbs__item">
+	                                <a href="/" class="breadcrumbs__link breadcrumbs__link--back"><svg class="icon icon-breadcrumb-arrow icon--back"
+                                                aria-label="arrow pointing left icon"
+                                role="image"
+                    ><use href="#breadcrumb-arrow"></use></svg>Home</a>
+	                            </li>
+	                        
+	                    	                </ul>
+	            </nav>
+	        </div>
+	    </div>
+	
+
+                                                                <header class="detail__header">
+                                    <h1 class="detail__heading">&#039;Burgh Bits and Bites Food Tour</h1>
+                                </header>
+
+                                                                                                    <h2 class="detail__subheading"></h2>
+                                
+                                <div class="detail__link-wrapper">
+
+
+                                                                        
+
+
+
+
+    <div class="detail__actions">
+        <div class="btns">
+            <div class="btns__inner">
+                                <a href="http://www.burghfoodtour.com" class="btn  btn--alt btn--no-icon"
+           data-dms-partner-detail-website-click           target="_blank" rel="noopener"
+            data-dms-partner-id="169753" data-dms-partner-name="'Burgh Bits and Bites Food Tour" data-dms-category-id="3461" data-dms-category-name="Family Fun" data-dms-entry-id="1372127"
+        >
+            Website</a>
+    
+            
+                    <a href="mailto:info@burghfoodtour.com" class="btn btn--icon-left btn--alt btn--no-icon"
+           data-dms-partner-detail-email-click           target="_blank" rel="noopener"
+            data-dms-partner-id="169753" data-dms-partner-name="'Burgh Bits and Bites Food Tour" data-dms-category-id="3461" data-dms-category-name="Family Fun" data-dms-entry-id="1372127"
+        >
+            Email</a>
+    
+            
+            
+            
+            
+        
+        
+
+            </div>
+        </div>
+    </div>
+
+                                                                        
+
+
+    <div class="detail__social">
+                <ul>
+                            <li>
+            <a href="https://www.facebook.com/burghbitsandbitestour"
+                data-dms-partner-id="169753" data-dms-partner-name="'Burgh Bits and Bites Food Tour" data-dms-category-id="3461" data-dms-category-name="Family Fun" data-dms-entry-id="1372127"
+                data-dms-partner-detail-facebook-click               target="_blank"
+               rel="noopener"><svg class="icon icon-facebook-circle"
+                                                aria-label="Facebook"
+                                role="image"
+                    ><use href="#facebook-circle"></use></svg></a>
+        </li>
+    
+        
+                <li>
+            <a href="http://www.twitter.com/burghfoodtour"
+                data-dms-partner-id="169753" data-dms-partner-name="'Burgh Bits and Bites Food Tour" data-dms-category-id="3461" data-dms-category-name="Family Fun" data-dms-entry-id="1372127"
+                data-dms-partner-detail-twitter-click               target="_blank"
+               rel="noopener"><svg class="icon icon-twitter-x-circle"
+                                                aria-label="Twitter"
+                                role="image"
+                    ><use href="#twitter-x-circle"></use></svg></a>
+        </li>
+    
+        
+        
+        </ul>
+    </div>
+                                </div>
+
+                                                                                                        
+                                                                                                
+                                                                                                    <div class="detail__summary">
+                                        <div class="text--content lobotomize--level links">
+                                                                                                                                        <p>Connecting people to communities through food. ‘Burgh Bits and Bites Food Tour is a food tasting adventure and historic walking tour of Pittsburgh neighborhoods.</p><p>Enjoy a historic narrative of the area along with a sampling of cuisine from some of Pittsburgh's best small local businesses and eateries.</p><p>Tours available in the Strip District-Pittsburgh's historic market district, Lawrenceville, Northside, Brookline, South Side and Oakland. Harmony and Saxonburg tours available in Butler County.<br /><br />Whether you are visiting from out of town or a native of the Pittsburgh area, our goal is to make your tour an enriching, educational, and most of all - a delightful, tasty adventure!</p>
+                                                                                    </div>
+                                    </div>
+                                
+                                                                                                
+                                                                                            </div><!-- .detail__overview -->
+                        </div><!-- .col -->
+
+                                                <div class="col col--xs-12 col--desktop-6 col--desktop-full-height m--xs-t4 m--desktop-t0 detail__slider-col">
+                            
+
+        
+
+                                                                
+            <div class="gallery-slider  detail__gallery-slider" data-flickity-wrapper>
+            <div class="gallery-slider__inner slides slides--dark"
+                 data-gallery data-flickity-slider="gallery-slider">
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fbb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=1c094daf104c98ee4a0c4187a20a0e00"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fbb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=1c094daf104c98ee4a0c4187a20a0e00"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fbb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=4c6b1fb7435a6e080a7062aa2fb49315 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fbb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=ccbb3b896dd64bf45130dbf9bef3db4f 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fbb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=d3b7fbc1ab3c19a80e63ada07e2a5a2f 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fbb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=b6d82d4d2809f5449b66eab11eadf3de 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fbb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=7f3b891aa4c7a2863950c96f8bb10c15 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fbb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=c7b8292a39641bd80757c3f38903fccc 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fbb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=bbe801b5f55a54944ba19becc29cf030 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fbb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=d170988b3fb86c677082f0f70249de58 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fbb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=03fe8ebafb765021aeafd9299670dd39 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F88290c7d-38d0-49ce-973e-d64e46738f01.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=b9432440bc5e32b7c337af64568b72f9"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F88290c7d-38d0-49ce-973e-d64e46738f01.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=b9432440bc5e32b7c337af64568b72f9"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F88290c7d-38d0-49ce-973e-d64e46738f01.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=4ebcd38e8cf185e5aaa519c072869c3d 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F88290c7d-38d0-49ce-973e-d64e46738f01.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=949f06b5d94892cd7ea9301b498a4bc8 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F88290c7d-38d0-49ce-973e-d64e46738f01.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=05e7fcef9e1ae42ee38fabbdca7b82ed 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F88290c7d-38d0-49ce-973e-d64e46738f01.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=90adec25bfed8047934ddff74689539e 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F88290c7d-38d0-49ce-973e-d64e46738f01.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=4f0c1abe4011ee2b4d3f446efab518c7 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F88290c7d-38d0-49ce-973e-d64e46738f01.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=e477498c2de59c5693803b6fef39e567 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F88290c7d-38d0-49ce-973e-d64e46738f01.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=cd8261f107f73a6d938274d91d37c307 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F88290c7d-38d0-49ce-973e-d64e46738f01.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=c40a8da28ef5c9136b03b66a976d5266 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F88290c7d-38d0-49ce-973e-d64e46738f01.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=070de0308572f65d7bb4c7953b33d3d1 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F204018f7-1335-4dbd-86d1-7e1c567d449a.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=fbe2d07f5e9937264f5cc6e420ba04ce"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F204018f7-1335-4dbd-86d1-7e1c567d449a.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=fbe2d07f5e9937264f5cc6e420ba04ce"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F204018f7-1335-4dbd-86d1-7e1c567d449a.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=2fe32f74d7a1ca87f534ac66d383ca18 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F204018f7-1335-4dbd-86d1-7e1c567d449a.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=04dfabe5f8ef4157a00f48dbb710a077 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F204018f7-1335-4dbd-86d1-7e1c567d449a.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=246155c22820275865fdcd0e71853c6f 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F204018f7-1335-4dbd-86d1-7e1c567d449a.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=ae88f18229933cd419f7e960aec27b94 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F204018f7-1335-4dbd-86d1-7e1c567d449a.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=2cde1c26c50c69a52dee0ac9f0f2ba7b 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F204018f7-1335-4dbd-86d1-7e1c567d449a.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=62c746841a1aac5067a4b7687cb40056 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F204018f7-1335-4dbd-86d1-7e1c567d449a.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=5777db236ce3c8dcef5430fda1d4f6f9 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F204018f7-1335-4dbd-86d1-7e1c567d449a.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=ab3edac4b0c6c52519a2db8b697f7818 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F204018f7-1335-4dbd-86d1-7e1c567d449a.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=0634fd515e69035c9dd132fe7f9ef17b 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fe2934042-6062-4cf6-8ccb-c65ab83de4f6.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=96f8255c81922b66ba3c450aeed93de4"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fe2934042-6062-4cf6-8ccb-c65ab83de4f6.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=96f8255c81922b66ba3c450aeed93de4"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fe2934042-6062-4cf6-8ccb-c65ab83de4f6.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=858c79b297faf714df3fda7736d940cb 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fe2934042-6062-4cf6-8ccb-c65ab83de4f6.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=ac8ec543b4e49731a12a1437d97de1ac 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fe2934042-6062-4cf6-8ccb-c65ab83de4f6.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=019c660e6f3e1ad2a4b1323b6ff2e8a1 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fe2934042-6062-4cf6-8ccb-c65ab83de4f6.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=a261671bad0f1a43ec198a1a6431989f 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fe2934042-6062-4cf6-8ccb-c65ab83de4f6.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=773d64518c283adeb2cd8b9c3a195086 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fe2934042-6062-4cf6-8ccb-c65ab83de4f6.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=a9da480af9e158e76f3331e4a056a754 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fe2934042-6062-4cf6-8ccb-c65ab83de4f6.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=e726cc6759f834f912901410c92b3ea7 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fe2934042-6062-4cf6-8ccb-c65ab83de4f6.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=d420a48679bdcf55a7537f0db2fd4542 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fe2934042-6062-4cf6-8ccb-c65ab83de4f6.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=e5128bc2a97f7a0bc809fcdf7904b70e 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Feb2adb3a-8306-45bb-b91d-db03b59a9b22.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=8e5860907f9c00bfd2286d187dbbd252"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Feb2adb3a-8306-45bb-b91d-db03b59a9b22.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=8e5860907f9c00bfd2286d187dbbd252"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Feb2adb3a-8306-45bb-b91d-db03b59a9b22.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=fce74e6640f9a7a772c5a65d1dabdbe6 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Feb2adb3a-8306-45bb-b91d-db03b59a9b22.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=7339eded0a159f2a7e513b4a8a51b863 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Feb2adb3a-8306-45bb-b91d-db03b59a9b22.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=b98f6a30d76e09e35a90e2a4a8f2066f 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Feb2adb3a-8306-45bb-b91d-db03b59a9b22.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=d60f0fddaac160f3813f658f4df1f56a 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Feb2adb3a-8306-45bb-b91d-db03b59a9b22.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=4d3e83a7fc304cc62817704801806e5d 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Feb2adb3a-8306-45bb-b91d-db03b59a9b22.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=8858c193a32ba83aea9e85d9926e7f0b 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Feb2adb3a-8306-45bb-b91d-db03b59a9b22.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=29facc5eee3c9819125d02c6242846e4 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Feb2adb3a-8306-45bb-b91d-db03b59a9b22.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=460c5ddecbe9fe6811ef56195c5aff9b 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Feb2adb3a-8306-45bb-b91d-db03b59a9b22.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=0067859ae343c97280889520e8f8bcf8 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F3726f921-90ad-4f35-9f96-1905201b1ae4.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=e2796fc4d1a73772e00aca02e85343fa"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F3726f921-90ad-4f35-9f96-1905201b1ae4.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=e2796fc4d1a73772e00aca02e85343fa"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F3726f921-90ad-4f35-9f96-1905201b1ae4.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=8a58c2abb6ced57f99f985a8e11f4aea 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F3726f921-90ad-4f35-9f96-1905201b1ae4.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=07b3a56c6b3063a81b146b52d19da589 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F3726f921-90ad-4f35-9f96-1905201b1ae4.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=6386e72a5a9a5654e7d330049e687a19 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F3726f921-90ad-4f35-9f96-1905201b1ae4.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=c84069e1084b80b217e246035467766c 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F3726f921-90ad-4f35-9f96-1905201b1ae4.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=8bf7383892419bf8d37d5038d79e7aa4 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F3726f921-90ad-4f35-9f96-1905201b1ae4.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=d30acda26b3cfd6c571a26dbfca8b4e2 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F3726f921-90ad-4f35-9f96-1905201b1ae4.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=d7761261ad920b84b4e2bd138561d464 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F3726f921-90ad-4f35-9f96-1905201b1ae4.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=e2a94df10213e2113c8ad6642a47d209 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F3726f921-90ad-4f35-9f96-1905201b1ae4.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=4f5854e0c2a314352acac4a5739ae5f0 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F2f90247a-9716-4e81-9cda-d9d837e3009f.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=be99de0d0f064c803b3313571540d515"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F2f90247a-9716-4e81-9cda-d9d837e3009f.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=be99de0d0f064c803b3313571540d515"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F2f90247a-9716-4e81-9cda-d9d837e3009f.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=7eb90c296803d25d1392e1cd49d50664 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F2f90247a-9716-4e81-9cda-d9d837e3009f.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=4bf15bbb3c52237f34609ce4a735e0b8 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F2f90247a-9716-4e81-9cda-d9d837e3009f.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=acc781941a8984795b1f59bc26c0967f 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F2f90247a-9716-4e81-9cda-d9d837e3009f.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=b38988c16fda44a938cb8c133459a450 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F2f90247a-9716-4e81-9cda-d9d837e3009f.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=954eb8525a6727f7bf6d6f3f17a6c191 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F2f90247a-9716-4e81-9cda-d9d837e3009f.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=f812ef8cd57f0d9b8289965ef8fc7a4b 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F2f90247a-9716-4e81-9cda-d9d837e3009f.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=cf9d0e936cbbe881b51f6c93b88a7383 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F2f90247a-9716-4e81-9cda-d9d837e3009f.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=207dd0ddd1c08f191b81c6a745b34d27 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2F2f90247a-9716-4e81-9cda-d9d837e3009f.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=7a0236d84ee2d01cb219cd5d2d08a7d5 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fc57c4935-6d4a-4aab-894f-2e80d243a6df.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=50ac2dacd45a873fa30f21e1c48d8fb5"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fc57c4935-6d4a-4aab-894f-2e80d243a6df.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=50ac2dacd45a873fa30f21e1c48d8fb5"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fc57c4935-6d4a-4aab-894f-2e80d243a6df.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=6e59198afaf951785301c3ae606131a4 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fc57c4935-6d4a-4aab-894f-2e80d243a6df.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=517586f46dd961b8159233d3f0686039 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fc57c4935-6d4a-4aab-894f-2e80d243a6df.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=410f27cffe30596905188bfed40962ca 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fc57c4935-6d4a-4aab-894f-2e80d243a6df.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=43237e575052b98505d00f1e9a08285b 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fc57c4935-6d4a-4aab-894f-2e80d243a6df.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=43f545e930a3b888448327c5d8c5987a 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fc57c4935-6d4a-4aab-894f-2e80d243a6df.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=b50e25780d1cd491dba5525413f88d58 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fc57c4935-6d4a-4aab-894f-2e80d243a6df.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=c2f8da309589522dd84dcb278f940775 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fc57c4935-6d4a-4aab-894f-2e80d243a6df.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=33591b8bb39cfe6ea8ed3bfd1aabe159 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F048a7c25-af0f-4edb-9f53-43c4b4f8a7f1%2Fc57c4935-6d4a-4aab-894f-2e80d243a6df.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=a22d03c707849f7d42506543139d40e4 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F5ac80d65-51bd-4636-be4d-69b98b060cf1.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=f9693939a3b436fcab05cf6e04a65a0a"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F5ac80d65-51bd-4636-be4d-69b98b060cf1.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=f9693939a3b436fcab05cf6e04a65a0a"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F5ac80d65-51bd-4636-be4d-69b98b060cf1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=f8265292350a54fb2469e80d3e0c9a07 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F5ac80d65-51bd-4636-be4d-69b98b060cf1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=100281388026cf6f57e6be7ce10b3070 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F5ac80d65-51bd-4636-be4d-69b98b060cf1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=00c89c587f6707d3ac1d7cde4ee1e4b9 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F5ac80d65-51bd-4636-be4d-69b98b060cf1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=37c7ede89f98339916547c7874bf4da0 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F5ac80d65-51bd-4636-be4d-69b98b060cf1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=34a141fe1c1483edc9bc2a81264b3300 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F5ac80d65-51bd-4636-be4d-69b98b060cf1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=8b5413d6b66d216baad81a1c98b62553 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F5ac80d65-51bd-4636-be4d-69b98b060cf1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=2cde75de7f7c6884efecd29c16c9ca40 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F5ac80d65-51bd-4636-be4d-69b98b060cf1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=b77483cf6aa016377edc6aef6ed49847 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F5ac80d65-51bd-4636-be4d-69b98b060cf1.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=1a9f539c329fc309d85135be119dc52d 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F17b73917-ea46-49c7-b020-4c0fa6c666ad.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=22806e38561aa17af7676328696987ed"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F17b73917-ea46-49c7-b020-4c0fa6c666ad.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=22806e38561aa17af7676328696987ed"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F17b73917-ea46-49c7-b020-4c0fa6c666ad.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=03214bcb841cdfd0e19be82eec43f070 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F17b73917-ea46-49c7-b020-4c0fa6c666ad.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=355905385373c4da8b52e897f37c5b33 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F17b73917-ea46-49c7-b020-4c0fa6c666ad.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=52158037697dfc80995e89e41d716ed8 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F17b73917-ea46-49c7-b020-4c0fa6c666ad.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=07dba68c7fa98e47b09ae76a5b04cf92 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F17b73917-ea46-49c7-b020-4c0fa6c666ad.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=9ba80aea4c5de8511c81959f49273144 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F17b73917-ea46-49c7-b020-4c0fa6c666ad.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=a1fe71edd4b64ccb6c43cd24cd7a5d33 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F17b73917-ea46-49c7-b020-4c0fa6c666ad.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=90137cba94d2af80f59fe4bae7e71eb6 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F17b73917-ea46-49c7-b020-4c0fa6c666ad.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=40fc6e2929f0487dea03e48b79faca11 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F17b73917-ea46-49c7-b020-4c0fa6c666ad.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=7b3629ee9ff2326491bc0c151233c95e 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Ff54c6c35-5702-47dc-ac8c-95c873d609e7.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=60f41aa4b8990b37466b45d56eb29ef7"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Ff54c6c35-5702-47dc-ac8c-95c873d609e7.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=60f41aa4b8990b37466b45d56eb29ef7"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Ff54c6c35-5702-47dc-ac8c-95c873d609e7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=b487ea5cb3fb5a3d0f4b8398857757c3 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Ff54c6c35-5702-47dc-ac8c-95c873d609e7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=812a572b4a1568b6d3d3018830fd57ab 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Ff54c6c35-5702-47dc-ac8c-95c873d609e7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=6634ef234c2a9e76a218bd6bd4a2fcef 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Ff54c6c35-5702-47dc-ac8c-95c873d609e7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=b6f678713092d60efb08099bfae65688 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Ff54c6c35-5702-47dc-ac8c-95c873d609e7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=5ea01749ef4e78a6c7251a36f9c04025 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Ff54c6c35-5702-47dc-ac8c-95c873d609e7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=71693a32a48845f4b5c2643c399d357f 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Ff54c6c35-5702-47dc-ac8c-95c873d609e7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=4eb8f179d05adccc6cd6e14fbc7b8965 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Ff54c6c35-5702-47dc-ac8c-95c873d609e7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=7ce4a3aa87929ed49b6244b22784be8d 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Ff54c6c35-5702-47dc-ac8c-95c873d609e7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=401b2d06598c72d73be31c29631c35d3 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Fc983edf4-d82f-4fff-b61c-d4a78f599a35.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=9011d67aacb5dd7f58cc73e0f06839b2"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Fc983edf4-d82f-4fff-b61c-d4a78f599a35.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=9011d67aacb5dd7f58cc73e0f06839b2"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Fc983edf4-d82f-4fff-b61c-d4a78f599a35.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=2760f97481a65ffa907288ac450727ea 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Fc983edf4-d82f-4fff-b61c-d4a78f599a35.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=be024621444c3530e6f1b6e16a7f675f 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Fc983edf4-d82f-4fff-b61c-d4a78f599a35.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=53dbde0be17f1526b8ef1425f493d476 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Fc983edf4-d82f-4fff-b61c-d4a78f599a35.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=0b022facacf17cc7b544485b11ff4da3 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Fc983edf4-d82f-4fff-b61c-d4a78f599a35.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=3ee14b9f7d9a3b3a59412d1ec16b29e4 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Fc983edf4-d82f-4fff-b61c-d4a78f599a35.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=d61ffcbe1f2504dfbf3f3c779dc27f9c 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Fc983edf4-d82f-4fff-b61c-d4a78f599a35.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=544ef58858f5956ea7fba6a0bcbc14ea 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Fc983edf4-d82f-4fff-b61c-d4a78f599a35.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=8b01a14a793a3c8fe2cb5363b0e37428 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2Fc983edf4-d82f-4fff-b61c-d4a78f599a35.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=1528c042f1e1fd7a9d986624b21f73e3 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F350a9da9-b27d-4bda-b096-28475d9a9dd3.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=a56c6befbeba76dfbf251b2fc3e4b075"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F350a9da9-b27d-4bda-b096-28475d9a9dd3.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=a56c6befbeba76dfbf251b2fc3e4b075"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F350a9da9-b27d-4bda-b096-28475d9a9dd3.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=f164a50455a80370590b90726e732321 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F350a9da9-b27d-4bda-b096-28475d9a9dd3.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=844b6e2d9dd65af67875567a6e911d16 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F350a9da9-b27d-4bda-b096-28475d9a9dd3.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=1c64ca9aba28bf14b2c97cff57498968 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F350a9da9-b27d-4bda-b096-28475d9a9dd3.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=31b316e77830cb3dde3f017c353e2055 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F350a9da9-b27d-4bda-b096-28475d9a9dd3.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=90cbeb6d89b68ccc57a01474792bc392 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F350a9da9-b27d-4bda-b096-28475d9a9dd3.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=fe70c3cc781832b0674958b34dc0021a 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F350a9da9-b27d-4bda-b096-28475d9a9dd3.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=40e7898fe80a3e7aa37b4223f8e3cce2 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F350a9da9-b27d-4bda-b096-28475d9a9dd3.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=437b61793af4ee7f199a7abf67f6855b 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F350a9da9-b27d-4bda-b096-28475d9a9dd3.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=7dc3dc62689e0a716ec4a4a73b3d4e54 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F2a70f775-bda0-4dce-bc06-2f7bf6430d4e.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=2bf6cd798de112be04575b835982a5d7"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F2a70f775-bda0-4dce-bc06-2f7bf6430d4e.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=2bf6cd798de112be04575b835982a5d7"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F2a70f775-bda0-4dce-bc06-2f7bf6430d4e.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=f6a3db693f61cd882423fa65836e4204 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F2a70f775-bda0-4dce-bc06-2f7bf6430d4e.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=1c735b4a796fd460f7d72c6330addd4a 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F2a70f775-bda0-4dce-bc06-2f7bf6430d4e.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=26638e7c3b77a606b7c56df9ac0cf8e9 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F2a70f775-bda0-4dce-bc06-2f7bf6430d4e.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=be5d00ffb8513534cc2ce90c5f8429aa 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F2a70f775-bda0-4dce-bc06-2f7bf6430d4e.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=7a053662e4e9d9ca717b555187d5b2d4 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F2a70f775-bda0-4dce-bc06-2f7bf6430d4e.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=6bda843daceb1822579d04b23d376bfd 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F2a70f775-bda0-4dce-bc06-2f7bf6430d4e.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=502c6c81180b428c5b49395e5d985961 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F2a70f775-bda0-4dce-bc06-2f7bf6430d4e.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=093d037179d574ef73ec97a13bd24d55 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F1529a01f-6df8-4770-973c-840f62ca26a8%2F82e4dd84-2143-45aa-a8bb-c2d173c26ece%2F2a70f775-bda0-4dce-bc06-2f7bf6430d4e.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=346964a243f152f6bc69e3a874dd9709 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2Fbfe4e46c-d7fc-4716-87de-c537f1534a91.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=ac1e90a7639a59feee4f722298b189d2"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2Fbfe4e46c-d7fc-4716-87de-c537f1534a91.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=ac1e90a7639a59feee4f722298b189d2"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2Fbfe4e46c-d7fc-4716-87de-c537f1534a91.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=c89087f32656236182fd3a71763e96c9 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2Fbfe4e46c-d7fc-4716-87de-c537f1534a91.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=7e3d68f1332a79dba98fa2c8b3e62f98 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2Fbfe4e46c-d7fc-4716-87de-c537f1534a91.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=4a80cf6dc8c055d2a23bacdd70d39f8c 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2Fbfe4e46c-d7fc-4716-87de-c537f1534a91.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=0dc4cb5c43694baa1af2507d99cfd2d3 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2Fbfe4e46c-d7fc-4716-87de-c537f1534a91.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=258888304dab5074f73a4046b78daf31 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2Fbfe4e46c-d7fc-4716-87de-c537f1534a91.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=68dfd3fba79382746284393d80c776bd 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2Fbfe4e46c-d7fc-4716-87de-c537f1534a91.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=663789083e74a9100d7f97c1628229f0 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2Fbfe4e46c-d7fc-4716-87de-c537f1534a91.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=82ea0b89d3b0f6df337762a134c7d843 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2Fbfe4e46c-d7fc-4716-87de-c537f1534a91.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=b42148d0b5b7f7cae20c11560d5b67d9 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                                    <div class="tile tile--photo slide">
+                                                
+                        <a href="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F2de90bc3-946e-426e-a937-a8071f6735b7.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=9b952e31788152916596fe746bfb4ad9"
+                           class="tile__link"
+                           data-bp-item
+                           data-bp-gallery="[data-gallery]"
+                           data-bp-gallery-src="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F2de90bc3-946e-426e-a937-a8071f6735b7.jpg?auto=compress%2Cformat&amp;fit=max&amp;h=1080&amp;q=80&amp;w=1920&amp;s=9b952e31788152916596fe746bfb4ad9"
+                           data-caption="&#039;Burgh Bits and Bites Food Tour"
+                        >
+                                                        
+                                                        <div class="tile__image bg--image has-bg-pattern--sized  contained">
+                                <div class="lazyload lazyload--fade background-image" data-bgset="https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F2de90bc3-946e-426e-a937-a8071f6735b7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=9bc0623f9fc93e98a1a819f1ea537fbd 320w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F2de90bc3-946e-426e-a937-a8071f6735b7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=7c0bf128aa9761ee72d516564cdcdacf 540w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F2de90bc3-946e-426e-a937-a8071f6735b7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=1c75677b0554a283d4f9d4daa8a4f123 768w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F2de90bc3-946e-426e-a937-a8071f6735b7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=13e4242d5eaed388ac9c42b2f4fc49e4 1024w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F2de90bc3-946e-426e-a937-a8071f6735b7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=59ba005e5c989adb8908c9d7feb2b16b 1200w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F2de90bc3-946e-426e-a937-a8071f6735b7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=fbe958e22fc09155927a61e5e4609c2b 1440w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F2de90bc3-946e-426e-a937-a8071f6735b7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=8476f4f0ffc09f827ae60c93dfea8532 1920w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F2de90bc3-946e-426e-a937-a8071f6735b7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=218e959fe73965bcd0a67d971d7ec76b 2560w, https://idss-proxy.imgix.net/https%3A%2F%2Ffiles.idss.com%2FC32%2F2de90bc3-946e-426e-a937-a8071f6735b7.jpg?auto=compress%2Cformat&amp;bg=%23ffffff&amp;fit=max&amp;fm=jpg&amp;optimizeType=runtime&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=de1fb8815e1a5acaf69617b588456f35 3840w" style="background-position: 50% 50%;" role="img"></div><!-- .imageBackgroundLoader --><div class="image-overlay"></div>
+
+                                                                                            </div>
+                        </a>
+                    </div>
+                            </div>
+            <div class="gallery-slider__save">
+    <div class="gallery-slider__save-wrap">
+        <div class="gallery-slider__save-bg"> </div>
+        <div class="gallery-slider__save-inner">
+                        <button data-href="https://www.visitpittsburgh.com/index.php?p=actions/tempest-itinerary/items/add-item"
+                type="button"
+                aria-label="Save to your saved items"
+                class="icon-button hover-label"
+                data-entry-id="1372127"
+                data-type="itinerary"
+                data-text-before="Save"
+                data-text-after="Saved"
+                data-save-btn
+        ><svg class="icon icon-heart-outline"
+                                                aria-label="heart outline icon"
+                                role="image"
+                    ><use href="#heart-outline"></use></svg><svg class="icon icon-heart"
+                                                aria-label="heart icon"
+                                role="image"
+                    ><use href="#heart"></use></svg><span class="hover-label__label" data-saved-item-text>Save</span></button>
+                            <div class="is-hidden" data-map-info="1372127" hidden><div class="map-infowindow bg--none bg--light lobotomize--level text--center"><p class="lobotomize text--content"><span data-mapinfo-title class="map-infowindow__title">&#039;Burgh Bits and Bites Food Tour</span><span class="map-infowindow__summary">Pittsburgh, Pennsylvania <br /></span></p><div class="btns"><div class="btns__inner"><a href="https://www.visitpittsburgh.com/directory/burgh-bits-and-bites-food-tour-family-fun/" aria-label="Read More about: &#039;Burgh Bits and Bites Food Tour" class="btn btn--small">Details</a><a href="http://maps.google.com/?q=Pittsburgh%2C%20Pennsylvania%20%0A"
+                       class="btn btn--small btn--link"
+                       target="_blank"
+                       rel="noopener">Open in Google Maps
+                    </a></div></div></div></div>
+    <button type="button"
+            aria-controls="imap"
+            class="icon-map icon-button hover-label"
+            data-imap-point="1372127"
+            data-marker-lat="40.438511"
+            data-marker-lng="-79.997337"
+            data-marker-title="&amp;#039;Burgh Bits and Bites Food Tour"
+            aria-label="show map"
+    ><svg class="icon icon-location"
+                                                aria-label="location icon"
+                                role="image"
+                    ><use href="#location"></use></svg><span class="hover-label__label">Map</span>
+    </button>        </div>
+    </div>
+</div>
+
+
+<div class="gallery-slider__zoom">
+    <div class="gallery-slider__zoom-wrap"><svg class="icon icon-expand detail__gallery-slider"
+                                                aria-label="expand icon"
+                                role="image"
+                    ><use href="#expand"></use></svg><span>Full View</span>
+    </div>
+</div>
+        </div>
+    
+                    <div class="detail__secondary-inner row">
+                                                                                                                                <div class="col col--xs-12 col--mid-5  col--desktop-full-height m--xs-t1 m--desktop-t0">
+                                                            <div class="detail__map">
+                                    <a href="https://www.google.com/maps?q=40.438511,-79.997337&z=17"
+                                       aria-label="open location in Google Maps"
+                                       target="_blank"
+                                       rel="noopener">
+                                        <img src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyBi3YxxE-giQNXkNfePmdkE900XP9tW4qY&zoom=14&size=640x640&scale=2&markers=color:red%7C40.438511,-79.997337"
+                                             alt="Mapped location of &#039;Burgh Bits and Bites Food Tour"
+                                             class="area-map area-map--event" />
+                                    </a>
+
+                                    <div class="image-overlay"></div>
+                                </div>
+                        </div><!-- .col -->
+                                                <div class="col col--xs-12  col--mid-7  col--desktop-full-height m--xs-t1 m--desktop-t0 detail__slider-col">
+                            <div class="detail__secondary-content">
+                                                                                                                                                                    <div class="detail__meta detail__info-blocks">
+                                                                                
+                                        <div class="detail__info-block text--content lobotomize--level margin-clear">
+                                                <div class="lobotomize--level">
+                                                    <a href="tel:+1-412-901-7150" target="_blank" rel="noopener">(412) 901-7150</a>
+                                                </div>
+                                            </div></div>
+                                
+                                                                                                                            </div>
+                        </div><!-- .col -->
+                    </div><!-- .row -->
+
+                        </div><!-- .col -->
+                    </div><!-- .row -->
+
+                </div><!-- .layout -->
+            </div><!-- .detail__primary -->
+
+
+            <div class="detail__secondary bg--none bg--light layout--spaced-v layout--fluid-h">
+                <div class="layout--wide">
+
+
+
+                        
+                </div><!-- .layout -->
+            </div><!-- .detail__secondary -->
+            <div class="detail__bottom bg--none bg--light layout--spaced-v layout--fluid-h">
+                <div class="layout--wide">
+                                    
+
+                                        </div><!-- .layout -->
+            </div><!-- .detail__bottom -->
+
+
+                        
+                                    
+                                    
+                                    
+                                    
+            
+
+
+    
+
+
+
+
+
+
+        </article>
+    </main>
+
+                </div>
+
+                <footer class="page-footer bg--no-collapse bg--none">
+        <div class="page-footer__actions layout--fluid-h bg--light bg--yellow m--desktop-t2">
+
+                        
+                                		
+                    <div
+                class="page-footer__action layout--wide">
+                                        <a class="page-footer__action-image" href="https://www.visitpittsburgh.com/plan-your-trip/visitors-guide/"  >
+                            <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E"
+                                                                                                data-sizes="auto"
+                                    data-srcset="https://visit-pittsburgh.imgix.net/images/Pittsburgh-InsidersGuide-2025-Cover.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=fa32beb83e14214ed5095b138642bde5 320w, https://visit-pittsburgh.imgix.net/images/Pittsburgh-InsidersGuide-2025-Cover.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=ceff117f88243ea9ad57da0ab106daa3 540w, https://visit-pittsburgh.imgix.net/images/Pittsburgh-InsidersGuide-2025-Cover.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=0d4a511e82bf08d2120120b6669e3a37 600w"
+                                                                        width="600"
+                                    height="768"
+                                                                                         style="background-position: 50% 50%;"                             class="lazyload lazyload--fade" alt="Plan Your Trip with the new Pittsburgh Insider&#039;s Guide" />                        </a>
+                                    <div class="page-footer__action-inner text--content">                        <a class="page-footer__action-heading" href="https://www.visitpittsburgh.com/plan-your-trip/visitors-guide/"  >
+                            <h2>Plan Your Trip with the new Pittsburgh Insider's Guide</h2>
+                        </a>
+                    <div class="page-footer__action-button">
+                        
+
+
+    <a class="btn btn--alt-2 btn--has-icon" href="https://www.visitpittsburgh.com/plan-your-trip/visitors-guide/" >Start Planning<svg class="icon icon-right-arrow-alt"
+                                                aria-label="right arrow icon"
+                                role="image"
+                    ><use href="#right-arrow-alt"></use></svg></a></div>
+                </div>
+            </div>
+            </div>
+
+        <div class="page-footer__main layout--fluid-h bg--dark  bg--black ">
+        <div class="layout--wide">
+            <div class="page-footer__inner row">
+                                <div class="page-footer__main-links col--xs-12 col--md-4">
+                                            <ul class="page-footer__nav page-footer__primary">
+                            <li class="nav__item "><div class="nav__item-wrap"><a href="/contact-us/"
+                              class="nav__link">Contact Us</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/privacy/"
+                              class="nav__link">Privacy</a></li><li class="nav__item "><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/blog/"
+                              class="nav__link">Blog</a></li><li class="nav__item has-children"><div class="nav__item-wrap"><a href="https://www.visitpittsburgh.com/about-us/"
+                              class="nav__link">About Us</a></li>
+                        </ul>
+                                    </div>
+
+                                <div class="page-footer__home col col--xs-12 col--md-4">
+
+                    <a href="https://www.visitpittsburgh.com/" class="page-footer__logo" aria-label="Home">
+
+                                                    <img src="/svg/PGH_logo-wht.svg" width="542" height="96" />
+                                            </a>
+
+
+                </div>
+
+                <div class="page-footer__info col col--xs-12 col--md-4">
+
+                                                                                    <div class="page-footer__text"><p>120 Fifth Avenue<br />Fifth Avenue Place<br />Suite 2800<br />Pittsburgh, PA 15222</p>
+<p><strong>(412) 281-7711<br />Toll Free: (877) 568-3744</strong></p></div>
+                    
+                </div>
+            </div>
+            <div class="page-footer__lower">
+                                        
+                                    <div class="page-footer__social">
+                        <ul class="page-social"><li><a href="https://www.facebook.com/VisitPittsburgh/" target="_blank" rel="noopener"><svg class="icon icon-facebook"
+                                                aria-label="Facebook"
+                                role="image"
+                    ><use href="#facebook"></use></svg></a></li><li><a href="https://www.instagram.com/visitpittsburgh/" target="_blank" rel="noopener"><svg class="icon icon-instagram"
+                                                aria-label="Instagram"
+                                role="image"
+                    ><use href="#instagram"></use></svg></a></li><li><a href="https://www.youtube.com/channel/UChtK_mzDRJokXAQoS6gFNnQ" target="_blank" rel="noopener"><svg class="icon icon-youtube"
+                                                aria-label="YouTube"
+                                role="image"
+                    ><use href="#youtube"></use></svg></a></li><li><a href="https://www.pinterest.com/visitpittsburgh/" target="_blank" rel="noopener"><svg class="icon icon-pinterest"
+                                                aria-label="Pinterest"
+                                role="image"
+                    ><use href="#pinterest"></use></svg></a></li></ul>                    </div>
+
+                                                                                                                                    <div class="page-footer__copyright">
+                            <p>©️2025 Visit Pittsburgh. All Rights Reserved. <a href="https://www.visitpittsburgh.com/privacy/">Privacy Policy</a></p>
+                        </div>
+                                        </div>
+
+                    </div>
+                </div>
+     <div class="page-footer__partners layout--wide">
+                
+                                                                <a href="https://www.visitpa.com/" target="_blank" rel="noopener" class="visit-pa"><img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E"
+                                                                                                data-sizes="auto"
+                                    data-srcset="https://visit-pittsburgh.imgix.net/images/Icons/visitpa.jpg?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=6342ccc063b9f4bef9e7be527d8992a1 210w"
+                                                                        width="210"
+                                    height="240"
+                                                                                         style="background-position: 50% 50%;"                             class="lazyload lazyload--fade" alt="" /></a>
+
+        
+                                                                <a href="https://www.visittheusa.com/" target="_blank" rel="noopener" class="brand-usa"><img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E"
+                                                                                                data-sizes="auto"
+                                    data-srcset="https://visit-pittsburgh.imgix.net/images/Icons/usa-logo.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=b67c0645fc76dac1c62a2e4080cc6396 107w"
+                                                                        width="107"
+                                    height="59"
+                                                                                         style="background-position: 50% 50%;"                             class="lazyload lazyload--fade" alt="" /></a>
+
+        
+                                                                <a href="https://destinationsinternational.org/" target="_blank" rel="noopener" class="destinations-international"><img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E"
+                                                                                                data-sizes="auto"
+                                    data-srcset="https://visit-pittsburgh.imgix.net/images/Icons/di-logo.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=cd3ef0ecd85a32ef658d2d0398903556 233w"
+                                                                        width="233"
+                                    height="60"
+                                                                                         style="background-position: 50% 50%;"                             class="lazyload lazyload--fade" alt="" /></a>
+
+        
+                                                                <a href="http://www.trustyou.com/" target="_blank" rel="noopener" class="trust-you"><img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E"
+                                                                                                data-sizes="auto"
+                                    data-srcset="https://visit-pittsburgh.imgix.net/images/Icons/trustyou-logo.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=320&amp;s=4e4e62ceae62f51da9d40fb8d30f7ef1 320w, https://visit-pittsburgh.imgix.net/images/Icons/trustyou-logo.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=540&amp;s=946d8ba291ad663d1d1c65498a5b5d00 540w, https://visit-pittsburgh.imgix.net/images/Icons/trustyou-logo.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=768&amp;s=c3909078ba6859bf2525b23cb8950592 768w, https://visit-pittsburgh.imgix.net/images/Icons/trustyou-logo.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=1024&amp;s=dbbbac28be2132d3dc0f8e506c1b421e 1024w, https://visit-pittsburgh.imgix.net/images/Icons/trustyou-logo.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=1200&amp;s=5024c2ab10fbeb685baa05ae2c126e97 1200w, https://visit-pittsburgh.imgix.net/images/Icons/trustyou-logo.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=1440&amp;s=f2a1e8b590974eb10a33978b466e4735 1440w, https://visit-pittsburgh.imgix.net/images/Icons/trustyou-logo.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=1920&amp;s=178c506f80a122c1cde444b12f64c3f9 1920w, https://visit-pittsburgh.imgix.net/images/Icons/trustyou-logo.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=2560&amp;s=abd01ec3f710792e195449e39ecb333f 2560w, https://visit-pittsburgh.imgix.net/images/Icons/trustyou-logo.png?auto=compress%2Cformat&amp;fit=max&amp;position=50%2050&amp;q=80&amp;w=3840&amp;s=5b560c0d2b9d0be35d073ddc6b17dcd8 3213w"
+                                                                        width="3213"
+                                    height="604"
+                                                                                         style="background-position: 50% 50%;"                             class="lazyload lazyload--fade" alt="" /></a>
+
+             </div>
+</footer>
+    
+        
+    <div data-cookie-consent
+         class="msg msg--popover msg--ribbon bg--yellow  lobotomize text--content links text--right"
+         role="dialog"
+         aria-live="polite"
+         hidden
+    >
+        <p class="text--left">This site uses cookies to enhance your experience.
+
+            
+
+</p>
+        <button data-cookie-consent-close class="btn btn--alt" type="button">Accept</button>
+    </div>
+
+        
+
+
+<div
+    class="modal modal--eb experience-builder bg--no-collapse"
+    data-experience-builder    data-modal="experience-builder"
+        role="dialog"
+    aria-modal="true"
+    hidden
+>
+    <div class="modal__inner" data-modal-focus>
+                                        <h2 class="show-for-sr">Experience Builder</h2>
+        
+                    <svg width="0" height="0" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="inverted-curve-svg" clipPathUnits="objectBoundingBox">
+      <path d="M 0.3,0 L 1,0 L 1,1 L 0,1 Q 0.30,1 0.3,0.5 L 0.3,0 Z"></path>
+    </clipPath>
+  </defs>
+</svg>
+
+<svg width="0" height="0" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="curve-svg" clipPathUnits="objectBoundingBox">
+      <path d="M 0,0 L 0.3,0 L 0.3,0.502 C 0.306,0.87 0.174,1 0,1 L 0,1 L 0,0 L 0,0 Z"></path>
+    </clipPath>
+  </defs>
+</svg>
+
+                <div class="modal__content experience-builder__content" data-eb-content>
+
+            
+                            
+                    </div>
+
+                
+                                <button type="button"
+                    data-modal-close
+                    class="close-button modal__close"
+                    aria-label="Close">
+                <svg class="icon icon-ex"
+                                            role="presentation"
+                    ><use href="#ex"></use></svg>            </button>
+            </div>
+
+            <div class="eb__bg experience-builder__bg experience-builder__bg--default">
+        </div>
+
+        <div class="experience-builder__image" data-eb-image-desktop></div>
+    
+    </div>
+
+        
+
+
+<div
+    class="modal modal--quick-search quick-search  bg--no-collapse"
+    data-quick-search    data-modal="quick-search"
+        role="dialog"
+    aria-modal="true"
+    hidden
+>
+    <div class="modal__inner" data-modal-focus>
+                                        <h2 class="show-for-sr">Quick Search</h2>
+        
+                
+                <div class="modal__content quick-search__content">
+
+            
+                            <div class="quick-search__main layout--spaced-v-modal  bg--dark">
+        <div class="quick-search__bg"></div>
+                <div class="quick-search__inner"
+             role="search"
+             data-search-placeholder="Search this site..."
+        >
+            <div class="layout--search">
+                <div class="quick-search__bar row row-xs--center row-xs--bottom">
+                    <div class="quick-search__input-col col col--xs-12 col--desktop-fluid">
+                        <div class="quick-search__input-holder search-input" data-quick-search-input-holder><svg class="icon icon-search"
+                                                aria-label="search icon"
+                                role="image"
+                    ><use href="#search"></use></svg></div>
+                    </div>
+                    <div class="quick-search__submit-col col col--xs-12 col--desktop-fixed m--xs-t1 m--desktop-t0 col--xs-center col--desktop-end bg--light">
+                        <a href="/search/" class="btn" data-full-search-link>Full Search</a>
+                    </div>
+                </div>
+                <div class="quick-search__hits" data-quick-search-hits></div>
+            </div>
+        </div><!-- .quick-search__inner -->
+    </div><!-- .quick-search__main -->
+
+        
+                    </div>
+
+                
+                                <button type="button"
+                    data-modal-close
+                    class="close-button modal__close"
+                    aria-label="Close">
+                <svg class="icon icon-ex"
+                                            role="presentation"
+                    ><use href="#ex"></use></svg>            </button>
+            </div>
+
+    
+    </div>
+
+        
+
+
+<div
+    class="modal modal--full bg--gray3 bg--no-collapse imap"
+    data-imap    data-modal="imap"
+        role="dialog"
+    aria-modal="true"
+    hidden
+>
+    <div class="modal__inner" data-modal-focus>
+                                        <h2 class="show-for-sr">Location Map</h2>
+        
+                
+                <div class="modal__content layout--fluid-h imap__content">
+
+            
+                            <div class="imap__map" data-imap-map></div>
+
+                    </div>
+
+                
+                                <button type="button"
+                    data-modal-close
+                    class="close-button modal__close"
+                    aria-label="Close">
+                <svg class="icon icon-ex"
+                                            role="presentation"
+                    ><use href="#ex"></use></svg>            </button>
+            </div>
+
+    
+    </div>
+
+            <!-- BOTTOM BODY ANALYTICS -->
+    
+    
+                
+
+<script>
+    window.iconSpriteHash = '1746159435'
+    window.searchAppId = 'EYQHJ2IY2M'
+    window.searchApiKey = 'c6d5977cb5cd80c09abfd2a7e5d9e88b'
+    window.searchIndexName = 'prod-visit-pittsburgh'
+            window.csrfTokenName = 'CRAFT_CSRF_TOKEN'
+        window.csrfTokenValue = '1LXp_L19Vv6qrUP7vZdBVfWjNHu40X80IViw_4petWEhCd7n\u002DBFJ56Tavq3fT3uam_c0rsrEAg2jkWYh15w3ZXkUxajJD4UqSkqql6p_Ook\u003D'
+        window.isMobile = false
+        window.mapsKey = 'AIzaSyBi3YxxE\u002DgiQNXkNfePmdkE900XP9tW4qY'
+        window.timezone = 'America\/New_York'
+        window.locationLat = '40.440624'
+        window.locationLng = '\u002D79.995888'
+    </script>
+
+        <script nomodule src="/dist/scripts/polyfills.min.1699745533.js"></script>
+            <script src="/dist/scripts/main.min.1746159435.js"></script>
+    <script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"TouristInformationCenter","description":"Connecting people to communities through food. ‘Burgh Bits and Bites Food Tour is a food tasting adventure and historic walking tour of Pittsburgh","image":{"@type":"ImageObject","url":"https://idss-proxy.imgix.net/https://files.idss.com/C32/048a7c25-af0f-4edb-9f53-43c4b4f8a7f1/bb4d7862-d997-4f4b-b61b-1389b917e1a1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=min&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=e55a0c16f4661986c6c47ce246bb1eeb"},"mainEntityOfPage":"/directory/burgh-bits-and-bites-food-tour/","name":"'Burgh Bits and Bites Food Tour","url":"https://www.visitpittsburgh.com/directory/burgh-bits-and-bites-food-tour/"},{"@id":"https://www.visitpittsburgh.com/#identity","@type":"Organization","address":{"@type":"PostalAddress","addressCountry":"US","addressLocality":"Pittsburgh","addressRegion":"Pennsylvania","postalCode":"15222","streetAddress":"120 Fifth Avenue, Fifth Avenue Place, Suite 2800"},"description":"The official travel information website for Pittsburgh, PA.","email":"info@visitpittsburgh.com","image":{"@type":"ImageObject","height":"122","url":"https://visit-pittsburgh-2023.s3.amazonaws.com/images/Icons/PGH_logo-horz-blk.svg?v=1696270804","width":"636"},"logo":{"@type":"ImageObject","height":"60","url":"https://visit-pittsburgh-2023.s3.amazonaws.com/images/Icons/_600x60_fit_center-center_82_none/1034594/PGH_logo-horz-blk.jpg?v=1746124286","width":"313"},"name":"Visit Pittsburgh","sameAs":["https://www.facebook.com/VisitPittsburgh/","https://www.instagram.com/visitpittsburgh/","https://www.youtube.com/channel/UChtK_mzDRJokXAQoS6gFNnQ","https://www.pinterest.com/visitpittsburgh/"],"telephone":"+1-412-281-7711","url":"https://www.visitpittsburgh.com/"},{"@id":"https://www.visitpittsburgh.com/#creator","@type":"Organization","address":{"@type":"PostalAddress","addressCountry":"US","addressLocality":"Pittsburgh","addressRegion":"Pennsylvania","postalCode":"15222","streetAddress":"120 Fifth Avenue, Fifth Avenue Place, Suite 2800"},"description":"The official travel information website for Pittsburgh, PA.","email":"info@visitpittsburgh.com","image":{"@type":"ImageObject","height":"122","url":"https://visit-pittsburgh-2023.s3.amazonaws.com/images/Icons/PGH_logo-horz-blk.svg?v=1696270804","width":"636"},"logo":{"@type":"ImageObject","height":"60","url":"https://visit-pittsburgh-2023.s3.amazonaws.com/images/Icons/_600x60_fit_center-center_82_none/1034594/PGH_logo-horz-blk.jpg?v=1746124286","width":"313"},"name":"Visit Pittsburgh","telephone":"+1-412-281-7711","url":"https://www.visitpittsburgh.com/"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://www.visitpittsburgh.com/","name":"Home","position":1},{"@type":"ListItem","item":"https://www.visitpittsburgh.com/directory/burgh-bits-and-bites-food-tour-family-fun/","name":"'Burgh Bits and Bites Food Tour","position":2}],"name":"Breadcrumbs"}]}</script></body>
+</html>
