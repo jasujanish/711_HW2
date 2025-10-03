@@ -7,20 +7,21 @@ import os
 import re
 import faiss
 import spacy
-from rank_bm25 import BM250kapi
+from rank_bm25 import BM25Okapi
 
-embed_model = SentenceTransformer('sentence-transformer/all-MiniLM-L6-v2')
+embed_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
-lm_model_name = "google/flan-t5-small"  # other options "t5-small" or "facebook/bart-base"
+lm_model_name = "gpt2"  
 tokenizer = AutoTokenizer.from_pretrained(lm_model_name)
-lm_model = AutoModelForSeq2SeqLM.from_pretrained(lm_model_name)
+lm_model = AutoModelForCausalLM.from_pretrained(lm_model_name, torch_dtype = torch.float32)
 lm_model.eval() 
 
-tokenizer.pad_token = tokenizer.eos_token
+if tokenizer.pad_token is None:
+    tokenizer.pad_token = tokenizer.eos_token
 
 documents = []
 #folder path needs to be path to folder containing all scraped .txt files
-folder_path = '/path/to/folder/'
+folder_path = 'text_outputs'
 for filename in os.listdir(folder_path):
     if filename.endswith('.txt'):
         file_path = os.path.join(folder_path, filename)
@@ -60,7 +61,7 @@ for doc in documents:
     chunks = semantic_chunk_text(doc, chunk_size = c_size, overlap = c_overlap, keyword = c_keyword)
     all_chunks.extend(chunks)
 
-chunk_embeddings = embed_model.encode(all_chunks, prompt_name='query')
+chunk_embeddings = embed_model.encode(all_chunks, convert_to_numpy=True)
 
 #dense retrieval function
 def dense_retrieve(query: str, mode: str = 'top', k: int = 3, threshold: float = 0.7, metric: str='cosine', normalize: bool = True) -> List[Tuple[str, float]]:
@@ -110,7 +111,7 @@ index = faiss.IndexFlatIP(d)
 index.add(xb)
 
 def faiss_retrieve(query: str, mode: str = 'top', k: int =3, threshold: float = 0.7):
-    query_embedding = embed_model.encode([query], prompt_name="query").astype("float32")
+    query_embedding = embed_model.encode([query], convert_to_numpy=True, normalize_embeddings=False).astype("float32")
     faiss.normalize_L2(query_embedding)
     scores, indices = index.search(query_embedding, k)
     if mode == 'top':
@@ -131,7 +132,7 @@ def faiss_retrieve(query: str, mode: str = 'top', k: int =3, threshold: float = 
 nlp = spacy.load("en_core_web_sm")
 
 tokenized_corpus = [[token.lemma_.lower() for token in nlp(doc) if not token.is_punct and not token.is_space] for doc in all_chunks]
-bm25 = BM250kapi(tokenized_corpus)
+bm25 = BM25Okapi(tokenized_corpus)
 
 def BM25_rank_retrive(query: str, k: int = 5):
     doc = nlp(query.lower())
@@ -167,7 +168,7 @@ def rank_based_normalize(results):
     return [(doc, score) for (doc, _), score in zip(results, norm_scores)]
 
 #hybrid that normalizes first, we can esperiment with the noramlizer
-def weighted_avgerage_hybrid(query: str, top_k: int = 5, alpha: float = 0.5, dense_normalizer: str = "min-max", sparse_normalizer: str = "min-max"):
+def weighted_average_hybrid(query: str, top_k: int = 5, alpha: float = 0.5, dense_normalizer: str = "min-max", sparse_normalizer: str = "min-max"):
     dense_results = faiss_retrieve(query, k=top_k)
     sparse_results = BM25_rank_retrive(query, k=top_k)
 
@@ -189,82 +190,62 @@ def weighted_avgerage_hybrid(query: str, top_k: int = 5, alpha: float = 0.5, den
     top_indices = np.argsort(combined_scores)[::-1][:top_k]
     return [(all_docs[i], combined_scores[i]) for i in top_indices]
 
-#dont forget to take a deep breath is kind of a meme, we can remove it and see performance without it
-def generate_with_context(query: str, context_chunks: List[str], max_new_tokens: int = 100) -> str:
-    context = "\n".join([f" - {chunk}" for chunk in context_chunks])
+def llama2_prompt(system_msg: str, user_msg: str) -> str:
+    return f"<s>[INST] <<SYS>>\n{system_msg}\n<</SYS>>\n\n{user_msg} [/INST]"
 
-    messages = [
-        {
-            "role": "system",
-            "content": "You are a very helpful assistant answering questions about Pittsburgh and Carnegie Mellon University (CMU). Use only the provided context to answer questions. Be concise and accurate. Only generate your answer."
-        },
-        {
-            "role": "user",
-            "content": f"""Here is some context about Pittsburgh and CMU: {context}
-            Based on this context, please answer the following question. Don't forget to take a deep breath: {query}"""
-        }
-    ]
-    prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generation_prompt=True, enable_thinking=False)
-    inputs = tokenizer(prompt, return_tensors="pt")
+def gpt2_prompt(system_msg: str, user_msg: str) -> str:
+    return f"{system_msg}\n\nUser: {user_msg}\nAssistant:"
+
+def qwen_prompt(system_msg: str, user_msg: str) -> str:
+    return f"{system_msg}\n{user_msg}"
+
+def generate_with_context(query: str, context_chunks: List[str], max_new_tokens: int = 100) -> str:
+    context = "\n".join([f"- {chunk}" for chunk in context_chunks])
+    system_msg = "You are a helpful assistant answering questions about Pittsburgh and Carnegie Mellon University (CMU). Use ONLY the provided context to answer questions. Be concise and accurate."
+    user_msg = f"Here is some context:\n{context}\n\nQuestion: {query}\nAnswer:"
+    prompt = gpt2_prompt(system_msg, user_msg)
+    inputs = tokenizer(prompt, return_tensors="pt").to(lm_model.device)
 
     with torch.no_grad():
         outputs = lm_model.generate(
             **inputs,
             max_new_tokens=max_new_tokens,
-            temperature=0.1,
+            temperature=0.2,
             top_p=0.95,
             do_sample=True,
             pad_token_id=tokenizer.eos_token_id
         )
 
-        response = tokenizer.decode(outputs[0], skip_special_tokens=True)
-
-        try:
-            answer.split("<|im_start|>assistant")[-1].split("</think>")[-1].strip()
-        except IndexError:
-            parts = response.split(query)
-            answer = parts[-1].strip() if len(parts) > 1 else response
-
-        return answer
+    response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    answer = response[len(prompt):].strip()
+    return answer
 
 
 def generate_without_context(query: str, max_new_tokens: int = 100) -> str:
-    messages = [
-        {
-            "role": "system",
-            "content": "You are a very helpful assistant answering questions about Pittsburgh and Carnegie Mellon University (CMU). Be concise and accurate. Only generate your answer."
-        },
-        {
-            "role": "user",
-            "content":  f"""please answer the following question. Don't forget to take a deep breath: {query}"""
-        }
-    ]
-    prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generation_prompt=True, enable_thinking=False)
-    inputs = tokenizer(prompt, return_tensors="pt")
+    system_msg = "You are a helpful assistant. Be concise and accurate."
+    user_msg = f"Question: {query}\nAnswer:"
+
+    prompt = gpt2_prompt(system_msg, user_msg)
+
+    inputs = tokenizer(prompt, return_tensors="pt").to(lm_model.device)
 
     with torch.no_grad():
         outputs = lm_model.generate(
             **inputs,
             max_new_tokens=max_new_tokens,
-            temperature=0.1,
+            temperature=0.5,
             top_p=0.95,
             do_sample=True,
             pad_token_id=tokenizer.eos_token_id
         )
 
-        response = tokenizer.decode(outputs[0], skip_special_tokens=True)
-
-        try:
-            answer.split("<|im_start|>assistant")[-1].split("</think>")[-1].strip()
-        except IndexError:
-            parts = response.split(query)
-            answer = parts[-1].strip() if len(parts) > 1 else response
-
-        return answer
+    response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    answer = response[len(prompt):].strip()
+    return answer
 
 def rag(query: str, k: int = 3) -> str:
     #hybrid can take the additional arguements  alpha: float dense_normalizer: str sparse_normalizer: str
-    results = weighted_avgerage_hybrid(query, top_k=k)
+    results = weighted_average_hybrid(query, top_k=k)
     context_chunks = [chunk for chunk, _ in results]
     answer = generate_with_context(query, context_chunks)
     return answer, results
@@ -274,5 +255,16 @@ def non_rag(query: str) -> str:
     return answer
 
 
+if __name__ == "__main__":
+    query = "When is Picklesburgh usaully held?"
+    answer, results = rag(query, k=3)
 
+    for i, (chunk,score) in enumerate(results,1):
+        print(f"{i}. {chunk[:100]}... (score={score:.4f})")
+
+    print("\nAnswer (with context):")
+    print(answer)
+
+    print("\nAnswer (without context):")
+    print(non_rag(query))
 
