@@ -1,6 +1,6 @@
 Title: Summary
 The School of Design at Carnegie Mellon University is a degree-granting institution within a private university in Pittsburgh, Pennsylvania, United States. The School of Design is one of five schools within the Carnegie Mellon College of Fine Arts offering both under and post graduate education. The School is accredited by Middle States Association of Colleges and Schools and awards BDES, MA, MDES, MPS, MII-PS, DDES, and PhD degrees. The School of Design has 21 full-time and 10 adjunct faculty.
-Title: History
+Title: History 
 The university began as the Carnegie Technical Schools, founded by Andrew Carnegie in 1900, with the vision that a school would be created where the working-class of Pittsburgh could learn the skills and trades needed to enhance their careers and community. Soon after the formation of the school, it was faced with a demand for baccalaureate programs. In 1912, the school became the Carnegie Institute of Technology (“Carnegie Tech”) that offered four-year degrees for students that attended the College of Engineering and the College of Fine Arts.
 The School of Design is currently housed within Margaret Morrison, a beautiful building with its iconic rotunda. Margaret Morrison is named after Andrew Carnegie's mother who played an important role in influencing Carnegie's legacy to create vocational training space for women. The women of Margaret Morrison, also known as Maggie Murphs, started taking classes in Porter Hall until their new building was completed in 1907. Originally, the school offered only vocational courses that trained women to be librarians, secretaries, seamstresses, and bookkeepers. However, it didn’t take long for the curriculum to evolve in response to female student demand. At a time when American women still didn’t have the right to vote, these changes were a harbinger for the way in which a woman’s role would transform in society over the next century.
 In 1917, within the College of Fine Arts, the School of Applied Design was started with a series of focuses including commercial illustration, costume design, textile design, interior decoration, stage design, and printing—all within the Painting, Decorating and Sculpture departments. In 1928, a letter was written to Professor Keeble from Westinghouse Electric Corporation requesting that an Industrial Design course should be formed saying:
@@ -11,20 +11,20 @@ The school, in 2004, helped launch the Service Design Network (with Koln Interna
 In 2014 the School introduced a new area of specialty: Transition Design. Transition Design trains design students to think in systems and to think in terms of intervening in the system rather than designing a product or artifact. With this shift in perspective towards a new tradition in design, the program frames design as having a crucial role in creating a societal shift towards sustainable futures in a range of systems—transportation, healthcare, education, food and water, etc. Through transition design, these complex issues are addressed through interventions in all design specialties, alongside experts of other disciplines. This allows the research necessary to go beyond design on its own and get acquainted with interdisciplinary practice.
 jasujazmudzinski
 
-Title: Programs of study
+Title: Programs of study 
 Human/user-centered design research methods, traditional and emerging processes and technological innovations are employed in the design of products, communications and environments. Three broad areas of focus inform programs and curricula: Design for Service, Design for Social Innovation and Transition Design.
 The School offers degrees at the undergraduate, graduate and doctoral levels:
-Title: Undergraduate degrees
+Title: Undergraduate degrees 
 ['Undergraduate Degree in Design (BDes): communication design, product design and design for environments', 'Undergraduate Minor in Design', 'Undergraduate Interdisciplinary Degree (BXA)']
-Title: Graduate degrees
+Title: Graduate degrees 
 ['MDes degree (Master of Design) - 2-year degree (terminal degree)', 'MPS degree (Master of Professional Studies) - 1-year course', 'MA degree (Master of Arts in Design) - 1-year course']
-Title: Doctoral degrees
+Title: Doctoral degrees 
 ['DDes degree in Design Studies (Doctor of Design): 3-year professional doctorate', 'DDes degree in Transition Design', 'PhD degree (Doctor of Philosophy in Design)', 'PhD degree in Transition Design']
-Title: Rankings
+Title: Rankings 
 Carnegie Mellon's School of Design is annually ranked as one of the top design schools in the United States. in 2016, U.S. News & World Report ranked the School of Design's Interaction Design program first in the country Communication Design (graphic) program 5th and the Industrial Design program third. CMU's Industrial Design program has historically ranked in the top 10 design schools in the U.S. in the annual Design Intelligence survey of architecture and design schools. In 2014 and 2015, LinkedIn ranked Carnegie Mellon's Design program as number one on their list: Best Undergraduate Universities for Designers. It was also ranked as number one for Graduate Universities for Designers.
 jasujazmudzinski
 
-Title: Previous Heads of the School of Design
+Title: Previous Heads of the School of Design 
 ['1970–1985: Joe Ballay', '1985–1987: Alex Bally', '1987–1991: Carroll Gantz', '1991–1992: Steve Stadelmeier (interim)', '1992–2002: Richard Buchanan', '2002–2008: Dan Boyarski', '2008–2009: Steve Stadelmeier (interim)', '2009–2019: Terry Irwin', '2019–2022: Bruce Hanington', '2022–2025: Eric Anderson (interim)', '2025-Present: Ana Maria Pinto da Silva']
 jasujazmudzinski
 
