@@ -6,9 +6,9 @@ CBD is the home of an NIH Center for the HuBMAP Integration, Visualization & Eng
 CBD houses the Center for AI-Driven Biomedical Research (AI4BIO) at CMU, a catalyst for innovations at the intersection of AI and biomedicine across the School of Computer Science and campus.
 jasujazmudzinski
 
-Title: Notable faculty
+Title: Notable faculty 
 ['Robert F. Murphy (founding department head)', 'Russell Schwartz (current department head)', 'Ziv Bar-Joseph', 'Jaime Carbonell', 'Jian Ma', 'Kathryn Roeder', 'Roni Rosenfeld', 'Eric Xing']
-Title: Degree programs
+Title: Degree programs 
 ['Joint CMU-Pitt Ph.D. Program in Computational Biology (with University of Pittsburgh )', 'M.S. in Computational Biology (joint with the Department of Biological Sciences)', 'M.S. in Automated Science', 'B.S. in Computational Biology', 'Minor in Computational Biology']
 jasujazmudzinski
 

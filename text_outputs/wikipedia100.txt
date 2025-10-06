@@ -1,0 +1,14 @@
+Title: Summary
+Three Rivers Park is a public urban waterfront park along the Allegheny, Monongahela, and Ohio Rivers in Pittsburgh, Pennsylvania.
+The park, under development since 2000, is currently defined by the boundaries of the West End Bridge over the Ohio River, the 31st Street Bridge over the Allegheny River, and the Hot Metal Bridge over the Monongahela River. The wishbone-shaped loop of Three Rivers Park encompasses the Pittsburgh Peninsula and Point State Park at its center, and spans over 13 miles of interconnected trails and green space with over 800 acres of public open space.
+Title: Overview 
+Three Rivers Park is composed of several capital projects, with Riverlife, formerly known as Riverlife Task Force overseeing implementation of the park with the cooperation of public and private property owners and community groups. The park is being designed to open the three rivers to public access in a way that was impossible during Pittsburgh's Industrial Age. Three Rivers Park offers continuous trails and green space along a more than 13-mile waterfront loop. Contained within the project site boundaries are shorelines, public and private property, and several bridges. The Three Rivers Heritage Trail regional trail system runs through the park, as does the multi-state Great Allegheny Passage trail.
+The logo of Three Rivers Park is the outline shape of Fort Pitt, the 18th century outpost of the British Empire at the confluence of the Monongahela, Allegheny, and Ohio Rivers. The design aims to capture the historical significance of Pittsburgh, with added graphic elements of water and leaf shapes to acknowledge the region's natural history. The logo appears on signage throughout Three Rivers Park and mile markers embedded in the trail which reference Point State Park's fountain as Mile 0.
+jasujazmudzinski
+
+Title: Completed segments 
+['North Shore Riverfront Park / Roberto Clemente Memorial Park', 'Allegheny Riverfront Park', 'Point State Park', 'South Shore Riverfront Park', 'Station Square', 'Mon Wharf Landing', 'Strip District Riverfront Trail', "Washington's Landing", 'David L. Lawrence Convention Center Riverfront Plaza', 'Allegheny Riverfront Park/Cultural District Riverfront']
+Title: History of development 
+In 1999 Riverlife (then known as Riverlife Task Force) held an international request for proposals for the creation of a vision plan for the redevelopment of Pittsburgh's riverfronts. The winning firm chosen was Chan Krieger Sieniewicz of Cambridge, Massachusetts. Chan Krieger and Riverlife held dozens of public meetings to garner feedback from Pittsburgh citizens about the future of the riverfronts. The vision for Three Rivers Park was first unveiled in Riverlife's 2001 "A Vision Plan for Pittsburgh’s Riverfronts." The vision plan was accepted by the City of Pittsburgh.
+jasujazmudzinski
+
