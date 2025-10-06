@@ -8,11 +8,15 @@ import re
 import faiss
 import spacy
 from rank_bm25 import BM25Okapi
+import json
+import shutil
+
 
 embed_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
-lm_model_name = "gpt2"  
-tokenizer = AutoTokenizer.from_pretrained(lm_model_name)
+lm_model_name = "meta-llama/Llama-2-7b-chat"  
+  
+tokenizer = AutoTokenizer.from_pretrained(lm_model_name, use_fast=False, trust_remote_code =True)
 lm_model = AutoModelForCausalLM.from_pretrained(lm_model_name, torch_dtype = torch.float32)
 lm_model.eval() 
 
@@ -203,7 +207,7 @@ def generate_with_context(query: str, context_chunks: List[str], max_new_tokens:
     context = "\n".join([f"- {chunk}" for chunk in context_chunks])
     system_msg = "You are a helpful assistant answering questions about Pittsburgh and Carnegie Mellon University (CMU). Use ONLY the provided context to answer questions. Be concise and accurate."
     user_msg = f"Here is some context:\n{context}\n\nQuestion: {query}\nAnswer:"
-    prompt = gpt2_prompt(system_msg, user_msg)
+    prompt = llama2_prompt(system_msg, user_msg)
     inputs = tokenizer(prompt, return_tensors="pt").to(lm_model.device)
 
     with torch.no_grad():
@@ -225,7 +229,7 @@ def generate_without_context(query: str, max_new_tokens: int = 100) -> str:
     system_msg = "You are a helpful assistant. Be concise and accurate."
     user_msg = f"Question: {query}\nAnswer:"
 
-    prompt = gpt2_prompt(system_msg, user_msg)
+    prompt = llama2_prompt(system_msg, user_msg)
 
     inputs = tokenizer(prompt, return_tensors="pt").to(lm_model.device)
 
@@ -254,9 +258,32 @@ def non_rag(query: str) -> str:
     answer = generate_without_context(query)
     return answer
 
+def evaluate_rag(q_file: str, a_file: str, rag_func):
+    with open(q_file, 'r', encoding = 'utf-8') as f:
+        questions = [line.strip() for line in f if line.strip()]
 
+    with open(a_file, 'r', encoding ='utf-8') as f:
+        answers = json.load(f)
+    
+    results = []
+
+    for q in questions:
+        rag_answer, chunks = rag_func(q, k=3)
+    
+        ref_answer = answers.get(q)
+        #exact match, need to change to similarity
+        rag_correct = answer_with_context.strip().lower() == ref_answer.strip().lower() if ref_answer else None
+
+        results.append({"question":q, "reference": ref_answer, "rag_answer": rag_answer, "rag_correct": rag_correct, "chunks": chunks})
+
+    total = len(results)
+    rag_correct_count = sum(r['rag_correct'] for r in results if r['rag_correct'] is not None)
+    print(f"RAG Accuracy: {rag_correct_count}/{total} = {rag_correct_count/total:.2f}")
+
+    return results
+'''
 if __name__ == "__main__":
-    query = "When is Picklesburgh usaully held?"
+    query = "How much are the fees at Frick Pittsburgh?"
     answer, results = rag(query, k=3)
 
     for i, (chunk,score) in enumerate(results,1):
@@ -267,4 +294,11 @@ if __name__ == "__main__":
 
     print("\nAnswer (without context):")
     print(non_rag(query))
+'''  
+
+if __name__ == "__main__":
+    questions_file = "questions_natan.txt"
+    reference_file = "reference_answer_natan.json"
+    results = evaluate_rag(questions_file, reference_file, rag_func=rag)
+
 
