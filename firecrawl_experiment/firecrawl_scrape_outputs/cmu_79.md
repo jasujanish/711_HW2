@@ -1,0 +1,39 @@
+[Skip to main content](https://www.cmu.edu/leadership/president/campus-comms/05-07-25#main-content)
+
+# CMU125: Inspired by the past, building for the future
+
+_May 7, 2025_
+
+**For 125 years, Carnegie Mellon has followed a simple formula:**
+
+Empower talented individuals to ask questions that matter, and be ready with solutions when the world needs them most. It’s an approach that our community has used — again and again — to tackle some of humanity’s most pressing challenges.
+
+From Andrew Carnegie’s vision of a “humble technical school” delivering high-demand vocational training to today’s CMU and our global leadership in advancing interdisciplinary education and research, we’ve already accomplished so much. We’ve educated generations of innovators, leaders and creators. We’ve evolved systems and solutions to better serve the needs of society. We’ve strengthened our economy, national security and global prosperity. We’ve packed so much into 125 years — and we’re not done yet.
+
+## Introducing CMU125
+
+Today, we’re introducing [CMU125: The Power of Possibilities](https://www.cmu.edu/125/), a celebration of Carnegie Mellon’s impact over our 125-year history. During this yearlong celebration, a new interactive website will share some of our university’s greatest achievements and showcase the strong foundation we’ve built for seizing opportunities and rising to new challenges now and over the next 125 years. Please feel free to [bookmark this page](https://www.cmu.edu/125/), as the content will evolve throughout the year to feature new stories of impact.
+
+## What's next
+
+This September, we’ll invite you to participate in an interactive app experience that connects our Tartan community — near and far — with opportunities to explore important moments and locations in CMU’s history.
+
+And in November, we’ll officially kick off CMU125: The Power of Possibilities on Homecoming Weekend 2025 with CMU125 editions of your favorite Homecoming traditions in addition to special programming, like the President’s Lecture Series and the 75th anniversary of the CMU Alumni Awards.
+
+## Get Involved
+
+CMU125 is a great opportunity to elevate our university’s unique story. You can help us tell the world about the extraordinary power and possibilities of a CMU education by texting a photo and caption of your time on campus to 412-268-9873. We’ll share select submissions as well as CMU125 stories and updates on our social media channels and in limited-edition “Power of Possibilities” e-newsletters this fall.
+
+We have so much to celebrate, and we’re looking forward to commemorating these moments with you — online and on campus — soon!
+
+Sincerely,
+
+Farnam Jahanian
+
+President
+
+Henry L. Hillman President’s Chair
+
+|     |     |
+| --- | --- |
+|  |  |

@@ -1,0 +1,41 @@
+# CITY OF PITTSBURGH
+
+# DEPARTMENT OF PUBLIC WORKS
+
+# PERMISSION FOR GRAFFITI REMOVAL
+
+Before completing the Graffiti Removal Permission Slip, please report the graffiti to the service center at 311 or 412-255-2621 if calling from outside the City of Pittsburgh. Once the graffiti has been reported, the PROPERTY OWNER ONLY can fill out the form below giving the City of Pittsburgh permission to remove graffiti from the property. This form can be sent to the Department of Public Works Second Division by mail or email.
+
+To:
+
+Graffiti Busters
+
+Department of Public Works
+
+Second Division
+
+6814 Hamilton Avenue
+
+Pittsburgh, PA 15208
+
+Email to: [edward.williams@pittsburghpa.gov](mailto:edward.williams@pittsburghpa.gov)
+
+If you have any questions, please call the Second Division at (412) 665-3609
+
+# GRAFFITI REMOVAL PERMISSION SLIP
+
+OwnerAgent:
+
+Address: Phone
+
+Number:
+
+Material:
+
+Brick Painted Siding (Specify)
+
+Type of Building: Single Family Multi Family Commercial
+
+I,
+
+declare that I am the owner or agent of the property at the address and give permission to the City of Pittsburgh, the City's agent, or contractor to utilize the means they determine appropriate to remove or conceal the graffiti at said location. In consideration of the City's removing of the graffiti, I agree to release and hold harmless the City of Pittsburgh and the City's agent or contractor from any claims for damages resulting from working on my property. I understand that only the area covered by graffiti will be worked on and not the entire structure. I further understand that none of the individuals of organizations participating in this activity will be responsible for removing or concealing the graffiti expressly to my satisfaction. This agreement shall remain in effect for one (1) year from the date signing.

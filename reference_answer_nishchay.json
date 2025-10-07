@@ -1,4 +1,4 @@
-/*wikipedia0.txt, wikipedia1.txt, things_to_do.txt*/
+/*wikipedia0.txt, wikipedia1.txt, things_to_do.txt, banana_split_festival.txt, text_outputs/carnegie_museum_kaminscience.txt, */
 {
     "Name every CMU alumni and faculty member to win the Wolf Prize":"Raoul Bott, John Pople, Krzysztof Matyjaszewski",
     "Name every CMU alumni and faculty member to win the Nobel Prize for Literature":"No CMU alumni or faculty have won the Nobel Prize for Literature",
@@ -23,5 +23,12 @@
     "Who runs the Highmark First Night Pittsburgh event?" : "The Pittsburgh Cultural Trust",
     "When was the Dole Great American Banana Challenge" : "Saturday, August 22, 2025",
     "Who won the open children division of 5k Banana Run in 2025" : "There was no open children division",
+    "Who won the 2025 Banana Baking Contest?" : "Veronica Sarnese",
+    "What event is the Kamin Science Center offering on October 10th 2025?" : "21+ Night: Monster Murder Mystery",
+    "When is the dance club at the Kamin Science Center?" : "There is no dance club at the Kamin Science Center",
+    "When is the Kamin Science Center open?": "The Kamin Science Center is open 10 a.m. - 5 p.m. daily except for Tuesdays and Sundays during home Steelers games",
+    "Who painted The Toilet of Venus?" : "Simon Vouet",
+    "How many exhibits are there at the Carnegie Museum of Art" : "Over 100,000",
     
+
 }

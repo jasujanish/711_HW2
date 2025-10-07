@@ -1,0 +1,85 @@
+[Skip to main content](https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Sheraden-Park#main-content)
+
+opens in new tab or window
+
+# Sheraden Park
+
+![Sheraden Park](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/images/parks/13954_sheraden_06_04_1937.jpg?dimension=pageimage&w=480)
+
+![Sheraden Park Established 1923](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/images/parks/15207_sheraden-park.jpg)
+
+**Sheraden Park History**(show below)
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/images/parks/13954_sheraden_06_04_1937.jpg)![](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/images/parks/13956_sheraden-swimming-pool_06_25_1964.jpg)![](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/images/parks/13955_sheraden-park_may_1973.jpg)
+
+In 1914, the City purchased 23 acres of the old Sheraden farm which would form the foundation of Sheraden Park.
+
+The city had annexed the Borough of Sheraden seven years earlier. Over the years the park grew as adjacent parcels were purchased, bringing it to 52 acres today.
+
+Future land acquisition is planned in order to connect the park to nearby Chartiers Creek. The park is now a well-loved, intimate gathering space that is an integral part of the West Pittsburgh community.
+
+**Sheraden Park Amenities**(show below)
+
+Sheraden Park is nestled between Pittsburgh's Sheraden, Esplen, and Chartiers City neighborhoods. The park boasts historic trees, a pool, basketball and tennis courts, baseball, football, and soccer fields, as well as a woodland trail.
+
+It's nearby sister park, McGonigle, features basketball courts, a baseball field, and playground. The Sheraden Park Skate Park is roughly one mile from the main park complex and [shelter rental information is available](https://registerparks.pittsburghpa.gov/Default.aspx?id=1).
+
+Join us as we plan the future of this western landmark! The Department of City Planning is currently working on the [Sheraden Park Master Plan](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans/Sheraden-Park-Master-Plan). Tell us what you would like to see in this parks future.
+
+## Location
+
+1000 Adon St, Pittsburgh, PA 15204  [View Map](https://maps.google.com/?q=%201000%20Adon%20St%20%20Pittsburgh,%20PA%2015204)
+
+[Skip to below map](https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Sheraden-Park#map-bottom)
+
+40.4572665,-80.0597621
+
+
+1000 Adon St ,
+Pittsburgh, PA 15204
+
+
+1000 Adon St ,
+Pittsburgh, PA 15204
+
+Sheraden Park
+
+
+Google Map Instructions
+
+Press arrow keys to pan
+
+Press plus or minus keys to zoom
+
+Shortcut keys
+
+Press M for roadmap view
+
+Press S for satellite view
+
+Press H for hybrid view
+
+Press T for terrain view
+
+[Skip to above map](https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Sheraden-Park#map-top)
+
+Tagged as:
+
+- [Community Parks](https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Sheraden-Park?dlv_OC%20CL%20City%20Parks%20Reserves%20Listing=(dd_OC%20Park%20Categories=Community%20Parks))
+
+## Park Details
+
+### Amenities
+
+- Courts
+- Playground
+- Pool
+- Running
+- Sports Field
+- Walking
+
+[Back to top](https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Sheraden-Park#body-top)
+
+Ready
+
+BESbswy

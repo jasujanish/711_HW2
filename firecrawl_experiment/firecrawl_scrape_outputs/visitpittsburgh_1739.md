@@ -1,0 +1,224 @@
+# The Best of Asian Cuisine Around Pittsburgh: My Food for Thought \| Student Perspectives
+
+Growing up in a foodie family and being half Filipino, I’ve had my fair share of mouthwatering food. Ever since I was little, I’ve traveled internationally with my family to places as far as the Philippines and Japan. Although I initially had a picky eater mindset with a steadfast obsession of chicken nuggets and mac and cheese as a child (to my parents’ dismay), my palate eventually expanded with my eagerness to explore new cuisines and my desire to experience new flavors. My love for Asian cuisine grew as I learned to embrace my Filipino heritage, traveled to more places, and grew to appreciate different cultures.
+
+Pictured \|
+
+Braised Beef Noodle Soup \| Everyday Noodles
+
+Credit \|
+
+@just\_noodz on Insta
+
+For these reasons, Asian cuisine has a special place in my heart (and in my belly). All around Pittsburgh, I’ve discovered Asian restaurants that leave me feeling equally satiated and enthusiastic to come back for more! As a current senior student at the University of Pittsburgh, I really enjoy finding places that aren’t too far from campus that satisfy my craving for a tasty and filling meal. Here are my favorite delicious go-to Asian small businesses that I love to support and frequently revisit:
+
+## Bao
+
+Nestled right in the heart of Pitt campus on Atwood Street, [Bao](https://order.toasttab.com/online/bao-pitt-campus) has practically everything you could want and more. Bao has an extensive range of menu items, including specialty drinks such as boba slushies and mixtures of fruit and ice cream.
+
+I highly recommend their handmade steamed pork or vegetable buns, as they are extremely filling and flavorful and what they are known for! The texture of biting into the soft and squishy bao bun and the flavor that accompanies it is absolutely a treat in itself. There is also another location which is closer to Carnegie Mellon University on Craig Street, so you have both locations to choose from.
+
+> [View this post on Instagram](https://www.instagram.com/p/CsPIuifP-HG/?utm_source=ig_embed&utm_campaign=loading)
+>
+> [A post shared by Sher Yip (@per\_ogi)](https://www.instagram.com/p/CsPIuifP-HG/?utm_source=ig_embed&utm_campaign=loading)
+
+## Modern Filipino Cuisine
+
+_Disclaimer: Takeout only_
+
+As it recently opened just a few months ago, I am so thrilled to finally see Filipino cuisine now in Pittsburgh! [Modern Filipino Cuisine](https://www.modernfilipinocuisine.com/) truly incorporates all the authentic flavors of the Philippines and reminds me of my mom’s comforting home-cooked meals. Lumpia, which is essentially the Filipino version of a spring roll, is a delicious crunchy appetizer to start with, but they have many other equally appealing options. I also really enjoy their pork or chicken barbeque skewers, chicken adobo, and liempo (marinated pork belly) for an unforgettable tender and savory indulgence.
+
+The business is one of several under [The Mill Food Co.](https://themillfoodco.com/), so don’t be deterred by the signage! Ordering from Modern Filipino Cuisine is as simple as walking in and ordering at one of the food kiosks. Located on Melwood Avenue, the business is just a short walk from Pitt’s campus and more than worth it to get a genuine taste of the Philippines.
+
+> [View this post on Instagram](https://www.instagram.com/p/C64JSZ0OrN5/?utm_source=ig_embed&utm_campaign=loading)
+>
+> [A post shared by Modern Filipino Cuisine (@modernfilipinocuisine\_pa)](https://www.instagram.com/p/C64JSZ0OrN5/?utm_source=ig_embed&utm_campaign=loading)
+
+## Everyday Noodles
+
+If you’re looking for a fun and unique eating experience, be sure to make your way over to [Everyday Noodles](https://everydaynoodles.net/) in Squirrel Hill for a plethora of appetizing meal options. Everyday Noodles is a Chinese restaurant that provides customers with the chance to watch handmade noodles and dumplings being carefully created through a viewing window. I love coming to Squirrel Hill to explore the neighborhood shops, grocery stores, and bakeries, and it is just a short bus ride or drive away from campus!
+
+Some of my favorite items to order include their Szechuan-style dan dan noodles and soup dumplings. I frequently find myself craving the dan dan noodles, as they have the perfect amount of spicy flair, a nutty flavor, and overall a delectable umami profile. I am always so tempted to stop by here and split a bunch of the menu items with friends.
+
+> [View this post on Instagram](https://www.instagram.com/p/BsKDlM7lHg3/?utm_source=ig_embed&utm_campaign=loading)
+>
+> [A post shared by c a r l y d a g o s t i n o (@carlyappleseed)](https://www.instagram.com/p/BsKDlM7lHg3/?utm_source=ig_embed&utm_campaign=loading)
+
+## Took Took 98
+
+Also located in Squirrel Hill, [Took Took 98](https://www.tooktook98.com/) is probably my favorite Thai food restaurant of all time for many reasons. Their table service is extremely quick and efficient, and my food always comes out steaming in heaping portions with crunchy, fresh vegetables.
+
+My go-to order is the classic pad thai with either tofu or chicken, and if I’m craving a sweet treat for dessert, I will order their ka nom mor kang, which is a tasty baked taro custard. For me, it wouldn’t be a trip to Took Took without their Thai iced tea, since compared to other Thai restaurants, the serving size is gigantic and the tea itself is sweetened to perfection. All in all, the restaurant’s extremely accommodating staff, cozy atmosphere, and scrumptious food leave me feeling fulfilled every time!
+
+> [View this post on Instagram](https://www.instagram.com/p/CS1xEosnu3M/?utm_source=ig_embed&utm_campaign=loading)
+>
+> [A post shared by TookTook98 (@tooktook98)](https://www.instagram.com/p/CS1xEosnu3M/?utm_source=ig_embed&utm_campaign=loading)
+
+## Tram's Kitchen
+
+Opened in 1997, Tram’s Kitchen’s exterior may look unsuspecting to an average passerby. However, the restaurant’s real prize is what lies inside: a popular Vietnamese dish called pho! Pho is a soup dish complete with rice noodles, thin slivers of beef, bone broth, bean sprouts, and green onions. You can add in sriracha sauce or hoisin sauce to add more heat or sweet and salty flavor to your liking, or enjoy it as is for a piquant blend of seasonings. If you love noodles, their pho doesn’t disappoint.
+
+Tram’s Kitchen may be a hole in the wall restaurant in [Bloomfield](https://www.visitpittsburgh.com/blog/insiders-guide-to-bloomfield/), but it is certainly a hidden gem that knocks it out of the park with their flavors that pack a punch. _Make sure to bring cash_ (although there is an ATM in the doorway)!
+
+> [View this post on Instagram](https://www.instagram.com/p/Cw5D-GVOo7m/?utm_source=ig_embed&utm_campaign=loading)
+>
+> [A post shared by @jmtinpgh](https://www.instagram.com/p/Cw5D-GVOo7m/?utm_source=ig_embed&utm_campaign=loading)
+
+## Oishii Bento
+
+[Oishii Bento](https://oishiibento.com/) is my go-to Korean place if I’m craving a bulgogi meal, and it is extremely popular amongst both Carnegie Mellon and Pitt students. Their portions are always heaping, and the combination of thinly sliced beef and fresh vegetables covered in their signature house sauce over rice is absolutely as delectable as it is filling. Oishii also serves different Japanese dishes, and I always enjoy coming to Oishii Bento between classes, as it is right on Oakland Avenue on Pitt’s campus. Their quick-service restaurant style has students frequently ordering takeout, but there is a small dining area upstairs where you can view the hustle and bustle of people on the street!
+
+They are known for their stellar reviews written by numerous publications, including The Pitt News, The Pittsburgh Post Gazette, and The PGH City Paper. In my opinion, Oishii Bento’s bulgogi is the best that I’ve had in Pittsburgh.
+
+> [View this post on Instagram](https://www.instagram.com/p/CX-7ZCErMok/?utm_source=ig_embed&utm_campaign=loading)
+>
+> [A post shared by Oishiibento (@oishii.bento)](https://www.instagram.com/p/CX-7ZCErMok/?utm_source=ig_embed&utm_campaign=loading)
+
+## Banh Mi & Ti
+
+I love walking around Lawrenceville to explore its diverse food scene, and [Banh Mi & Ti](https://www.banhmiandti.com/) has always been a favorite spot for me and my family to order delicious pho and to enjoy the lovely local neighborhood area. Another added perk worth mentioning is their range of bubble tea flavors, complete with options for either tapioca boba pearls or popping bubbles if you’re looking for a special sweet treat to go!
+
+> [View this post on Instagram](https://www.instagram.com/p/CkyP_w8Lfv0/?utm_source=ig_embed&utm_campaign=loading)
+>
+> [A post shared by Banh Mi & Ti (@banhmiandti)](https://www.instagram.com/p/CkyP_w8Lfv0/?utm_source=ig_embed&utm_campaign=loading)
+
+## Best Boba Places in Pittsburgh: Ranked
+
+In expanding my flavor palate, I also grew to love a popular drink that now serves as my essential weekly pick-me-up. Bubble tea, a cold Asian drink consisting of either milk or fruit tea combined with chewy tapioca pearls, is a delicacy that I have tried time and time again. If this sounds appetizing, be sure to check out my bubble tea ratings below to try out a refreshing drink that best suits your preferences!
+
+### \#4 - Bubble Bee
+
+If you’re in the Shadyside area, I suggest stopping by Bubble Bee to not only try their delectable bubble tea flavors, but especially to try their popular mochi donuts. The chewy texture of the donut is certainly one that will make your mouth water and leave you hungry for more.
+
+> [View this post on Instagram](https://www.instagram.com/reel/C-WjdbBNWwX/?utm_source=ig_embed&utm_campaign=loading)
+>
+> [A post shared by Meet’N Eat \| Pittsburgh Foodie (@meet\_n\_eat\_pgh)](https://www.instagram.com/reel/C-WjdbBNWwX/?utm_source=ig_embed&utm_campaign=loading)
+
+### \#3 - Fuku Tea
+
+Inexpensive and always freshly made with warm boba bubbles, [Fuku Tea](https://www.fukutea.com/) is a great option if you’re looking to save a dollar or two. Located right in the heart of Pitt’s campus, the bold flavor of their fruit teas and more affordable options draw plenty of students daily.
+
+> [View this post on Instagram](https://www.instagram.com/p/CK4kFxohvsd/?utm_source=ig_embed&utm_campaign=loading)
+>
+> [A post shared by Pittsburgh • Boba & Food • Jasmine (@bobaandfood)](https://www.instagram.com/p/CK4kFxohvsd/?utm_source=ig_embed&utm_campaign=loading)
+
+### \#2 - Tsaocaa
+
+Although it is a bit on the pricier side, [Tsaocaa](https://www.tsaocaapa.com/)’s milk teas never disappoint, and they have a vast menu of both fruit and milk tea bubble tea options. My favorite item to order is the brown sugar milk black tea with oreo and milk foam; I think it’s the perfect sweet and slightly salty combination that has such a satisfying texture. There are two locations, one right in Oakland and another in Squirrel Hill! I used to bus out to Squirrel Hill just for their bubble tea until they opened their Oakland location, so I highly recommend giving Tsaocaa a try.
+
+> [View this post on Instagram](https://www.instagram.com/p/CFapI60jnou/?utm_source=ig_embed&utm_campaign=loading)
+>
+> [A post shared by TsaocaaPGH (@tsaocaapgh)](https://www.instagram.com/p/CFapI60jnou/?utm_source=ig_embed&utm_campaign=loading)
+
+### \#1 Wushiland Boba
+
+To me, the factors that constitute the perfect boba drink include quality, quantity, and flavor. Recently opened this January near Carnegie Mellon’s campus, [Wushiland Boba](https://www.wushiland-usa.com/) checks off all the boxes for my boba requirements, and you just might find me visiting them weekly. Unlike other bubble tea places, Wushiland ensures that every drink has a plentiful amount of boba that won’t leave you feeling unsatisfied and strives to emulate an authentic Taiwanese flavor.
+
+The pearls themselves are fresh, chewy, and tasty instead of flavorless and stale, while their tea is well-sweetened and perfect for those who are fans of fruit teas (there are few milk tea options). You can even get mini boba pearls instead of the standard boba size!
+
+> [View this post on Instagram](https://www.instagram.com/reel/C9QL5maPbPH/?utm_source=ig_embed&utm_campaign=loading)
+>
+> [A post shared by Meet’N Eat \| Pittsburgh Foodie (@meet\_n\_eat\_pgh)](https://www.instagram.com/reel/C9QL5maPbPH/?utm_source=ig_embed&utm_campaign=loading)
+
+## BURGH101
+
+_Student Perspectives_ is a new initiative from VisitPITTSBURGH as we amplify student voices and experiences in support of [BURGH101](https://www.visitpittsburgh.com/plan-your-trip/college-visits/burgh101/), a savings pass designed exclusively for Pittsburgh-area college students and their families.
+
+Sign up below for your free pass and start planning your adventures this semester!
+
+### How this Pass Works
+
+![](https://explore.visitpittsburgh.com/checkoutAssets/hiwphonehold.png)
+
+### Step 1 - Get Your Pass
+
+This mobile exclusive passport is a collection of curated attractions, retailers, restaurants and more, offering deals and discounts to redeem during your visit.
+
+![](https://explore.visitpittsburgh.com/checkoutAssets/hiwphonelappy.png)
+
+### Step 2 - Receive Text
+
+Your passport will be instantly delivered to your phone via text and email and is ready to use immediately! There is no app to download. Your pass can be saved to your phone’s home screen for easy one-tap access.
+
+![](https://explore.visitpittsburgh.com/checkoutAssets/hiwphonehold.png)
+
+### Step 3 - Redeem
+
+When visiting a participating business, simply present your phone to the attendant or staff member to redeem available discounts.
+
+## More for Students to Explore:
+
+[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)\\
+\\
+\\
+Pittsburgh: A Great City for College Students \\
+\\
+Learn More](https://www.visitpittsburgh.com/blog/pittsburgh-for-college-students/)[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)\\
+\\
+\\
+Burgh Bound from Buffalo \| Student Perspectives \\
+\\
+Learn More](https://www.visitpittsburgh.com/blog/freshman-students-buffalo/)[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)\\
+\\
+\\
+A Weekend Around Pittsburgh by Bus \| Student Perspectives \\
+\\
+Learn More](https://www.visitpittsburgh.com/blog/a-weekend-around-pittsburgh-by-bus-student-perspectives/)[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)\\
+\\
+\\
+Feasting Through Pittsburgh: My Journey & Foodie Guide \| Student Perspectives \\
+\\
+Learn More](https://www.visitpittsburgh.com/blog/feasting-through-pittsburgh-student-perspectives/)[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)\\
+\\
+\\
+From Stage AE to the Symphony: A Musical Guide to Pittsburgh I Student Perspectives \\
+\\
+Learn More](https://www.visitpittsburgh.com/blog/pittsburgh-musical-guide/)[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)\\
+\\
+\\
+Move-In Day \| Pittsburgh College Guide \\
+\\
+Learn More](https://www.visitpittsburgh.com/blog/move-in-day-pittsburgh-college-guide/)[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)\\
+\\
+\\
+Pittsburgh Dining Guide: Oakland Neighborhood \\
+\\
+Learn More](https://www.visitpittsburgh.com/blog/pittsburgh-dining-guide-oakland-neighborhood/)[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)\\
+\\
+\\
+Insider’s Guide to Bloomfield \\
+\\
+Learn More](https://www.visitpittsburgh.com/blog/insiders-guide-to-bloomfield/)[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)\\
+\\
+\\
+Know Your Roll \| 14 Best Sushi Spots in Pittsburgh \\
+\\
+Learn More](https://www.visitpittsburgh.com/blog/best-sushi-pittsburgh/)[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)\\
+\\
+\\
+Japanese Restaurants in Pittsburgh \\
+\\
+Learn More](https://www.visitpittsburgh.com/blog/japanese-restaurants/)[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)\\
+\\
+\\
+The Best Noodles in Pittsburgh \\
+\\
+Learn More](https://www.visitpittsburgh.com/blog/the-best-noodles-in-pittsburgh/)
+
+![Sofia B.](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)
+
+## Author
+
+## Sofia B.
+
+Student \| University of Pittsburgh
+
+Sofia Brickner is a senior majoring in Media and Professional and Communications at the University of Pittsburgh. In her free time she loves to go thrifting, travel, and find new places to eat!
+
+This site uses cookies to enhance your experience.
+
+
+
+Accept
+
+0

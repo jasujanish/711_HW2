@@ -1,0 +1,49 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Bobby-Wilson-District-1/1-Newsletters-Press-Releases/Councilman-Bobby-Wilson-Introduces-Zoning-Update-to-Protect-Youth-from-Vape-Shop-Targeting#main-content)
+
+opens in new tab or window
+
+# CM Wilson Introduces Zoning Legislation to Regulate Vape Shops
+
+Published on September 16, 2025
+
+![District 1 City Seal Logo](https://www.pittsburghpa.gov/files/sharedassets/city/v/1/thumbs/city-seal-district1.png?dimension=pageimage&w=480)
+
+## Councilman Bobby Wilson Introduces Zoning Update to Protect Youth from Vape Shop Targeting
+
+_Councilmembers Lavelle, Strassburger, and Charland also co-sponsor the bill_
+
+Pittsburgh, PA (Tuesday, September 16, 2025)—Councilman Bobby Wilson (District 1) introduced legislation today, alongside co-sponsors Council President R. Daniel Lavelle (District 6), Councilperson Erika Strassburger (District 8), and Councilperson Bob Charland (District 3), amending the City of Pittsburgh Zoning Code to address the rise of vape shops that disproportionately target young people.
+
+The ordinance creates a new zoning category, **Restricted Personal Goods Retail**, which establishes standards for displaying and securing products, establishes where these businesses can operate and at what hours, along with how they can advertise. The personal good items include electronic nicotine delivery systems i.e., vapes, CBD items, Delta-8 THC, Delta-10 THC, and others. **This legislation does not impact licensed medical marijuana dispensaries.**
+
+“At its core, this is about common-sense guardrails that help Downtown and our neighborhood business districts thrive,” said Councilman Bobby Wilson. “I can walk down a city block and see at least 3 vape shops selling the same, unregulated products. On top of that, the lights are so bright, it looks like a circus; no wonder our youth congregate in these spaces.”
+
+A recent study published in the official journal of the Society for Research on Nicotine and Tobacco, found that vape shops are disproportionately clustered in urban areas and in neighborhoods with higher poverty rates, minority populations, and lower education levels, potentially exacerbating existing health disparities. The proximity of these vape shops to child-centric uses such as schools, playgrounds, daycare centers, religious institutions, and places where children gather increases the likelihood of youth exposure, initiation, and experimentation with vaping.
+
+“This legislation is about protecting our neighborhoods and our young people,” said Council President Lavelle. “Vape shops are often clustered in vulnerable areas and marketed in ways that target youth. By setting clear regulations, we can ensure these businesses operate responsibly while safeguarding public health and supporting safe, stable communities.”
+
+The legislation establishes that a Restricted Personal Goods Retail use cannot be located with 1,500 feet of any elementary school or secondary school; any licensed daycare facility; any religious institution; any public park or playground; or another Restricted Personal Goods Retail. This type of use cannot be open between the hours of 11 P.M. and 9 A.M. The products must also be kept behind a counter or in locked display case.
+
+Councilperson Strassburger added, “this legislation addresses concerns we have consistently heard from residents in recent years, and does so in a fair and thoughtful manner. I want to thank co-sponsors Lavelle, Wilson, and Charland for their leadership in moving this forward, as well as all those who helped us craft a balanced approach to this issue.”
+
+Councilperson Charland shared, “our business districts are the heart of our neighborhoods, but too many have become saturated with vape shops that bring little value while targeting young people. Residents have been clear; they don’t want more of these businesses. I’m proud to stand with Councilmembers Wilson, Lavelle, and Strassburger in taking action to put our communities first.”
+
+“And the end of the day, too many of these businesses deliberately market to kids, normalizing vaping at a young age and putting their health at risk,” continued Councilman Bobby Wilson. “This legislation is about drawing a line — not next to schools, not in the heart of our neighborhoods, and not with storefronts plastered in ads designed to hook the next generation.”
+
+**Julianne Hluska**
+
+_Chief of Staff_
+
+_Councilman Bobby Wilson_
+
+[Julianne.hluska@pittsburghpa.gov](mailto:Julianne.hluska@pittsburghpa.gov)
+
+412-676-5758
+
+Tagged as:
+
+- [City Council](https://www.pittsburghpa.gov/News-articles?dlv_OC%20CL%20City%20News%20Listing=(dd_OC%20News%20Categories=City%20Council))
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Bobby-Wilson-District-1/1-Newsletters-Press-Releases/Councilman-Bobby-Wilson-Introduces-Zoning-Update-to-Protect-Youth-from-Vape-Shop-Targeting#body-top)
+
+Ready

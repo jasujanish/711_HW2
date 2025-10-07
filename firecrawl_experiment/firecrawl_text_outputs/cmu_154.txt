@@ -1,0 +1,31 @@
+Skip to main content
+Sustaining AI Growth Needs Energy and Carbon Efficient Computing Infrastructure
+AI's growing energy consumption could destabilize the grid and undermine climate goals unless we fundamentally shift from optimizing only for performance to also for energy and carbon efficiency.
+By: Yuvraj Agarwal
+America stands at a crossroads. Artificial intelligence, particularly generative AI models, is driving unprecedented economic growth, reshaping industries from health care to manufacturing. Yet this digital revolution comes with a hidden cost: massive energy consumption that threatens to stress our energy grid and also undermine our climate goals.
+Why it matters: With AI model training consuming as much electricity as small countries and data centers projected to potentially account for 8% of global energy use by 2030, we face a fundamental challenge — how do we sustain AI's transformative benefits while reducing its impact on the grid and its operational and embodied carbon emissions?
+Catch up quick: AI's carbon impact comes from three sources:
+
+Embodied carbon from manufacturing computing hardware.
+Energy use and carbon emissions for developing and training AI models.
+Energy-use and carbon emissions during inference when running those models for AI tasks.
+
+For example, a smartphone's embodied carbon represents 80% of its lifecycle emissions, while data center servers balance operational and embodied carbon more evenly. Yet the AI industry largely operates in the dark — companies rarely disclose the energy consumed training their latest models or the energy usage and the carbon footprint (which depends on the source of the energy) of running them millions of times daily for inference tasks.
+The big question: This opacity prevents both competition on energy efficiency and informed decision making. Without carbon and energy transparency, organizations can't choose between a highly accurate but energy-hungry model versus a slightly less accurate but dramatically more efficient alternative.
+
+The same goes for choosing different types of hardware, with different levels of energy efficiency, to run these workloads.
+Furthermore, there is currently a lack of data on the source of that energy (e.g., renewable sources or otherwise) used by each data center operator at fine time granularities, that prevent carbon-based scheduling of these AI workloads at different geographic locations.
+
+Can we create transparency and optimization across the entire AI lifecycle — from manufacturing chips to training models to running inference — while driving innovation in both software and AI model efficiency and hardware design? The critical question isn't just whether we can shift computing to clean energy, but whether we can fundamentally reduce the energy and carbon footprint of AI development and deployment through better visibility, more efficient models, and more efficient hardware.
+Policy takeaways: Policymakers have several immediate opportunities to accelerate the development and the use of energy and carbon-efficient AI infrastructure:
+
+Transparency mandates: Require disclosure of energy consumption and carbon emissions for training large AI models, similar to automotive fuel economy standards. Mandate embodied carbon reporting for computing hardware, from chips to servers. Make energy usage and carbon-usage metrics available to customers of cloud infrastructure for their workloads for decision making.
+Efficiency standards: Establish energy and carbon efficiency benchmarks for AI models, moving beyond accuracy-only metrics. Create energy efficiency requirements for data centers and cloud AI services.
+Research investment: Fund development of energy-efficient AI hardware, architectures, models and algorithms. Support research into carbon-aware computing systems that automatically optimize for clean energy availability jointly with performance metrics (e.g., accuracy) and energy usage. While investments in advanced manufacturing facilities are important, significant sustained investment is needed to train graduate students and support research labs who work on semiconductors and AI systems to drive U.S. led innovation.
+Procurement leadership: Federal agencies should prioritize energy and carbon-efficient AI services in government contracts, creating market demand for transparent, energy and carbon efficient alternatives.
+Innovation incentives: R&amp;D investments for energy-efficient AI hardware and model development. Support creation of standardized carbon accounting tools for the AI industry.
+
+The bottom line: True AI sustainability requires visibility and optimization across the entire lifecycle — from chip manufacturing to model training to daily inference. By mandating transparency and creating incentives for efficiency, policymakers can drive a virtuous cycle where competition on carbon performance spurs innovation in both AI algorithms and computing hardware.
+Go deeper: CMU faculty are collaborating with several other universities to develop new technologies to better show and track carbon footprints, using AI to further energy flexibility and security, and ultimately create software and systems to reduce energy use and emissions. They are focusing especially on coupled societal infrastructures, which includes computing (e.g., data centers), transportation, buildings and the energy grid.
+
+jasujazumdinski

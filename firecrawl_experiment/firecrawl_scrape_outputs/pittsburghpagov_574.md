@@ -1,0 +1,71 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Civil-Service-Commission/Application-Selection-Process#main-content)
+
+opens in new tab or window
+
+In This Section
+
+- [Mayor](https://www.pittsburghpa.gov/City-Government/Mayor)
+- [City Controller](https://www.pittsburghpa.gov/City-Government/City-Controllers-Office)
+- [City Council](https://www.pittsburghpa.gov/City-Government/City-Council)
+- [Boards, Authorities, Commissions](https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions)
+- [Legal Services](https://www.pittsburghpa.gov/City-Government/Legal-Services)
+- [Jobs](https://www.pittsburghpa.gov/City-Government/Jobs)  - [Careers](https://www.pittsburghpa.gov/City-Government/Jobs/Careers)
+  - [Human Resources and Civil Service](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service)    - [Civil Service Commission](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Civil-Service-Commission)
+    - [Pittsburgh Partnership](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Pittsburgh-Partnership)
+    - [Neighborhood Employment Centers (NEC’s)](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Neighborhood-Employment-Centers-NEC%E2%80%99s)
+    - [Learn & Earn](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Learn-Earn)
+    - [Classification & Compensation Study](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Classification-Compensation-Study)
+    - [Bridging Federal Talent with City of Pittsburgh Government](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Bridging-Federal-Talent-with-City-of-Pittsburgh-Government)
+- [Finance & Budget](https://www.pittsburghpa.gov/City-Government/Finance-Budget)
+- [Contacts & Information](https://www.pittsburghpa.gov/City-Government/Contacts-Information)
+
+# Application & Selection Process
+
+Submitted applications are reviewed by Human Resources Analysts when the application period ends to determine the eligibility of each applicant. An applicant determined not to be eligible can appeal the decision to the Civil Service Commission.
+
+Some positions require a Civil Service exam:
+
+- Applicants who meet the minimum requirements will be scheduled for the examination.
+- Those who pass the examination will have their name added to the Civil Service Eligibility List for the position.
+
+Those who are determined eligible for a position that does not require a Civil Service exam will have their names added to the Eligibility List.
+
+- Hiring managers use both eligibility lists to select candidates to interview and/or hire.
+- Many City of Pittsburgh positions are covered under union collective bargaining agreements and therefore union employees may be given first consideration to some positions and/or be contractually obligated to some positions.
+
+## Application Tips
+
+- Carefully review the recruitment information to see if you are qualified and eligible to apply for a desired position.
+- Check the application deadline for the position.
+- Don't wait until the last minute to request, complete or submit your application.
+- Review the application first.
+- Carefully and thoroughly complete it.
+- An incomplete application may not be processed.
+- A resume may supplement but is not a replacement for the required employment application.
+- If the position requires City of Pittsburgh residency at the time of filing an application, you will need to affirm your residency within the City of Pittsburgh when you submit the application.
+- If hired, verify your City of Pittsburgh residency prior to your start date.
+
+## Civil Service Test Tips
+
+Not all City of Pittsburgh positions require a Civil Service examination. Review our current jobs at the [Online Employment Center](https://dynamicdns.pairdomains.com/). If a position requires a Civil Service examination it will be specified and a candidate preparation guide may be available.
+
+- Be sure to print out the candidate preparation guide after you apply for the position.
+- Make sure that you are well rested.
+- Leave early to go to the testing site.
+- Give yourself at least 30 extra minutes to arrive at the testing site to ensure that you arrive on time, calm and unhurried.
+- Please note that if you arrive late at the testing site, you will not be permitted to take the examination.
+- Listen carefully to all testing instructions.
+- The computer will not be able to assign your examination score to you if you fill in your identification number incorrectly on your answer sheet.
+- The computer may have difficulty reading your answers if you do not complete your answer sheet according to the directions.
+- Listen for instructions about how much time you will be given to complete the examination and what to do when you are finished with it.
+- Ask your proctor if you have any questions about the exam.
+- Pace yourself during the examination.
+- Try to save some time at the end of the examination to review your responses and to check your answer sheet to be sure that you have not missed any questions.
+
+**Good luck on your next Civil Service examination!**
+
+last updated: 04/22/2025
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Civil-Service-Commission/Application-Selection-Process#body-top)
+
+Ready

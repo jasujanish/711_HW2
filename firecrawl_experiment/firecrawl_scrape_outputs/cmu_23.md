@@ -1,0 +1,69 @@
+[Skip to main content](https://www.cmu.edu/leadership/president/lecture-series/speakers#main-content)
+
+# About the Speakers
+
+![Rene Haas](https://www.cmu.edu/sites/default/files/styles/cke_media_resize_medium/public/2025-08/rene_haas_headshot1.jpg?itok=0czwVgrg)
+
+## Rene Haas
+
+### Chief Executive Officer, Arm
+
+Rene was appointed Chief Executive Officer and to the Arm Board in February 2022. Prior to being appointed CEO, Rene was President of Arm’s IP Product Groups (IPG) from January 2017. Under his leadership, Rene transformed IPG to focus on key solutions for vertical markets with a more diversified product portfolio and increased investment in the Arm software ecosystem. In addition to his role as CEO, Rene also sits on the boards of Arm China, AstraZeneca, and SoftBank Group.
+
+Rene joined Arm in October 2013 as Vice President of Strategic Alliances and two years later was appointed to the Executive Committee and named Arm’s Chief Commercial Officer in charge of global sales and marketing.
+
+Before joining Arm, Rene held several applications management, applications engineering and product engineering roles, including seven years at NVIDIA as vice president and general manager of its computing products business. Prior to NVIDIA, Rene held executive roles at Scintera Networks and Tensilica.
+
+Rene earned his Bachelor of Science in Electrical and Electronics Engineering from Clarkson University and is a graduate of the Stanford University Graduate School of Business Executive Education Program.
+
+* * *
+
+![Luis von Ahn](https://www.cmu.edu/sites/default/files/styles/cke_media_resize_medium/public/2025-08/luis_von_ahn.jpg?itok=UJh5vqb9)
+
+## Luis von Ahn
+
+### CEO and Co-Founder, Duolingo
+
+Luis von Ahn is the Co-Founder and CEO of Duolingo (NASDAQ: DUOL), the world’s most popular language-learning platform, serving hundreds of millions of users worldwide with a mission to make education free, accessible, and engaging. Born in Guatemala, Luis was a Professor of Computer Science at Carnegie Mellon University and a recognized pioneer in the fields of crowdsourcing and human computation.
+
+Prior to founding Duolingo, Luis created reCAPTCHA, a system acquired by Google that digitized books while simultaneously protecting websites from automated abuse. A recipient of the MacArthur “Genius” Grant, he has been celebrated for his innovative approaches to leveraging human interaction at scale. Through Duolingo, Luis continues to advance his philanthropic vision of inclusive education, blending cutting-edge technology with a commitment to expanding global access to learning.
+
+* * *
+
+![Ted Decker](https://www.cmu.edu/sites/default/files/styles/cke_media_resize_medium/public/2025-08/ted_decker.jpg?itok=8SuHpiQF)
+
+## Ted Decker
+
+### Chair, President & Chief Executive Officer, The Home Depot
+
+Ted Decker is chair, president and CEO of The Home Depot, the world’s largest home improvement retailer with more than 2,300 stores and approximately 475,000 associates. He is also a member of the company’s board of directors. Under Ted’s leadership, The Home Depot is creating a seamless interconnected shopping experience for Pro and DIY customers, while championing the company’s unique culture.
+
+From 2020 to 2022, Ted served as president and chief operating officer and was responsible for global store operations, global sourcing operations, global supply chain, outside sales and service, real estate, as well as merchandising, marketing and online strategy. While he was in this role, the company enhanced its capabilities to blend the online and in-store worlds and better serve customers however they choose to shop.
+
+Previously, Ted served as chief merchant and executive vice president of merchandising for more than six years, where he was responsible for store and online merchandising departments, merchandising strategy, marketing and vendor management and in-store environment.
+
+Ted joined The Home Depot in 2000 as director of business valuation. Over the past two decades, he has held several strategic positions across the company including senior director of business valuation, vice president, senior vice president of strategic business development and senior vice president of retail finance. His experience across the business enables him to blend the art and science of retail.
+
+Before joining the company, Ted worked in business development, strategic planning and finance at Kimberly-Clark Corp. and Scott Paper Co. Prior to that, he held various corporate finance, lending and credit positions at PNC Bank. He has extensive international experience, having lived and worked in England and Australia.
+
+Ted serves on Carnegie Mellon University’s Board of Trustees and also sits on the Atlanta Committee for Progress board. He earned a bachelor’s degree in English from The College of William and Mary and a master’s degree in business administration from Carnegie Mellon University.
+
+* * *
+
+![Edda Fields-Black.](https://www.cmu.edu/sites/default/files/2025-08/edda_field_black.jpg)
+
+## Edda Fields-Black
+
+### Pulitzer Prize-winning author, Professor, CMU Department of History, and Director, Dietrich College of Humanities Center
+
+Dr. Edda L. Fields-Black is Professor in the Department of History and Director of the Dietrich College Humanities Center at Carnegie Mellon University. Her research specialty is the trans- national history of West African rice farmers, peasant farmers in pre-colonial Upper Guinea Coast and enslaved laborers on rice plantations in the antebellum South Carolina and Georgia Lowcountry. Throughout her career, Fields-Black has used interdisciplinary sources and methods to uncover the voices of historical actors in pre-colonial West Africa and the African Diaspora who did not author written sources.
+
+Fields-Black was awarded the 2025 Pulitzer Prize in History and the 2025 Gilder Lehrman Lincoln Prize for her book, _COMBEE: Harriet Tubman, the Combahee River Raid, and Black Freedom during the Civil War. COMBEE_ recounts a crucial chapter in American history when Harriet Tubman, working with the Union Army, led a daring Civil War raid to attack rice plantations owned by Confederate slave owners in the South Carolina Lowcountry. This is an untold chapter in the life of one of America's best-known and loved heroines.
+
+Tubman and her crew of spies, scouts, and pilots piloted 300 Black US Army soldiers (all formerly enslaved men) and their white abolitionist commanders up the winding Combahee River in three armed US Army boats. In six hours, they torched seven rice plantations and liberated nearly 800 enslaved people, many of whom spoke a Creole language (today called Gullah Geechee) Tubman could not even understand. Based on US Civil War pension files, planters’ documents of slave transactions, and abolitionists’ personal correspondence, _COMBEE_ tells the story of Harriet Tubman's Civil War service and brings to life the enslaved families, neighbors, and sweethearts forced to work in South Carolina's deadly tidal rice swamps who were sold and separated during slavery, then liberated and reunited in the raid. It was the largest slave revolt in US history.
+
+In addition, Fields-Black is author of _Deep Roots: Rice Farmers in West Africa and the African Diaspora (2008) and co-editor of Rice: Global Networks and New Histories_ (2015). She is executive producer and librettist of “Unburied, Unmourned, Unmarked: Requiem for Rice” with three-time EMMY™ Award-winning classical music composer, John Wineglass. Fields-Black has worked as an advisor to curators at the Smithsonian National Museum of African American History and Culture and a consultant to the International African American Museum and the Senator John Heinz History Center. She is currently an advisor to the Smithsonian National Museum of American History.
+
+|     |     |
+| --- | --- |
+|  |  |

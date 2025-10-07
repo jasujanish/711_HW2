@@ -1,0 +1,100 @@
+[Skip to main content](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/City-Steps#main-content)
+
+opens in new tab or window
+
+In This Section
+
+- [City Planning](https://www.pittsburghpa.gov/Business-Development/City-Planning)
+- [Mobility and Infrastructure](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure)  - [About Mobility and Infrastructure](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/About-Mobility-and-Infrastructure)
+  - [Maps](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps)
+  - [Plans](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans)    - [Traffic Alerts and Advisories](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Traffic-Alerts-and-Advisories)
+    - [City Bridges](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/City-Bridges)
+    - [Bike(+) Plan](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Bike-Plan)
+    - [City Steps](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/City-Steps)
+    - [Mobility](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Mobility)
+    - [Neighborways](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Neighborways)
+    - [Pedestrian Safety Action Plan](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Pedestrian-Safety-Action-Plan)
+    - [Pedestrian Wayfinding Kiosk Project](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Pedestrian-Wayfinding-Kiosk-Project)
+    - [2070 Mobility Vision Plan](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/2070-Mobility-Vision-Plan)
+    - [Strip District Mobility Plan](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Strip-District-Mobility-Plan)
+    - [The Homewood Mobility Plan](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/The-Homewood-Mobility-Plan)
+  - [Current DOMI Projects](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Current-DOMI-Projects)
+  - [Transportation Development Review](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Transportation-Development-Review)
+  - [Right-of-Way Management](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Right-of-Way-Management)
+- [Permits, Licenses, and Inspections](https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections)
+- [Digital Equity In Pittsburgh](https://www.pittsburghpa.gov/Business-Development/Digital-Equity-In-Pittsburgh)
+- [Small Business Resources](https://www.pittsburghpa.gov/Business-Development/Small-Business-Resources)
+- [Public Works](https://www.pittsburghpa.gov/Business-Development/Public-Works)
+- [Zoning](https://www.pittsburghpa.gov/Business-Development/Zoning)
+- [Geographic Information Systems, Mapping & Open Data](https://www.pittsburghpa.gov/Business-Development/Geographic-Information-Systems-Mapping-Open-Data)
+- [Procurement](https://www.pittsburghpa.gov/Business-Development/Procurement)
+- [PGH Lab](https://www.pittsburghpa.gov/Business-Development/PGH-Lab)
+- [Sustainability](https://www.pittsburghpa.gov/Business-Development/Sustainability)
+
+# City Steps
+
+## Pittsburgh City Steps
+
+Pittsburgh has more public staircases than any city in the United States. The City’s steps connect communities and provide residents access to transit and other amenities. Nearly two-thirds of the steps are in low or moderate-income areas. They are critical assets in the City’s pedestrian transportation network and beyond.
+
+[Pittsburgh City Steps Map](https://pittsburghpa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=efef6b3ff0954a7f9b58093c49d38dcc)
+
+Maintaining the large inventory of sets of steps is an enormous challenge. Approximately 460 sets of steps are built on structures, while others are built into sidewalks, known as “jumperwalks.” Repairing or replacing an on-structure staircase is a logistical, design, and construction undertaking comparable to a small bridge project. As a result, the rehabilitation or replacement of a run of steps requires detailed planning and design which can take several years to complete prior to the start of construction. There is a need to study and prioritize these investments to make the most impact for people walking in Pittsburgh’s neighborhoods.
+
+For more information about current Steps projects please see our [DOMI Project Map](https://pittsburghpa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=fad12a64d38b4f208fa9ff03f6a59609).
+
+## Steps Assessment
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/domi/images/23469_steps.jpg)In 2017 through 2018 the City of Pittsburgh developed a systematic method for prioritizing which sets of steps should be repaired and rebuilt. The City used spatial analysis, public input, and field visits to create a prioritized list of steps, which ultimately will help inform locations of step-related projects for rehabilitation and renovation. The City also reviewed public step maintenance and repair best practices from other U.S. cities and developed guidance about step materials and design. This prioritization process was completed as part of Pittsburgh’s participation in the City Accelerator program, an initiative of Living Cities and the Citi Foundation. See the full report for the complete findings summary.
+
+[Pittsburgh Citywide Steps Assessment May 2018(PDF, 9MB)](https://www.pittsburghpa.gov/files/assets/city/v/1/domi/documents/23470_pittsburgh_citywide_steps_assessment.pdf)
+
+## Pittsburghers Love their Steps! Get Involved.
+
+**Stewardship**
+
+Residents can volunteer to organize a workday for step stewardship - trash pick-up and weed clearing. The Department of Public Works will even provide supplies (gloves & bags) and pick up of refuse. Find out more and apply for your event on our [Volunteer Application page](https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Anti-Litter-and-Illegal-Dumping/Volunteer-Applications).
+
+**Partnership**
+
+Bicycle and Pedestrian committees are neighborhood-based groups that give the city feedback and priorities on pedestrian infrastructure, including staircases. Find out more about these pedestrian allies: [BikePGH](https://bikepgh.org/sites/advocacy/get-involved/), [Allegheny Cleanways,](https://www.alleghenycleanways.org/) [South Side Slopes Neighborhood Association](https://www.southsideslopes.org/st23/), [Fineview Fitness Challenge](https://runsignup.com/Race/PA/Pittsburgh/FineviewStepChallenge), [GroundedPGH](https://groundedpgh.org/), and [East Hills Consensus Group](https://www.easthillsconsensusgroup.org/).
+
+## FAQ
+
+**What can be done to address weeds and/or litter and illegal dumping along the hillside and stairs?**(show below)
+
+If weeds and overgrowth are making the steps hard to access submit a “City Steps, Need Cleared” 311 request. For addressing general weeds and litter you can volunteer to organize a workday (Volunteer Application page.) If you find illegal dumping call/submit a 311 request. If you see illegal dumping occurring please do not confront the individuals and jeopardize your safety.
+
+**What can be done to address railings and/or concrete on steps that are broken or unsafe?**(show below)
+
+If you are concerned about the condition of railing or concrete on the steps submit a “Steps Repair” 311 request. You can help progress repairs by including **photos** of the area and detailed description of the **location** of the area of concern.
+
+**Why are the stairs near me closed?**(show below)
+
+City Steps are closed when the city determines that the condition is such that the steps cannot be used safety. The steps will remain closed until funding and staffing becomes available to repair and reopen the steps.
+
+**How does the City select which steps to repair or replace?**(show below)
+
+The City Department of Mobility and Infrastructure consider several things when selecting which steps to put design and construction funding towards. The main factors are: current condition, Step Prioritization Ranking from 2018, as well as 311 and Council Representative input.
+
+**What can be done to address stairs that are poorly lit or dark due to tree cover?**(show below)
+
+If you find a location that is poorly lit please submit a “Street Light – Request” 311 request. You can help City staff process your request by including **photos** and detailed description of the **location** of the area of concern. If you find a location that is dark or obstructed by vegetation cover please submit a “City Steps, Need Cleared” 311 request. You can help City staff process your request by including **photos** and detailed description of the **location** of the area of concern.
+
+**How do I request a bike runnel for stairs?**(show below)
+
+To submit a location for consideration for installation of a bike runnel please submit a “Bicycle/Pedestrian Concerns” 311 request.
+
+**How can I request a salt box for winter weather?**(show below)
+
+If you would like to have a salt box installed at the top or bottom of steps near you please submit a “Salt Box” 311 request. Information about snow removal on walkways, volunteer and request, can be found through the [Snow Angels page](https://engage.pittsburghpa.gov/snow-angels).
+
+**How can my community group install public art or signage on or near the stairs?**(show below)
+
+Public art or signage installed in the public right-of-way must be coordinated through the City’s Department of Planning Public Art and Civic Design Division. For any questions about Art Commission approval, contact 412-255-8996 or email [pacd@pittsburghpa.gov](mailto:pacd@pittsburghpa.gov).
+
+last updated: 04/23/2025
+
+[Back to top](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/City-Steps#body-top)
+
+Ready

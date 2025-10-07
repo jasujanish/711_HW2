@@ -1,0 +1,54 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/Mayor/Executive-Orders/Mayor-Peduto-Issues-Executive-Order-Committing-Pittsburgh-to-Be-Carbon-Neutral-by-2050#main-content)
+
+opens in new tab or window
+
+# Executive Order Committing Pittsburgh to Be Carbon Neutral by 2050
+
+Published on April 27, 2021
+
+**Pittsburgh, PA** (April 22, 2021) Mayor William Peduto issued a sweeping Earth Day Executive Order today that builds upon Pittsburgh’s leadership in fighting climate change by committing the city to become fully carbon-neutral by 2050.
+
+The Order reviews concrete steps the Peduto Administration has taken the past seven years on climate change efforts and lays out the next moves City of Pittsburgh departments and authorities must make to further protect the environment.
+
+The centerpiece of the Order is Pittsburgh joining the [ICLEI Local Governments for Sustainability Network](https://iclei.org/en/climate_neutrality.html), in which communities agree to reducing their greenhouse gas (GHG) emissions and GHG avoidance to a net-zero emission level at the latest by 2050.
+
+Mayor Peduto has been one of Pittsburgh’s leading environmental voices across three decades in local government. He is the North American representative to the Global Covenant of Mayors for Climate and Energy, and in February joined international leaders including Special Presidential Envoy on Climate John Kerry, White House National Climate Advisor Gina McCarthy and UN Special Envoy for Climate Ambition and Solutions Mike Bloomberg to celebrate the United States rejoining the Paris Climate Agreement, among other accomplishments.
+
+“Climate change is a global issue but has severe local impacts on Pittsburgh residents, especially upon those in low-income communities who bear the brunt of negative impacts from rising temperatures, tainted air and water, and severe weather,” Mayor Peduto said. “The good news is we are taking serious steps to confront these issues and emerge from this crisis with a stronger economy and a better future for generations of Pittsburgh residents to come.”
+
+The Order celebrates the Administration’s successes and acknowledges the additional work to do to achieve its climate goals. Successes include:
+
+- Adopting Climate Action Plan 3.0, which includes goals on reducing energy usage and waste, building a fossil fuel fleet and reducing transportation emissions
+- Divesting its pension fund from companies that do not adhere to Environmental, Social and Governance guidelines
+- Working with regional partners in the Western Pennsylvania Energy Consortium (WPEC) to purchase 100% renewable electricity for major facilities in City government and throughout Pittsburgh
+- Adopting a Net Zero Ready Building Ordinance to commit to constructing highly energy efficient municipal buildings (including the new Fourth Division Public Works Campus)
+- Distributing blue recycling bins to residents of all single-family homes and apartment buildings with fewer than five units to help achieve zero waste goals
+- Deploying electric vehicles and compressed natural gas vehicles and installing several charging stations at municipal facilities with plans to invest further in vehicles as part of a sustainable and cleaner municipal fleet
+- Becoming the second United States city to formally integrate the United Nations Sustainable Development Goals into municipal operations
+- Launching ForgingPGH, the City’s first citywide comprehensive planning process that will guide land use over the next twenty years
+- Joining eight other Mayors from cities and towns in the Ohio River Valley and Upper Appalachia regions to issue the Marshall Plan for Middle America, which is a comprehensive strategy to lead a just transition from heavy industry to a more sustainable future, develop a strong workforce, and invest in the growing clean energy industries of tomorrow that will provide family-sustaining jobs for residents of our regions
+
+Going forward, the Order further requires:
+
+- All City Departments to implement climate impact scoring when crafting budgets and conduct a climate risk assessment for infrastructure investments and municipal operations
+- The Department of Public Works to issue a Request for Proposals to develop a comprehensive strategy to improve energy efficiency in all City facilities
+- The Department of Mobility to issue a Request for Proposals to transition the City’s streetlights to LED and take into account Equity Indicators throughout the conversion project
+- The Departments of Public Works and Mobility and Infrastructure and the Office of Management and Budget or their designees to take necessary steps in collaboration with the Public Parking Authority of Pittsburgh to leverage public assets to provide additional electric vehicle charging stations and infrastructure that can be utilized by residents and visitors
+- The Departments of Mobility and Infrastructure and City Planning or their designees to continue to rapidly implement the Bike+ Plan, promote Transit-Oriented Development and Transportation Demand Management Strategies, and improve and expand mobility and transit options in a manner that takes into consideration climate adaptation of and climate migration to the Pittsburgh region
+- Taking necessary actions to, whenever possible, replace retiring municipal vehicles with electric or other alternative fuel equivalents and procure renewable sources of fuel, in collaboration with the Equipment Leasing Authority and the Interdepartmental Electric Vehicle Task Force
+- Exploring the development of a publicly accessible dashboard to measure the City’s progress on sustainable and equitable procurement in accordance with climate and equity goals.
+- Studying the creation of a revolving energy efficiency fund through which the City’s utility bill savings resulting from energy efficiency improvements are directed to capital spending for additional efficiency projects.
+- Establishing an Energy Planning Delivery Unit to create and publicize guidelines for developers and builders to advance equity-focused greenhouse gas reduction and climate preparedness strategies in their projects.
+- Integrating climate resilience and climate risk mitigation strategies in all neighborhood and comprehensive planning efforts.
+- Convening a committee comprised of members of the Urban Redevelopment Authority, Housing Authority of the City of Pittsburgh, and Pittsburgh Water and Sewer Authority to create policies and programs that help low-to-moderate income residents reduce their utility burdens, perform home energy audits, finance energy efficiency improvements, and electrify and decarbonize their homes.
+- Calling on the Housing Authority of the City of Pittsburgh, the Urban Redevelopment Authority of Pittsburgh, the Public Parking Authority of Pittsburgh, the Sports and Exhibition Authority, and the Pittsburgh Water and Sewer Authority to join the City in adopting Net Zero Ready Building Policies and climate-ready urban design guidelines.
+
+The full [Executive Order(PDF, 64KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/mayor/documents/executive-orders/14057_final_climate_change_earth_day_executive_order.pdf) is available.
+
+Tagged as:
+
+- [Executive Orders](https://www.pittsburghpa.gov/News-articles?dlv_OC%20CL%20City%20News%20Listing=(dd_OC%20News%20Categories=Executive%20Orders))
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/Mayor/Executive-Orders/Mayor-Peduto-Issues-Executive-Order-Committing-Pittsburgh-to-Be-Carbon-Neutral-by-2050#body-top)
+
+Ready

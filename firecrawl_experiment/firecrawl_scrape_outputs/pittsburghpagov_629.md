@@ -1,0 +1,37 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/Mayor/Executive-Orders/Mayor-William-Peduto-Issues-Executive-Order-on-New-Management-and-Budget-Reforms#main-content)
+
+opens in new tab or window
+
+# Executive Order on New Management and Budget Reforms
+
+Published on August 12, 2015
+
+**Order strengthens spending controls and procurement policies.**
+
+**Pittsburgh, PA** (Aug. 12, 2015) Mayor William Peduto issued an Executive Order today that will bring new efficiency and transparency to the City of Pittsburgh's spending and budgeting procedures.
+
+The order outlines nine provisions for strengthening the City's budget controls covering changes to oversight of department spending; external grants; procurement practices; the cost impacts (aka, scoring) of proposed ordinances; and the implementation of operating and capital budgets.;
+
+Many of the changes were spurred by consultants at the National Institute of Government Purchasing, who were engaged by the city's Office of Management and Budget this spring to study city procurement policies and procedures. Their report, issued in July, included 45 recommendations for making the city's spending on goods and services more efficient, easier to understand for taxpayers and businesses, and easier for vendors to do business with the city. (A summary of the [NIGP report(PDF, 237KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/mayor/documents/executive-orders/nigp_report_summary.pdf) is available.)
+
+The Executive Order comes in advance of the issuance of the City's 2016 operating budget this fall, and follows the truth-in-budgeting model the Peduto Administration adopted for the 2015 operating budget. Where previous city budgets relied on dampened spending estimates and inflated revenue projections to stay in balance, this model requires honest portrayals of city finances.
+
+Through today's order, OMB will enforce financial and budgetary policies across every city department, including policies on hiring and personnel costs, and implement controls on high-priced technology, workforce and travel costs.
+
+The order will better equip the City to root out duplicative work and waste, while providing economies of scale and more streamlined spending processes.
+
+These policies will free up department resources citywide to do what matters most -- focusing on operations and providing services to city taxpayers -- while giving our budget office even more ability to hold down spending, Mayor William Peduto said.
+
+The order gives OMB until September 1 to issue its first policy changes on legislative scoring, and goes on to list other deadlines on procurement, operating and capital budget policy changes expected through the end of this calendar year.
+
+A copy of the full [Executive Order(PDF, 208KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/mayor/documents/executive-orders/executiveorder_financialreform_final.pdf) is available.
+
+###
+
+Tagged as:
+
+- [Executive Orders](https://www.pittsburghpa.gov/News-articles?dlv_OC%20CL%20City%20News%20Listing=(dd_OC%20News%20Categories=Executive%20Orders))
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/Mayor/Executive-Orders/Mayor-William-Peduto-Issues-Executive-Order-on-New-Management-and-Budget-Reforms#body-top)
+
+Ready

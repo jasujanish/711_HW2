@@ -1,11 +1,9 @@
 from bs4 import BeautifulSoup
 
+# Simple parsing of the 2025 pittsburgh restaurant week list
+# Note: html file downloaded manually, txt file slightly modified by hand
 def parse_sections(soup):
     res = "Here is a list of restaurants at the summer 2025 pittsburgh restaurant week:\n"
-
-    curr_len = 0 
-    min_chunk_size = 200
-
     all_elements = soup.find_all()
     if not all_elements:
         return "EMPTY"

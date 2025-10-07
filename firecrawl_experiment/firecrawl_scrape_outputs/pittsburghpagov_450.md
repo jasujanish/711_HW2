@@ -1,0 +1,583 @@
+# The City of Pittsburgh Department of Law Presents:
+
+# Pittsburgh’s City Solicitor
+
+A Brief History
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/a129292d8f7344fa4cbef4b17f12274b533aed4837448aee9558f29f1914501c.jpg)
+
+Version 1. Prepared September, $\\mathbf { 1 5 } ^ { \\mathrm { t h } } :$ , 2025.
+
+# Why Research Our City Solicitors?
+
+This historic Solicitor research is a vital step forward in understanding and promoting the rich institutional history of Pittsburgh’s Law Department. From 1816, when Pittsburgh first achieved the designation of City, to today, no comprehensive list of Solicitors for the City has ever been compiled. This absence of information called for a new research initiative to gather what data was available, before more information could be lost.
+
+As such, the research is ongoing and welcomes input from interested individuals and organizations. What has been uncovered thus far has been researched and arranged for publication by Elizabeth Begley, Record Specialist for the Law Department. Special thanks are due to the Pittsburgh City Archives and the Heinz History Center for their research assistance.
+
+# Introduction
+
+In addition to the names and terms served by each Solicitor, biographic information such as birth date, date of death, interment location, and notable achievements are included where applicable. The information provided is just a glimpse into the life of each Solicitor and is by no means exhaustive. Restricted by limited information and research capacities, the information provided will vary by Solicitor. There is no Solicitor information for the years 1832-1834, and 1840, yet.
+
+# What is a City Solicitor?
+
+Appointed by City Council as the Chief Legal Officer for Pittsburgh, the City Solicitor represents the City at all levels of the Commonwealth and Federal Court Systems. This representation includes many forms of litigation such as tort, civil rights, employment, and zoning/development. The City Solicitor also provides expert legal counsel to various city departments, ensuring that the city is adhering to all necessary laws and regulations during their daily operations.
+
+# HISTORIC CITY SOLICITORS
+
+Neville Burgoyne Craig (1821 - 1830)
+
+Birth: March 29, 1787
+
+Death: March 3, 1863
+
+Interred: Allegheny Cemetery
+
+Notable Achievements: Owner and Editor of Pittsburgh Gazette (1829-41), Author, State Legislator. Craig may have been the first City Solicitor (1). Though Ebenezer Denny requested the Mayor be able to nominate a
+
+Solicitor in 1816, no such person was named in the municipal record (2).
+
+# Trevanion Barlow Dallas (1830 - 1831)
+
+Birth: February 23, 1801
+
+Death: April 7, 1841
+
+Interred: Homewood Cemetery
+
+Notable Achievements: Deputy Attorney General for Allegheny Co., Pittsburgh
+
+Select Council President (1834-35),
+
+President Judge of Allegheny Co. Courts (1835-39), Associate Law Judge of the
+
+District Court of Allegheny Co. (1839-41) (3).
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/317384d99b0a7ce8c44c1dd5a4989410f380fe82d255c9156006bc19e860fc3c.jpg)
+
+Edward Simpson (1835 - 1836)
+
+Birth: 1802
+
+Death: 1866
+
+Interred: Allegheny Cemetery
+
+Notable Achievements: Member of the Pittsburgh Law Library
+
+Association (4).
+
+# HISTORIC CITY SOLICITORS
+
+James Findlay (1837 - 1839)
+
+Birth: 1801
+
+Death: 1843
+
+Interred: Harrisburg Cemetery
+
+Notable Achievements:
+
+PA House of Representative (1831-1834),
+
+Secretary of the Commonwealth (1833 - 1835) (1).
+
+# Moses Hampton (1841)
+
+Birth: October 28, 1803
+
+Death: June 27, 1878
+
+Interred: Allegheny Cemetery
+
+Notable Achievements: President Judge of the Allegheny County District Court (1853-1873) (2).
+
+# Andrew Wylie Jr.
+
+(1842)
+
+Birth: February 25, 1814
+
+Death: August 1, 1905
+
+Interred: Oak Hill Cemetery (DC)
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/58b767a4bb8d6c7b5f0bb5a5fabcf81f62375928c5a799df65e1b61e06bb1427.jpg)
+
+Notable Achievements: Associate Justice, U.S. District Court for the District of Columbia. Received a recess appointment from Abraham Lincoln on March 18, 1863, to a new seat authorized by 12 Stat. 762; nominated to the same position by Abraham Lincoln on January 5, 1864. Confirmed by the Senate on January 20, 1864. Retired May 1, 1885 (4).
+
+# HISTORIC CITY SOLICITORS
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/02d1603b42f7669544001ae6dde1640a8175ba691767d80675e1e1761613756b.jpg)
+
+Family crests of Lomax and Lomas. Thought to be origins for the surname Loomis. Elias Loomis included the study of onomastics in his family genealogy research (1).
+
+Robert Woods (1843 - 1844)
+
+Birth: 1825
+
+Death: 1881
+
+Interred: Homewood Cemetery Notable Achievements: Private Practice Attorney.
+
+Curtis B.M. Smith (1845 - 1846)
+
+Still under investigation.
+
+Cyrus Orlando Loomis (1847 - 1848)
+
+Birth: 1818 or 1821
+
+Death: September 4, 1872
+
+Interred: Historic Elmwood Cemetery (MI)
+
+Notable Achievements: Served in the U.S. Army from 1861-1865, first as
+
+Captain, then Colonel, and finally as Brigadier General by brevet. He
+
+commanded the celebrated "Loomis Battery" (1).
+
+# HISTORIC CITY SOLICITORS
+
+# Charles Bonaventure Scully (1849)
+
+Birth: 1818
+
+Death: 1874
+
+Interred: St. Mary Catholic Cemetery Notable Achievements: Managed
+
+Schenley Estate for a period. (1).
+
+James I. Kuhn (1850 - 1851) & (1854)
+
+Birth: 1810
+
+Death: 1885
+
+Interred: Allegheny Cemetery
+
+Notable Achievements: Inaugural Professor of Latin and Greek at Lafayette College (PA).
+
+# Oliver Hazard Rippey (1852 - 1853)
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/0fd966732a3017795d1ca7f10e0675939c55566fe89411aa8c251bfc4d1c01ed.jpg)
+
+Death: May 31, 1862
+
+Interred: Allegheny Cemetery
+
+Notable Achievements: Civil War Union Army Officer. He served as Lieutenant Colonel of the 7th Pennsylvania Infantry, then as Colonel and commander of the 61st Pennsylvania Volunteer Infantry. He was killed in action at the May 31, 1862 Battle of Fair Oaks, Virginia while leading his men (3).
+
+# HISTORIC CITY SOLICITORS
+
+# Alfred Brunson McCalmont (1855)
+
+Birth: April 28, 1825
+
+Death: May 7, 1874
+
+Interred: Franklin, Venango Co., PA Notable Achievements: LieutenantColonel, 142nd PA Volunteer Infantry; 208th PA Infantry (1861-1865) (1).
+
+David D. Bruce (1856)
+
+Birth: March 3, 1823
+
+Death: January 25, 1907
+
+Interred: Allegheny Cemetery
+
+Notable Achievements: President of Select Council of Pittsburgh; Partner at Bruce $\\mathcal { E }$ Negley (2).
+
+# Alexander William Foster Jr. (1857 - 1859)
+
+Birth: 1814
+
+Death: January 24, 1880
+
+Interred: Allegheny Cemetery
+
+Notable Achievements: Member of the Pittsburgh Law Library Association(3).
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/4b90dd584c4fb6e3a1cce760fa6122b5367e995473ce4a9cc48a577bd8f0effb.jpg)
+
+Alfred B. McCalmont (1).
+
+# John William Riddell (1860)
+
+Birth: 1829
+
+Death: April 8, 1896
+
+Interred: St. Mary Church Cemetery, Santa Clara (CA)
+
+Notable Achievements: Practiced Law in both PA and CA (4).
+
+# HISTORIC CITY SOLICITORS
+
+Jacob Frederick Slagle (1861 - 1862) $\\boldsymbol { \\mathcal { E } }$ (1866 - 1873)
+
+Birth: April 6, 1830 Death: September 6, 1900 Interred: Allegheny Cemetery Notable Achievements: Served in the 149th regiment, PA Volunteer Infantry, during the Civil War. Appointed judge advocate with the rank of major. Judge of the Court of Common Pleas of Allegheny Co. (1887-1900) (1).
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/5293c83689b2828bf4f5769c251c73fe2c4c0ac255cad90775b8236cd9a3d377.jpg)
+
+# John William Fletcher (J.W.F.) White
+
+(1862 - 1865)
+
+Birth: January 19, 1821 Death: November 5, 1900 Interred: Sewickley Cemetery Notable Achievements: A member of the convention which framed the constitution of 1874. Elected as a Judge of the District Court of Allegheny Co., later renamed the Common Pleas Court No. 2 (1873 - 1900), President Judge of the Court (1897-1900) (2).
+
+# Thomas Steel Bigelow (1873 - 1881)
+
+Birth: June 28, 1846
+
+Death: July 20, 1904
+
+Interred: Homewood Cemetery
+
+Notable Achievements: Retired from law and moved into business after serving as Solicitor (3).
+
+# J.W.F. White (2).
+
+1.Blakely, A. (1903). The twentieth century bench and bar of Pennsylvania Vol II. H. C. COOPER. JR., BRO. &.CO. (p.876 - 877).
+
+2.Blakely, A. (1903). “” (p.854 - 855). Same citation for photo of White.
+
+3\. Blakely, A. (1903). “” (p.905)
+
+# HISTORIC CITY SOLICITORS
+
+William C. Moreland (1882 - 1895)
+
+Birth: 1836
+
+Death: May 2, 1901
+
+Interred:
+
+Notable Achievements: Appointed assistant solicitor for the Pennsylvania Railroad Co. (1861). Commissioned officer, titled Major, of the National Gard (1). Honored with a ship named after him in 1910, the lake-freighter, SS William C. Moreland (2). The freighter is seen in the photograph to the right.
+
+# Clarence Burleigh (1895 - 1902)
+
+Birth: December 20, 1853 Death: 1923 Interred: Homewood Cemetery Notable Achievements: Allegheny District Attorney, Attorney for the Pittsburgh Railways Company (3).
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/39b44f136aa2c2dd58a2f0883404e2474ee55ae2113a015c2e79f710ab504847.jpg)
+
+# Thomas D. Carnahan (1902)
+
+Birth: 1850
+
+Death: 1930
+
+Interred:
+
+Notable Achievements: Court judge in Pennsylvania's 5th district (1907 – 1929). With his father, the legal advisor to Mary Schenley, involved in the acquisition of land that would become Schenley Park (4).
+
+# HISTORIC CITY SOLICITORS
+
+William B. Rodgers (1903 - 1909)
+
+Birth: July 12, 1842
+
+Death: May 25, 1914
+
+Interred:
+
+Notable Achievements: Solicitor of Allegheny City (1870-1888). Solicitor of the Board of Education (1914) (1).
+
+Charles Anthony O’Brien (1909 - 1913, 1914 - 1920)
+
+Birth: November, 1853 Death: October, 1928 Interred: South Side Cemetery Notable Achievements: Partner at O'Brien and Ashley (1903-1909) (2).
+
+Charles B. Prichard (1921)
+
+Birth/Death/Interred Still Under
+
+Investigation.
+
+Notable Achievements: Director of Public Safety (4).
+
+# John Porter Hunter (1914)
+
+Birth: January 4, 1859 Death: February 27, 1914 Interred: Homewood Cemetery Notable Achievements: Private Practice Attorney (3).
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/c6549790a5781c1b4569054197fe144e3749335e6cf2fc84356840f136526ed5.jpg)
+
+JOHN P. HUNTER Greater Pittsburgh Day Sesqui Centennial Committee
+
+# HISTORIC CITY SOLICITORS
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/0ce2ecdb9edcc11727096616f192c2bc782ac226ff2a94f1fa70b93c5930a1ca.jpg)
+
+Thomas M. Benner (2).
+
+Richard Wilson Martin (1922 - 1925)
+
+Birth: September 14. 1882
+
+Death: March 5, 1930
+
+Notable Achievements: PA Public Service Commissioner (1925-1926), Judge in PA State Court (1).
+
+Thomas M. Benner (1925 - 1926, 1936)
+
+Birth: May 7, 1873
+
+Death:
+
+Notable Achievements: Trustee of the Pittsburgh Railways Company, Director of the Duquesne Printing Company (2).
+
+Charles A. Waldschmidt (1926 - 1933)
+
+Birth: December 22, 1882
+
+Death: August 25, 1955
+
+Interred: Union Dale Cemetery
+
+Notable Achievements: Lawyer and proprietor (3).
+
+# HISTORIC CITY SOLICITORS
+
+# Cornelius Decatur Scully (1934)
+
+Birth: November 30, 1878 Death: September 22, 1952 Interred: Elmwood Cemetery (WV) Notable Achievements: City Council member, Mayor of Pittsburgh (1).
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/0cf4440c13f73f63c0d93cad1f3e3f6b32a6533c8b68113c9c083ec5c2e53be5.jpg)
+
+Portrait of Scully (left) and FDR (2).
+
+# Ward Bonsall (1934)
+
+Birth: June 22, 1874
+
+Death: June 29, 1935
+
+Interred: Grandview Cemetery (OH)
+
+Notable Achievements: Private attorney.
+
+William D. Grimes (1935 - 1936)
+
+Birth: 1881
+
+Death: 1951
+
+Interred: Round Hill Cemetery
+
+Notable Achievements: Private attorney.
+
+William B. Secrist (1936)
+
+Death: August 16, 1936 Birth/Interred/Achievements Still Under Investigation.
+
+# Gregory I. Zatkovich (1936)
+
+Birth: December 2, 1886
+
+Death: March 26, 1967
+
+Interred: Calvary Cemetery
+
+Notable Achievements: Governor of Carpathian Ruthenia (appointed by the Czechoslovak president, Thomas
+
+Masaryk and allowed via executive
+
+order from Woodrow Wilson) (3).
+
+# HISTORIC CITY SOLICITORS
+
+# Frederick Carl Grote (1936)
+
+Birth: June 26, 1879
+
+Death: May 29, 1954
+
+Interred: Smithfield East End Cemetery Notable Achievements: Assistant City Solicitor. McNair nominated Mr. Grote as city solicitor but there was dispute with council about the nomination and his
+
+confirmation is uncertain (1).
+
+# John J. Kennedy (1937)
+
+Still under investigation.
+
+# William Alvah Stewart (1938 - 1941)
+
+Birth: August 16, 1903
+
+Death: April 9, 1953
+
+Interred: Mount Royal Cemetery
+
+Notable Achievements: Judge for U.S. District Court, Western District of PA (3).
+
+# Churchill Brown Mehard (1938)
+
+Birth: May 27, 1881
+
+Death: September 12, 1943
+
+Interred: Arlington National Cemetery Notable Achievements: 321st Field
+
+Artillery, 157h Brigade, 82nd Division AEF as a Major (2).
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/38104f0686e3c0c4d1e60020cfeed8cffe5132ae78697a2db67954c542765857.jpg)
+
+# Mehard was the recipient of fourteen decorations in the first World War.
+
+New York Times. September 15, 1943. Obituaries. (p. 27).
+
+[https://www.nytimes.com/1943/09/15/archives/brig-genmehard-62-pittsburgh-lawyer-exsollcltor-of-citydecorated.html](https://www.nytimes.com/1943/09/15/archives/brig-genmehard-62-pittsburgh-lawyer-exsollcltor-of-citydecorated.html)
+
+# HISTORIC CITY SOLICITORS
+
+# Anne X. Alpern
+
+(1942 - 1953)
+
+Birth: December 25, 1903
+
+Death: February 2, 1981
+
+Interred: Homewood Cemetery
+
+Notable Achievements: First Woman to be City Solicitor in a Major American City. Judge for Court of Common Pleas of
+
+Allegheny County (1953). PA Attorney
+
+General (1959-1961)
+
+JFK offered the role of Head of the Federal Power Commission (1961).
+
+Appointed to the Supreme Court of PA (July 26,1961). Judge for Court of Common Pleas of Allegheny County again (1961- 1974). Private Practice with Berkman,
+
+Ruslander, Pohl, Lieber, $\\mathcal { E }$ Engel (1974). In 1994 an award was created in her honor by the PA Bar Association (1).
+
+# J. Frank McKenna Jr.
+
+(1954 - 1958)
+
+Birth: 1910?
+
+Death: March 11, 1992
+
+Notable Achievements: President judge of Allegheny County Common Pleas Court. Army veteran of the Pacific, Theater in World War II (Colonel). Administrative judge of the Orphans Court Division
+
+(1977-1979) (2).
+
+# New State Attorney General
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/3784a95197ba8e27cc85f2c9d0d489b1acedcb67c1b38e7bd4c6086948d1e465.jpg)
+
+Allegheny County Judge Anne X. Alpern chats on the telephone shortly after Gov.elect David L. Lawrence appointed her attorney general of Pennsylvania. When she assumes her duties on Jan. 20 she will be the first woman ever to hold the chief legal office of the commonwealth.
+
+(AP Wirephoto)
+
+Reading Eagle. (December 24, 1958). (p.18).
+
+# HISTORIC CITY SOLICITORS
+
+David Henry Stahl (1959 - 1961, 1965 -1968)
+
+Birth: May 29, 1920
+
+Death: February 21, 1970
+
+Notable Achievements: Federal Judge for the United States Court of Appeals for the 3rd Circuit. PA Attorney General (1961- 1963), Army Veteran (1).
+
+David W. Craig (1961 - 1965)
+
+Birth: 1926?
+
+Death: February 11, 2008
+
+Notable Achievements: Judge in the PA Commonwealth Court with 17 years of service. Served as Pittsburgh’s Public Safety Director. WWII Veteran serving as a Bomber Pilot, flying 35 missions over Europe (2). The first person to head three different city of Pittsburgh departments (3).
+
+Marion K. Finkelhor (1968 - 1969)
+
+Birth: August 5, 1918
+
+Death: February 2, 1996
+
+Notable Achievements: Judge in the PA Court of Common Pleas (4).
+
+Ralph Lynch Jr. (1970 - 1974)
+
+Birth: 1928
+
+Death: November 7, 2005
+
+Interred: Allison Park
+
+Notable Achievements: Recognized Public Finance Attorney. Army veteran (5).
+
+Mead J. Mulvihill (1974 - 1981)
+
+Birth: October 1, 1927
+
+Death: March 13, 2008
+
+Interred: Calvary Cemetery
+
+Notable Achievements: Private Attorney.
+
+# RECENT CITY SOLICITORS
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/6b316912ca0175f672b8878d743ec5c76c48a55da4ada092b1dcaa1bc2710336.jpg)
+
+Dan R. Pellegrini (1982 - 1989)
+
+Other Notable Positions: President $\\mathcal { E }$ Senior Judge, Commonwealth Court of Pennsylvania, Senior Judge, Pennsylvania Superior Court.
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/964bd62fd585a4a40f1f29e397f25520853c16a88d8db8a468aa51e96d216466.jpg)
+
+Mary K Conturo (1990 - 1993)
+
+Other Notable Positions: Private Practice Attorney (Public Finance), Special Counsel then Executive Director for the CityCounty Sports $\\mathcal { E }$ Exhibition Authority and Stadium Authority (April 2004 - 2022).
+
+Jacqueline R. Morrow (1994 - 2006)
+
+Other Notable Positions: General Counsel for Giant Eagle, PA Office of General Counsel PHEAA.
+
+First African American City Solicitor
+
+# RECENT CITY SOLICITORS
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/58a27ef00c77585fe847d327af1edcb9a03423374a981b61f782f28836b09298.jpg)
+
+Susan E. Malie (2006)
+
+Other Notable Positions: Chief Counsel for National Energy Technology Council. Assistant City Solicitor.
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/4e12746d6cd3e0b74a79fed8eb64f3e6674f5a82d21af4cc71774fe2eaf34a79.jpg)
+
+George R. Specter (2006 - 2009)
+
+Other Notable Positions: Counsel for the Urban Redevelopment Authority, Private Practice Attorney. Deputy City Solicitor.
+
+Daniel D. Regan (2009 - 2013)
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/a018c427d56b792404e098564ceb19e177f059a86a623f550315214963bd5214.jpg)
+
+Other Notable Positions: Judge, Allegheny County Court of Common Pleas; Partner at Caputo, Caputo $\\boldsymbol { \\mathcal { E } }$ Regan, P.C.
+
+# RECENT CITY SOLICITORS
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/38708169108cc838957e96427b4d332bab426ee772fcb61f434a30a18154fe8b.jpg)
+
+Lourdes Sanchez-Ridge (2014 - 2017)
+
+Other Notable Positions: Federal Prosecutor, Chair of ACBA Professional Ethics Committee, Private Practice Attorney.
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/d31f388aa0a8ede91b7d2b37699d096135dc5ed5afd5cc2a6e586a3c8c90d4bd.jpg)
+
+Yvonne Schlosberg Hilton (2018 - 2021)
+
+Other Notable Positions: Director of Legal $\\boldsymbol { \\mathcal { E } }$ Consulting Services, PRT. Assistant, Associate, and Deputy City Solicitor.
+
+![](https://www.pittsburghpa.gov/files/assets/city/v/1/law/documents/images/f6d119d13bf43171521bd5d6f8453f064be75cbedcb61de179e1ff5da326d7f8.jpg)
+
+Krysia M. Kubiak (2022 - 2025)
+
+Other Notable Positions: Duquesne Light Company Director of State Regulatory Strategy and Government Affairs, Private Practice Attorney, State Prosecutor (Colorado Springs)

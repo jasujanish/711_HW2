@@ -1,0 +1,41 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/Mayor/Executive-Orders/Mayor-William-Peduto-Signs-Executive-Order-to-Combat-Construction-Fraud-and-Promote-Worker-Safety#main-content)
+
+opens in new tab or window
+
+# Executive Order to Combat Construction Fraud and Promote Worker Safety
+
+Published on April 27, 2021
+
+**Pittsburgh, PA** (April 15, 2021) Following lengthy study by a construction industry tax force, Mayor William Peduto today signed an Executive Order to cut down on construction fraud, promote worker safety and protect City tax revenue.
+
+The Construction Fraud Executive Order will combat illicit efforts by fraudulent construction companies to commit tax, insurance, and workers’ compensation fraud to maximize their profits; use subcontractors or labor brokers to screen themselves from responsibility; pay workers in cash to avoid taxes; and decrease their labor costs.
+
+Such moves allow the corrupt firms to outbid honest ones and fuel a cycle of lost wages, decreased tax revenue, and unsafe and hazardous work sites.
+
+To combat that the Mayor and City Councilman Corey O’Connor created the labor-management Joint Task Force on Construction Industry Fraud in December 2018, which forwarded its final recommendations last month.
+
+Mayor Peduto signed the Order on April 15 — the traditional tax day — alongside members of the Regional Council of Carpenters, which helped write the final report.
+
+_(Note: The City of Pittsburgh, the state and the federal government have pushed back tax day to May 17 due to the ongoing COVID-19 pandemic.)_
+
+“Fraud has a devastating impact on worker safety and tax revenue, and it takes experts working together to fully address it. I want to thank all of our partners on working together on this effort, which will reward legitimate construction firms, protect workers and protect the City’s bottom line,” the Mayor said.
+
+"The construction industry is the backbone of our region's middle class," said Councilman O'Connor. "The Joint Task Force's findings clearly show there are businesses operating in Pittsburgh that evade their tax obligations, undermine the work of law abiding businesses, and create unsafe working conditions. I applaud Mayor Peduto for taking swift action to safeguard our workers and tax dollars."
+
+“Mayor Peduto has taken the time to not just listen the recommendations of the Pittsburgh Joint Task Force on Construction Industry Tax Fraud but to take action, “ said William Sproule, Executive Secretary-Treasurer of the Eastern Atlantic States Regional Council of Carpenters. “Our union is proud of its participation and leadership in the task force and its goal to educate and advocate against wage theft, worker misclassification, and all forms of construction industry tax fraud. This is a step by the City of Pittsburgh to uphold workers’ rights, and create standards to help our industry work on a level playing field.”
+
+The Executive Order directs the City of Pittsburgh Departments of Permits, Licenses, and Inspections (PLI) and Finance to convene a committee with representatives of the Master Builders’ Association of Western Pennsylvania, NAIOP Pittsburgh, Builders Guild of Western Pennsylvania, the American Institute of Architects-Pittsburgh Chapter, Pittsburgh Building Trades, and the Chairperson of the City of Pittsburgh Joint Task Force on Construction Industry Fraud.
+
+The committee will craft language to define the term “construction contractor” in the Pittsburgh City Code, to promote workers’ safety, combat construction industry fraud, uplift law-abiding and fair contractors, and create more accountable and transparent construction development processes.
+
+Secondly, PLI will list the names of all construction contractors on the City of Pittsburgh’s BuildingEye website, or a similar, publicly accessible website or web-based program, to enhance transparency and accountability, discourage the dishonest use of subcontractors to avoid paying taxes and commit fraud, and shine a light on companies that are involved in construction projects throughout Pittsburgh.
+
+A copy of the full [Executive Order(PDF, 137KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/mayor/documents/executive-orders/13953_construction_fraud_eo.pdf) is available.
+
+Tagged as:
+
+- [Executive Orders](https://www.pittsburghpa.gov/News-articles?dlv_OC%20CL%20City%20News%20Listing=(dd_OC%20News%20Categories=Executive%20Orders))
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/Mayor/Executive-Orders/Mayor-William-Peduto-Signs-Executive-Order-to-Combat-Construction-Fraud-and-Promote-Worker-Safety#body-top)
+
+Ready

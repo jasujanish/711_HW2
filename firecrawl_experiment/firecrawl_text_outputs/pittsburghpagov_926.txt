@@ -1,0 +1,111 @@
+Skip to main content
+opens in new tab or window
+In This Section
+
+City Planning
+Mobility and Infrastructure
+Permits, Licenses, and Inspections
+Digital Equity In Pittsburgh
+Small Business Resources
+Public Works
+Zoning
+Geographic Information Systems, Mapping &amp; Open Data
+Procurement
+PGH Lab
+Sustainability  - Climate Action Plan
+Resilient Pittsburgh
+Food Systems
+Sustainability &amp; Resilience Library
+Building Benchmarking Compliance    - How to Comply
+Training
+Additional Information
+Search Buildings Covered
+Reports and Datasets
+Contact
+
+Affiliations &amp; Memberships
+Environmental Planning and Review
+
+How to Comply
+What is the ordinance?
+The Pittsburgh Building Benchmarking Ordinance requires owners of non-residential buildings over 50,000 sq. ft. to annually report their energy and water consumption to the City in a process called benchmarking.
+Building owners are required to use a secure online tool developed by the U.S. Environmental Protection Agency, called ENERGY STAR Portfolio Managerâ to track their energy and water use and submit their data to the City of Pittsburgh. Building owners can obtain energy and water use from the utility companies servicing their buildings.
+This data informs building owners about a building’s energy and water consumption compared to similar buildings, and track progress year after year. Owners can use this data to assist in decision making for maintenance and upgrade. In the spirit of Business Transparency, benchmarking and compliance data will be available publicly.
+The Sustainability &amp; Resilience division will publish a report in the fall summarizing the performance of Pittsburgh’s large buildings portfolio, and visually illustrate on the online platform which buildings are participating, exempted, eligible and nonparticipating, as well as buildings who chose to voluntarily participate.
+View Ordinance
+jasujazumdinski
+What is the criteria for covered buildings?
+All non-residential buildings 50,000 sq. ft. or greater are required to report utility data to the City of Pittsburgh using ENERGY STAR Portfolio Manager in accordance with Pittsburgh Code §629.
+Few USPS postal addresses might be listed in Pittsburgh while not being in city limits. The USPS zip code boundaries are different from the municipal boundaries. The city limits can be found in maps online, including this Pittsburgh Neighborhoods map. You can enter the address in the search box in the upper right corner and find out whether the addresses is within city limits.
+This table contains all the buildings expected to comply. If your building meets the criteria but is not listed, you should still comply and contact us through 3-1-1.
+What are the compliance deadlines?
+The ordinance states that the compliance deadline will be June 1 and the exemption request deadline will be 60 days prior on April 2.
+Exemption Deadline – submitted complete exemption application if you believe your building meets one exemption criteria and should not have to report. You will need to show supporting evidence to justify your exemption request.
+Compliance Deadline – Submit complete energy and water data to the City through Energy Star Portfolio Manager.
+jasujazumdinski
+What is the benchmarking checklist?
+The Sustainability &amp; Resilience division created this checklist to help you comply and keep track of your progress toward compliance.
+
+Compliance Checklist
+
+What are the step-by-step guidelines to benchmarking?
+What data do you need? The Portfolio Manager page will create a list of the data you will need to gather to enter your complete information in Energy Star Portfolio Manager®. There are additional resources for getting started with Energy Star Portfolio Manager® and learning how to benchmark a campus.
+
+Portfolio Manager
+Quick Start Guide
+How to Benchmark a Campus
+
+How do you get your building utility data?
+The easiest way to collect your utility data for the 12 months is to log in to your online accounts for electricity, gas and water. If you do not already use their online portals, you will need to create a profile linked to your billing account and your past data will be available. To create a new profile, have one of your bills with the account number ready and follow the step-by-step onscreen instructions. Repeat for each new online utility account needed. For district energy such as steam, usage is available upon email request to your energy district provider.
+jasujazumdinski
+Buildings Location in Pittsburgh, except the South
+Previous column Next column
+| Utility | Who has the data | How to get it |
+| --- | --- | --- |
+| Electricity | Duquesne Light Company | Login at Duquesne Light |
+| Gas | Peoples' Gas | Login at Peoples Gas |
+| Water | PgH2O | Login at Schedule Payment |
+Previous column Next column
+| District Energy | Who has the data | How to get it |
+| --- | --- | --- |
+| Downtown | PACT | Email PAC Thermal |
+| North Shore | NRG | Email your usual contact at NRG |
+If your water and gas providers are Columbia Gas of Pennsylvania and Pennsylvania American Water, you can obtain information from the following portals:
+Buildings Location in the South
+Previous column Next column
+| Utility | Who has the data | How to get it |
+| --- | --- | --- |
+| Electricity | Duquesne Light Company | Login at Duquesne Light |
+| Water | Pennsylvania American Water | Login at Pennsylvania American Water |
+Duquesne Light now provides easy whole building data aggregation feature for buildings with more than five tenants in addition to automated data transfer. Both processes are detailed in this video.
+If you are new to Portfolio Manager and have not entered electricity data in Portfolio Manager in the past, watch the video below ( PDF Tutorial(PDF, 2MB)). The video shows how to aggregate several accounts in a building and how to link Duquesne Light online account to Portfolio Manager.
+If you are new to Portfolio Manager and have not entered electricity data in Portfolio Manager in the past, watch the video that shows how to aggregate several accounts in a building and how to link Duquesne Light online account to Portfolio Manager.
+If you already have historical data in Portfolio Manager, watch this video to avoid erasing or duplicating your past data (sorry, video is not available anymore). This applies to 2030 District partners, Sustainable Pittsburgh Challenge participants, EnergyStar certified buildings, etc.
+
+ENERGY STAR Training Video
+Linking Accounts Training Video
+PDF Tutorial
+
+jasujazumdinski
+How to add your Pittsburgh Building Benchmarking ID (PBB ID)?
+The PBB ID is included in the notification letter sent to building owners. It is a newly created ID number to identify buildings that have to report their benchmarking data to the City of Pittsburgh. This number was created specifically for benchmarking and is unique to each covered building. If you cannot find the PBB ID or the letter, you can request one by emailing benchmarking@pittsburghpa.gov. The PBB ID needs to be entered in the details of the property in the Unique Identifiers box as a standard ID. This Pittsburgh Building Benchmarking document(PDF, 988KB) contains screenshots of the process of entering the PBB ID in Portfolio Manager.
+How do you submit your data?
+Once you uploaded your complete information in Portfolio Manager and verify its accuracy, you are now ready to submit to the City. View the instructions on how to submit complete information after verification.
+
+Year 8: 2024 Data
+Year 7: 2023 Data, Late Submission
+Year 6: 2022 Data, Late Submission
+Year 5: 2021 Data, Late Submission
+Year 4: 2020 Data, Late Submission
+Year 3: 2019 Data, Late Submission
+Year 2: 2018 Data, Late Submission
+Year 1: 2017 Data, Late Submission
+
+jasujazumdinski
+What is the exemption application process and deadlines?
+The exemptions are listed in the Ordinance. The exemption deadline is 60 days prior to the reporting deadline. Exemption requests without supporting documents will not be reviewed and the buildings will still have to comply.
+Exemption Form
+last updated: 05/06/2025
+Back to top
+Ready
+jasujazumdinski

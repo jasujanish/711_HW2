@@ -1,0 +1,163 @@
+[Skip to main content](https://www.pittsburghpa.gov/Business-Development/Zoning/Zoning-FAQ#main-content)
+
+opens in new tab or window
+
+In This Section
+
+- [City Planning](https://www.pittsburghpa.gov/Business-Development/City-Planning)
+- [Mobility and Infrastructure](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure)
+- [Permits, Licenses, and Inspections](https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections)
+- [Digital Equity In Pittsburgh](https://www.pittsburghpa.gov/Business-Development/Digital-Equity-In-Pittsburgh)
+- [Small Business Resources](https://www.pittsburghpa.gov/Business-Development/Small-Business-Resources)
+- [Public Works](https://www.pittsburghpa.gov/Business-Development/Public-Works)
+- [Zoning](https://www.pittsburghpa.gov/Business-Development/Zoning)  - [Zoning FAQ](https://www.pittsburghpa.gov/Business-Development/Zoning/Zoning-FAQ)
+  - [Planning Application and Process](https://www.pittsburghpa.gov/Business-Development/Zoning/Planning-Application-and-Process)
+  - [Planning Reviews, Public Notices and Public Hearings](https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices)
+  - [Housing](https://www.pittsburghpa.gov/Business-Development/Zoning/Housing)
+- [Geographic Information Systems, Mapping & Open Data](https://www.pittsburghpa.gov/Business-Development/Geographic-Information-Systems-Mapping-Open-Data)
+- [Procurement](https://www.pittsburghpa.gov/Business-Development/Procurement)
+- [PGH Lab](https://www.pittsburghpa.gov/Business-Development/PGH-Lab)
+- [Sustainability](https://www.pittsburghpa.gov/Business-Development/Sustainability)
+
+# Zoning FAQ
+
+## New Hours of Operation
+
+The OneStopPGH Counter is open at our new location in 412 Boulevard of the Allies. OneStopPGH in-person and remote customer service hours are Monday - Friday from 9 a.m. to 3 p.m. All applications will start at the [OneStopPGH online portal](https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/OneStopPGH). Counter staff are here to assist applicants and answer questions related to the application process. For more information, please visit [OneStopPGH](https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/One-Stop-PGH).
+
+You can also email us at:
+
+- For general zoning questions, please email zoning@pittsburghpa.gov.
+
+- For subdivision or consolidation questions, please email subdivisions@pittsburghpa.gov.
+
+- For Planning Commission questions, please email planningcommission@pittsburghpa.gov.
+
+- For Historic Review questions, please email historicreview@pittsburghpa.gov.
+
+
+## Do building permits require zoning approval?
+
+Most building permits, which are issued by the Department of Permits, Licenses, and Inspections, require [zoning approval](https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices), also known as the Record of Zoning Approval or ROZA, including those for interior renovations when changing the use of the structure. However, only some will require a site plan (new parking, additions, HVAC, etc.). See [Site Plan Requirements](https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices/Site-Plan-Requirements) for details.
+
+**Work Requiring Zoning Approval (ROZA) but No Building Permit**(show below)
+
+- Chicken coops.
+- Fences 6 feet or less in height.
+- Uncovered decks where the deck floor is 30 inches or less above grade and are accessory to a single-family or two-family dwelling.
+- Carports (open on at least two sides) and greenhouses accessory to a single-family or two-family dwelling.
+- Agricultural buildings used to store agricultural products, horticultural products and/or farm animals. Structures containing habitable spaces; spaces used to process, treat or package agricultural products; and/or a spaces occupied by the general public shall require a building permit.
+- Oil derricks.
+- Commercial shade cloth structures constructed for nursery or agricultural purposes, not including service systems.
+- Water tanks supported directly on grade if the capacity does not exceed 5,000 gallons and the ratio of height to the diameter or the width does not exceed 2 to 1.
+- Temporary motion picture, television and theater stage sets and scenery – if exterior to a building or structure.
+- Electrical equipment used for radio and television transmissions.
+
+**Please note:** This document only covers work not requiring a Building Permit and/or a ROZA. A Certificate of Appropriateness may still be required for work on locally designated historic structures or structures in locally designated historic districts.
+
+Revised: 8/17/2020
+
+**Work _Not_ Requiring a Building Permit or Zoning Approval (ROZA)**(show below)
+
+- One-story detached accessory structures used as tool and storage sheds, playhouse and similar uses, provided the floor area does not exceed 120 square feet and they are accessory to a single-family or two-family dwelling.
+- Prefabricated swimming pools accessory to a single-family or two-family dwelling that are less than 24” deep, do not exceed 5,000 gallons and are installed entirely above grade.
+- Swings and other playground equipment accessory to a single-family or two-family dwelling.
+- Retaining walls 4'-0" or less in height, measured from the lowest level of grade to the top of the wall, unless supporting a surcharge or impounding Class I, II or IIIA liquids.
+- Sidewalks and driveways not more than 30 inches above adjacent grade, and not over any basement or story below grade and not part of an accessible route.
+- Window awnings that are attached to a single-family dwelling, two-family dwelling or Group U occupancy structure, are supported by an exterior wall and do not project more than 54 inches from the exterior wall.
+- Movable cases, counters and partitions that are not over 5 feet 9 inches in height.
+- Painting, papering, tiling, carpeting, cabinets, countertops and similar finish work. (Exterior painting on locally designated historic structures or structures in locally designated historic districts requires a Certificate of Appropriateness.)
+
+**Please note:** This document only covers work not requiring a Building Permit and/or a ROZA. A Certificate of Appropriateness may still be required for work on locally designated historic structures or structures in locally designated historic districts.
+
+Revised: 8/17/2020
+
+**Work _Not_ Requiring a Mechanical Permit (Including Fuel Gas Appliances/Equipment) or Zoning Approval (ROZA)**(show below)
+
+- A portable heating appliance, portable ventilation equipment, a portable cooling unit, and/or a portable evaporative cooler.
+- Replacement of any minor part that does not alter approval of equipment or make such equipment unsafe.
+- Steam, hot or chilled water piping within any heating or cooling equipment regulated under the Uniform Construction Code.
+- A self-contained refrigeration system containing 10 pounds or less of refrigerant and placed into action by motors that are not more than 1 horsepower.
+
+**Please note:** This document only covers work not requiring a Building Permit and/or a ROZA. A Certificate of Appropriateness may still be required for work on locally designated historic structures or structures in locally designated historic districts.
+
+Revised: 7/5/2019
+
+**Work _Not_ Requiring an Electrical Permit or Zoning Approval (ROZA)**(show below)
+
+- Minor repair and maintenance work that includes the replacement of lamps or the connection of approved portable electrical equipment to approved permanently installed receptacles.
+- Electrical equipment used for radio and television transmissions. The provisions of the Uniform Construction Code apply to equipment and wiring for power supply and the installation of towers and antennas.
+- The installation of a temporary system for testing or servicing of electrical equipment or apparatus.
+- Installation or rearrangement of communications wiring in a single-family or two-family dwelling.
+
+**Please note:** This document only covers work not requiring a Building Permit and/or a ROZA. A Certificate of Appropriateness may still be required for work on locally designated historic structures or structures in locally designated historic districts.
+
+Revised: 7/5/2019
+
+## Can I come in to look at someone else's plan or a specific file?
+
+Yes, once an application has been filed, it is public record. Please email [zoning@pittsburghpa.gov](mailto:zoning@pittsburghpa.gov) with the request.
+
+For older files, or for large or complex requests, please file a Right to Know request. [Make this request online](https://www.pittsburghpa.gov/City-Government/Legal-Services/Department-of-Law/Right-to-Know/Making-a-Request) or email [openrecords@pittsburgh.pa.gov](mailto:openrecords@pittsburgh.pa.gov).
+
+## How can I find out if there is a certificate of occupancy or a record of zoning approval for a property?
+
+All [Certificates of Occupancy](https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms/Other-Applications-Forms/Online-Occupancy-Search) can be searched online.
+
+## Can I view a zoning map for the City of Pittsburgh?
+
+Yes, an [interactive zoning map](https://gis.pittsburghpa.gov/pghzoning/) is available.
+
+## Can a single-family home be converted into a two-family home?
+
+Not necessarily. Even when the district allows a two-family dwelling, all applicable code requirements must be met in order for that use to be approved for a specific location. These requirements include side yard setbacks, lot area, and parking requirements. Please consult with Zoning staff.
+
+## How do I change the zoning district for my parcel?
+
+Make sure the intention is to change the zoning district of a property rather than simply wanting to change the use of the property (more common). If the intent is to change the use of the property, please consult zoning staff for the appropriate process.
+
+In most cases, rezoning land is done at a larger scale with multiple parcels rather than a single property or for a single development. There are a few exceptions, and if you are interested in filing for a rezoning application, please file a pre-application request.
+
+## When is a property certification required?
+
+A [property certification](https://www.pittsburghpa.gov/Business-Development/Zoning/Planning-Application-and-Process/Property-Certification) is required whenever there is a real estate closing on a property due to a sale or refinance. (Note: this is the same thing that used to be called the zoning certificate.) It is a document intended for the benefit of a buyer or lender to let them know the zoning district of the property, the legality of use, if there is an occupancy permit on file, if the property is in a local historic district, and if there are any active code violations on file.
+
+## How can I resolve a dispute about a property line?
+
+Property line issues are not handled by the City. You should contact a magistrate or an attorney.
+
+## Do I need special approval to run my business out of my home?
+
+A home occupation can typically be approved through [Basic Zoning Review](https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices). The Zoning Code criteria for review of home occupation is listed in [912.05](https://library.municode.com/pa/pittsburgh/codes/code_of_ordinances?nodeId=PIZOCO_TITNINEZOCO_ARTVUSRE_CH912ACUSST_912.05HOOC).
+
+## Who do I contact about the consolidation or subdivision of a property?
+
+See the [Consolidations/Subdivisions page](https://www.pittsburghpa.gov/Business-Development/Zoning/Planning-Application-and-Process/ConsolidationsSubdivisions) for information about this process and appropriate contacts.
+
+## Can I obtain a copy of the zoning code?
+
+The Zoning Code is available on the [Municode website](https://library.municode.com/pa/pittsburgh/codes/code_of_ordinances). Select Title Nine for the Zoning Code.
+
+## How can I inquire about a city-owned property?
+
+Visit the [Real Estate Division in the Finance Department](https://www.pittsburghpa.gov/City-Government/Finance-Budget/Real-Estate) website or call them at 412-255-2300.
+
+## Where can I learn about floodplain regulations?
+
+Visit the Department of City Planning’s [floodplain website](https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices/Environmental-Review/Floodplain).
+
+## How can I obtain a handicapped parking space on the street?
+
+Make your request through the [311 Response Center](https://www.pittsburghpa.gov/Resident-Services/311). Department of Mobility and Infrastructure will contact you regarding your request.
+
+## Are Floodplain Permits separate from the ZDR?
+
+Beginning October 3, 2022, new Zoning (ZDR) and PLI applications with work occurring in the floodplain will apply for a Floodplain Permit though the OneStopPGH portal. This permit type will replace the floodplain review currently housed in Zoning Development Review (ZDR). With this new formatting of the application, applicants will be able to apply for a single floodplain review for the entire construction project; check the boxes to identify all of your work.
+
+Please see [PLI's Floodplain Review Policy](https://www.pittsburghpa.gov/62100b7e-6ac8-4c45-bfc5-75f020624cf1) for in-depth information.
+
+last updated: 04/24/2025
+
+[Back to top](https://www.pittsburghpa.gov/Business-Development/Zoning/Zoning-FAQ#body-top)
+
+Ready
