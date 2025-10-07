@@ -11,8 +11,6 @@ from rank_bm25 import BM25Okapi
 import json
 import shutil
 
-hf_token = "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"
-
 embed_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
 lm_model_name = "mosaicml/mpt-7b-chat"  
