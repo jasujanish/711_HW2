@@ -11,13 +11,14 @@ from rank_bm25 import BM25Okapi
 import json
 import shutil
 
+hf_token = "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"
 
 embed_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
-lm_model_name = "meta-llama/Llama-2-7b-chat"  
+lm_model_name = "mosaicml/mpt-7b-chat"  
   
-tokenizer = AutoTokenizer.from_pretrained(lm_model_name, use_fast=False, trust_remote_code =True)
-lm_model = AutoModelForCausalLM.from_pretrained(lm_model_name, torch_dtype = torch.float32)
+tokenizer = AutoTokenizer.from_pretrained(lm_model_name, token=hf_token)
+lm_model = AutoModelForCausalLM.from_pretrained(lm_model_name, dtype = torch.float32, token=hf_token)
 lm_model.eval() 
 
 if tokenizer.pad_token is None:
@@ -203,11 +204,14 @@ def gpt2_prompt(system_msg: str, user_msg: str) -> str:
 def qwen_prompt(system_msg: str, user_msg: str) -> str:
     return f"{system_msg}\n{user_msg}"
 
+def mpt_prompt(system_msg: str, user_msg: str) -> str:
+    return f"<|system|>\n{system_msg}\n<|user|>\n{user_msg}\n<|assistant|>\n"
+
 def generate_with_context(query: str, context_chunks: List[str], max_new_tokens: int = 100) -> str:
     context = "\n".join([f"- {chunk}" for chunk in context_chunks])
     system_msg = "You are a helpful assistant answering questions about Pittsburgh and Carnegie Mellon University (CMU). Use ONLY the provided context to answer questions. Be concise and accurate."
     user_msg = f"Here is some context:\n{context}\n\nQuestion: {query}\nAnswer:"
-    prompt = llama2_prompt(system_msg, user_msg)
+    prompt = mpt_prompt(system_msg, user_msg)
     inputs = tokenizer(prompt, return_tensors="pt").to(lm_model.device)
 
     with torch.no_grad():
@@ -229,7 +233,7 @@ def generate_without_context(query: str, max_new_tokens: int = 100) -> str:
     system_msg = "You are a helpful assistant. Be concise and accurate."
     user_msg = f"Question: {query}\nAnswer:"
 
-    prompt = llama2_prompt(system_msg, user_msg)
+    prompt = mpt_prompt(system_msg, user_msg)
 
     inputs = tokenizer(prompt, return_tensors="pt").to(lm_model.device)
 
