@@ -1,0 +1,50 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/Contacts-Information/Web-Disclaimers/Privacy-Disclaimer#main-content)
+
+opens in new tab or window
+
+In This Section
+
+- [Mayor](https://www.pittsburghpa.gov/City-Government/Mayor)
+- [City Controller](https://www.pittsburghpa.gov/City-Government/City-Controllers-Office)
+- [City Council](https://www.pittsburghpa.gov/City-Government/City-Council)
+- [Boards, Authorities, Commissions](https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions)
+- [Legal Services](https://www.pittsburghpa.gov/City-Government/Legal-Services)
+- [Jobs](https://www.pittsburghpa.gov/City-Government/Jobs)
+- [Finance & Budget](https://www.pittsburghpa.gov/City-Government/Finance-Budget)
+- [Contacts & Information](https://www.pittsburghpa.gov/City-Government/Contacts-Information)  - [Frequently Requested Numbers](https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Directory)
+  - [City Press Release Archive](https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Press-Release-Archive)
+  - [City Channel Pittsburgh](https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Channel-Pittsburgh)
+
+# Privacy Disclaimer
+
+The City of Pittsburgh is committed to protecting online users’ privacy. We believe that protection of personal privacy on the Internet is our responsibility, to assure user confidence, increase participation in online activities and support effective delivery of services. The City intends to give you as much control as possible over your personal information.
+
+The purpose of this disclaimer is to inform you about the types of information we gather when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. The following is the privacy disclaimer for this site:
+
+If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us this information, we will only use the personally identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question.
+
+**Information that we collect for statistical purposes.**
+
+- We automatically collect electronically generated information about your visit to our site, such as the date, type of browser used, and technical Internet protocol data.
+- We collect this information about each user session from our user logs, and refer to it in summary form for statistical purposes only.
+
+**Information that you provide us when using our interactive forms and functions.**
+
+- This information may include such things as name, address, telephone number, and other personal and business data, depending on the particular service you use.
+- We collect only that data necessary to provide the service that you are requesting.
+
+**Use of cookies.**
+
+- We do not use "persistent" cookies to collect permanent information.
+- We do use "non-persistent" cookies in applications that keep track of a user’s online session and make it possible for you to complete a form or use a function, but this cookie disappears when you finish filling out an application, or searching a database.
+
+**Disclosure to third parties.**
+
+- As a governmental agency, we are governed by public records laws of the Commonwealth of Pennsylvania.
+- Any information that we receive through use of our site is subject to the same provisions as information provided on paper. Otherwise, we do not share personal identifying information with any third party without your permission.
+- We disclose only in aggregate form our statistical analyses or demographics of users to third parties.
+- This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless we are legally required to do so in connection with law enforcement investigations or other legal proceedings.
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/Contacts-Information/Web-Disclaimers/Privacy-Disclaimer#body-top)
+
+Ready

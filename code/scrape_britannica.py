@@ -1,15 +1,16 @@
 import requests
 from bs4 import BeautifulSoup, Tag
 
-'''
-Headers = {"User-Agent": "HW_Project/1.0 (+https://github.com/njasuja/11711_HW2; njasuja@andrew.cmu.edu)"}
-url = "https://www.britannica.com/place/Pittsburgh"
-response = requests.get(url, headers=Headers, timeout=20)
-html_content = response.text
-with open("britannica_pittsburgh_history.html", "w", encoding="utf-8") as f:
-    f.write(html_content)
-'''
+# downloads html data from britannica 
+def download_britannica():
+    Headers = {"User-Agent": "HW_Project/1.0 (+https://github.com/njasuja/11711_HW2; njasuja@andrew.cmu.edu)"}
+    url = "https://www.britannica.com/place/Pittsburgh"
+    response = requests.get(url, headers=Headers, timeout=20)
+    html_content = response.text
+    with open("britannica_pittsburgh_history.html", "w", encoding="utf-8") as f:
+        f.write(html_content)
 
+# cleans up the britannica data
 def parse_sections(soup):
     sections = []
     data = soup.find_all("section", attrs={"data-level": "1"})
@@ -35,6 +36,7 @@ def parse_sections(soup):
             })
     return sections
 
+# opens the data, cleans it, and writes it to the corresponding txt file
 with open("britannica_pittsburgh_history.html", "r", encoding="utf-8") as f:
     response = f.read()
 soup = BeautifulSoup(response, 'html.parser')
@@ -44,4 +46,4 @@ with open("pittsburgh_history_britannica.txt", "w", encoding="utf-8") as f:
         f.write(f"Pittsburgh ({sect['heading']})\n")
         for para in sect['paragraphs']:
             f.write(f"{para}\n")
-    f.write("jasujazmudzinski\n")
+    f.write("jasujazmudzinski\n") # manually set as britannica data is short (1 chunk)

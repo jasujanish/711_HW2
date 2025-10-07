@@ -1,0 +1,28 @@
+Skip to main content
+AI-Driven Discoveries to Catalyze Energy Storage
+By: John Kitchin
+A collaboration between Carnegie Mellon University researchers and Meta AI is powering new solutions to convert renewable energy into climate-friendly fuels to power transportation and industry.
+Why it matters: The transition from fossil fuels to renewable energy sources such as wind and solar power will help lower pollution and combat climate change. But we need to improve the process for converting energy from these sources to provide scalable and sustainable clean fuels for use in aircraft, long-haul trucking, and shipping.
+Catch up quick: Wind and solar energy produce intermittent power, but with new cost-effective ways to store the power for later use, we can use renewable energy to make climate-friendly fuels for transportation and industry. One way to do this is by converting that stored energy into other fuels, like hydrogen or ethanol, through chemical means. But current methods for converting renewable energy into other fuels require catalysts that are often rare and incredibly expensive, such as platinum.
+What we’re doing: The Open Catalyst project aims to solve this by finding low-cost catalysts to drive these reactions at high rates.
+
+Discovering new catalysts is an arduous and costly undertaking. Catalytic surfaces are made using a combination of several elements that work together to speed up the reactions.
+There are dozens of elements in the periodic table that are potential catalysts with numerous possible combinations. Add to that the fact that different ratios and configurations of these elements also have an effect, and the possibilities become uncountable.
+The high cost of running simulations and experiments limits the number of structures that may be tested.
+
+The Open Catalyst solution is to develop AI models to accurately predict atomic interactions faster than the existing compute-heavy simulation.
+
+This approach means calculations that take modern laboratories days could instead take seconds, and will enable researchers to screen millions and maybe even billions of possible catalysts per year.
+The key is open datasets that offer catalogues of data on molecules and materials known to be important for renewable energy applications. This allows machine learning algorithms to quickly test millions of possible combinations, and eventually discover more efficient and inexpensive electrocatalysts.
+
+What’s next: To enable the broader research community to participate in this important project, we have released a family of Universal Models for Atoms spanning molecules, materials, and catalysts.
+
+These models are trained on half a billion density functional theory (DFT) calculations, a quantum mechanical simulation tool.
+In addition to the data, baseline models and code are open-sourced on our Github page. There is also a leaderboard to see the latest results and allow the researchers to submit their own results to the evaluation server.
+We are expanding the capabilities of the Open Catalyst Project to magnetic materials enabling research in materials for electrification.
+Open Catalyst Experiments 2024 aims to bridge experiments and computational models in the search for low-cost, durable, and effective catalysts that are essential for green hydrogen production and carbon dioxide upcycling to help in the mitigation of climate change.
+
+The big picture: This project represents a powerful model of collaboration linking AI and machine learning specialists from one of the leading AI companies with thought leaders from Carnegie Mellon’s Department of Chemical Engineering. This work illuminates broader strategies that the U.S. will need to pursue and support.
+The bottom line: The Open Catalyst datasets are accelerating efforts to improve renewable energy storage and climate-friendly fuels that were previously hindered by lack of compute. It enables collaboration between the machine learning community and catalysis researchers for electrocatalyst and energy-related materials discovery across a much broader set of new materials and chemistry.
+
+jasujazumdinski

@@ -1,0 +1,54 @@
+# Gilded, Not Golden Tour of Clayton, the Frick Mansion
+
+Just announced! [The Frick Pittsburgh](https://www.visitpittsburgh.com/directory/the-frick-pittsburgh/)’s Clayton—also known as the Frick Mansion—has redefined what it means to explore history with its newly reinterpreted tour, _Gilded, Not Golden_.
+
+Recently honored with a 2024 Leadership in History Award from the American Association for State and Local History, this tour is a must-see for anyone interested in diving deep into the complex stories of Pittsburgh’s past.
+
+## Why "Gilded, Not Golden"?
+
+The Gilded Age was a time of immense wealth, industrial growth, and social change. But beyond the opulence and glamour often associated with the period, there were also profound struggles—unprecedented immigration, labor unrest, and the rapid expansion of industry. _Gilded, Not Golden_ peels back the layers of this storied era, revealing the complex truths beneath the surface.
+
+During this 75-minute guided experience, you will journey through Clayton, the only fully preserved Gilded Age mansion in Pittsburgh. Through a shared dialogue, explore the industrial powerhouse that Pittsburgh was, and engage in conversations about how the legacies of this transformative time continue to shape our world today.
+
+## A New Kind of Tour Experience
+
+Tours are offered Tuesdays through Sundays, starting at 10:15 AM, and are designed for visitors aged 9 and up. What makes _Gilded, Not Golden_ truly unique is its approach: it's not just about looking at beautiful rooms filled with period furnishings. Instead, this tour encourages an open and thoughtful exchange of ideas among guests, delving into the personal stories of the Frick family and other Pittsburghers who lived through the highs and lows of the Gilded Age. _Content advisory_: The year 1892 was particularly tumultuous for the Frick family and the Pittsburgh steel industry. Be aware that the tour includes potentially challenging subject matter, including discussions of violence, grief, and child loss.
+
+## Why Visit Clayton?
+
+The Frick Mansion, often referred to as Clayton, stands as a testament to Pittsburgh’s rich history. It’s not just a beautifully preserved home—it's a window into a pivotal era that helped shape our modern world. As you walk through its rooms and hallways, you'll feel the weight of history around you, from the grandeur of the drawing room to the more intimate spaces that tell the story of the Frick family’s personal and public lives.
+
+## Plan Your Visit
+
+Ready to uncover the real stories of the Gilded Age? Visit the Frick Mansion and be part of a unique conversation about history that goes beyond the surface. Tours are available six days a week—Tuesday through Sunday. Remember to book in advance to secure your spot!
+
+Don't miss your chance to experience history from a fresh perspective. Explore the Frick Mansion today, and see why it’s more than just a beautiful old house—it’s a living testament to the complex and enduring legacy of the Gilded Age.
+
+For more information, visit [The Frick Pittsburgh's website](https://www.thefrickpittsburgh.org/) or check out their latest updates on social media! _Be sure to bring your curiosity and an open mind—this is not your typical house tour!_
+
+## Related Content:
+
+[![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271%27%20height%3D%271%27%20style%3D%27background%3Atransparent%27%2F%3E)](https://www.visitpittsburgh.com/directory/the-frick-pittsburgh/)
+
+Save
+
+The Frick Pittsburgh7227 Reynolds St.
+
+Pittsburgh, Pennsylvania 15208
+
+[Details](https://www.visitpittsburgh.com/directory/the-frick-pittsburgh/) [Open in Google Maps](http://maps.google.com/?q=7227%20Reynolds%20St.%0APittsburgh%2C%20Pennsylvania%2015208%0A)
+
+Map
+
+The Frick Pittsburgh
+7227 Reynolds St.Pittsburgh, Pennsylvania 15208[(412) 371-0600](tel:+1-412-371-0600)
+
+[Details](https://www.visitpittsburgh.com/directory/the-frick-pittsburgh/)
+
+[Website](http://www.thefrickpittsburgh.org/)
+
+This site uses cookies to enhance your experience.
+
+
+
+Accept

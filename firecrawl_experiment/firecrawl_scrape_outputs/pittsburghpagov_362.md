@@ -1,0 +1,77 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/Mayor/Executive-Orders/Mayor-William-Peduto-Issues-Executive-Order-On-Complete-Streets-Policy-for-Pittsburgh-Rights-of-Way#main-content)
+
+opens in new tab or window
+
+# Complete Streets Policy for Pittsburgh Rights of Way
+
+Published on April 10, 2015
+
+**Policy will impact streets, sidewalks and other critical pieces of infrastructure used every day.**
+
+**Pittsburgh, PA** (April 10, 2015) Mayor William Peduto today announced the City's commitment to adopt a complete streets policy for Pittsburgh's public rights of way.
+
+The Mayor issued an Executive Order calling on the City Planning Director to work with all city departments, authorities and agencies to develop a complete streets policy and framework to guide the design, construction, maintenance, and use of the city's public rights of way.
+
+The policy will impact streets, sidewalks and other critical pieces of infrastructure used every day in the city by those of all ages and incomes, and those with disabilities, whether by driving, walking, bicycling, using public transportation, or providing emergency services.
+
+Investing in smart, multimodal transportation infrastructure is among the greatest needs facing Pittsburgh, and will not only support economic growth, but the health and safety of everyone in the city. Through complete streets policies and programs we will commit to the quality design and maintenance of rights of way, and further mark Pittsburgh as a leader in 21st Century planning Mayor Peduto said.
+
+The Executive Order issued today signaled the city's commitment to guide investments in transportation infrastructure in ways that benefit all residents, businesses and visitors sustainably and intelligently.
+
+As Pittsburghers, we use our streets more than any other public asset of the city said Planning Director Ray Gastil. The complete streets approach is about working together to make this shared property work better for the people who use our streets and rights of way every day.
+
+The policies are meant to assist all those using streets, sidewalks and other rights of way -- of every age, need, or type of travel -- and are supported by a wide range of advocates.
+
+AARP believes that an essential element of creating livable communities is ensuring that everyone, regardless of age or ability, has the opportunity to travel safely, said AARP Pennsylvania State President Jim Palmquist. We applaud Mayor Peduto’s commitment to embracing a complete streets approach to planning that will help city residents, especially older citizens, retain their independence and stay engaged in the community.
+
+The Mayor's complete streets vision acknowledges that Pittsburghers get around in many different ways, said Scott Bricker, Executive Director of BikePGH. This order is a great step to help make sure all Pittsburghers, regardless of who they are, where they live, or how they get around, will have the choice to travel safely and conveniently.
+
+The policy could include changes to city code to ensure the complete streets policy is codified in law; the formation of a Complete Streets Advisory Group to serve as an independent resource to assist with reviewing and guiding elements of this work; a review of existing design guidance and criteria and recommendations for necessary changes to ensure context-sensitive, multimodal outcomes; and a strategy for integrating a complete streets approach in major transit investments.
+
+A copy of the Executive Order is below:
+
+## Executive Order
+
+WHEREAS, public rights of way including roads, sidewalks, bridges, steps, and trails, publicly accessible land, and the connections in between are critical infrastructure that facilitate nearly every activity that occurs in a city; and
+
+WHEREAS, the design, maintenance, and use of these public rights of way can enhance or impede public health and safety, economic growth, and quality of life for everyone who lives, works, and visits our city; and
+
+WHEREAS, a complete streets approach to the design, construction, maintenance, and use of our public rights of way considers the needs of people of all ages and abilities, including those walking, bicycling, taking public transportation, driving motor vehicles, delivering goods, responding to emergencies, or providing necessary utilities; and
+
+WHEREAS, a complete streets approach to the design, construction, maintenance, and use of our public rights of way will ensure that their potential is maximized for all users and all modes and that key investments are made based on a nationally-recognized, context-sensitive, interdisciplinary framework; and
+
+WHEREAS, this complete streets approach has been proven to increase public health and safety, spur new economic growth, enhance quality of life, reduce traffic congestion and traffic-related injuries and fatalities, and fill transportation gaps and improve connections between neighborhoods and people; and
+
+WHEREAS, in order to harness the growth and development occurring all across our city and ensure that it continues in a manner that benefits all Pittsburghers, this Executive Order instructs all relevant city departments to adopt a complete streets approach to the design, construction, maintenance, and use of our public rights of way and to develop the necessary policies, procedures, and ordinances to codify this approach in law.
+
+NOW THEREFORE, by the power vested in me as the Mayor of the City of Pittsburgh, I do hereby order as follows:
+
+1. The Director of the Department of City Planning shall work collaboratively with all relevant city departments, authorities, municipalities, agencies, and boards and commissions to develop a complete streets policy and framework to guide the design, construction, maintenance, and use of our public rights of way.
+2. The complete streets policy and framework shall include, at a minimum.
+1. An overall vision for the design, construction, maintenance, and use of public rights of way.
+2. Processes for review and compliance with the policy and framework.
+3. Processes for waivers or exclusions from the policy and framework where legally appropriate.
+4. A comprehensive design guide.
+5. A long-term planning strategy to be incorporated into the City of Pittsburgh Comprehensive Plan elements.
+6. Key performance indicators and metrics to track and analyze measurable outcomes.
+7. An overall implementation strategy and timeline.
+3. The implementation strategy shall outline the following key elements.
+1. Changes to city code to ensure the complete streets policy is codified in law.
+2. Formation of a Complete Streets Advisory Group to serve as an independent resource to assist with reviewing and guiding elements of this work.
+3. A review of existing design guidance and criteria and recommendations for necessary changes to ensure context-sensitive, multimodal outcomes.A recommended strategy for integrating a Complete Streets approach in major transit investments.
+4. Updates to capital and maintenance programming, including project selection and scoping practices.
+5. A review of related development policies and codes and recommendations for necessary changes.
+6. Integration of Intelligent Transportation Systems and Transportation Demand Management practices, where appropriate, to support complete streets goals.
+7. A recommended list of updated performance measures, including but not limited to safety, mode share, improved access to transit, trip reliability, public health, and equity.
+4. The complete streets policy and framework shall incorporate relevant elements of the U.S. Department of Transportation Mayor's Challenge including a focus on safety and accessibility for people of all ages and abilities, a strategy and implementation plan for robust data collection and analysis, context-appropriate design guidelines, and a plan for ongoing education and enhanced enforcement measures to achieve the vision of zero traffic fatalities.
+5. All relevant departments, authorities, and boards and commissions shall incorporate the complete streets policy and framework into their planning, design, construction, and maintenance responsibilities and all review and compliance responsibilities for public rights of way.
+
+###
+
+Tagged as:
+
+- [Executive Orders](https://www.pittsburghpa.gov/News-articles?dlv_OC%20CL%20City%20News%20Listing=(dd_OC%20News%20Categories=Executive%20Orders))
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/Mayor/Executive-Orders/Mayor-William-Peduto-Issues-Executive-Order-On-Complete-Streets-Policy-for-Pittsburgh-Rights-of-Way#body-top)
+
+Ready

@@ -1,7 +1,7 @@
 import pdfplumber
 import re
-import pymupdf
-
+import pymupdf4llm
+import markdown
 def v1():
     pdf_path = "2025-operating-budget.pdf"
     output_path = "output_pdf1.txt"
@@ -19,29 +19,20 @@ def v1():
     text = "\n\n".join(pages_text)
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(text.strip())
-import pdfplumber
-import re
 
 def v2():
-    """
-    Main function to extract, clean, chunk, and save text from a PDF.
-    """
     pdf_path = "2025-operating-budget.pdf"
     output_path = "output_pdf2.txt"
-    MAX_WORDS_PER_CHUNK = 800
+    MAX_WORDS_PER_CHUNK = 600
     KEYWORD = "jasujazumdinski"
     pages_text = []
     try:
         with pdfplumber.open(pdf_path) as pdf:
             total_pages = len(pdf.pages)
             for i, page in enumerate(pdf.pages):
-                # Extract text from the page. x_tolerance helps with layout preservation.
                 t = page.extract_text(x_tolerance=1) or ""
                 
-                # --- Text Cleaning ---
-                # Remove extra spaces or tabs just before a newline
                 t = re.sub(r"[ \t]+\n", "\n", t)
-                # Collapse three or more newlines into exactly two
                 t = re.sub(r"\n{3,}", "\n\n", t)
                 
                 pages_text.append(t.strip())
@@ -51,122 +42,153 @@ def v2():
         print(f"Error reading PDF file: {e}")
         return
 
-    # --- Text Aggregation ---
-    # Join all page texts into a single string, then perform a final cleanup.
     full_text = "\n\n".join(pages_text)
     full_text = re.sub(r"\n{3,}", "\n\n", full_text).strip()
 
-    # --- Semantic Chunking ---
-    # Split the text by paragraphs (approximated by double newlines).
     paragraphs = full_text.split('\n\n')
 
     chunks = []
     current_chunk_paragraphs = []
     current_word_count = 0
 
-    print("\nStarting semantic chunking process...")
-
     for paragraph in paragraphs:
         paragraph = paragraph.strip()
-        # Skip empty paragraphs that might result from splitting
         if not paragraph:
             continue
 
         paragraph_word_count = len(paragraph.split())
 
-        # If adding the current paragraph would exceed the word limit,
-        # and the current chunk isn't empty, finalize the current chunk.
         if current_word_count + paragraph_word_count > MAX_WORDS_PER_CHUNK and current_chunk_paragraphs:
-            # Join the collected paragraphs to form the chunk content.
             chunk_text = "\n\n".join(current_chunk_paragraphs)
-            # Append the specified keyword.
             chunk_text += f" {KEYWORD}"
             chunks.append(chunk_text)
 
-            # Start a new chunk with the current paragraph.
             current_chunk_paragraphs = [paragraph]
             current_word_count = paragraph_word_count
         else:
-            # Otherwise, add the paragraph to the current chunk.
             current_chunk_paragraphs.append(paragraph)
             current_word_count += paragraph_word_count
 
-    # Add the last remaining chunk after the loop finishes.
     if current_chunk_paragraphs:
         chunk_text = "\n\n".join(current_chunk_paragraphs)
         chunk_text += f" {KEYWORD}"
         chunks.append(chunk_text)
 
-    print(f"Text divided into {len(chunks)} chunks.")
+    print(f"{len(chunks)} chunks")
 
-    # --- File Output ---
-    # Join all processed chunks with a clear separator.
     final_text = "\n\n".join(chunks)
 
     try:
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(final_text)
-        print(f"\nSuccessfully saved chunked text to: {output_path}")
     except Exception as e:
-        print(f"Error writing to output file: {e}")
+        print(f"Error: {e}")
+
+
+def md_to_text(md):
+    """
+    Markdown --> text using mardkown library
+    """
+    html = markdown.markdown(md)
+    text = re.sub(r'<[^>]+>', '', html)
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    return text.strip()
+
+def add_semantic_chunks(md_content):
+    """
+    Splits markdown content into chunks with keyword jasujazumdinski
+        1. A new section starts AND the current chunk has at least 200 words.
+        2. The current chunk exceeds 800 words.
+    """
+    MIN_WORDS = 200
+    MAX_WORDS = 800
+    CHUNK_KEYWORD = "jasujazumdinski"
+
+    if not md_content or not md_content.strip():
+        return ""
+
+    # Get headers via regex
+    heading_iter = list(re.finditer(r'(?m)^(#{1,6}\s.*)$', md_content))
+    sections = []
+
+    # Case 1: no headers, split on words
+    if not heading_iter:
+        words = md_content.split()
+        for i in range(0, len(words), MAX_WORDS):
+            chunk_md = " ".join(words[i:i + MAX_WORDS])
+            sections.append(chunk_md)
+    # Case 2: split into sections based on headers
+    else:
+        first_heading_start = heading_iter[0].start()
+        if first_heading_start > 0:
+            pre = md_content[:first_heading_start].strip()
+            if pre:
+                sections.append(pre)
+
+        for idx, m in enumerate(heading_iter):
+            start = m.start()
+            end = heading_iter[idx + 1].start() if idx + 1 < len(heading_iter) else len(md_content)
+            sec = md_content[start:end].strip()
+            if sec:
+                sections.append(sec)
+
+    final_chunks = []
+    curr_chunk_parts = []
+
+    def finalize_current():
+        if not curr_chunk_parts:
+            return
+        chunk_md = "\n\n".join(curr_chunk_parts).strip()
+        if not chunk_md:
+            return
+        final_chunks.append(f"{chunk_md}\n\n{CHUNK_KEYWORD}")
+        curr_chunk_parts.clear()
+    
+    # Group sections on min/max constraints
+    for section in sections:
+        section_text = md_to_text(section)
+        section_words = len(section_text.split())
+
+        curr_md = "\n\n".join(curr_chunk_parts) if curr_chunk_parts else ""
+        curr_text = md_to_text(curr_md) if curr_md else ""
+        curr_words = len(curr_text.split()) if curr_text else 0
+
+        if not curr_chunk_parts:
+            if section_words > MAX_WORDS:
+                words = section.split()
+                for i in range(0, len(words), MAX_WORDS):
+                    subchunk = " ".join(words[i:i + MAX_WORDS])
+                    final_chunks.append(f"{subchunk}\n\n{CHUNK_KEYWORD}")
+                continue
+            curr_chunk_parts.append(section)
+            continue
+
+        if curr_words >= MIN_WORDS:
+            finalize_current()
+            curr_chunk_parts.append(section)
+            continue
+
+        if curr_words + section_words > MAX_WORDS:
+            finalize_current()
+            curr_chunk_parts.append(section)
+            continue
+
+        curr_chunk_parts.append(section)
+
+    # finalize what's left
+    finalize_current()
+
+    return "\n\n".join(final_chunks)
 
 def v3():
-    pdf_path = "2025-operating-budget.pdf"
-    output_path = "output_pdf3.txt"
-    MAX_WORDS = 800
-    KEYWORD = "jasujazumdinski"
-
-    # Step 1: Extract text from PDF
-    def extract_text_from_pdf(path):
-        text_pages = []
-        with pymupdf.open(path) as doc:
-            for i, page in enumerate(doc):
-                text = page.get_text("text")
-                text_pages.append(text)
-                print(f"Page {i+1}/{len(doc)} done")
-        return "\n".join(text_pages)
-
-    # Step 2: Clean text
-    def clean_text(text):
-        text = re.sub(r"[ \t]+\n", "\n", text)
-        text = re.sub(r"\n{3,}", "\n\n", text)
-        text = re.sub(r"-\n", "", text)
-        text = re.sub(r"\s+", " ", text)
-        return text.strip()
-
-    # Step 3: Chunk text semantically
-    def chunk_text(text, max_words=MAX_WORDS, keyword=KEYWORD):
-        paragraphs = re.split(r"\n{2,}", text)
-        chunks, current_chunk = [], []
-        word_count = 0
-
-        def flush():
-            if current_chunk:
-                chunks.append(" ".join(current_chunk).strip() + f"\n\n{keyword}\n\n")
-
-        for para in paragraphs:
-            words = para.split()
-            if not words:
-                continue
-            if word_count + len(words) > max_words:
-                flush()
-                current_chunk, word_count = [], 0
-            current_chunk.append(para)
-            word_count += len(words)
-        flush()
-        return chunks
-
-    # --- Run pipeline ---
-    raw_text = extract_text_from_pdf(pdf_path)
-    cleaned = clean_text(raw_text)
-    chunks = chunk_text(cleaned)
-
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write("\n".join(chunks))
-
-    print(f"Processed paragraphs: {len(re.split(r'\\n{2,}', cleaned))}")
-    print(f"Generated chunks: {len(chunks)}")
-    print(f"Output saved to {output_path}")
+    md_text = pymupdf4llm.to_markdown("2025-operating-budget.pdf")
+    print('pymupdf scraping DONE')
+    md_chunked = add_semantic_chunks(md_text)
+    text_chunked = md_to_text(md_chunked)
+    with open(f'output_pdf3.txt', "w", encoding="utf-8") as f:
+        f.write(text_chunked)
 
 if __name__ == "__main__":
+    v2()
     v3()
+

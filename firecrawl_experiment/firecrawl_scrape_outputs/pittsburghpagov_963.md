@@ -1,0 +1,107 @@
+[Skip to main content](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Specialty-Units#main-content)
+
+opens in new tab or window
+
+[![](https://www.pittsburghpa.gov/files/ocwebsite/aa717933-a856-488c-b5d6-85f4f6d46ff0/logo.png?w=88)Become a City of Pittsburgh Police Officer](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment)
+
+Open side Menu
+
+- [Why Serve](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Why-Serve)
+- [Pittsburgh](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Pittsburgh)
+- [About PBP](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/About-PBP)
+- [Mentors](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Mentors)
+- [Salary & Benefits](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Salary-Benefits)
+- [Hiring Process](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Hiring-Process)
+- [Specialty Units](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Specialty-Units)
+- [FAQs](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/FAQs)
+
+In This Section
+
+- [Why Serve](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Why-Serve)
+- [Pittsburgh](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Pittsburgh)
+- [About PBP](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/About-PBP)
+- [Mentors](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Mentors)
+- [Salary & Benefits](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Salary-Benefits)
+- [Hiring Process](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Hiring-Process)
+- [Specialty Units](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Specialty-Units)
+- [FAQs](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/FAQs)
+
+# Specialty Units
+
+![Specialy Units Page - Photo of Motorcycle police members in front of the Point Fountain.](https://www.pittsburghpa.gov/files/assets/city/v/1/public-safety/images/police-recruitment/motorcycle.jpg?w=800&h=329)
+
+**NBTF (The Nuisance Bar Task Force)**(show below)
+
+The Pittsburgh Bureau of Police and Fire, The City of Pittsburgh Bureau of Building Inspection, Allegheny County District Attorney's Office, Allegheny County Health Department, Pennsylvania State Liquor Control Board, Pennsylvania State Police Liquor Control Enforcement, and Concerned Citizens of The City of Pittsburgh. The Nuisance Bar Task Force was organized by the Pittsburgh Neighborhood Alliance in 1986. The goal of the NBTF is to address a chronic problem experienced in many Pittsburgh neighborhoods: Bars that are havens for illicit activities such as drug sales, homicides, shootings, assaults, prostitution, gambling, underage drinking, loud noise, vandalism, open lewdness, etc.
+
+Through a joint effort of all the members' organizations, the NBTF effectively addresses issues that cross-areas of responsibilities and jurisdictions. This done by a joint cooperation between all the agencies involved. The primary goal is to bring the Nuisance Bar into compliance with the Liquor board, building, health, and fire codes of the City of Pittsburgh and the State of Pennsylvania.
+
+**Bicycle Unit**(show below)
+
+The PBP Bicycle Unit began in 1994, with two officers assigned to patrol the central business district. Today, 17 highly trained and equipped officers provide year-round service and are an integral part of our overall community policing strategy. Being a bicycle officer is a strenuous job that requires both physical fitness and keen mental awareness. Officers go through a rigorous program and then retain their proficiency through work related cycling and advanced quarterly training. The bicycle officer's greatest assets are mobility within densely populated urban districts, high visibility and their accessibility to the public.
+
+![Three Bicycle Unit Officers patroling.](https://www.pittsburghpa.gov/files/assets/city/v/1/public-safety/images/police-recruitment/bicycle-unit.jpg?w=600&h=390)
+
+**Mounted Patrol**(show below)
+
+Working on the Mounted Patrol is a very physically demanding job. The horses are between 16 to 18 hands tall and weigh between 1300 and 1800 pounds. Our officers patrol year-round in all weather conditions, in addition to the daily care and maintenance of the horses and stables. Officers are also responsible for the transportation and training of all horses, as well as maintaining the tack gear and equipment. You will often find them participating in outreach programs and community events in and around the City of Pittsburgh.
+
+You can follow the Mounted Patrol on their [Facebook](https://www.facebook.com/PghMounted/) page.
+
+![Mounted Patrol Group Photo](https://www.pittsburghpa.gov/files/assets/city/v/1/public-safety/images/police-recruitment/mounted-patrol.jpg?w=600&h=390)
+
+**SWAT(Special Weapons and Tactics)**(show below)
+
+The Pittsburgh S.W.A.T. Team is a support unit made up of personnel who work throughout the entire Bureau of Police. S.W.A.T. stands for Special Weapons and Tactics. This specialized team is needed to respond to situations which require equipment and trained tactics which are beyond patrols capabilities. The S.W.A.T. Team responds to on average 100 missions a year. These include Barricaded Individuals, Hostage Rescue, Dignitary Protection, Surveillance, High Risk Warrant Service, and Tactical Support to Local/State/Federal Agencies. The team fosters positive interaction with children by attending numerous community events each year.
+
+![Swap Team in front of Unit posing for photo.](https://www.pittsburghpa.gov/files/assets/city/v/1/public-safety/images/police-recruitment/swat.jpg?w=800&h=557)
+
+**River Rescue**(show below)
+
+Pittsburgh River Rescue was formed in 1986 by combining the efforts of the Pittsburgh Police and the Emergency Medical Services SCUBA search and rescue team. Police responsibilities of this unique 'hybrid' unit include piloting all River Rescue vessels, enforcing the laws of the Commonwealth, patrolling our majestic three rivers and protecting critical infrastructure of the country's 3rd busiest in-land port. The unit's primary mission is to help prevent, respond to and mitigate all waterborne emergencies on the city's waterways. River Rescue plays a valuable role in the community as it safeguards recreational boaters and commercial vessels.
+
+![River Rescue crew patroling in boat unit.](https://www.pittsburghpa.gov/files/assets/city/v/1/public-safety/images/police-recruitment/river-rescue.jpg?w=600&h=428)
+
+**Motorcycle Unit**(show below)
+
+The Pittsburgh Police Motorcycle Unit was formed in 1909. The officers have been patrolling the City of Pittsburgh continuously on Harley-Davidson motorcycles for over 100 years. Officers assigned to the unit ride everyday of the year, regardless of the weather conditions. Side cars are mounted in the fall so officers can ride safely during the winter months. The primary duties of the unit include traffic safety enforcement and education, police escorts, traffic control and assisting with various special events and community activities. All motor officers receive extensive training in dignitary escorts and the safe operation of motorcycles.
+
+![Motocycling officer with young girl citizen sitting on bike.](https://www.pittsburghpa.gov/files/assets/city/v/1/public-safety/images/police-recruitment/motorcycle2.jpg?w=600&h=329)
+
+**SDD (Special Deployment Division)**(show below)
+
+SDD consists of city-wide support units that provide specially trained and equipped officers. These units include: Traffic Division, Collision Investigation Unit, Commercial Motor Vehicle Enforcement Unit, SWAT, River Rescue, Impaired Driving Unit, Car Seat Inspection and Education Station, Graffiti Task Force, and the Street Response Unit. In addition SDD coordinates several highway safety grants that provide additional enforcement and education activities to help reduce crashes and fatalities on our roadways. Whether our highly skilled officers are assisting with traffic control, promoting highway safety, investigating graffiti crimes, resolving critical incidents or patrolling the waterways of our majestic 3 rivers; these officers are dedicated to professionalism and teamwork.
+
+**Bomb Squad - EOD (Explosive Ordnance Devices)**(show below)
+
+The Pittsburgh Police Bomb Squad was formed in the late 1960s. Today the unit is comprised of 8 bomb technicians who receive extensive training from the F.B.I in electronics, render safe procedures and weapons of mass destruction. The unit has two bomb robots and technicians utilize state of the art technology, equipment and bomb dogs to ensure that Pittsburgh remains at the forefront of explosive detection and renders safe procedures. The unit also has certified scuba divers who can locate and render safe underwater hazardous devices. The Bomb Squad is dedicated to community interaction and participates in numerous community events throughout the year.
+
+![Bomb squad unit with bomb squad robot on display at event.](https://www.pittsburghpa.gov/files/assets/city/v/1/public-safety/images/police-recruitment/bomb-squad2.jpg?w=600&h=342)
+
+**Canine Unit**(show below)
+
+Our K-9 unit was established in 1958. Combining officers with trained canines enhances public/officer safety, expands police capabilities and improves overall department efficiency. Officers (Handlers)and qualified dogs go through an intensive 3 month training program at our K-9 Academy before being assigned to a duty location. Although dogs are trained to find illegal drugs, guns and explosives their primary job is to locate people. The K-9's are trained to track suspects and endangered persons. Lastly our dogs truly belong to two families. In addition to being a trusted co-worker while on-duty, at home they are an integral part of the handler's family life.
+
+![K9 unit officers with K9 dog officers in front of police vehicle.](https://www.pittsburghpa.gov/files/assets/city/v/1/public-safety/images/police-recruitment/k92.jpg?w=600&h=342)
+
+**MCU (Mobile Crime Unit)**(show below)
+
+The Mobile Crime Unit was established in the 1940s. Today the unit has 14 crime scene processing detectives, three of which are latent fingerprint examiners. The unit is responsible for the processing of all major crime scenes including homicides, robberies, burglaries and sex assaults. The detectives are subject matter experts in photography, fingerprint dusting and collection of trace evidence. In addition there are three detectives assigned to the computer crimes section. Detectives are responsible for the forensic analysis of digital storage devices such as computer systems, cell phones, and flash drives.
+
+**Interagency Cooperation**(show below)
+
+Over the years, the City of Pittsburgh has played host to many large scale special events such as the Major League Baseball All Star Game, G-20 Summit, Three Rivers Regatta and not to mention the countless City of Champions sports celebrations. These events often require the assistance of multiple public safety agencies to ensure a safe and friendly environment. It is because of our commitment to interagency cooperation, coordination and communication that these events are successful and the city is often highlighted as a spectacular venue for people to enjoy.
+
+**RED TEAM (Rapid Emergency Deployment)**(show below)
+
+The acronym for RED stands for Rapid Emergency Deployment. The team's concept was developed in response to the events that occurred on September 11, 2001. Many agencies across the country began implementing strategies that would better prepare them for events involving WMD (weapons of mass destruction) and terrorism.
+
+It is the intent of the Pittsburgh Bureau of Police RED Team to be prepared for response should the need arise. Officers who are selected to train for the RED Team are subjected to numerous hours of initial training and mandatory quarterly training to develop and hone the skill sets required to be a part of this elite group of officers. The course of training includes both in-house and outside agency training.
+
+The mission of the Pittsburgh Bureau of Police RED Team is to be a highly skilled and highly trained specialized unit that can provide a quick appropriate response to certain critical incidents such as WMD, Terrorists events, major HAZMAT incidents and Acts of Civil Disobedience. Local jurisdictions are required to be NIMS (National Incident Management System) compliant. One of the provisions of NIMS is the development of a Multi-agency Coordination System. The purpose of this multi-agency coordination is to develop and maintain connectivity capability between local Incident Command Posts (ICPs), and local, state/territorial Emergency Operation Centers (EOCs).
+
+last updated: 04/22/2025
+
+[Back to top](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Specialty-Units#body-top)
+
+Ready

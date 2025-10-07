@@ -1,0 +1,107 @@
+[Skip to main content](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Forestry-FAQ#main-content)
+
+opens in new tab or window
+
+In This Section
+
+- [City Planning](https://www.pittsburghpa.gov/Business-Development/City-Planning)
+- [Mobility and Infrastructure](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure)
+- [Permits, Licenses, and Inspections](https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections)
+- [Digital Equity In Pittsburgh](https://www.pittsburghpa.gov/Business-Development/Digital-Equity-In-Pittsburgh)
+- [Small Business Resources](https://www.pittsburghpa.gov/Business-Development/Small-Business-Resources)
+- [Public Works](https://www.pittsburghpa.gov/Business-Development/Public-Works)  - [About Public Works](https://www.pittsburghpa.gov/Business-Development/Public-Works/About-Public-Works)
+  - [Contact Public Works](https://www.pittsburghpa.gov/Business-Development/Public-Works/Contact-Public-Works)
+  - [Environmental Services](https://www.pittsburghpa.gov/Business-Development/Public-Works/Environmental-Services)
+  - [Architecture Division](https://www.pittsburghpa.gov/Business-Development/Public-Works/Architecture-Division)
+  - [Street Maintenance Bureau](https://www.pittsburghpa.gov/Business-Development/Public-Works/Street-Maintenance-Bureau)
+  - [Forestry Division](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division)    - [Pittsburgh Urban Forest](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Pittsburgh-Urban-Forest)
+    - [Special Initiatives](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Special-Initiatives)
+    - [Forestry Partnerships](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Forestry-Partnerships)
+    - [Forestry Events](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Forestry-Events)
+    - [Tree Planting](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Tree-Planting)
+    - [Request Tree Work](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Request-Tree-Work)
+    - [Appealing Street Tree Removal](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Appealing-Street-Tree-Removal)
+    - [Forestry Resource Links](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Forestry-Resource-Links)
+    - [Forestry FAQ](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Forestry-FAQ)
+    - [Vacant Lot Greening](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Vacant-Lot-Greening)
+- [Zoning](https://www.pittsburghpa.gov/Business-Development/Zoning)
+- [Geographic Information Systems, Mapping & Open Data](https://www.pittsburghpa.gov/Business-Development/Geographic-Information-Systems-Mapping-Open-Data)
+- [Procurement](https://www.pittsburghpa.gov/Business-Development/Procurement)
+- [PGH Lab](https://www.pittsburghpa.gov/Business-Development/PGH-Lab)
+- [Sustainability](https://www.pittsburghpa.gov/Business-Development/Sustainability)
+
+# Forestry FAQ
+
+**I want the City to plant a tree.**(show below)
+
+Due to budget constraints, the City has not had a large scale planting program for several years now. However, with state funding becoming available through TreeVitalize, trees are on the way.
+
+If you would like for us to plant a tree at a future date, please fill out the [Tree Planting Request Form(PDF, 521KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/documents/17523_2014_tree_planting_request_form.pdf). This form will register your interest in receiving a tree adjacent to your property through our annual TreeVitalize application. It also confirms your intent to water the tree during establishment, and provide maintenance to the tree bed. The City will provide a site analysis to make sure a tree fits your location, and will select an appropriate species.
+
+**I want to plant my own tree**(show below)
+
+You will need a permit for planting, so fill out the [Request for Permit Tree Planting, Removal and Pruning Form(PDF, 521KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/documents/2014_tree_planting_request_form_1.pdf). The City will conduct a site analysis to make sure a tree fits your location, and we will provide guidance concerning acceptability of species. Check the [Planting Site Analysis(PDF, 26KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/documents/08_planting_site_analysis.pdf) checklist and diagram to see what standards need to be met when locating a tree adjacent to your property. As with City-planted trees, you also agree to water the tree during establishment, and maintain the planting bed.
+
+When you bear the cost of planting a tree on city Right Of Way, the ownership of the tree defaults to the City. When the tree gets larger, the City will be responsible for pruning. If you plant a tree on your own, **always** call [Pennsylvania One Call](https://www.pa1call.org/PA811/Public/) to arrange for a location of underground utilities or obstructions. Their number is 800-242-1776, or you may simply dial 811.
+
+**Who takes care of the new tree and the planting area?**(show below)
+
+No matter whether the City plants a tree, or you do it on your own at your own expense, the adjacent property owner is responsible for watering through the 2-5 year establishment period. After that, you will only need to water during times of drought. You will need to keep the tree planting area weed-free for the life of the tree.
+
+You are also responsible for annual mulching. This will help to control weed growth, and will keep moisture in the root zone. Additionally, when you mulch the root zone instead of installing turf, there is no need to mow grass in an area where there is a risk of damaging the delicate trunk bark of a young tree.
+
+**How do I know what species to plant?**(show below)
+
+Forestry Division maintains an up-to-date [Recommended Species List(PDF, 219KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/documents/17527_approved_stree_species_2020.pdf) to provide guidance concerning species. Trees planted in city Right of Way require careful forethought with regard to species in order to avoid future conflicts utilities, vehicular traffic, pedestrians, and structures.
+
+For instance, only trees with a mature height of 25 feet or less may be planted under power lines. Conversely, where no impediments to growth are present, we like to plant shade trees in order to maximize every reason for planting trees.
+
+**How do I get a tree pruned or removed?**(show below)
+
+The forestry division is responsible for the care and maintenance of trees within the right-of-way and City Parks. To request work on a city-owned tree, call 311 or fill out the [online request form](https://www.pittsburghpa.gov/Resident-Services/311) and give a detailed description of the location and work that you would like to have done. Please be sure to leave your contact information so that we can reach you if there are questions.
+
+**What about trees on vacant lots?**(show below)
+
+Trees on vacant lots owned by the City of Pittsburgh are taken care of by the three taxing body (3TB) group. Please file your request for maintenance with 311, and the City will determine ownership of the parcel and make arrangements for the work to be completed if the trees are on City-owned land.
+
+**When is Planting Season?**(show below)
+
+Planting season is from Mid-March to Mid-May and Mid-October to Early December, depending on weather conditions. Planting outside of these time windows is prohibited, as the survival rate of trees drops significantly.
+
+**When will my tree work be done?**(show below)
+
+Once your 311 request has been filed, a Forestry Supervisor will come and assess the tree to determine what work needs to be performed. At this time, a yellow card providing a description of work will be left. We are currently experiencing a backlog of approximately 18 months for non-emergency work due to staff shortages.
+
+**Why is there still a stump?**(show below)
+
+We have not forgotten about your stump, all removed trees go into our inventory of stumps and are removed as our crews are available. If you would like to move you stump up the list, please request a new tree, as removal of stumps to facilitate new plantings takes priority.
+
+**How do I repair my sidewalk?**(show below)
+
+[Instructions for sidewalk repairs(PDF, 127KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/documents/17528_procedures_for_sidewalk_reimbursement_from_tree_roots.pdf). The City Forestry Division will support all efforts to repair sidewalks damaged by tree roots and make the required judgements on the survivability of the tree.
+
+**Are the trees on the approved list native trees?**(show below)
+
+Many of the species we recommend are native to Western Pennsylvania, with a few non-native species which have been selected for their ability tolerate the climate and pollution of urban areas.
+
+**Are there trees I should avoid?**(show below)
+
+Only approved species may be planted in the right-of-way or parks, but on private property you should still use care to plant the right tree in the right place. In addition to our approved species list, we have a [prohibited species list(PDF, 105KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/documents/13174_finalpstc2020prohibitedspecies.pdf) for your guidance.
+
+**Can I plant fruit or nut trees in the City?**(show below)
+
+While they are not generally appropriate for planting on City streets, fruit and nut trees are a great option for yards and green spaces. Residents interested in planting fruit and nut trees on their own property are welcome to do so, and are encouraged to contact local tree planting non-profits for resources. Residents wishing to improve local food security and environmental conditions should reach out to local community groups, the [Adopt-A-Lot](https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Programs/Adopt-A-Lot) program, and other growers to get started.
+
+**Using your own tree service**(show below)
+
+The City of Pittsburgh strongly encourages residents to use the arboricultural services provided by our trained and experienced staff. If you would like to engage your own tree service, it will be at your own expense and you will assume all liability for any hazards, defects, or future failures in the tree caused by the work. Penalties for improperly pruned trees may be imposed, ranging from the cost of restoration pruning to mitigation payments for the removal of the tree. To apply to use a private contractor, first call the Forestry Division to explain your situation to see if alternative arrangements can be made. In the event that you choose to continue with a private tree care company, you will be asked to complete an application for a [tree work permit(PDF, 752KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/parks/documents/17530_tree_work_permit_application.pdf) and pay the required fees. All work must be supervised by an ISA Certified Arborist.
+
+**What if I want to plant trees on City property?**(show below)
+
+While the City encourages tree plantings across all areas, planting on public property requires a higher level of planning, support, and technical capacity. To ensure that work on City property meets our standards, planting trees in these locations requires a proof of insurance certificate, permits, and detailed work plans. We strongly encourage those wanting to to work on public lands to partner with existing planting groups who are already experienced in the application process. To start an application, please contact the City Forester ( [lisa.ceoffe@pittsburghpa.gov](mailto:lisa.ceoffe@pittsburghpa.gov)) and then fill out our [online application](https://survey123.arcgis.com/share/f214f99998ee4b29b374bfabbdb05b51).
+
+last updated: 04/24/2025
+
+[Back to top](https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Forestry-FAQ#body-top)
+
+Ready

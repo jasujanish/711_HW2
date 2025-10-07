@@ -1,0 +1,24 @@
+Securing the Future of Robotics and Autonomous Systems
+Building a safe, secure, privacy-preserving robotics ecosystem that is trustworthy by design in an increasingly autonomous world.
+By: Limin Jia, Eunsuk Kang, Christopher Timperley, Sarah Scheffler
+Soon, robotics and autonomous systems will be ubiquitous within America's industrial infrastructure. But these systems are as susceptible — if not more — to privacy and security threats as existing online systems.
+Why it matters: Robotic systems will be central to the future of energy production, grid inspection and repairs. But the deployment of robotics far outpaces the necessary privacy and security infrastructure.
+Key insight: The U.S. has largely adopted a "responsive" posture to hacking of medical records, credit card information, and critical infrastructure systems such as water treatment plants, oil pipelines, and energy grids. But CMU research shows that security threats in the coming robotic systems that will manage critical sectors represent a far greater economic and human risk.
+Our vision: CMU's CyLab Robotics Security and Privacy Initiative (RSPI) is fostering a future where autonomous systems are not just innovative, but also safe, reliable, private, and trustworthy. Our mission is to conduct foundational and applied research to build trusted middleware and toolchains, ensuring operational efficiency and security by design to meet the demands of future applications across diverse sectors.
+What we’ve found: Three areas represent the greatest risk exposure in our robotic systems:
+Systemic neglect: Existing approaches to robotics often prioritize functionality over inherent security and privacy, creating systemic risks.
+Middleware vulnerabilities: Current robotics middleware, such as Robot Operating System (ROS), has notable deficiencies in real-time readiness, usability, and widespread implementation, leading to potential security and privacy flaws.
+AI and ML challenges: The foundational role of AI and Machine Learning in advanced robots introduces novel difficulties in ensuring their safety and resilience in physical environments.
+Policy takeaways: A national robotics strategy with a focus on security must be aligned with our national energy ambitions and strategies.To address the risks, decision-makers, including policymakers and industry leaders, should:
+Prioritize security and privacy by design: Mandate and incentivize the integration of security and privacy into the entire development lifecycle of robotics and autonomous systems, rather than as an add-on.
+Support foundational research: Invest in interdisciplinary research initiatives like RSPI that address the unique cyber-physical security challenges of robotics and AI.
+Foster open standards and practices: Encourage the development and adoption of open-source, industry-standard security solutions and frameworks to promote a secure and trustworthy robotics market.
+Develop clear regulatory frameworks: Establish robust safety standards, security and privacy regulations, and ethical guidelines that foster responsible innovation while mitigating risks.
+What’s next: CMU is convening academic and industry leaders at the Robotics Security and Privacy Workshop on July 28-29, 2025 to understand the problems and define research directions. RSPI will drive research in key areas including:
+Physical and Hardware Security
+Secure and Resilient Robotic Systems and Programming Environments
+Secure and Trustworthy AI and Autonomous Systems
+Safe and Private Human-Robot Interaction
+Policy and Compliance for Responsible Robotics
+Go deeper: We invite collaboration to shape the future of secure robotic and autonomous systems and look forward to discussing these critical issues further.
+jasujazumdinski

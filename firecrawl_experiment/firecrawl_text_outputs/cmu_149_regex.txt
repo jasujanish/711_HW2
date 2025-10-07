@@ -1,0 +1,21 @@
+The CMU Startup Speeding Grid Innovation
+A CMU start-up uses insights from chip design to revolutionize the U.S. electric grid.
+Why it matters: The lengthy and time-consuming studies necessary before adding new, renewable power sources to the nation’s grid is one of the key challenges to meeting the AI-driven demand in energy growth. This process leads to an interconnection queue backlog that bottlenecks efforts to improve grid reliability and resilience. The CMU-grown startup Pearl Street Technologies helps to cut that process so developers and utilities can add more power, faster.
+Catch up quick: Larry Pileggi, head of Carnegie Mellon’s Department of Electrical and Computer Engineering, is a global leader in the design automation of very large integrated circuits (ICs), or chips.
+While the North American power grid is very complicated, a few years ago Pileggi realized that it is not as complicated as the systems with billions of transistors on chips he had been analyzing.
+Using their know-how from ICs, he and his graduate students built a platform called SUGAR that has become a leading tool for the analysis and optimization of power systems.
+How it works: SUGAR uses the design and simulation tools from the computer chip industry to reduce months of power system engineering effort to minutes.
+Development projects to incorporate new forms of electricity generation, particularly via renewables such as solar energy, once required several months of study, which creates a significant backlog for implementation.
+One cannot simply build a solar farm and connect it to the grid. It is necessary to first build a model of the grid and simulate how it will behave when the solar farm is added. These analyses must consider all possible scenarios for the new grid, which can be a daunting task.
+SUGAR can perform simulations and optimization in hours, accomplishing what might otherwise require a team of engineers working for six months or more. The technology has other grid planning applications as well, including:
+Transmission expansion planning
+Extreme event analysis
+Base case creation
+David Rosner, commissioner of the Federal Energy Regulatory Commission (FERC), praised SUGAR in a letter highlighting interconnection automation software platforms, specifically referring to a planning study that was performed for a large region of the U.S. transmission grid:
+“One application reproduced the manual study of a large interconnection cluster — which took nearly two years to complete — in just 10 days and arrived at largely similar results.”
+Enverus, which offers a platform for the management, development, and acquisition of the entire energy value chain, announced its acquisition of Pearl Street earlier this year.
+The big picture: At Carnegie Mellon, we are committed to accelerating research to commercialization. We spin off companies that can move engineering forward in ways that directly benefit society — developing practical solutions.
+Nowhere is this more important than at the intersection of AI and energy.
+As Pearl Street shows, it’s not just providing the energy for AI. It’s also using AI for energy — to develop and deploy environmental responsibility and economically feasible solutions.
+CMU's global leadership in design, engineering and systems of AI enable our researchers, founders, and students to bring a new lens to the biggest energy challenges.
+jasujazumdinski

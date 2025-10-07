@@ -1,0 +1,37 @@
+[Skip to main content](https://www.cmu.edu/leadership/president/campus-comms/03-13-24#main-content)
+
+# Announcing our 2024 Commencement Speaker and Honorary Degree Recipients
+
+_March 13, 2024_
+
+Dear Members of the CMU Community:
+
+I am thrilled to announce our distinguished honorary degree recipients and speaker for [Carnegie Mellon University’s 126th Commencement](https://www.cmu.edu/commencement/), which will take place on Sunday, May 12, in Gesling Stadium.
+
+Our keynote speaker will be **Reeta Roy**, who has served as the president and CEO of the Mastercard Foundation since 2008. As president and CEO, Reeta has transformed the foundation from a four-person startup to a global organization – one of the top five private foundations in the world – with assets exceeding $40 billion.
+
+Under Reeta’s leadership, the foundation has committed $8 billion to its programs, which are largely focused on strengthening opportunities in Africa. Recent initiatives include Young Africa Works, an effort to connect 30 million young people in Africa to dignified and fulfilling work by 2030, as well as a historic $1.5 billion partnership with the Africa Centres for Disease Control and Prevention aimed at boosting the equitable access and delivery of vaccines across Africa. The foundation is also a steadfast and generous supporter of our CMU-Africa campus. It has helped us advance our academic and research mission in Africa and extend a life-changing CMU graduate education to talented young people from across the continent.
+
+It is a Carnegie Mellon Commencement tradition to award honorary degrees to exemplary leaders whose lives and work inspire our community. This year’s honorary degree recipients have profoundly impacted our world through their contributions in business, the arts, research and engineering. In addition to Reeta, who will receive an Honorary Doctor of Humane Letters degree, our 2024 honorary degree recipients are:
+
+**Charles L. Evans (Trustee, TPR 1985, 1989)** served as the ninth president and chief executive officer of the Federal Reserve Bank of Chicago from 2007 to 2023. Prior to this role, Charles worked as the bank’s director of research and senior vice president, supervising its research on monetary policy, banking, financial markets and regional economic conditions. His own research focused on measuring the effects of monetary policy on the U.S. economy, inflation and financial market prices. Charles joined our Board of Trustees last year, and we will be honoring him with the university’s first-ever Honorary Doctor of Public Service degree in May.
+
+**Renée Elise Goldsberry (CFA 1993)** is an actress, singer and songwriter who earned Tony, Grammy, Drama Desk and Lucille Lortel awards for playing the original Angelica Schuyler in the hit Broadway musical “Hamilton.” Renée currently stars in Tina Fey’s Emmy-nominated series "GIRLS5EVA," and her acting career spans a dynamic range of roles on stage (including “The Lion King,” “The Color Purple” and “Rent”) and on screen (such as “The Immortal Life of Henrietta Lacks,” “The Good Wife” and “Ally McBeal”). She is releasing a debut solo album of original music later this year. At commencement, we will recognize Renée with an Honorary Doctor of Fine Arts degree.
+
+**William D. “Bill” Strecker (ENG 1966, 1967, 1971)** spent nearly three decades working at Digital Equipment Corporation, including serving as the company’s senior vice president of engineering, chief technology officer and senior vice president of corporate strategy. Later, he moved into leadership roles at Compaq Computer Corporation, Flagship Ventures and In-Q-Tel, a nonprofit focused on helping startups provide technology to the U.S. intelligence community. Bill earned 16 patents for his breakthrough engineering designs over the course of his career, and he and his wife are longtime supporters of CMU. Their generosity has established – among other opportunities – the endowed Dr. William D. and Nancy W. Strecker Dean’s Chair of the College of Engineering as well as an early career professorship in electrical and computer engineering. At commencement, we will recognize Bill with an Honorary Doctor of Science and Technology degree.
+
+I am grateful to our Honorary Degree Review Committee, chaired by Richard Scheines, the Bess Family Dean of the Dietrich College of Humanities and Social Sciences, for its work in evaluating and recommending candidates and to all those who submitted nominations. I invite you to [learn more](https://www.cmu.edu/honorary-degrees/) about this year’s extraordinary lineup of speaker and honorary degree recipients.
+
+While May 12 is more than a few weeks away, I am already looking forward to welcoming these distinguished leaders to campus and – of course – celebrating the many achievements and talents of our outstanding graduates!
+
+Sincerely,
+
+Farnam Jahanian
+
+President
+
+Henry L. Hillman President’s Chair
+
+|     |     |
+| --- | --- |
+|  |  |

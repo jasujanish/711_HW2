@@ -1,0 +1,157 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Ethics-Hearing-Board/Disclosures/SOFI-Disclosures#main-content)
+
+opens in new tab or window
+
+# SOFI Disclosures
+
+**The Statement of Financial Interests (“SOFI”) is a conflicts disclosure.**
+
+The annual SOFI disclosure covers a limited scope of potential conflicts, such as sources of income, gifts, and affiliated businesses. By law, the people have a right to be assured that the financial interests of those who hold or seek public office do not conflict with the public trust.
+
+Who Needs to File?
+
+The law provides those who may need to file this conflicts disclosure include
+
+- “Public employees”
+- Appointed and elected “public officials”
+- Nominees for appointed office (board, authority, and commission members and traditional bureau and departmental appointments)
+- Candidates for elected office
+- Solicitors
+
+**The best way to confirm if the position you hold or may be nominated to is legally defined as a “public employee,” or a “public official,” is to request ethics advice.**
+
+[Ask Ethics Advice](https://us.openforms.com/Form/b36ab35f-b417-4abb-b2bb-f05a48954424)
+
+* * *
+
+FAQs and Filing Instructions
+
+For most people, this form takes about five minutes to complete.
+
+**Filing Instructions: Where can I find the form? How do I file it?**(show below)
+
+#### Local Filing Instructions for City of Pittsburgh Public Officials, Public Employees, and Nominees for Appointed Office:
+
+For filing by computer (preferred): Website \*plus\* email
+
+- **NOTE: USING THE STATE’S WEBSITE IS ONLY STEP ONE OF FILING!**
+  - **Step one**: Complete the form online and, enter your email address at the end. Entering your email is important for step two! Pro tip: review the "caution and common errors" FAQ below. Find the online form here: [Online Filing](https://www.ethicsforms.pa.gov/Forms/websfi).
+
+  - **Step two**: FORWARD THE EMAIL you'll receive with the attached pdf of your completed form to [sofi@pittsburghpa.gov](mailto:sofi@pittsburghpa.gov) in order to satisfy local filing requirements. Once processed, the City Clerk staff will reply to your email to confirm receipt.
+
+For paper filing: follow instructions for candidates below.
+
+#### **Local Filing Instructions for Candidates for Elected Office:**
+
+- Filing by traditional paper filing is recommended and may be required per election laws administered by other agencies. Unlike the online option, you must handwrite your signature on paper filings. You may print a copy at this link: [Statement Of Financial Interests REV 01\_25.pdf](https://www.pa.gov/content/dam/copapwp-pagov/en/ethic/documents/siteassets/forms-library/final_sfi%20pdf%20fillable%2001-25.pdf). Instructions on how to complete the form are included throughout the four-page document, mostly on page two. Add an additional page if your information does not fit in the space provided in the form. Please give yourself extra time to comply with deadlines. File with the City Clerk during their open office hours, you may wish to call ahead to ensure the staff aren’t busy attending to a Council meeting or other obligations. The Office of the City Clerk is located on the 5th floor on the Grant-Street side of the City-County Building, 414 Grant St., Pittsburgh PA 15219.
+
+#### Local Filing instructions for Urban Redevelopment Authority of Pittsburgh (URA) Officials and Employees
+
+Complete an online form or a paper copy to be filed at the URA's offices. Please submit the completed form to the URA's Legal Department either by email at [legalnotices@ura.org](mailto:legalnotices@ura.org) or by mail at 412 Boulevard of the Allies, Suite 901, Pittsburgh, PA 15219, to the attention of the Legal Department.
+
+#### Local Filing instructions for Pittsburgh Water and Sewer Authority (PWSA) Officials and Employees
+
+Complete the state online form to be filed with the PWSA. Please submit the completed form to PWSA’s Chief Environmental Compliance and Ethics Officer by email to [fsidari@pgh2o.com](mailto:fsidari@pgh2o.com).
+
+**A note of caution on completing the form - and common errors**(show below)
+
+**Caution:**
+
+- The SOFI is a public record for 5 years.
+- It is highly recommended that you [request ethics advice](https://us.openforms.com/Form/b36ab35f-b417-4abb-b2bb-f05a48954424) to complete the form with Ethics staff at least once to review the defined terms within the form and to review any questions you may have. If our staff is unavailable, you can also contact the State Ethics Commission for help.
+- Note that filed SOFIs can only be amended through additional filings, the original filing cannot be redacted or modified after filing.
+- Back dating is a violation of law and could result in civil, administrative and/or criminal penalties.
+
+**Common Errors:**
+
+- Remember to list your work address and phone rather than personal.
+- **The legal name of our local government is "City of Pittsburgh" not "Pittsburgh,"** so the State Ethics Commission's web form lists us under "C" not "P."
+- List 2024 in block 7.
+- You must check the “None” box if a section is unapplicable.
+- Regarding income, in block 10, **list all sources of income over $1,300. List City of Pittsburgh salary, if applicable.** List outside employment and other sources of income such as rental properties. You do not list income, only the source of the income.
+- In block 9, creditors, only report debts of $6,500 or more. Do not list the amount of the loan, merely the source and interest rate. Student debt and car loans are commonly listed. Note, do not list mortgages or equity loans on your home. You don’t need to list credit cards unless they held a $6,500+ debt for you from one month to the next. You also don’t need to list loans between you and a spouse, parent, child, or sibling. On the other hand, loans you co-sign for family do need to be listed.
+- In Block 13, a “business” includes any form of association or organization, including non-profits.
+
+**Which employees are generally required to file or excluded?**(show below)
+
+**“Public employees” required to file can take or recommend official action that involves:**
+
+- Contracting or procurement
+- Administering or monitoring grants or subsidies
+- Planning or zoning;
+- Inspecting, investigating, licensing, regulating or auditing any person or entity
+- Any other action that creates an economic impact on the interest of any person/entity _(To find out if your position is legally defined as a “public employee,” or “public official,” please request ethics advice.)_
+
+**Those who do need to file generally include:**
+
+- Attorneys
+- Engineers
+- Supervisors _(depending on role)_
+- Assistants in fiscal affairs
+- Purchasing agents
+- Grant and contract managers
+- Administrative officers
+- Building inspectors
+- Investigators
+- Auditors
+- Those who interact with vendors or recommend how public funds should be spent
+- Zoning
+- Planning
+- Permits and Licenses
+- Contracts, grants, or procurement
+- Job duties that can financially impact the community or businesses
+- Job duties that involve public funds
+
+**Those who do not need to file generally include:**
+
+- **_Note - this is general information; if these positions can make economic impacts (such as performing or recommending supervisory or financial duties) then they may be public employees who need to file._**
+- Police Officers
+
+
+  - Police officers generally do not need to file. _However, higher ranked officers may need to file._
+  - Officers do need to file if their primary assignment relates to civil code enforcement as opposed to patrol duty or criminal enforcement.
+- Clerical staff who are purely internal-facing, and do not work with vendors, monitoring funds, or budget recommendations.
+- Road masters
+- Maintenance workers
+- Construction workers
+- Equipment operators
+- Law Clerks
+- Computer Help Desk
+- Animal Control
+- Cashiers
+- Lifeguards
+
+**When do I need to file?**(show below)
+
+**The filing deadline for public officials and public employees is May 1.**
+
+- It is much better to file late than not at all. The goal is for honesty and transparency.
+
+**Nominees (for Board, Authority, Commission members, and for other bureau and departmental appointments) and candidates for elected office are subject to different filing deadlines.**
+
+- Nominees must file at least 10 days before the official or body approves or rejects the nomination.
+- Candidates should contact the Bureau of Elections for filing deadlines.
+
+**New Hires/Appointments:**
+
+- Anyone who meets the definition of a public employee or public official and whose service began or before May 1, 2024, must file this year, even if they did not work for the City last year.
+
+**File Each Year**
+
+- Public employees and public officials must file annually, for every year of service.
+
+**Multiple Filings?**
+
+- You can file for missed prior years by changing the year in block 7. You cannot file early. Timely filing is between January 1 and May 1. The form is issued by the State Ethics Commission and changes each year!
+- Nominees who timely filed 10 days before their vote of appointment do not need to file again in the same year, after they have been sworn in.
+
+**Post-Employment:**
+
+- Former public officials and public employees must file the year their service ends as well as the year after service ends.
+- For example: if you retire December 31, 2024, then file your 2024 form due May 1, 2025. But if you retire January 1, 2025, then you'd need to file by May 1, 2025, and again in 2026.
+
+last updated: 09/29/2025
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Ethics-Hearing-Board/Disclosures/SOFI-Disclosures#body-top)
+
+Ready

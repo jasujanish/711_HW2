@@ -1,0 +1,31 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Bobby-Wilson-District-1/1-Newsletters-Press-Releases/Pittsburgh-City-Council-President-Theresa-Kail-Smith-Councilman-Bobby-Wilson-and-Councilwoman-Deb-Gross-Introduce-Legislation-to-Regulate-Short-Term-Rentals-in-the-City-of-Pittsburgh#main-content)
+
+opens in new tab or window
+
+# Legislation to Regulate Short-Term Rentals in the City of Pittsburgh
+
+Published on April 19, 2022
+
+![City Council Seal](https://www.pittsburghpa.gov/files/assets/city/v/1/city-council/images/15528_city-council-seal.png?dimension=pageimage&w=480)
+
+**Pittsburgh, PA** (April 19, 2022) — Pittsburgh City Council President Theresa Kail Smith (District 2), Councilman Bobby Wilson (District 1), and Councilwoman Deb Gross (District 7) introduced [legislation](https://pittsburgh.legistar.com/LegislationDetail.aspx?ID=5559394&GUID=0BFC9638-B9CF-4F99-A70C-040DF625B509&FullText=1) this week to regulate short-term rentals in Pittsburgh.
+
+“The purpose of this legislation is to ensure that Pittsburgh owners of short-term rentals register these properties with the City of Pittsburgh’s Department of Permits, Licenses, and Inspections prior to operating them on platforms like Airbnb and Vrbo,” said Councilman Wilson. "Whether a property owner intends to offer either a whole unit or just a spare bedroom for short term rental, that owner will be required to register that rental with the department. The guests of these properties need to be able to enjoy our City but residents must not experience disruptions in safety or quality of life as a result.”
+
+To register a short-term rental in Pittsburgh, the property owner will apply and pay for a license from the Department of Permits, Licenses, and Inspections (PLI). To obtain this license, the application must contain the address, block and lot number, number, and type of short-term rental, the name and contact information of the property owner(s), the maximum number of permitted guests, and the designated number of occupants to be accommodated in all rooms and spaces. If PLI grants the owner of a short-term rental in Pittsburgh a license to operate, that license will be valid for one year and shall be renewed yearly, subject to an annual inspection by a PLI Officer. Additionally, to obtain this short-term rental license, the property owner must have resolved or appealed all outstanding PLI violation notice(s) at that property. We will ensure that this process is streamlined.
+
+Pittsburgh property owners with valid and active short-term rental licenses from PLI will be required to maintain a daily register of guests at their properties, containing the names, addresses, and phone numbers of these guests. To maintain the peace and secure public safety, this legislation empowers a City of Pittsburgh Code Enforcement Officer to demand this register for inspection. Violation of any of the rules pertaining to short-term rental licensure or occupancy shall result in the suspension of the property owner’s short-term rental license for a period of one year from the date of the violation. Further violations may result in prosecution of the property owner.
+
+Council President Theresa Kail Smith noted, “When City Council hired a Solicitor, I asked him to draft legislation that would regulate short-term rentals in our City. These rentals, which are most common on platforms like Airbnb, have been a point of concern for my constituents in Mount Washington and Duquesne Heights for many years. The proliferation of these short-term rentals in my Council District displaces long-time residents and tends to bring quality-of-life issues like public drunkenness and drug use into these neighborhoods. The time has come for us to regulate short-term rentals.”
+
+Councilwoman Gross added, “I am happy to co-sponsor this bill because it gives the public more oversight over short-term rental properties like Airbnbs. I have worked with my constituents to address issues like the need for registration, excessive parking, and over-occupancy that have commonly occurred at Airbnb and other short-term rental properties in my district."
+
+For press inquiries, please contact Councilman Wilson’s Legislative Aide, Mohammed Burny, at (412) 215-0528 or [mohammed.burny@pittsburghpa.gov](mailto:mohammed.burny@pittsburghpa.gov).
+
+Tagged as:
+
+- [City Council](https://www.pittsburghpa.gov/News-articles?dlv_OC%20CL%20City%20News%20Listing=(dd_OC%20News%20Categories=City%20Council))
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Bobby-Wilson-District-1/1-Newsletters-Press-Releases/Pittsburgh-City-Council-President-Theresa-Kail-Smith-Councilman-Bobby-Wilson-and-Councilwoman-Deb-Gross-Introduce-Legislation-to-Regulate-Short-Term-Rentals-in-the-City-of-Pittsburgh#body-top)
+
+Ready

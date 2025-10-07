@@ -1,0 +1,105 @@
+[Skip to main content](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Mentors#main-content)
+
+opens in new tab or window
+
+[![](https://www.pittsburghpa.gov/files/ocwebsite/aa717933-a856-488c-b5d6-85f4f6d46ff0/logo.png?w=88)Become a City of Pittsburgh Police Officer](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment)
+
+Open side Menu
+
+- [Why Serve](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Why-Serve)
+- [Pittsburgh](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Pittsburgh)
+- [About PBP](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/About-PBP)
+- [Mentors](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Mentors)
+- [Salary & Benefits](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Salary-Benefits)
+- [Hiring Process](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Hiring-Process)
+- [Specialty Units](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Specialty-Units)
+- [FAQs](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/FAQs)
+
+In This Section
+
+- [Why Serve](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Why-Serve)
+- [Pittsburgh](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Pittsburgh)
+- [About PBP](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/About-PBP)
+- [Mentors](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Mentors)
+- [Salary & Benefits](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Salary-Benefits)
+- [Hiring Process](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Hiring-Process)
+- [Specialty Units](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Specialty-Units)
+- [FAQs](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/FAQs)
+
+# Mentors
+
+**Commander Jeff Abraham – Zone 3 Police Station**(show below)
+
+Bio coming soon.
+
+**Officer Megan Blair – Zone 5 Police Station**(show below)
+
+Coming soon.
+
+**Lieutenant Chris Braden - Zone 5 Police Station**(show below)
+
+Coming soon.
+
+**Officer Jon Bradford – Recruitment Coordinator**(show below)
+
+Coming soon.
+
+**Detective Antoine Davis – Sex Assault and Family Crisis Unit**(show below)
+
+Coming soon.
+
+**Lieutenant Istvan Devenyi - Zone 3 Police Station**(show below)
+
+My name is Lieutenant Devenyi and I am the night shift Lieutenant at Zone 3. I have been with the City of Pittsburgh since 2007, all of it in patrol. I also served 10 years in the military, in both the Marine Corps and the Army, and deployed overseas in support of Operation Iraqi Freedom. I enjoy patrol as I see it as the front line of policing where real change occurs and where you can make the biggest impact by helping others no matter what the situation is.
+
+![Lieutenant Devenyi](https://www.pittsburghpa.gov/files/assets/city/v/1/public-safety/images/police-recruitment/devenyi.jpg?w=400&h=406)
+
+**Detective Reginald Eiland - Office of Strategy Accountability & Resiliency & SWAT**(show below)
+
+My name is Detective Reginald Eiland and have been a member of the Pittsburgh Bureau of Police since March of 2016. I am currently assigned to the Administrative Branch under OSAR (Office of Strategy Accountability and Resiliency) and also a member of the Pittsburgh SWAT Team. I was previously assigned to patrol Zone 1 in the Northside for 2 years (2016-2018) and then was a part of the Northview Heights Patrol from 2018-2020. Being a part of this department brings peace to my life knowing that each and every day we are striving to improve the quality of life amongst the community of Pittsburgh by keeping them safe.
+
+![Detective Reginald Eiland](https://www.pittsburghpa.gov/files/assets/city/v/1/public-safety/images/police-recruitment/eiland.jpg?w=400&h=218)
+
+**Officer Clareance Ford - Zone 5 Police Station**(show below)
+
+Coming soon.
+
+**Detective Kalieb Hines – Violent Crimes Unit**(show below)
+
+Coming soon.
+
+**Officer Sean Jozwiak – Training Academy**(show below)
+
+Coming soon.
+
+**Officer Cullen McDonald – Downtown Public Safety Center**(show below)
+
+Coming soon.
+
+**Officer Bryan Reep - Downtown Public Safety Center**(show below)
+
+Coming soon.
+
+**Sergeant Alex Royal – Zone 2 Police Station**(show below)
+
+Coming soon.
+
+**Officer Matt Schlick - Employee Wellness & Resource**(show below)
+
+My name is Officer Matt Schlick. I have been the Employee Wellness and Resource Coordinator for the Pittsburgh Bureau of Police since October 2020 and have been involved in recruiting and mentoring since 2017. I spent the first 13 years of my career as an officer in Zone 4, with 10 years in patrol and 3 more as the Neighborhood Resource Officer for Hazelwood. What I like most about my current position is the opportunity that I have to be involved with changes in both Bureau policy and practice regarding Officer Wellness and Resilience and in helping officers deal with the stress and cumulative trauma of the job. I will start my 16th year of service in July 2022 and plan to continue doing anything I can to help our officers stay happy and healthy through their careers with the PBP.
+
+![Officer Matt Schlick](https://www.pittsburghpa.gov/files/assets/city/v/1/public-safety/images/police-recruitment/schlick.jpg?w=400&h=319)
+
+**Officer Lucius Schweitzer – Zone 3 Police Station**(show below)
+
+Coming soon.
+
+**Officer Chelsey Washington – Zone 5 Police Station**(show below)
+
+Coming soon.
+
+last updated: 04/22/2025
+
+[Back to top](https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Mentors#body-top)
+
+Ready

@@ -1,0 +1,70 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Civil-Service-Commission/CSC-Appeal-Process#main-content)
+
+opens in new tab or window
+
+In This Section
+
+- [Mayor](https://www.pittsburghpa.gov/City-Government/Mayor)
+- [City Controller](https://www.pittsburghpa.gov/City-Government/City-Controllers-Office)
+- [City Council](https://www.pittsburghpa.gov/City-Government/City-Council)
+- [Boards, Authorities, Commissions](https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions)
+- [Legal Services](https://www.pittsburghpa.gov/City-Government/Legal-Services)
+- [Jobs](https://www.pittsburghpa.gov/City-Government/Jobs)  - [Careers](https://www.pittsburghpa.gov/City-Government/Jobs/Careers)
+  - [Human Resources and Civil Service](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service)    - [Civil Service Commission](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Civil-Service-Commission)
+    - [Pittsburgh Partnership](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Pittsburgh-Partnership)
+    - [Neighborhood Employment Centers (NEC’s)](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Neighborhood-Employment-Centers-NEC%E2%80%99s)
+    - [Learn & Earn](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Learn-Earn)
+    - [Classification & Compensation Study](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Classification-Compensation-Study)
+    - [Bridging Federal Talent with City of Pittsburgh Government](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Bridging-Federal-Talent-with-City-of-Pittsburgh-Government)
+- [Finance & Budget](https://www.pittsburghpa.gov/City-Government/Finance-Budget)
+- [Contacts & Information](https://www.pittsburghpa.gov/City-Government/Contacts-Information)
+
+# CSC Appeal Process
+
+## The Eligibility Appeal Process
+
+The City of Pittsburgh's Civil Service system is charged with ensuring that all Civil Service jobs are filled with qualified and able employees. The cornerstone of the system is due process. All applicants for Civil Service jobs have the right to be considered for employment, and have the right to a formal eligibility appeal if the City finds that they do not meet the minimum requirements for the job. This eligibility appeal process, called a public hearing, requires the City to explain why an applicant was not considered for Civil Service employment and provides applicants with the opportunity to prove why they should be reconsidered for employment.
+
+Eligibility public hearings are firmly rooted in City of Pittsburgh employment policies. The State legislature declared in the 1907 General Civil Service Act that any applicant who is not permitted to take a Civil Service examination or who is deemed ineligible for a Civil Service job has a right to a public hearing. This provision was adopted in Chapter 180 of the City's Code of Ordinances.
+
+The appeal process is not complicated but it does require applicants to follow the procedures outlined below.
+
+## Who is eligible for an eligibility public hearing?
+
+Any Civil Service job applicant who receives an ineligible letter. Ineligible applicants are those who the Civil Service Commission determines have not met the advertised job's experience and/or education requirements.
+
+In addition, specific disqualified applicants are those who may meet the experience and education requirements but will not be considered because of criminal history, deception, or other applicant acts. These disqualified applicants are also eligible to appeal to the Commission.
+
+Please note that a criminal record does not necessarily disqualify an applicant from a Civil Service job.
+
+## How is the eligibility public hearing process started?
+
+The Commission will notify applicants of employment ineligibility by mail. If the ineligible applicant desires a Civil Service public hearing to appeal the determination, they must request the public hearing in writing within **ten calendar days** of the date of the Commission's letter. The Commission will then inform the applicant by mail of the scheduled public hearing date and time.
+
+_Failure to meet the ten day requirement may result in the Commission's denying the request._
+
+## How does the public hearing work?
+
+Civil Service ineligibility and disqualification public hearings are typically scheduled for Thursday mornings in Room 445 of the City-County Building. The atmosphere is judicial. The applicant may bring legal representation.
+
+The Commission first hears testimony from City officials detailing the reasons for the ineligibility or disqualification, then the applicant presents testimony as to why he or she indeed meets the experience and education requirements. Each party, the City and the applicant, may present witnesses and exhibits, and each party may question the other party.
+
+All of the testimony is transcribed by a court reporter.
+
+## How do I learn of the public hearing results?
+
+The Commission will either announce its decision after all of the public hearings that day or will study the case and announce its decision at a later time. In either event, the Commission will inform the applicant of the decision by mail.
+
+## Can the Commission's decision be appealed?
+
+Applicants who disagree with the Commission's decisions may appeal to a body beyond the Civil Service Commission. Depending on the nature of the case, the applicant may appeal to one of the following systems: The Equal Employment Opportunity Commission, Pennsylvania Human Relations Commission, the Pittsburgh Commission on Human Relations, directly to the courts (or potentially another system).
+
+Although the public hearing process may seem complex, you should be aware of at least two things: applicants for Civil Service have a right to a public hearing, and Human Resources and Civil Service staff will be pleased to assist you with the process.
+
+If you need any help with the appeal process, call us at **412-255-2384**.
+
+last updated: 04/22/2025
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/Jobs/Human-Resources-and-Civil-Service/Civil-Service-Commission/CSC-Appeal-Process#body-top)
+
+Ready

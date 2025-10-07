@@ -1,0 +1,59 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Anthony-Coghill-District-4#main-content)
+
+opens in new tab or window
+
+# Anthony Coghill, District 4
+
+Councilmember
+
+- Telephone[412-255-2131](tel:4122552131)
+
+![Anthony Coghill - District 4](https://www.pittsburghpa.gov/files/assets/city/v/2/city-council/images/8654_coghill-squared.jpg?dimension=pageimage&w=480)
+
+## Introduction
+
+At the turn of the 20th century, immediately prior to the majority of the annexations, the coal mining industry began to take off in Pittsburgh’s South Hills. Most residents of Brookline, Beechview and Overbrook were employed as either farmers or miners, and large portions of present day Brookline were farm land at the time of its annexation. Carrick Borough was a higher income neighborhood, featuring beautiful Victorian mansions built by the owners and management of the City’s booming coal and steel industries.
+
+Today, South Pittsburgh is a diverse community of working class families. Many City employees call South Pittsburgh home, charmed by its neighborly attitude, quality housing, and walkable business districts.
+
+## Our Neighborhoods
+
+**Beechview**(show below)
+
+Beechview is located southwest of Downtown, and is situated between Brookline, Banksville, and Dormont. Serviced by the "T", Beechview's Broadway Avenue business district is currently seeing revitalization in new businesses and a renovation of its historic architecture. A recent addition to the corridor is the La Catrina Mexican Restaurant, serving authentic Mexican cuisine. The neighborhood offers a great number of amenities, including a branch of the Carnegie Library, an IGA grocery store, a spray park, ball fields, and a newly renovated Healthy Active Living Center. Nature enthusiasts love exploring the Seldom Seen Greenway, one of the last undeveloped parcels of green in the City. Beechview is also home to three excellent Pittsburgh Public Schools, Beechwood Elementary, South Hills Middle School, and Brashear High School.
+
+**Bon Air**(show below)
+
+Bon Air is best known by its reputation of 'country living in the City.' A spacious neighborhood, Bon Air boasts larger than average residential parcels, dotted with mid-century single-family homes. Recreational amenities include the Marc Kolenda basketball court and the Bon Air parklet. The community also borders McKinley Park and is serviced by the Blue Line "T", with service to Downtown and South Hills Village. It is truly a great pocket for new and long standing families.
+
+**Brookline**(show below)
+
+Bordered by Overbrook and Beechview, Brookline is a mostly residential community with a bustling main street, Brookline Blvd.In the past few years, the Brookline Boulevard business district will receive a facelift, complete with a new street, sidewalks, landscape design, street lights, street furniture and more. This small business corridor has quickly become known City-wide as a destination for delicious food and drink. Take a trip to the Boulevard and you'll find authentic Greek, Italian, and Mexican cuisine, as well as delicious pastries, fresh pretzels, cool ice cream, and delicious coffee to wash it all down with. Other neighborhood amenities in Brookline include the Moore Park swimming pool, Brookline Recreation Center, ball fields, and easy access to Downtown via Port Authority bus.
+
+**Carrick**(show below)
+
+South of Downtown, Carrick is surrounded by Overbrook, Brookline, Bon Air, Mt. Oliver Neighborhood, and St. Clair. Carrick today retains the traditions of its proud independence and is the first "Green Community" in the City. There are 3 distinct business districts along the length of Brownsville Road, separated by residential blocks, as well as many free-standing stores and shopping centers. Amenities in Carrick include a neighborhood library, a swimming pool, a wide range of recreational facilities at Phillips Park, and numerous churches. The Port Authority bus provides easy transportation along Brownsville Road.
+
+**Mt. Washington**(show below)
+
+Mt. Washington is the smallest neighborhood represented in District 4 as the district contains only one district of the neighborhood located near Route 51 and Warrington Avenue. Though small, amenities in this district include The Eagle’s Club and easy access to the T.
+
+**Overbrook**(show below)
+
+Overbrook is bordered by Carrick and Brookline, and runs along Rt. 51. This community is also convenient to the Brownsville Road business district, and has access to Downtown via Port Authority bus or T. Amenities for Overbrook residents include the Fran Accamando Community Center, a Senior Center, ball fields, and nearby Phillips Park in Carrick. Like the other District 4 neighborhoods Overbrook is a pocket with much potential and a rich history to build off.
+
+* * *
+
+[**Features**](https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Anthony-Coghill-District-4/Features)
+
+[**Councilman Anthony Coghill**](https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Anthony-Coghill-District-4/Councilman-Anthony-Coghill)
+
+[**Contacts**](https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Anthony-Coghill-District-4/Contacts)
+
+[**Feedback**](https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Anthony-Coghill-District-4/Feedback)
+
+last updated: 09/01/2025
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Anthony-Coghill-District-4#body-top)
+
+Ready

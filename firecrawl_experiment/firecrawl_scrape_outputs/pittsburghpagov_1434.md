@@ -1,0 +1,110 @@
+[Skip to main content](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans/South-Side-Park-Master-Plan/Background#main-content)
+
+opens in new tab or window
+
+In This Section
+
+- [City Planning](https://www.pittsburghpa.gov/Business-Development/City-Planning)  - [About City Planning](https://www.pittsburghpa.gov/Business-Development/City-Planning/About-DCP)
+  - [City Planning Meeting Calendar](https://www.pittsburghpa.gov/Business-Development/City-Planning/City-Planning-Meetings)
+  - [City Planning Public Notices](https://www.pittsburghpa.gov/Business-Development/City-Planning/Public-Notices)
+  - [Commissions and Boards](https://www.pittsburghpa.gov/Business-Development/City-Planning/Commissions-and-Boards)
+  - [Historic Preservation Program](https://www.pittsburghpa.gov/Business-Development/City-Planning/Historic-Preservation-Program)
+  - [Public Art Program](https://www.pittsburghpa.gov/Business-Development/City-Planning/Public-Art)
+  - [Neighborhood Planning](https://www.pittsburghpa.gov/Business-Development/City-Planning/Neighborhood-Planning)
+  - [Master & Neighborhood Plans](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans)    - [Sheraden Park Master Plan](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans/Sheraden-Park-Master-Plan)
+    - [South Side Park Master Plan](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans/South-Side-Park-Master-Plan)
+    - [Ecoinnovation District](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans/Ecoinnovation-District)
+    - [Greater Hazelwood Neighborhood Plan](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans/Greater-Hazelwood-Neighborhood-Plan)
+    - [Greater Hill District Master Plan](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans/Greater-Hill-District-Master-Plan)
+    - [Homewood Community Plan](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans/Homewood-Community-Plan)
+    - [Manchester Chateau Neighborhood Plan](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans/Manchester-Chateau-Neighborhood-Plan)
+    - [The Oakland Plan](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans/The-Oakland-Plan)
+  - [City Planning Projects](https://www.pittsburghpa.gov/Business-Development/City-Planning/Projects)
+  - [City Planning Programs](https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Programs)
+  - [Development Review Process Guides](https://www.pittsburghpa.gov/Business-Development/City-Planning/Process-Guides)
+- [Mobility and Infrastructure](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure)
+- [Permits, Licenses, and Inspections](https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections)
+- [Digital Equity In Pittsburgh](https://www.pittsburghpa.gov/Business-Development/Digital-Equity-In-Pittsburgh)
+- [Small Business Resources](https://www.pittsburghpa.gov/Business-Development/Small-Business-Resources)
+- [Public Works](https://www.pittsburghpa.gov/Business-Development/Public-Works)
+- [Zoning](https://www.pittsburghpa.gov/Business-Development/Zoning)
+- [Geographic Information Systems, Mapping & Open Data](https://www.pittsburghpa.gov/Business-Development/Geographic-Information-Systems-Mapping-Open-Data)
+- [Procurement](https://www.pittsburghpa.gov/Business-Development/Procurement)
+- [PGH Lab](https://www.pittsburghpa.gov/Business-Development/PGH-Lab)
+- [Sustainability](https://www.pittsburghpa.gov/Business-Development/Sustainability)
+
+# Background
+
+[South Side Park Master Plan RFP(PDF, 243KB)](https://www.pittsburghpa.gov/files/assets/city/v/1/dcp/documents/1119_rfp-2017-0039-south-side-parks-master-plan-final-v1.pdf)
+
+Also, view [drafted perspectives of the park(PDF, 17MB)](https://www.pittsburghpa.gov/files/assets/city/v/1/dcp/documents/2180_ce3-station4-perspectives_all.pdf "2180_CE3-Station4-Perspectives_all.pdf")  and provide feedback (Closed).
+
+South Side Park is unique in its location and topography — a hidden 57.5-acre community park, with traditional recreational amenities as well as natural areas that dominate its landscape. Located within the South Side Slopes neighborhood, and bordered by South Side Flats and Arlington neighborhoods, the park has chronically been underutilized and suffers from disinvestment. Arlington Park (4.2 acres), bordering the southern edge of South Side Park, should retain its' neighborhood park function, but be incorporated and connected to South Side Park through the master plan. The South Side Park Master Plan is a recommendation of the Open Space Plan (the City’s Open Space, Parks, and Recreation Plan), adopted in July 2013.
+
+Given its' recommended designation as a Signature Community Park, South Side Park’s scale makes it a site with a strong potential to serve a larger population and provide “green premium” benefits to areas not benefitting from proximity to the City’s five regional parks. Signature sites are prioritized community parks with the greatest potential to fill gaps in the green premium, provide better and more diverse recreation experiences, and focus investment. Signature sites receive a higher level of capital and maintenance funding than other community parks, have site-specific programming, and incorporate design features to highlight their specific identities. Regional-scale recreation facilities can be targeted for signature community parks, as well as community-scale recreation facilities. For instance, the existing trails in South Side Park, used for walking and biking, can potentially be linked to the South Side Riverfront Park and trail, thus connecting the park and its users to a larger system. Furthermore, investment in South Side Park should explore the divestment of adjacent facilities to reduce City operation and maintenance costs in this sector. Both Cobden and Winters Park, identified in the Open Space Plan, could be divested as they duplicate facilities within the South Side Slopes neighborhood (South Side Park, Eleanor Street Park, Monongahela Park and Arlington Park shall remain to serve this sector).
+
+## Open Space Plan (OpenSpace PGH) Recommendations
+
+- Designate this site as a signature community park
+- Redevelop as a Signature Community Park through a Master Plan that would incorporate Arlington Park into the planning
+- Network of multi-use trails with varying levels of difficulty
+- Adventure recreation (such as zip lines, adventure courses, BMX, bicycling – pump track)
+- Connections to the Carson Street Business District
+- On-site parking (potentially off of S. 21st Street)
+- Consolidate recreation centers to provide higher quality facilities
+- Crime prevention through environmental design
+- Arlington Park
+  - Include this site along with the Arlington Gym in the master planning effort for South Side Park
+  - Retain a neighborhood park function in the vicinity, but consider the relationship of all three sites
+  - Include trail connections and access from Arlington Parking into South Side Park
+  - Remove the closed pool (NOTE: Design development of a spray park for this area has commenced, shall be incorporated into master plan)
+
+## Other Priorities/Issues
+
+- Environmental Restoration — managing invasive species and restoration throughout the park
+- Neighborhood Support — build off of the South Side Slopes neighborhood support by engaging the other surrounding neighborhoods (South Side Flats and Arlington) through innovative community outreach techniques
+- Programming — develop robust programming for the park that will serve the immediate neighborhoods as well as the entire City park system, explore revenue generation programming
+- Recreation — explore innovative and unique facilities to create destinations as well as account for surrounding assets/facilities in the Southern Pittsburgh region
+- Stormwater Management — both water quality and quantity can be addressed as there is apparent runoff as well as erosion created from existing drainage patterns
+- Illegal Activities — hunting, motorized vehicles, homeless, bonfires, alcohol consumption, dumping
+
+## History
+
+### Pre- Park Dedication
+
+- Primarily residential, owned by the Ormsby family.
+- In 1872, the site had a stream along Quarry Road, Keeling & Company coaling mining company, and the Baddey Brothers coke ovens at the base of the Keeling & Company incline.
+- In 1876, the stream was interrupted and the coke ovens disappeared.
+- In 1886, the stream was completely gone, and a new neighborhood was established along the eastern edge. The St. Clair Incline Railroad, a resident focused incline, was operational between 1886 and 1935 (lower station on Josephine Street near South 22nd Street and an upper station on Salisbury Street between Fernleaf and Sterling Street) on the site.
+- In 1916, a zone of development was established between 18th Street and Quarry Street — Sankey Brothers Brick Yard was established to the east of Quarry Street, a Pumping Station on Mission Street, a new industrial incline ran up the eastern edge, and Mission Street Bridge was constructed.
+
+### South Side Park
+
+- In 1934, the City of Pittsburgh received a gift of 5.5 acres of land along Saint Patrick Street and Quarry Street from the Frederick C. Renziehausen estate, which was dedicated as park (Sophia Everet Playground #1).
+- In 1948, the Pittsburgh City Planning Commission approved a plan to construct a 65-acre park that was comprised of the Sophia Everet Playground and Arlington Playground with properties in between the two locations and to the north, crossing Mission Street and ending near Josephine Street (9.5 acres of land were purchased within this process).
+- In the mid-1960’s, pathways were built from the Arlington ball field area to the interior of the park.
+- In 2003, the Design Center and the South Side Slopes Neighborhood Association worked with Klavon Design Associates to develop “Master Site Plan: South Side Park.”
+- In 2008, South Side Slopes Neighborhood Association develops a stormwater management plan titled, “Where the Water Meets the Concrete: South Side Park Stream Daylighting Project.”
+- Also in 2008, Skelly & Loy Inc. developed the “South Side Park Greenspace Management Plan” and Klavon Design Associates developed the “18th St. Corridor Study: Streetscape Strategies.”
+- In 2010, the Neville Ice Arena within the park collapsed under the weight of snow, and was demolished later that year.
+- In May 2012, the Bandi Schaum Community Garden opened on the site of an underutilized ballfield with assistance from Grow Pittsburgh.
+- In the summer of 2012, the Brashear Association and South Side Slopes Neighborhood Association funded the Student Conservation Association to perform invasive species removal and trail improvements.
+- In 2013, a grant from the Pittsburgh Partnership for Neighborhood Development enabled the South Side Slopes Neighborhood Association to partner with the Student Conservation Association, Mount Washington CDC, and the Pittsburgh Parks Conservancy to continue park improvements.
+- In 2013, South Side Slops Neighborhood Association hosted a series of fundraisers to fund signage for the trail system.
+- In April 2014, a charrette to design an improved stormwater management system for South Side Park and the 21st Street Corridor was conducted.
+- Since 2014, Landforce has been working to address the deteriorating and fragmented trails and to improve connectivity among the north, south and western areas of the park by rehabilitating trails, building new trails, closing old and eroded trails, and removing dump site debris.
+- Since 2014, Student Conservation Association has focused on trail work and invasive species management.
+- In 2015 and 2016, Pittsburgh Parks Conservancy’s (PPC) facilitated several volunteer events.
+- In 2016, trailhead improvements at Bandi Schaum Trailhead were installed through the GTECH Ambassador Program.
+- In fall 2016, the City of Pittsburgh installed the first of the new City of Pittsburgh’s Open Space Signage in South Side Park as well as officially named the trails within the park
+- In the summer 2017, Allegheny County Conservation District funding the Allegheny Goatscape goats in a multi-tiered restoration project of “Jurassic Valley.”
+
+## Stormwater
+
+In 2016, the South Side Park: Stormwater Concept Design, a sewershed analysis of the M-16 watershed within which the park is situated, was commissioned by Pittsburgh Water and Sewer Authority. This work was a conceptual plan for redirecting stormwater from the park into a series of green infrastructure installations with the eventual directed discharge at the Monongahela River. The first phase of this system is S. 21st Street (Carson to Josephine) that is currently in design development and should be incorporated into the master plan, as the a main entry point to South Side Park from the South Side Flats neighborhood.
+
+last updated: 04/23/2025
+
+[Back to top](https://www.pittsburghpa.gov/Business-Development/City-Planning/Master-Neighborhood-Plans/South-Side-Park-Master-Plan/Background#body-top)
+
+Ready

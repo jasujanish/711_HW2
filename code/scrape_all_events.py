@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import re 
+
+# Download the pittsburgh events html data
 urls = ["https://pittsburgh.events/january/", "https://pittsburgh.events/february/", "https://pittsburgh.events/march/", "https://pittsburgh.events/april/", "https://pittsburgh.events/may/", "https://pittsburgh.events/june/", "https://pittsburgh.events/july/", "https://pittsburgh.events/august/", "https://pittsburgh.events/september/", "https://pittsburgh.events/october/", "https://pittsburgh.events/november/", "https://pittsburgh.events/december/"]
 def download_pittsburghevents_pages():
     Headers = {"User-Agent": "HW_Project/1.0 (+https://github.com/njasuja/11711_HW2; njasuja@andrew.cmu.edu)"}
@@ -15,6 +17,7 @@ download_pittsburghevents = False
 if download_pittsburghevents:
     download_pittsburghevents()
 
+# Clean the pittsburgh events html data
 def parse_pittsburghevents_page(soup):
     content = soup.find_all('li', class_='date-row')
     res = "Here are a list of some events happening in Pittsburgh"
@@ -49,6 +52,7 @@ if parse_pittsburghevents:
         with open("text_outputs/pittsburgh_events.txt", "a", encoding="utf-8") as f:
             f.write(main_text)
 
+# Clean the cmu calendar html data (data downloaded manually)
 def parse_cmucalendar_page(soup):
     res = "Here are a list of a few CMU events"
     data = soup.find('div', id="lw_cal_events")
@@ -98,6 +102,7 @@ if parse_cmucalendar:
         main_text = parse_cmucalendar_page(soup)
         with open("text_outputs/cmu_calendar.txt", "w", encoding="utf-8") as f:
             f.write(main_text)
+            #: a bit of manual addition (no worries)
             f.write('''Here are CMU's signature events
 Spring Carnival: For more than 100 years, Spring Carnival has been one of the most anticipated weekends of the year. Tartans from around the world return to campus to carry on events like Booth, Buggy, MOBOT, Scotch’n’Soda performances and much more.
 Homecoming Weekend: Each fall, the CMU community puts on their best Tartan for a weekend of family-friendly activities like the annual CMU Alumni Awards, campus tours, Buggy previews and the tailgate and football game.
@@ -109,7 +114,7 @@ CMU 125: Make plans to attend Homecoming Weekend, Nov. 6-8, to celebrate 125 yea
 Presidential Tours: President Farnam Jahanian visits different cities throughout the year to meet Tartans across the country and share Carnegie Mellon’s inspiring vision for the future. Faculty members share cutting-edge research and alumni have a chance to network with each other and university leadership.
 jasujazmudzinski''')
             
-
+# Clean the downtown pittsburgh events html data (data downloaded manually)
 def parse_downtownpittsburghevents_page(soup):
     content = soup.find_all('div', class_='eventitem')
     curr_len = 0

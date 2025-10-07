@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup
 
+# writes the visit pittsburgh data to the corresponding .txt file
+# (html file downloaded manually)
 def parse_visit_pittsburgh_food_festivals(soup):
     res = ""
     data = soup.find(class_="content--primary")
@@ -26,7 +28,6 @@ def parse_visit_pittsburgh_food_festivals(soup):
             res+='\n'    
     res+='\njasujazmudzinski\n'
     return res
-
 visit_p_food = False
 if visit_p_food:
     with open("other_inputs/visit-pittsburgh-food-festivals.html", "r", encoding="utf-8") as f:
@@ -36,7 +37,8 @@ if visit_p_food:
     with open("text_outputs/visit_pittsburgh_food_festivals.txt", "w", encoding="utf-8") as f:
         f.write(main_text)
 
-
+# writes the visit little italy data to the corresponding .txt file
+# (html file downloaded manually)
 def parse_little_italy_schedule(soup):
     res = ""
     for element in soup.find_all():
@@ -45,7 +47,6 @@ def parse_little_italy_schedule(soup):
             res += '\n'
     res+='\njasujazmudzinski\n'
     return res
-
 little_italy_schedule = False
 if little_italy_schedule:
     with open("other_inputs/little_italy_schedule.html", "r", encoding="utf-8") as f:
@@ -55,8 +56,8 @@ if little_italy_schedule:
     with open("text_outputs/little_italy.txt", "a", encoding="utf-8") as f:
         f.write(main_text)
 
-
-
+# writes the visit little italy faq data to the corresponding .txt file
+# (html file downloaded manually)
 def parse_little_italy_FAQ(soup):
     res = ""
     for element in soup.find_all(class_="x-accordion-group"):
@@ -64,7 +65,6 @@ def parse_little_italy_FAQ(soup):
         res += '\n'
     res+='\njasujazmudzinski\n'
     return res
-
 little_italy_FAQ = False
 if little_italy_FAQ:
     with open("other_inputs/little_italy_FAQ.html", "r", encoding="utf-8") as f:
@@ -75,7 +75,8 @@ if little_italy_FAQ:
     with open("text_outputs/little_italy.txt", "a", encoding="utf-8") as f:
         f.write(main_text)
 
-
+# writes the picklesburgh vendor data to the corresponding .txt file
+# (html file downloaded manually)
 def parse_picklesburgh_vendors(soup):
     table = soup.find('table')
     

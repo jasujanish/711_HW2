@@ -1,0 +1,61 @@
+Skip to main content
+opens in new tab or window
+In This Section
+
+City Planning
+Mobility and Infrastructure
+Permits, Licenses, and Inspections
+Digital Equity In Pittsburgh
+Small Business Resources
+Public Works
+Zoning
+Geographic Information Systems, Mapping &amp; Open Data  - Geographic Information System (GIS) &amp; Mapping
+PGH Open Data
+Related Links &amp; Resources
+Procurement
+PGH Lab
+Sustainability
+
+Open Data at the City of Pittsburgh
+
+The City of Pittsburgh proactively releases information on City operations and services where anyone can view or download data. Our work adheres to the 2014 Open Data Ordinance (Pittsburgh Code of Ordinances I.VII §162).
+Read the 2024 Open Data Report
+To request open data: contact wprdc@pitt.edu
+We publish open data via the Western PA Regional Data Center
+We also publish full spatial data files via our GIS hub.
+How We Make Data Open
+We make data open through the Western Pennsylvania Regional Data Center (WPRDC), a partnership between the City, Allegheny County, and the University of Pittsburgh. The WPRDC hosts open data from a variety of sources throughout the region.
+
+The City regularly collaborates with the WPRDC and City Departments to identify datasets to be made open. We receive requests for open data via the WPRDC and engage with community user groups to identify new opportunities for open data use. We use the Data Service Standard to prioritize open data releases.
+Any user can data from the site and receive help from the dedicated WPRDC staff. WPRDC publishes data using the CKAN data catalog standard and makes data available using the CKAN Datastore OData API to support interoperability between systems using open data.
+jasujazumdinski
+We Make Data Open as a Service via a Set of Shared Principles
+We support decision makers and innovators inside and outside the public sector by publishing open data with a purpose to ensure sustainable and equitable access to open data. We focus on users and the problems they need to solve. We provide context to them about the data released by the City via the Western PA Regional Data Center. Our principles are:
+
+Publish Data with a Purpose
+Understand the User, the Problem They Need to Solve, and Context
+Make Information Accessible by Everyone
+Communicate Clearly
+Be Accountable and Transparent
+Intentionally Choose Tools and Technology
+Create Shared Outcome-Centered Vision
+Build Intentional Relationships
+Operate Reliably
+Create Opportunities for More - and More Creative - Uses of Data
+
+The full data service standard is available here.
+
+GIS Open Data
+WPRDC
+
+Related Links &amp; Resources
+
+United States Census Data
+Pennsylvania Spatial Data Access (PASDA)
+Western Pennsylvania Regional Data Center
+Read the 2024 Open Data Report
+
+last updated: 09/12/2025
+Back to top
+Ready
+jasujazumdinski

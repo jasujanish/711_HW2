@@ -4,16 +4,16 @@ websites = ["https://carnegiemuseums.org/our-museums/carnegie-museum-of-natural-
 titles = ["carnegie_museum_naturalhistory", "carnegie_museum_kaminscience", "carnegie_museum_warhol", "carnegie_museum_moa"]
 names = ["Carnegie Museum of Natural History", "Kamin Science Center", "The Andy Warhol Museum", "Carnegie Museum of Art"]
 
-'''
+# downloads HOME PAGES (NOT SUB PAGES) for the museums
+def download_museums():
+    Headers = {"User-Agent": "HW_Project/1.0 (+https://github.com/njasuja/11711_HW2; njasuja@andrew.cmu.edu)"}
+    for i in range(len(titles)):
+        response = requests.get(websites[i], headers=Headers, timeout=20)
+        html_content = response.text
+        with open(f"{titles[i]}.html", "w", encoding="utf-8") as f:
+            f.write(html_content)
 
-Headers = {"User-Agent": "HW_Project/1.0 (+https://github.com/njasuja/11711_HW2; njasuja@andrew.cmu.edu)"}
-for i in range(len(titles)):
-    response = requests.get(websites[i], headers=Headers, timeout=20)
-    html_content = response.text
-    with open(f"{titles[i]}.html", "w", encoding="utf-8") as f:
-        f.write(html_content)
-'''
-
+# parses through the HOME PAGES (NOT SUB PAGES) for the carnegie museums
 def parse_moma(soup, k):
     sections = []
     content = soup.find('div', class_='entry-content')
@@ -33,6 +33,7 @@ def parse_moma(soup, k):
         res+= f"{names[k]} card title: {x.h3.get_text(" ", strip=True)}\ncorresponding text: {x.p.get_text()}\n"
     return res
 
+# wrties the carnegie museum home page data to .txt files
 for i in range(len(titles)):
     with open(f"{titles[i]}.html", "r", encoding="utf-8") as f:
         response = f.read()

@@ -1,0 +1,93 @@
+[Carnegie Magazine](https://carnegiemuseums.org/carnegie-magazine/) / Fall 2025 / From the Archives: Mimicry in Nature
+
+[Fall 2025](https://carnegiemuseums.org/category/carnegie-magazine/fall-205/) [Science & Nature](https://carnegiemuseums.org/tag/science-nature/)
+
+[Print](https://carnegiemuseums.org/carnegie-magazine/fall-205/from-the-archives-mimicry-in-nature/)
+
+- [A](https://carnegiemuseums.org/carnegie-magazine/fall-205/from-the-archives-mimicry-in-nature/# "Decrease font size") [A](https://carnegiemuseums.org/carnegie-magazine/fall-205/from-the-archives-mimicry-in-nature/# "Reset font size") [A](https://carnegiemuseums.org/carnegie-magazine/fall-205/from-the-archives-mimicry-in-nature/# "Increase font size")
+
+![Open magazine displaying an article titled "Mimicry in Nature" with a small black-and-white photo of a man. Dense text fills both pages, conveying an academic tone.](https://carnegiemuseums.org/wp-content/uploads/fall25-archive-hero-1628x800.jpg)
+
+**Editor’s note:** This excerpt is from an article in the September 1929 issue of _Carnegie_ magazine in which former Carnegie Museum Director William J. Holland explains the phenomenon of protective mimicry in nature. A scholar with wide-ranging interests, Holland was most passionate about lepidoptery and authored popular books on the subject, including _The Butterfly Book_ (1898) and _The Moth Book_ (1905).
+
+* * *
+
+One of the most striking phenomena in nature is protective mimicry, a phase of which is illustrated on the cover page of this issue of the _Carnegie_ magazine.
+
+![Cover of Carnegie Magazine, September 1929, featuring two butterflies: a Monarch and a Viceroy. Text explains their protective mimicry.](https://carnegiemuseums.org/wp-content/uploads/fall25-archive-cover.jpg)
+
+In the struggle for existence many animals become adapted in form and color to their environment, thus securing protection from their enemies. The tints of the furry coats of mammals, or of the feathers of birds, hide them from attack. Shades of brown or gray help to conceal rabbits, squirrels, and field mice from the eye of the hawk. The dappled pelt of the giraffe standing under the acacias melts into the surroundings, and only a keen eye can see him. The white winter plumage of the ptarmigan matches the snowy landscape in which it lives. Various greens and olives help to conceal the birds among the branches. Fishes are adapted in color and form to the bottom on which they occur.
+
+In the insect world there are wonderful adaptations of this kind. Many moths resemble lichens and mossy spots on the trunks of trees; some butterflies have patterns on the under side which match the rocks upon which they rest or the foliage of the forests in which they live. When they fold their wings they are invisible. Such adaptation to environment is often amazing. The writer recalls a beetle which almost exactly represents the dry bur of a tropical tree upon which its larva feeds, the illusion being detected only when the creature moves.
+
+Another phase of protective mimicry is the one illustrated on the cover, showing what is called a protected species, which again is mimicked by one that is known as an unprotected species. Some butterflies are protected by the nauseous and poisonous qualities which inhere in them. These protected species are immune from attack. Among the butterflies the Danaids are thus immune. One of these insects is very common in the United States. It is known as the Monarch, or the Milk-weed Butterfly. It is shown in the upper figure on the cover page and any reader of this Magazine will recognize it. This creature is protected in the manner which I have just described. It is not a toothsome morsel for any bird or mammal. The sight of it apparently provokes disgust among creatures which might be expected to seize it as food.
+
+[**Read the full story here to learn about the butterfly that mimics the monarch:**](https://carnegiemuseums.org/docs/mag-archive/sept-29-mimicry-in-nature.pdf)
+
+## You May Also Like
+
+[![Close-up of a speedometer with a red needle pointing at 180. The words "RAPID RESPONSE!" are prominently displayed, conveying urgency and speed.](https://carnegiemuseums.org/wp-content/uploads/fall25-rapid-response-hero-430x260.jpg)\\
+Connecting People and Science When It Most Matters](https://carnegiemuseums.org/carnegie-magazine/fall-205/connecting-people-and-science-when-it-most-matters/)
+
+[![A group of people work together outdoors, carefully arranging stones on the ground under a sunny sky, amidst lush greenery.](https://carnegiemuseums.org/wp-content/uploads/fall25-science-nature-hero-430x260.jpg)\\
+Mending Land, Healing Culture](https://carnegiemuseums.org/carnegie-magazine/fall-205/mending-land-healing-culture/)
+
+[![A large dinosaur skull and fossilized bones are stored on wooden carts and shelves in a paleontological lab.](https://carnegiemuseums.org/wp-content/uploads/sum25-paleo-hero-430x260.jpg)\\
+What Lies Beneath](https://carnegiemuseums.org/carnegie-magazine/summer-2025/what-lies-beneath/)
+
+## Four Museums. One Membership.
+
+![Exterior view of Carnegie Museum of Art](https://carnegiemuseums.org/wp-content/uploads/footer-cma.jpg)
+
+**[Carnegie Museum of Art](http://cmoa.org/)**
+
+412-622-3131
+
+4400 Forbes Avenue
+
+Pittsburgh, PA 15213
+
+![Exterior view of Carnegie Museum of Natural History](https://carnegiemuseums.org/wp-content/uploads/footer-cmnh.jpg)
+
+**[Carnegie Museum of Natural History](http://carnegiemnh.org/)**
+
+412-622-3131
+
+4400 Forbes Avenue
+
+Pittsburgh, PA 15213
+
+![](https://carnegiemuseums.org/wp-content/uploads/new-footer-ksc.jpg)
+
+**[Kamin Science Center](https://kaminsciencecenter.org/)**
+
+412-237-3400
+
+One Allegheny Avenue
+
+Pittsburgh, PA 15212
+
+[![](https://carnegiemuseums.org/wp-content/uploads/andy-warhol-museum-rev.webp)](http://warhol.org/)
+
+**[The Andy Warhol Museum](http://warhol.org/)**
+
+412-237-8300
+
+117 Sandusky Street
+
+Pittsburgh, PA 15212-5890
+
+## Receive Our Newsletters
+
+Sign Up
+
+![](https://carnegiemuseums.org/wp-content/uploads/carnegie-logo-white.svg)
+
+- [LinkedIn](https://www.linkedin.com/company/carnegie-museums-of-pittsburgh/)
+- [X](https://twitter.com/CarnegieMembers/)
+- [Instagram](https://www.instagram.com/carnegiemuseums/)
+- [Facebook](https://www.facebook.com/CarnegieMembers/)
+
+[![](https://carnegiemuseums.org/wp-content/uploads/RAD-Primary-Logo.svg)](https://www.radworkshere.org/)
+
+© Carnegie Museums

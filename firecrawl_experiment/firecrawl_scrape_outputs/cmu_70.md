@@ -1,0 +1,47 @@
+[Skip to main content](https://www.cmu.edu/leadership/the-provost/campus-comms/03-14-25#main-content)
+
+# Launching the Global Search for the Dean of the College of Engineering
+
+_March 14, 2025_
+
+Dear Members of the Carnegie Mellon Community:
+
+I am pleased to officially announce the **global search for the next dean of the College of Engineering**. As I shared in my [recent announcement](https://www.cmu.edu/leadership/the-provost/campus-comms/01-28-25), Dean Bill Sanders has accepted the exciting opportunity to serve as president of Rochester Institute of Technology (RIT) starting in July.
+
+The College of Engineering is renowned for its excellence, innovation and the significant impact its research has on society. Its acclaimed faculty focuses on transformative results that drive the intellectual and economic vitality of our community, nation and world. Its academic programs produce technically proficient and creative engineers equipped to provide cutting-edge solutions to global challenges. I look forward to welcoming the college’s next leader, who will guide our continued growth and help shape its next chapter of innovation and excellence.
+
+To guide this important search, I have assembled a **search committee** that includes representation from across the college and university:
+
+- **Co-Chair:** Shelley Anna, Vice Provost for Faculty and Professor of Chemical Engineering, College of Engineering
+- **Co-Chair:** José M. F. Moura, Philip L. and Marsha Dowd University Professor, Electrical and Computer Engineering, College of Engineering
+- Rosalyn Abbott, Associate Professor of Biomedical Engineering, College of Engineering
+- Theophilus Benson, Professor of Electrical and Computer Engineering, College of Engineering
+- Maysam Chamanzar, Dr. William D. and Nancy W. Strecker Career Development Associate Professor of Electrical and Computer Engineering, College of Engineering
+- Tzahi (Itzhaq) Cohen-Karni, Professor of Biomedical Engineering and Materials Science and Engineering, College of Engineering
+- Marc De Graef, John and Claire Bertucci Distinguished Professor of Engineering, Materials Science and Engineering, College of Engineering
+- Martial Hebert, Dean and University Professor of Robotics, School of Computer Science
+- Gena Henry, Associate Dean for Advancement, College of Engineering
+- Gregory Lowry, Hamerschlag University Professor of Civil and Environmental Engineering, College of Engineering
+- Zia Lyle, Doctoral Student, Civil and Environmental Engineering, College of Engineering
+- Roberta Klatzky, Charles J. Queenan, Jr. University Professor of Psychology and Human-Computer Interaction, Dietrich College of Humanities and Social Sciences
+- Hannah Noh, Senior, Mechanical Engineering, College of Engineering
+- Costa Samaras, Director of the Wilton E. Scott Institute for Energy Innovation and Trustee Professor of Civil and Environmental Engineering, College of Engineering
+- Dena Haritos Tsamitis, Director, Information Networking Institute and Barbara Lazarus Professor in Information Networking, College of Engineering
+- Conrad Tucker, Director of CMU-Africa and Associate Dean for International Affairs-Africa, College of Engineering
+- Kate Whitefoot, Associate Professor of Mechanical Engineering and Engineering and Public Policy, College of Engineering
+- Kathryn A. Whitehead, Professor of Chemical Engineering and Biomedical Engineering, College of Engineering
+- Becky Culyba, Vice Provost for Strategic Initiatives and Chief of Staff to the Provost (ex-officio)
+
+In collaboration with the executive search firm Isaacson, Miller, the committee will encourage nominations and applications to build a robust and highly qualified applicant pool. Throughout the spring semester, they will engage stakeholders across campus to obtain input on the role and candidates, aiming to fill the position for the next academic year. To learn more about this role and the search process, as well as to submit confidential inquiries, nominations or applications, visit the [**search website**](https://www.cmu.edu/eng-dean-search/index.html).
+
+I extend my gratitude to the College of Engineering’s leadership team for their collaboration and guidance during this transitional period, with special thanks to Vijayakumar (Kumar) Bhagavatula, the Helen Whitaker Professor of Electrical and Computer Engineering, for serving as interim dean throughout the search process. I am eager to work alongside the college and members of our broader community to identify the next leader to build upon the school’s progress and shape its bright future.
+
+Sincerely,
+
+James H. Garrett Jr.
+
+Provost and Chief Academic Officer
+
+|     |     |
+| --- | --- |
+|  |  |

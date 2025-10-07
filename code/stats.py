@@ -1,6 +1,7 @@
 import os
 import numpy as np
 
+# Helper file, used to check the total amount of scraped data periodically
 directory = "text_outputs"
 files = [f for f in os.listdir(directory) if f.endswith(".txt")]
 word_counts = []

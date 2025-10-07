@@ -1,0 +1,223 @@
+Enclosed is an application for an Inter-municipal Liquor License Transfer as you requested.
+
+Please complete this application and return it to:
+
+Kimberly Clark-Baskin, City Clerk 510 City-Council Building Pittsburgh, PA 15219
+
+Thank you.
+
+# PROCEDURES FOR THE APPLICATION PROCESS INTER-MUNICIPAL LIQUOR LICENSE TRANSFER
+
+In accordance with City Council Resolution No. 304 of 2002 and Rule XIX of the Rules of Council, the following procedures shall be followed to complete the application process for an Inter-municipal Liquor License Transfer in the City of Pittsburgh:
+
+1. The application shall be submitted to the City Clerk along with a check of $$ 520.00$ for processing, made payable to Treasurer, City of Pittsburgh. The application will be clocked in upon receipt.
+
+2. Notification of the application will be sent to City Council for review.
+
+3. The City Clerk will review the information contained in the application and verify the accuracy. If additional information is required, the Clerk will notify the applicant.
+
+4. The City Clerk will prepare the official legislation for introduction by Council.
+
+5. City Council shall schedule a Public Hearing within 45 days of submission of the legislation for a vote to Approve/Deny the application.
+
+6. Notification of the Public Hearing will be mailed by the City Clerk to the Applicant, as well as the following:
+
+
+ Abutting property owners; Registered community development organizations serving the subject neighborhoods; Liquor Control Enforcement official; Liquor Control Licensing official; City of Pittsburgh Department of Public Safety; City of Pittsburgh Department of Law
+
+7. The City Clerk shall prepare and submit a legal advertisement to the Pittsburgh PostGazette notifying the general public of the Public Hearing.
+
+8. The City Clerk shall order and provide weatherproof Signs that must be posted on the proposed premises. The applicant must post one sign for each one hundred foot (100 ft.) of frontage of subject property. Signs must be posted at least seven (7) days prior to the Public Hearing date, and the applicant must submit proof that the sign(s) was(were) posted in this timeframe by providing a digitally dated photograph to the City Clerk.
+
+
+IMPORTANT NOTE: As part of the process, the applicant must request a background check from the State Police in Harrisburg and a copy of the report must be provided to the City Clerk’s Office. This process may take up to two (2) months, so it is important that the applicant request the background check as soon as possible when beginning the application process. Attached is the form, and you may obtain additional information from the Website: [http://epatch.state.pa.us/help/sp4146](http://epatch.state.pa.us/help/sp4146) . The State charges a fee of $$ 10.00$ for this service.
+
+# City of Pittsburgh
+
+# Text File
+
+Introduced: 4/9/2002
+
+Bill No: 2002-0370, Version: 3
+
+Committee: Committee on Finance & Budget
+
+Status: Passed Finally
+
+Presented by Mr. Udin
+
+# AS AMENDED
+
+Resolution amending the Rules of Council to provide procedures for Inter-municipal transfers of Liquor Licenses. Be it resolved by the Council of the City of Pittsburgh as follows:
+
+# Section 1.
+
+That the Council of the City of Pittsburgh does hereby amend the Rules of Council by adding the following:
+
+# Rule XIX
+
+# CITY COUNCIL HEARING PROCEDURES FOR INTERMUNICIPAL TRANSFERS OF LIQUOR LICENSES
+
+a. To request a transfer of a liquor license from within Allegheny County pursuant to 40 47 PA.C.S.A. $\ S 4 -$ 461, the applicant shall file a completed application with the City Clerk, which the City Clerk shall immediately distribute to all City Council members. The City Clerk will attempt to verify the accuracy of all information in the application, particularly liquor law violations and misdemeanor or felony convictions of owners.
+
+b. Within 45 days of submission of the completed application, City Council shall schedule a public hearing and vote to approve or deny the application.
+
+c. Notice:
+
+1. Notice of the date, time, and place of the hearing shall promptly be mailed to the applicant.
+
+2. Notice of the application and date, time, and place of the hearing shall promptly be mailed by the City Clerk to abutting property owners, including property owners across the street from the subject property and to any registered community development organizations serving the subject neighborhood.
+
+
+Introduced: 4/9/2002
+
+Committee: Committee on Finance & Budget
+
+Status: Passed Finally
+
+3. Public notice of the application and date, time, and place of the hearing shall be posted on weatherproof signs provided by the City Clerk on the property to which the applicant has requested transfer of the license. At least one sign shall be posted for each one hundred (100) feet of street frontage up to a maximum of ten (10) signs. Required signs shall be placed along the perimeter of the subject property in locations that are clearly legible from adjacent public streets. The applicant shall submit a photograph of the sign posted on the property to evidence compliance with the posting requirement. The required sign(s) shall be posted at least seven (7) days before the hearing.
+
+4. In addition, City Council shall invite to such hearings a Liquor Control Enforcement official and a Liquor control Board Licensing official.
+
+
+d. The public hearing shall be conducted as follows:
+
+1. Any Council member who has previously expressed a bias regarding the transfer at issue shall recuse him/herself from the hearing as well as the votes for preliminary and final approval.
+
+2. The applicant may appear in person or by counsel.
+
+3. Procedure:
+
+
+i. The applicant or the applicant's counsel shall make an opening statement in support of their request for the transfer.
+
+ii. Council members shall have the opportunity to examine the applicant or the applicant's counsel.
+
+iii. The applicant may present witnesses to speak in favor of the requested transfer.
+
+iv. Council members shall have the opportunity to examine the applicant's witnesses.
+
+v. Abutting property owners opposing the transfer shall have the opportunity to present their reasons for opposition.
+
+vi. The applicant or the applicant's counsel shall have the opportunity to cross-examine such opposing witnesses.
+
+vii. The opposing witnesses shall have the opportunity to rebut testimony from the applicant or the applicant's witnesses and to make a closing statement.
+
+viii. The applicant or the applicant's counsel shall then have the opportunity to rebut the opposing witnesses' testimony and to make a closing statement.
+
+# Introduced: 4/9/2002
+
+Committee: Committee on Finance & Budget
+
+Status: Passed Finally
+
+Decision:
+
+1. City Council must approve the application unless it finds that doing so would adversely affect the welfare, health, peace and morals of the City of Pittsburgh or its residents.
+
+2. Notice of City Council's approval or denial of the application shall be mailed to the applicant at the address given in the application.
+
+
+Please provide the following information. If answers exceed the designated spaces, please attach additional sheets of paper with requested information.
+
+01. License Number:
+
+02. Name and address of the individual or entity to whom the license is being transferred (“applicant”):
+
+03. If entity or corporation, please provide names and addresses of all principals:
+
+04. From whom is the license being purchased? (Include name and address of the establishment and copy of sales agreement for purchase of liquor license):
+
+05. Reason(s) that the license is being acquired outside of the City of Pittsburgh rather than within City of Pittsburgh boundaries:
+
+06. Name and address of the proposed business to which the license is being transferred:
+
+07. Description of the proposed business that will be conducted in the transferred license (i.e. what is the primary purpose of the establishment?):
+
+08. Terms of any lease agreement or property ownership related to the location of the proposed business 9please attach a copy of the agreement):
+
+09. Evidence that zoning approvals for the proposed establishment have been obtained or what zoning approvals are necessary prior to commencing operation of the establishment:
+
+10. Copy of the business plan associated with this entity (please provide a copy of the plan):
+
+11. Evidence that necessary financing for the success of the business is in place (please provide any documentation):
+
+12. Name and location of any other businesses that the applicant is associated with or has an ownership interest:
+
+13. Name and location of any businesses the applicant previously owned or was associated with and an explanation as to why the business ceased to operate:
+
+14. Information regarding any LCE violations associated with either current or prior businesses (please provide any supporting documentation):
+
+15. Any misdemeanor or felony convictions of any individuals who have an ownership interest in the proposed business (please provide any supporting documentation):
+
+16. Any additional information that you may feel is relevant to City Council’s consideration of your request:
+
+
+# (Additional information may be requested after reviewing the application.)
+
+# VERIFICATION
+
+I, , verify and represent that the statements and averments of fact contained herein are true and correct to the best of my knowledge, information and belief, and are made subject to the penalties of 18 Pa. C.S. $\ S 4 9 0 4$ .
+
+Date:
+
+# JNSTRUCTIONS
+
+ahack s reouired hy PA Tule 40, Section 3 35. Fonn PLCB-2018. Request for Chnfinal Hecoof Arecor asn a 1g og fce must be submittea fr each person involved in any of the following types actions:
+
+1An application for a new license, either retail or wholesale, and centain types of lcenses expining ODecember 31st. Apolication or Translerof License and Permil, except for the transferof an existing license from one
+
+2 premises to another premises, PLCB-21. Notice of Change of Olficers, Directors and Manager or Steward of Club, PLCB-868 Nolice of Change in the Officers, Directors, Stockholders or Manager of Licensed Corporations, Except Clubs, PLCB-866.
+
+5.Application for Approval of Appointment of Manager, PLCB-706. 1no reccint the records chack will be conducled via a direcl link with the Pennsyivania State Police.
+
+Should vou have any questions, contact the Burcau of Licensing at (717) 783-8250.
+
+# INFORMATION
+
+torm is pan of an aoplication for a ncw license, transfer of any existing lccnse, orappoinimehio ithis torm s change of officers, i should be mailed with that application packet. HoweveyiVaNa mangerd alterthe apolicalion, previously descrbedsendit withthe appropratefeet:PEN P17105. SUOMOE CONTROL BOARD, BUREAU OF LICENSING, P.O. BOX 894O, HARRISBURG, PA 17103 8940.
+
+# CITY OF PITTSBUR GH OFFICE OF THE CITY CLERK CITY-COUN TY BUILDING
+
+In accordance with legislation for your application for liquor license transfer, a background check is necessary for which you are responsible. You may use the website to obtain the form (sp4164) at [http://epatch.state.pa.us/help/sp4146](http://epatch.state.pa.us/help/sp4146) or fill out the enclosed form and submit the completed request to any State Police Barracks. Either way you are also responsible for a fee of $$ 10.00$ to the state for this service.
+
+The form will then be forwarded to Harrisburg where the background check will be completed by the State Police. This process may take up to two (2) months, so it is important for you to complete and send this form as soon as possible.
+
+Once you have received the report, the City Clerk’s Office must be provided with the results of the background check.
+
+If you have any questions or need further information, please contact me at 412-255-2138.
+
+Thank you.
+
+This form is to be completed in ink by the requester – (information will be mailed to the requester only). If this form is not legible or not properly completed, it will be returned unprocessed to the requester. A response may take four weeks or longer. Warning: A person commits a misdemeanor of the third degree if he/she makes a written false statement, which he/she does not believe to be true.
+
+# TRY OUR WEBSITE FOR A QUICKER RESPONSE [https://epatch.state.pa.us](https://epatch.state.pa.us/)
+
+|     |     |
+| --- | --- |
+| NAME/ REQUESTER |  |
+| ADDRESS |  |
+| CITY/STATE/ ZIP CODE |  |
+
+|     |
+| --- |
+| FOR CENTRAL REPOSITORY USE ONLY CONTROL NUMBER |
+| AFTER COMPLETION MAIL TO: PENNSYLVANIA STATE POLICE CENTRAL REPOSITORY 164 1800 ELMERTON AVENUE HARRISBURG, PA 17110-9758 Local Number 717-425-5546 1-888-QUERYPA (1-888-783-7972) |
+| DO NOT SEND CASH OR PERSONAL CHECK CHECK ONE BLOCK |
+|  |
+| INDIVIDUAL/NONCRIMINAL JUSTICE AGENCY ENCLOSE A CERTIFIED CHECK/MONEY ORDER IN THE AMOUNT OF $10.00, PAYABLE TO: "COMMONWEALTH OF PENNSYLVANIA" THE FEE IS NONREFUNDABLE FEE EXEMPT-NONCRIMINAL JUSTICE AGENCY - NO FEE |
+
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CONTACT TELEPHONE NUMBER (INCLUDING AREA CODE) | CERTIFIED CHECK/MONEY ORDER IN THE AMOUNT OF$10.00, PAYABLE TO:COMMONWEALTH OF PENNSYLVANIA"THE FEE IS NONREFUNDABLEFEE EXEMPT-NONCRIMINAL JUSTICE AGENCY NO FEE |
+|  |  |  | → |  | → | → | → |  | → | → | → | → |  |
+|  | NAME/SUBJECT OF RECORD CHECK (FIRST) | (MIDDLE) | (LAST) |
+|  | MAIDEN NAME AND/OR ALIASES | SOCIAL SECURITY NUMBER | SEX |
+|  | The Pevantatlione ilbas heopaonht provie byheeagainst the information contained in the files of the Pennsylvania State Police Central Repository only |
+|  | REASON FOR REQUEST: All requests $10.00\*\*\*MAKE ALL MONEY ORDERS PAYABLE TO: COMMONWEALTH OF PENNSYLVANIA1 \*\*\*CHECK BOX THAT MOST APPLIES TO THE PURPOSE OF THIS REQUEST> >> |
+|  | INTERNATIONAL ADOPTION - INTERNATIONAL ADOPTION MUST BE NOTARIZED. |
+|  | ADOPTION (DOMESTIC) □EMPLOYMENT/SCREENING PASSPORTATTORNEY FOSTER CARE □PRIVATE INVESTIGATIONSBANKING HEALTHCARE SOCIAL SERVICESBAR ASSOCIATION HOUSING TENANT CHECKCHURCH INSURANCE LICENSE VISACHILD CARE MENTAL HEALTH VOLUNTEER AMBULANCE/FIREFIGHTEREDUCATION NURSE AID TRAINING VOLUNTEERELDER CARE OTHEREMERGENCY MANAGEMENT |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | ACCESS & REVIEW - (NOT FOR EMPLOYMENT PURPOSES. MUST BE MAILED INTO THE CENTRAL REPOSITORY.)AVAILABLE ONLY TO SUBJECT OF RECORD OR LEGAL REPRESENTATIVE WITH LEGAL AFFIDAVIT ATTACHEDFOR THE PURPOSE OF REVIEWING YOUR CRIMINAL HISTORY. |
+
+# Homeland Security is Everyone’s Responsibility - Pennsylvania Terrorism Tip Line 1-888-292-1919

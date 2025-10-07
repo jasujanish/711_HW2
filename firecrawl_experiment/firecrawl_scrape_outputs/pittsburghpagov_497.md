@@ -1,0 +1,53 @@
+[Skip to main content](https://www.pittsburghpa.gov/City-Government/Mayor/Executive-Orders/Mayor-Peduto-Bans-Elected-Officials-Names-on-City-Property-With-First-Executive-Order#main-content)
+
+opens in new tab or window
+
+# Elected Officials' Names on City Property With First Executive Order
+
+Published on June 09, 2015
+
+**Pittsburgh, PA** \- In his first executive order, Mayor William Peduto today announced a ban on elected officials from having their names placed on city property such as city vehicles or trash cans. The executive order also requires that names of previous mayors will be removed from city property. Mayor Peduto's name will not be printed, painted, or engraved on any long-term city property.
+
+City property should not be used to campaign for political office, said Mayor Peduto. The City's physical assets are owned by the taxpayers. Under my administration, these assets will be marked only with basic identifying information and the City seal.
+
+The order applies to all city property except for temporary use items like stationary or office doors and honorary or memorial naming such as for city parks or buildings.
+
+Executive orders are administrative decisions of the mayor pursuant to his power as the chief executive officer of the city. The Mayor can use them to set policy regarding routine administrative matters and internal operations. They do not require City Council approval, however all executive orders must be communicated to Council. This executive order will be read into the record of City Council at next Tuesday's regular meeting.
+
+The text of the executive order follows:
+
+## Executive Order
+
+WHEREAS, the City of Pittsburgh's (the City) physical assets, including vehicles, refuse receptacles, buildings and structures, and other assets, are the property of the citizens of the City; and
+
+WHEREAS, the City's physical assets should be plainly marked to indicate their ownership by the City and its residents and taxpayers; and
+
+**Wherea** s, the City's physical assets should not be a platform for elected officials to promote themselves or their political careers; and
+
+WHEREAS, significant taxpayer resources have been expended in the past to use the City's physical assets to promote individual elected officials.
+
+NOW, THEREFORE, by the power vested in me as the Mayor of the City of Pittsburgh, I do hereby order as follows:
+
+Effective immediately, the practice of marking designated physical assets with the name or names of City elected officials is hereby banned.
+
+All City physical assets shall be marked only with the City seal or appropriate departmental seal and other basic identifying information, unless otherwise authorized by the Market Based Revenue Opportunities Program (MBRO);
+
+and
+
+All City official vehicles shall be plainly marked as such, with the exception of such vehicles as enumerated in Title 1, Article 1, Chapter 103, Section 103.04(b) of the City Code, and shall include a contact phone number for a hotline to be established to receive tips and complaints about the potential misuse of such vehicles.
+
+The Chief Operations Officer (COO) of the City shall immediately coordinate the removal of the name or names of City elected officials past and present from designated physical assets.
+
+The COO shall establish a written policy and procedure to govern the practice of marking and identifying designated City physical assets in a manner consistent with this executive order (the Policy)
+
+Within thirty (30) days of the issuance of this order, the COO, shall distribute the Policy to the Mayor, all City Directors, and City Council.
+
+This Executive Order and the Policy shall not be construed as to prohibit the use of informational marking of physical offices, letterhead, signage, business cards, or other essential identification materials or physical assets that are necessary for the day-to-day operations of the City, neither shall it be construed as to prohibit the naming of physical assets after former City elected officials in an honorary or memorial fashion.
+
+Tagged as:
+
+- [Executive Orders](https://www.pittsburghpa.gov/News-articles?dlv_OC%20CL%20City%20News%20Listing=(dd_OC%20News%20Categories=Executive%20Orders))
+
+[Back to top](https://www.pittsburghpa.gov/City-Government/Mayor/Executive-Orders/Mayor-Peduto-Bans-Elected-Officials-Names-on-City-Property-With-First-Executive-Order#body-top)
+
+Ready

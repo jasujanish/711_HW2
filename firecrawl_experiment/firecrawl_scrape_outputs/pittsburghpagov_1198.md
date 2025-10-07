@@ -1,0 +1,48 @@
+opens in new tab or window
+
+[Skip to main content](https://www.pittsburghpa.gov/Recreation-Events/Events/Pittsburgh-Cultural-Activities#main-content)
+
+In This Section
+
+- [Parks](https://www.pittsburghpa.gov/Recreation-Events/Parks)
+- [Pools](https://www.pittsburghpa.gov/Recreation-Events/Pools)
+- [Events](https://www.pittsburghpa.gov/Recreation-Events/Events)  - [Summer Guide](https://www.pittsburghpa.gov/Recreation-Events/Events/Summer-Guide)
+  - [Farmers Markets](https://www.pittsburghpa.gov/Recreation-Events/Events/Farmers-Markets)
+  - [Dollar Bank Cinema In The Park](https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park)
+  - [Roving Art Cart](https://www.pittsburghpa.gov/Recreation-Events/Events/Roving-Art-Cart)
+  - [ARTWorks](https://www.pittsburghpa.gov/Recreation-Events/Events/ARTWorks)
+  - [Concerts](https://www.pittsburghpa.gov/Recreation-Events/Events/Concerts)
+  - [Footraces](https://www.pittsburghpa.gov/Recreation-Events/Events/Footraces)
+  - [Holidays At City-County Building](https://www.pittsburghpa.gov/Recreation-Events/Events/Holidays-At-City-County-Building)
+  - [Pistons in the Park Car Cruise](https://www.pittsburghpa.gov/Recreation-Events/Events/Pistons-in-the-Park-Car-Cruise)
+  - [Pittsburgh Cultural Activities](https://www.pittsburghpa.gov/Recreation-Events/Events/Pittsburgh-Cultural-Activities)
+  - [Summer Soul Line Dancing](https://www.pittsburghpa.gov/Recreation-Events/Events/Summer-Soul-Line-Dancing)
+- [Park Facilities](https://www.pittsburghpa.gov/Recreation-Events/Park-Facilities)
+- [Special Events](https://www.pittsburghpa.gov/Recreation-Events/Special-Events)
+- [Film & Event Management](https://www.pittsburghpa.gov/Recreation-Events/Film-Event-Management)
+- [Park Permits](https://www.pittsburghpa.gov/Recreation-Events/Park-Permits)
+- [About Parks](https://www.pittsburghpa.gov/Recreation-Events/About-Parks)
+
+# Pittsburgh Cultural Activities
+
+Pittsburgh has some of the greatest entertainment and cultural attractions in Pennsylvania.
+
+The City of Pittsburgh is the proud owner of four local institutions. Today, each of these dynamic regional attractions are operated by dedicated non-profit entities on the City's behalf.
+
+The **Pittsburgh Zoo & PPG Aquarium** opened in 1898 after philanthropist Christopher Lyman Magee donated $125,000 for the construction of a zoological garden in Pittsburgh's Highland Park. Today, the Pittsburgh Zoo is one transformed, dedicating its resources to conservation, education, & research.
+
+**Phipps Conservatory and Botanical Gardens** was a gift to the City of Pittsburgh from philanthropist Henry W. Phipps. The Conservatory opened to the public in 1893 and today is dedicated to mission of educating the public on the beauty and importance of plants while advancing sustainability.
+
+The **National Aviary** is America's only independent bird sanctuary. Built by the City of Pittsburgh in 1952 as the "Pittsburgh Aviary" the aviary received the honorary declaration of national status by the United States Congress in 1992.
+
+On November 25, 1881 Andrew Carnegie sent a letter to Mayor Robert W. Lyon offering to donate $250,000 for a free library, provided the City would agree to provide the land and maintain the annual funding for library operations. Today, the **Carnegie Library of Pittsburgh**'s 19 branches host more than 2.9 million visitors each year, why it is viewed as the catalyst to an improving quality of life in the region.
+
+The **Carnegie Museums of Pittsburgh**'s four museums cover a wide range of cultural options. Children will gain education by exploring and entertaining themselves through programs in technology, sports, and science at the **Carnegie Science Center & SportsWorks**. The **Carnegie Museum of Natural History** and **Carnegie Museum of Art** bring the world's most historic natural and artistic moments to life, with a renowned dinosaur collection. The **Andy Warhol Museum** is the largest museum in America dedicated to a single artist. There, visitors can become immersed in the work of this world famous Pittsburgh born and raised icon.
+
+The **Senator John Heinz Pittsburgh Regional History Center** is the Smithsonian's home in Pittsburgh and one of the largest history museums in Pennsylvania chronicling the remarkable history of Pittsburgh and the Western Pennsylvania region.
+
+The **Pittsburgh Cultural Trust** maintains high quality Broadway entertainment year round. Some of the most talented performers in America have graced the stages of the Benedum Center, Byham Theater, or Harris Theater. The **Pittsburgh Symphony Orchestra** calls Heinz Hall for the Performing Arts home. It is one of the nation's renowned orchestras, and a Pittsburgh tradition since 1895.
+
+last updated: 04/17/2025
+
+[Back to top](https://www.pittsburghpa.gov/Recreation-Events/Events/Pittsburgh-Cultural-Activities#body-top)
