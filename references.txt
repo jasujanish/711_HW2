@@ -11,3 +11,19 @@
 https://pypi.org/project/rank-bm25/
 #normalizer and hybrid Documentation
 https://arxiv.org/html/2410.20381v1
+#RAG Documentation
+https://github.com/cmu-l3/anlp-fall2025-code/tree/main/10_rag
+#answer cleaning and F1 score usage
+https://arxiv.org/pdf/1606.05250
+#llama 3 Documentation
+@article{llama3modelcard,
+
+title={Llama 3 Model Card},
+
+author={AI@Meta},
+
+year={2024},
+
+url = {https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md}
+
+}
