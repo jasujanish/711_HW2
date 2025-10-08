@@ -112,7 +112,7 @@ date: Oct 3, 2025 - Oct 7, 2025
 description:John Woo’s action classic stars Chow Yun-Fat as a hitman who joins forces with a cop after a tragic accident leaves a nightclub singer blind. A stylish blend of bullets, betrayal, and redemption.
 
 Title: Ben Folds with the Pittsburgh Symphony
-date: Oct 7, 2025  7:30 pm - 9:00 pm
+date: Oct 7, 2025 7:30 pm - 9:00 pm
 description:Emmy-nominated singer-songwriter Ben Folds returns to Pittsburgh for a one-night-only concert with the Pittsburgh Symphony Orchestra.
 
 Title: Fall Educator Open House
