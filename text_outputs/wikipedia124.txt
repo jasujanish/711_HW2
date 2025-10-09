@@ -1,0 +1,26 @@
+Title: Summary
+There are many nicknames for the city of Pittsburgh, Pennsylvania.
+Title: Major nicknames 
+['City of Bridges Pittsburgh boasts more bridges, owing to its location at the confluence of the Allegheny, Ohio, and Monongahela, than any other city or region in the world.', 'Steel City Pittsburgh and the surrounding area was once one of the largest steel producers in the world, gaining it international renown as such. The U.S. Steel Tower remains the headquarters for that company.', "Dirty 'Burgh Pittsburgh and the surrounding area was once one of the largest producers of steel in the world. It was said that due to the pollution caused by the steel industry, you would leave for work in a white shirt and come home in an all black one.", "The 'Burgh Unlike many cities in America that end in burg (including the capital of the state, Harrisburg ), Pittsburgh retains the h at the end of its name, making this quality recognizable as unique to the city.", 'City of Champions Pittsburgh has enjoyed numerous sports championships from its three major league sports teams and the athletic programs at its many universities.', 'Hell with the Lid Off Boston writer James Parton described Pittsburgh as "hell with the lid off" in 1868. This was because of the smoke, smog, and fire that were prevalent during the city\'s steelmaking heyday.', 'Gateway to the West Much early western migration started in Pittsburgh. Lewis and Clark expedition started there after their boats were constructed near Pittsburgh.']
+['Pittsburgh boasts more bridges, owing to its location at the confluence of the Allegheny, Ohio, and Monongahela, than any other city or region in the world.']
+['Pittsburgh and the surrounding area was once one of the largest steel producers in the world, gaining it international renown as such. The U.S. Steel Tower remains the headquarters for that company.']
+['Pittsburgh and the surrounding area was once one of the largest producers of steel in the world. It was said that due to the pollution caused by the steel industry, you would leave for work in a white shirt and come home in an all black one.']
+['Unlike many cities in America that end in burg (including the capital of the state, Harrisburg ), Pittsburgh retains the h at the end of its name, making this quality recognizable as unique to the city.']
+['Pittsburgh has enjoyed numerous sports championships from its three major league sports teams and the athletic programs at its many universities.']
+['Boston writer James Parton described Pittsburgh as "hell with the lid off" in 1868. This was because of the smoke, smog, and fire that were prevalent during the city\'s steelmaking heyday.']
+['Much early western migration started in Pittsburgh. Lewis and Clark expedition started there after their boats were constructed near Pittsburgh.']
+jasujazmudzinski
+
+Title: Minor nicknames 
+['Iron City', 'Paris of Appalachia Pittsburgh is the largest metropolitan area in the entire Appalachian region.']
+['Pittsburgh is the largest metropolitan area in the entire Appalachian region.']
+['Sixburgh This is a reference to the six Super Bowls that the Pittsburgh Steelers won.', 'The 412 412 is the telephone area code for much of Allegheny County, though it covered much more geographically at the time the name was coined, prior to the introduction of 724. Both 412 and 724 are now part of an overlay complex in which the entire region served by those codes is also covered by 878.', "The Only City with an Entrance Traveling through the Fort Pitt Tunnel or Liberty Tunnels under Mount Washington yields, for many travelers, the first glimpse of the city's skyline.", 'Capital of/Largest City in West Virginia So called because many West Virginians migrate to Pittsburgh.', 'Benigno Numine Comes from the city\'s Latin motto. It is generally translated as "With the Benevolent Deity" or "By the Favour of Heaven".']
+['This is a reference to the six Super Bowls that the Pittsburgh Steelers won.']
+['412 is the telephone area code for much of Allegheny County, though it covered much more geographically at the time the name was coined, prior to the introduction of 724. Both 412 and 724 are now part of an overlay complex in which the entire region served by those codes is also covered by 878.']
+["Traveling through the Fort Pitt Tunnel or Liberty Tunnels under Mount Washington yields, for many travelers, the first glimpse of the city's skyline."]
+['So called because many West Virginians migrate to Pittsburgh.']
+['Comes from the city\'s Latin motto. It is generally translated as "With the Benevolent Deity" or "By the Favour of Heaven".']
+jasujazmudzinski
+
+jasujazmudzinski
+

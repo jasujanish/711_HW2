@@ -1015,7 +1015,7 @@ Carnegie Mellon University has partnered with NVIDIA and the University of Pitts
 Researchers Develop First AI-enabled Wearable to Detect Drug Errors
 CMU researchers have developed the first AI-powered wearable camera to detect medication errors, aiming to improve patient safety in hospitals. The device alerts healthcare professionals to potential mistakes in real time, enhancing accuracy during drug administration. This innovative technology could significantly reduce error rates during drug administration under stressful situations, underscoring CMU’s role in advancing AI applications in healthcare.
 jasujazmudzinski
-The intersection of fields is a Carnegie Mellon University specialty. Renowned faculty at the university's seven schools/colleges explore side by side with students, collaborating on research, tackling society's biggest challenges and delivering work that matters. In addition to the hundreds of programs offered by the schools and colleges, CMU also offers dozens of interdisciplinary programs, which are designed especially for students who want to work beyond just one discipline.
+Carnegie Mellon University has 7 schools/colleges.
 1. College of Engineering
 2. Mellon College of Science
 3. College of Fine Arts
@@ -1080,5 +1080,6 @@ CMU Computer Science Department History (2000-Present)
 2014: SCS celebrates 25 years & Andrew Moore becomes dean of SCS.
 2015: The Computer Science Department celebrates 50 years of changing the world!
 2018: Srini Seshan is named head of the Computer Science Department
-
-
+jasujazmudzinski
+Celebrating CMU’s past, present and future Make plans to attend Homecoming Weekend, Nov. 6-8, to celebrate 125 years of Carnegie Mellon University. In addition to traditional festivities like Spirit Day and the football game, CMU125 at Homecoming Weekend features special events and opportunities for Tartans of all ages to celebrate this remarkable moment in CMU history.
+jasujazmudzinski
