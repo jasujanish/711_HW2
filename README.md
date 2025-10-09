@@ -5,4 +5,5 @@ The next cell loads the llama-3-8b-instruct model from Meta. This is a gated rep
 The pararmeters to the model can be adjusted in multiple locations. 
 Within the rag function the user can adjust the hybrid weighted average alpha, the dense and sparse noramlizers, and the whether to include a chunk threshold or not. 
 If you want to change the threshold itself, you must adjust it in the weighted_average_hybrid function.
-Within the evaluate_rag function the rag function is called. That is where I would change the system prompt passed to the model and how many chunks to retain (k= 3, 4, etc.)
+Within the evaluate_rag function the rag function is called. That is where I would change how many chunks to retain (k= 3, 4, etc.)
+I change the the system prompt passed to the model in the cell after the cell where evaluate_rag is declared by passing it to the function.
