@@ -85,7 +85,7 @@ Salary Tables ..................................................................
 Debt Service .................................................................................................................................................... 313
 Pension Funding ............................................................................................................................................. 328
 Fee Schedule................................................................................................................................................... 332
-jasujazumdinski
+jasujazmudzinski
 Budget Authorizing Legislation
 5
 City of Pittsburgh Operating Budget
@@ -220,7 +220,7 @@ Article V of the Pittsburgh Charter and Chapter 111 of the City Code.
 Section 11. The City Council Budget Director is authorized to make minor technical and formatting changes to the
 budget as needed. No changes shall affect any salaries or staffing levels, or otherwise be substantive in nature.
 9
-jasujazumdinski
+jasujazmudzinski
 American Rescue Plan
 10
 City of Pittsburgh Operating Budget
@@ -494,7 +494,7 @@ Annual Total $ 98,657,349 $ 102,614,257 $ 83,816,040 $ 49,982,576 $ 335,070,222
 $ —
 Left to Plan
 16
-jasujazumdinski
+jasujazmudzinski
 Budget Guide
 17
 City of Pittsburgh Operating Budget
@@ -863,7 +863,7 @@ composed of the “Projected Beginning Balance” for January 1, 2025, anticipat
 the “Projected Ending Balance” for December 31, 2025. These funds carry over from year to year. A position
 summary follows when appropriate.
 28
-jasujazumdinski
+jasujazmudzinski
 Five-Year Financial Forecast
 29
 City of Pittsburgh Operating Budget
@@ -956,7 +956,7 @@ Total Expenditures $620,861,745 $ 684,810,650 $665,619,090 $679,273,238 $671,209
 Change from Prior Year 10.3% (2.8)% 2.1% (1.2)% 3.1% 2.9%
 Totals may not sum due to rounding
 31
-jasujazumdinski
+jasujazmudzinski
 Revenue
 32
 City of Pittsburgh Operating Budget
@@ -1033,7 +1033,7 @@ sources of tax revenue for the City of Pittsburgh in 2025, comprising 27.3 perce
 revenue, respectively. These account for 43.2 of all budgeted revenue. The next largest tax revenue sources are
 the Payroll Preparation Tax and Parking Tax. Collectively, these four taxes comprise 79.2 percent of all 2025 tax
 revenue and 62.8 percent of total budgeted revenues.
-jasujazumdinski
+jasujazmudzinski
 2025 Tax vs. Non-Tax Revenue
 Tax Revenue: 79.3%
 Non-Tax
@@ -1104,7 +1104,7 @@ requests. Revenue is generated through acquisition of permits for repairs, alter
 trade licenses. Revenue derived from Licenses and Permits is projected to be $17,537,948 in 2025, 12.7 percent
 of non-tax revenue and 2.6 percent of total revenue. The largest permit accounts relate to commercial building
 permits (23.0 percent of the all license and permit revenues).
-jasujazumdinski
+jasujazmudzinski
 2025 License and Permits Revenue
 Commercial
 Building Permits:
@@ -1147,7 +1147,7 @@ reflected in this revenue. Revenue estimates for traffic court are net of estima
 incurred by the Pittsburgh Parking Authority. Collectively, the Traffic Court and tickets issued by the Parking
 Authority are responsible for generating 97.0 percent of Fines and Forfeiture revenue, $857,572 and $8,171,429,
 respectively.
-jasujazumdinski
+jasujazmudzinski
 2025 Fines and Forfeiture Revenue
 1.2%
 Intergovernmental Revenue
@@ -1335,7 +1335,7 @@ sale of public property and scrap metal.
 42
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
-jasujazumdinski
+jasujazmudzinski
 Four Major Tax Revenues Comprise 63% of the 2025 Budget
 Parking Tax
 Payroll Preparation Tax
@@ -1345,7 +1345,7 @@ All Other Revenues
 Earned Income Tax
 21.7%
 21.5%
-jasujazumdinski
+jasujazmudzinski
 Four Main Non-Tax Revenues Comprise 18% of the 2025 Budget
 Licenses &amp; Permits
 2.6%
@@ -1536,7 +1536,7 @@ Account 2025 2026 2027 2028 2029
 Total Revenue $ 668,835,156 $ 680,311,793 $ 692,750,376 $ 703,536,378 $ 715,184,571
 Totals may not sum due to rounding
 47
-jasujazumdinski
+jasujazmudzinski
 Expenditures
 48
 City of Pittsburgh Operating Budget
@@ -1604,7 +1604,7 @@ budget. Similarly, appropriations placed in the Department of Human Resources bu
 retiree health benefits.
 In addition to representing 2025 expenditures by department, the data can also be viewed by functional area. The
 following chart illustrates the percent of total budget represented by functional area in 2025.
-jasujazumdinski
+jasujazmudzinski
 2025 Spending by Division
 $6,081,922: 0.9%
 $5,402,279: 0.8%
@@ -1653,7 +1653,7 @@ Expenditures can be divided into two categories: personnel related and non-perso
 expenditures include salaries and employee benefits including healthcare, workers’ compensation benefits,
 pension benefits, and retiree benefits. In total these expenditures account for $493,637,980 or 74.2 percent of
 total expenditures budgeted in fiscal year 2025.
-jasujazumdinski
+jasujazmudzinski
 2025 Personnel vs. Non-Personnel Expenditures
 Non-Personnel: $171,981,111
 Personnel: $493,637,980
@@ -1741,7 +1741,7 @@ $12.704175 million in 2025 and a total of $20.7 million from 2026 to 2029.
 
 Most non-personnel related subclasses are projected to remain relatively flat or increase modestly throughout
 fiscal year 2029. Debt Service will decrease significantly in 2027.
-jasujazumdinski
+jasujazmudzinski
 2025-2029 Spending by Subclass
 $800,000,000
 $600,000,000
@@ -1768,7 +1768,7 @@ invest in the City’s assets.
 53
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Expenditures
-jasujazumdinski
+jasujazmudzinski
 Debt Service
 $600,000,000
 $400,000,000
@@ -1894,7 +1894,7 @@ Account 2025 2026 2027 2028 2029
 82103 - Principal 54,420,000 57,520,000 25,130,000 28,415,000 31,175,000
 Expenditures Total $ 665,619,090 $ 679,273,238 $ 671,209,755 $ 692,131,202 $ 712,180,567
 57
-jasujazumdinski
+jasujazmudzinski
 City Council Districts
 58
 City of Pittsburgh Operating Budget City Council Districts
@@ -1963,7 +1963,7 @@ Expenditures
 Total $ 3,539,772 $ 3,619,023 $ 3,748,140 $ 3,865,417 $ 3,985,961
 % Change from Prior Year 5.9% 2.2% 3.6% 3.1% 3.1%
 62
-jasujazumdinski
+jasujazmudzinski
 Office of the City Clerk
 63
 City of Pittsburgh Operating Budget Office of the City Clerk
@@ -2088,7 +2088,7 @@ Expenditures
 Total $ 2,542,149 $ 2,575,451 $ 2,664,439 $ 2,734,486 $ 2,802,105
 % Change from Prior Year 2.7% 1.3% 3.5% 2.6% 2.5%
 67
-jasujazumdinski
+jasujazmudzinski
 Office of the Mayor
 68
 69
@@ -2224,7 +2224,7 @@ Expenditures
 Total $ 4,963,345 $ 4,534,996 $ 4,516,109 $ 4,641,772 $ 4,767,080
 % Change from Prior Year (1.4)% (8.6)% (0.4)% 2.8% 2.7%
 73
-jasujazumdinski
+jasujazmudzinski
 Office of Management and Budget
 74
 75
@@ -2408,7 +2408,7 @@ Expenditures
 Total $ 21,188,171 $ 21,463,804 $ 22,173,213 $ 22,695,044 $ 23,809,738
 % Change from Prior Year (0.7)% 1.3% 3.3% 2.4% 4.9%
 80
-jasujazumdinski
+jasujazmudzinski
 Department of Innovation and Performance
 81
 82
@@ -2601,7 +2601,7 @@ Expenditures
 Total $ 22,725,604 $ 22,365,551 $ 22,694,206 $ 22,949,732 $ 23,207,066
 % Change from Prior Year 1.3% (1.6)% 1.5% 1.1% 1.1%
 87
-jasujazumdinski
+jasujazmudzinski
 Commission on Human Relations
 88
 89
@@ -2709,7 +2709,7 @@ Expenditures
 Total $ 776,018 $ 786,748 $ 820,380 $ 844,706 $ 844,927
 % Change from Prior Year 3.7% 1.4% 4.3% 3.0% —%
 93
-jasujazumdinski
+jasujazmudzinski
 Office of the City Controller
 94
 95
@@ -2862,7 +2862,7 @@ Expenditures
 Total $ 5,402,279 $ 5,478,135 $ 5,718,625 $ 5,893,809 $ 6,075,034
 % Change from Prior Year 10.1% 1.4% 4.4% 3.1% 3.1%
 100
-jasujazumdinski
+jasujazmudzinski
 Department of Finance
 101
 102
@@ -3101,7 +3101,7 @@ Expenditures
 Total $193,056,054 $198,875,208 $169,368,851 $175,849,642 $181,882,530
 % Change from Prior Year 1.1% 3.0% (14.8)% 3.8% 3.4%
 109
-jasujazumdinski
+jasujazmudzinski
 Department of Law
 110
 111
@@ -3228,7 +3228,7 @@ Expenditures
 Total $ 6,989,173 $ 6,509,234 $ 6,691,834 $ 6,831,004 $ 6,974,960
 % Change from Prior Year (46.2)% (6.9)% 2.8% 2.1% 2.1%
 115
-jasujazumdinski
+jasujazmudzinski
 Ethics Hearing Board
 116
 117
@@ -3329,7 +3329,7 @@ Expenditures
 Total $ 190,695 $ 192,352 $ 197,496 $ 201,770 $ 206,183
 % Change from Prior Year 0.9% 0.9% 2.7% 2.2% 2.2%
 121
-jasujazumdinski
+jasujazmudzinski
 Office of Municipal Investigations
 122
 123
@@ -3429,7 +3429,7 @@ Expenditures
 Total $ 765,377 $ 775,670 $ 807,959 $ 832,031 $ 856,903
 % Change from Prior Year 1.7% 1.3% 4.2% 3.0% 3.0%
 127
-jasujazumdinski
+jasujazmudzinski
 Department of Human Resources and Civil Service
 128
 129
@@ -3627,7 +3627,7 @@ Expenditures
 Total $ 30,822,882 $ 31,944,404 $ 35,117,923 $ 36,245,302 $ 37,462,033
 % Change from Prior Year (24.7)% 3.6% 9.9% 3.2% 3.4%
 136
-jasujazumdinski
+jasujazmudzinski
 Department of City Planning
 137
 138
@@ -3781,7 +3781,7 @@ Expenditures
 Total $ 4,936,342 $ 5,004,871 $ 5,226,136 $ 5,386,990 $ 5,551,279
 % Change from Prior Year (45.6)% 1.4% 4.4% 3.1% 3.0%
 143
-jasujazumdinski
+jasujazmudzinski
 Department of Permits, Licenses, and Inspections
 144
 145
@@ -4016,10 +4016,10 @@ Expenditures
 Total $ 11,009,438 $ 11,100,842 $ 11,599,446 $ 11,977,984 $ 12,341,679
 % Change from Prior Year 9.0% 0.8% 4.5% 3.3% 3.0%
 151
-jasujazumdinski
+jasujazmudzinski
 Department of Public Safety
 152
-jasujazumdinski
+jasujazmudzinski
 Bureau of Administration
 153
 154
@@ -4323,7 +4323,7 @@ Expenditures
 Total $ 12,345,508 $ 13,198,688 $ 13,579,272 $ 13,839,684 $ 14,107,098
 % Change from Prior Year (24.0)% 6.9% 2.9% 1.9% 1.9%
 161
-jasujazumdinski
+jasujazmudzinski
 Bureau of Emergency Medical Services
 162
 163
@@ -4541,7 +4541,7 @@ Expenditures
 Total $ 27,666,043 $ 28,913,772 $ 30,541,531 $ 31,829,829 $ 32,950,819
 % Change from Prior Year (5.2)% 4.5% 5.6% 4.2% 3.5%
 169
-jasujazumdinski
+jasujazmudzinski
 Bureau of Police
 170
 171
@@ -4807,7 +4807,7 @@ Expenditures
 Total $ 120,642,195 $ 123,343,025 $ 129,124,352 $ 132,539,446 $ 136,223,772
 % Change from Prior Year (2.0)% 2.2% 4.7% 2.64% 2.8%
 179
-jasujazumdinski
+jasujazmudzinski
 Bureau of Fire
 180
 181
@@ -4973,7 +4973,7 @@ Expenditures
 Total $ 99,021,429 $ 100,789,726 $ 104,414,977 $ 109,630,380 $ 112,981,764
 % Change from Prior Year 2.3% 1.8% 3.6% 5.0% 3.1%
 186
-jasujazumdinski
+jasujazmudzinski
 Bureau of Animal Care and Control
 187
 188
@@ -5101,7 +5101,7 @@ Expenditures
 Total $ 2,337,259 $ 2,253,681 $ 2,318,866 $ 2,365,495 $ 2,409,439
 % Change from Prior Year 22.6% (3.6)% 2.9% 2.0% 1.9%
 192
-jasujazumdinski
+jasujazmudzinski
 Office of Community Health and Safety
 193
 194
@@ -5262,7 +5262,7 @@ Expenditures
 Total $ 58,000 $ 58,000 $ 58,000 $ 58,000 $ 58,000
 % Change from Prior Year —% —% —% —% —%
 199
-jasujazumdinski
+jasujazmudzinski
 Department of Public Works
 200
 201
@@ -5479,7 +5479,7 @@ services of Forestry, Administration, Heavy Equipment Operation, Facilities Main
 Maintenance, and Anti-Litter Enforcement.
 
 204
-jasujazumdinski
+jasujazmudzinski
 Bureau of Administration
 205
 City of Pittsburgh Operating Budget Department of Public Works - Bureau of Administration
@@ -5562,7 +5562,7 @@ Expenditures
 Total $ 14,269,913 $ 14,207,797 $ 14,328,496 $ 14,415,645 $ 14,505,818
 % Change from Prior Year 27.8% (0.4)% 0.8% 0.6% 0.6%
 208
-jasujazumdinski
+jasujazmudzinski
 Bureau of Operations
 209
 City of Pittsburgh Operating Budget Bureau of Operations
@@ -5683,7 +5683,7 @@ Expenditures
 Total $ 25,312,348 $ 25,754,473 $ 28,204,932 $ 27,989,951 $ 28,384,174
 % Change from Prior Year 5.1% 1.7% 9.5% (0.8)% 1.4%
 213
-jasujazumdinski
+jasujazmudzinski
 Bureau of Environmental Services
 214
 City of Pittsburgh Operating Budget Bureau of Environmental Services
@@ -5781,7 +5781,7 @@ Expenditures
 Total $ 19,541,701 $ 19,758,399 $ 20,435,667 $ 20,872,498 $ 21,333,265
 % Change from Prior Year (0.4)% 1.1% 3.4% 2.1% 2.2%
 217
-jasujazumdinski
+jasujazmudzinski
 Bureau of Facilities
 218
 City of Pittsburgh Operating Budget Bureau of Facilities
@@ -5906,7 +5906,7 @@ Expenditures
 Total $ 12,033,311 $ 12,051,359 $ 12,418,267 $ 12,685,740 $ 12,989,821
 % Change from Prior Year 13.8% 0.1% 3.0% 2.2% 2.4%
 222
-jasujazumdinski
+jasujazmudzinski
 Department of Parks and Recreation
 223
 224
@@ -6118,7 +6118,7 @@ Expenditures
 Total $ 8,886,563 $ 8,933,904 $ 9,109,582 $ 9,231,101 $ 9,356,948
 % Change from Prior Year 57.7% 0.5% 2.0% 1.3% 1.4%
 231
-jasujazumdinski
+jasujazmudzinski
 Department of Mobility and Infrastructure
 232
 233
@@ -6461,7 +6461,7 @@ Expenditures
 Total $ 13,664,365 $ 13,838,577 $ 14,350,714 $ 14,717,705 $ 15,079,669
 % Change from Prior Year 11.1% 1.3% 3.7% 2.6% 2.5%
 240
-jasujazumdinski
+jasujazmudzinski
 Citizen Police Review Board
 241
 242
@@ -6604,7 +6604,7 @@ Expenditures
 Total $ 933,156 $ 945,546 $ 980,341 $ 1,006,038 $ 1,032,503
 % Change from Prior Year 2.1% 1.3% 3.7% 2.6% 2.6%
 247
-jasujazumdinski
+jasujazmudzinski
 Special Revenue Funds
 248
 City of Pittsburgh Operating Budget HUD Fair Housing Program Trust Fund
@@ -7753,7 +7753,7 @@ Expenditures Total $ 729,725 $ 729,725 $ — —%
 Net Total $ 128,775 $ 128,775 $ —
 Projected Ending Balance $ 2,036,351
 283
-jasujazumdinski
+jasujazmudzinski
 Archives and Records Management Trust Fund
 Department: City Clerk 1012877000
 Authorizing Resolution: 758 of 2018
@@ -7780,7 +7780,7 @@ said program
 |Last 12 monthsRevenues|Last 12 monthsExpenditures|Spending Authorityas of 11/13/24|
 |---|---|---|
 |$ —|$522,363.61|$92,247.08|
-jasujazumdinski
+jasujazmudzinski
 Code Trust Fund
 Department: Permits, Licenses &amp; Inspections 2700240900
 Authorizing Resolution: 965 of 1981. Renamed "BOCA TF" by resolution 895 of 1996.
@@ -7807,7 +7807,7 @@ pass-through for the funds that go to PCTV.
 |Last 12 monthsRevenues|Last 12 monthsExpenditures|Spending Authorityas of 11/13/24|
 |---|---|---|
 |$ 246,812.25|$165,693.70|$764,120.27|
-jasujazumdinski
+jasujazmudzinski
 Confiscated Narcotics Proceeds Trust Fund
 Department: Police 2300241600
 Authorizing Resolution: 1265 of 1985. Amended 1070 of 1987 and 978 of 1989. Codified in ordinance
@@ -7848,7 +7848,7 @@ funding source.
 |Last 12 monthsRevenues|Last 12 monthsExpenditures|Spending Authorityas of 11/13/24|
 |---|---|---|
 |$ 164,625.00|$206,999.68|$(134,967.93)|
-jasujazumdinski
+jasujazmudzinski
 Demolition Trust Fund
 Department: Permits, Licenses &amp; Inspections 2700872800
 Authorizing Resolution: 1037 of 1982. Further amended by 836 of 2017
@@ -7887,7 +7887,7 @@ EMS companies that are hired by Heinz Field, PNC Park, etc for coverage at their
 |Last 12 monthsRevenues|Last 12 monthsExpenditures|Spending Authorityas of 11/13/24|
 |---|---|---|
 |$ 1,607,203.09|$1,340,955.84|$2,743,295.78|
-jasujazumdinski
+jasujazmudzinski
 Facilities Trust Fund
 Department: OMB 0730125015
 Authorizing Resolution: 425 of 2015, as amended by 434 of 2017
@@ -7929,7 +7929,7 @@ conviction of any individual for violating Chapter 620.03.
 |Last 12 monthsRevenues|Last 12 monthsExpenditures|Spending Authorityas of 11/13/24|
 |---|---|---|
 |$ 272.13|$—|$91,996.55|
-jasujazumdinski
+jasujazmudzinski
 Green Initiatives Trust Fund
 Department: According to authorizing legislation, CIS - in practice, City Planning 1020288500
 Authorizing Resolution: 393 of 2008
@@ -7956,7 +7956,7 @@ hazardous material cleanup cost.
 |---|---|---|
 |$ 25,000.00|$74,568.37|$42,369.78|
 288
-jasujazumdinski
+jasujazmudzinski
 Lead Safety Trust Fund
 Department: OMB 0222802700
 Authorizing Resolution: 265 of 2022
@@ -7982,7 +7982,7 @@ the City Code, and to update the online City Code.
 |Last 12 monthsRevenues|Last 12 monthsExpenditures|Spending Authorityas of 11/13/24|
 |---|---|---|
 |$ —|$—|$13,698.25|
-jasujazumdinski
+jasujazmudzinski
 PLI Record Storage, Technology, and Operations TF
 Department: Permits, Licenses &amp; Inspections 2700244600
 Authorizing Resolution: 1167 of 1986. Amended by 104 of 2015, and further amended by 300 of 2018
@@ -8012,7 +8012,7 @@ of public safety employees, as well as for the purchase of training equipment an
 |Last 12 monthsRevenues|Last 12 monthsExpenditures|Spending Authorityas of 11/13/24|
 |---|---|---|
 |$ 199,426.35|$3,416.49|$1,014,233.06|
-jasujazumdinski
+jasujazmudzinski
 Verizon Franchise Trust Fund
 Department: Innovation &amp; Performance 1030288000
 Authorizing Resolution: 552 of 2009. Amended by 663 of 2013
@@ -8039,7 +8039,7 @@ with YCPC and the Mayor’s Youth Initiative and will be used to pay costs assoc
 |---|---|---|
 |$ —|$6,522.41|$172,453.60|
 290
-jasujazumdinski
+jasujazmudzinski
 Other Post Employment Benefits (OPEB) Trust Fund
 Department: Finance 1070813500
 Authorizing Resolution: 17 of 2012. Companion legislation to Ordinance 1 of 2012 (Chapter 176A)
@@ -8066,7 +8066,7 @@ Public Safety equipment and supplies, subject to any further legislation as may 
 |Last 12 monthsRevenues|Last 12 monthsExpenditures|Spending Authorityas of 11/13/24|
 |---|---|---|
 |$ —|$39,236.82|$160,332.25|
-jasujazumdinski
+jasujazmudzinski
 Open Space Trust Fund
 Department: City Planning 1100280630
 Authorizing Resolution: 334 of 2016
@@ -8092,7 +8092,7 @@ conducted by City Planning and/or DPW. Added PWSA per cooperation agreement via 
 |Last 12 monthsRevenues|Last 12 monthsExpenditures|Spending Authorityas of 11/13/24|
 |---|---|---|
 |$ —|$98,471.00|$228,306.47|
-jasujazumdinski
+jasujazmudzinski
 Southside Parking Enhancement District Trust Fund
 Department: OMB, and also PS Admin, DPW, DOMI, and Parking Authority 2100248000
 Authorizing Resolution: 777 of 2016. Companion resolution to resolution 776 of 2016 that creates the
@@ -8110,7 +8110,7 @@ Infrastructure, and the Pittsburgh Parking Authority.
 |Last 12 monthsRevenues|Last 12 monthsExpenditures|Spending Authorityas of 11/13/24|
 |---|---|---|
 |$ 337,918.17|$181,052.30|$215,915.37|
-jasujazumdinski
+jasujazmudzinski
 Mounted Police Trust Fund
 Department: Police 2300244900
 Authorizing Resolution: 493 of 1995. Closed by resolutions 857 and 858 of 2011. Reopened by resolution
@@ -8139,7 +8139,7 @@ enhancements to improve customer and user experience.
 |Last 12 monthsRevenues|Last 12 monthsExpenditures|Spending Authorityas of 11/13/24|
 |---|---|---|
 |$ 83,117.00|$156,750.00|$66,400.50|
-jasujazumdinski
+jasujazmudzinski
 Technology Modernization Trust Fund
 Department: Innovation &amp; Performance 1030287500
 Authorizing Resolution: 826 of 2021
@@ -8180,7 +8180,7 @@ The American Rescue Plan Trust Fund is detailed in the narrative of this budget 
 Last 12 months : November 15, 2022 to November 14, 2023
 
 294
-jasujazumdinski
+jasujazmudzinski
 Grants
 295
 City of Pittsburgh Operating Budget
@@ -8308,7 +8308,7 @@ Title FTE Grade Months Budget FTE Grade Months Budget
 Safe Passages Program Manager 1 36.05 7 $ 43,740 1 37.13 12 $ 77,233
 Total Full-Time Positions 1 36.05 7 $ 43,740 1 37.13 12 $ 77,233
 306
-jasujazumdinski
+jasujazmudzinski
 City of Pittsburgh Organization Chart
 307
 308
@@ -8426,7 +8426,7 @@ Solicitors
 |13-6|116,657|
 |14-1|120,578|
 312
-jasujazumdinski
+jasujazmudzinski
 Debt Service
 313
 City of Pittsburgh Operating Budget
@@ -8505,7 +8505,7 @@ Fiscal Year 2025 Debt Service
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Debt Service
 327
-jasujazumdinski
+jasujazmudzinski
 Pension Funding
 328
 City of Pittsburgh Operating Budget
@@ -8518,7 +8518,7 @@ City of Pittsburgh Operating Budget
 Fiscal Year 2025 Pension Funding
 331
 City of Pittsburgh Master Fee Schedule
-jasujazumdinski
+jasujazmudzinski
 2025
 As authorized by Resolution 932 of 2024, as approved by City Council December 17, 2024, the
 following fees for various City services are hereby established for the 2025 fiscal year. The
@@ -9438,4 +9438,4 @@ per hour charge for fees that are tied to services performed by represented empl
 |Debris Cleanup Pre April 1st 2025 (per hour)|$15.00|
 |Note: Third-party payment providers may charge their own processing fee||
 354
-jasujazumdinski
+jasujazmudzinski

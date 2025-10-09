@@ -183,8 +183,7 @@ jasujazmudzinski
 
 Biography
 Mayor Ed Gainey
-Mayor Ed Gainey grew up in East Liberty and saw firsthand the economic hardships many families face in our city. Raised by a single mother, he counted on the support of his extended family and community to build a pathway to high school and college. Inspired to do the same for others, Ed Gainey discovered in college that an effective government can be a powerful tool to fight injustice and uplift communities. As a State Representative in Harrisburg he was on the front line fighting for working families, and as Mayor of Pittsburgh he'll work everyday to make Pittsburgh a city where all can belong and contribute. Ed and his wife Michelle have three children and live in the Lincoln-Lemington neighborhood of Pittsburgh.
-jasujazmudzinski
+Mayor Ed Gainey grew up in East Liberty and saw firsthand the economic hardships many families face in our city. Raised by a single mother, he counted on the support of his extended family and community to build a pathway to high school and college. Inspired to do the same for others, Ed Gainey discovered in college that an effective government can be a powerful tool to fight injustice and uplift communities. As a State Representative in Harrisburg he was on the front line fighting for working families, and as Mayor of Pittsburgh he'll work everyday to make Pittsburgh a city where all can belong and contribute. Mayor Gainey and his wife Michelle have three children and live in the Lincoln-Lemington neighborhood of Pittsburgh.
 jasujazmudzinski
 
 Pittsburgh City Cabinet
@@ -434,7 +433,6 @@ Forms Used
 Self-employed individuals make quarterly payments using forms from Jordan Tax Services. These forms can be found on the Jordan Tax website.
 
 Due dates are:
-
 1st quarter due April 30
 2nd quarter due July 31
 3rd quarter due Oct 31
@@ -509,7 +507,7 @@ The Institution and Service Privilege Tax Regulations
 Additional information call 412-255-2525
 jasujazmudzinski
 
-Local Services Tax
+Local Services Tax (LST)
 Due Date
 30 days after quarter end for the prior quarters' activity.
 
@@ -517,12 +515,16 @@ Tax Rate
 $52/year, paid in even parts over 4 quarters.
 
 Who Collects the Tax?
-Employers are required to withhold the tax from the earnings of their employees and pay over the tax to the City Treasurer. For purposes of this tax, sole proprietors and partners shall be deemed to be employees. The Local Services Tax of $52 is to be deducted evenly from pay checks throughout the year.
+Employers are required to withhold the tax from the earnings of their employees and pay over the tax to the City Treasurer. For purposes of this tax, sole proprietors and partners shall be deemed to be employees. The Local Services Tax (LST) of $52 is to be deducted evenly from pay checks throughout the year.
 
 If the employer does not withhold the proper amount of tax, then the employee, partner, or self-employed person must pay the Local Services Tax directly to the City Treasurer.
 
-Important Dates
+Important Dates (LST)
 Employers must file quarterly reports with the City Treasurer on or before the 30th day after the quarter, reporting the preceding quarter’s activity on the forms provided. 
+1st quarter due April 30
+2nd quarter due July 31
+3rd quarter due Oct 31
+4th quarter due Jan 31
 
 Tax Rates, Penalties, and Fees
 How much is it?
@@ -534,8 +536,9 @@ What happens if you don’t pay on time?
 If you don’t pay on time, interest and penalties will be added to the amount you owe. The failure of any employer to withhold the tax shall not relieve the employee from the duty to file a return and pay the proper amount of tax. Employees who believe their employer has not appropriately withheld the Local Services Tax should contact the City of Pittsburgh Finance Department at 412-255-2525.
 
 In order for a mailed report and return to be considered timely, it must be postmarked by the United States Post Office by the due date. The City Treasurer will allow for a two-day grace period for those reports and returns privately postmarked.
+jasujazmudzinski
 
-Discounts and Exemptions
+Discounts and Exemptions (Local Services Tax)
 Are you eligible for a discount?
 No discounts are available for the Local Services Tax. However, an employee whose total income for a calendar year was less than $12,000, can apply for a refund of $52 (or the amount withheld) the following year using the Local Services Refund form at the “Local Services Tax Refund Form” link.
 
@@ -547,8 +550,9 @@ The employer is supposed to withhold the Local Services Tax for the municipality
 
 What happens if the employee changes his employer during the year?
 The employee is supposed to provide the employer an exemption certificate showing how much Local Services Tax has been withheld during the current year. No more than $52 in Local Services Tax can be withheld by all employers from a particular employee.
+jasujazmudzinski
 
-How to Pay
+How to Pay (Local Services Tax)
 By mail:
 
 Make check payable to: “Treasurer, City of Pittsburgh.” Do not send cash.
@@ -691,16 +695,17 @@ Payroll Expense Tax
 Due Date
 The last day of the second month after quarter end for the prior quarters’ activity.
 
-Tax Rate
-5 1/2 Mills (.0055) or .55%
+Payroll Expense Tax Rate
+5 and 1/2 Mills (.0055) or .55%
 
-Who Pays the Tax?
+Who Pays the Payroll Expense Tax?
 All persons who engage, hire, employ, or contract with one or more individuals, as employees, to perform work or render services within the City of Pittsburgh. The Payroll Tax is computed on the employer’s total payroll expense (total compensation) associated with business activity in the City. Partners are considered employees of the employer for purposes of the Payroll Tax. You do not need to be located in the City of Pittsburgh to be subject to this tax.
 
-Do Self-Employed Persons and Partners Have to Pay the Tax?
+Do Self-Employed Persons and Partners Have to Pay the Payroll Expense Tax?
 Yes, self-employed persons and partners in a partnership, if the partnership otherwise does not remit the tax, must file the tax return and remit the tax on their own earnings. In calculating the earnings of self-employed persons or partners, such earnings are the sum of guaranteed payments and the lesser of net profits or net draws or distributions from the business. Passive income received by a self-employed person or a partner is not subject to tax because it is not considered “earned” income.
+jasujazmudzinski
 
-Important Dates
+Important Dates (Payroll Tax)
 Employers must file quarterly reports with the City Treasurer on or before the last day of the second month after the quarter, reporting the preceding quarter’s activity on the Payroll Expense Tax Form. Thus, 1st Quarter taxes and reports are due May 31st, 2nd Quarter; taxes and reports are due August 31st, 3rd Quarter taxes and reports are due November 30th, and 4th Quarter taxes and reports are due February 28th of the following year.
 
 Tax Rates, Penalties, and Fees
@@ -721,7 +726,7 @@ If an employer does not pay on time, interest and penalties will be added to the
 In order for a mailed report and return to be considered timely, it must be postmarked by the United States Post Office by the due date. The City Treasurer will allow for a two-day grace period for those reports and returns privately postmarked.
 
 In order for an electronically submitted report and return to be considered timely, it must be submitted by 11:59PM Eastern Time on the due date.
-
+jasujazmudzinski
 Discounts and Special Rules
 Are you eligible for a discount?
 No discounts are available for the Payroll Tax.
@@ -804,3 +809,9 @@ Real Estate agents or brokers can claim a deed transfer tax credit when the prop
 Notes
 In Oct. 2005, the City and School District adopted the provisions of the Commonwealth of Pennsylvania Realty Transfer Tax (72 PS/8101-C et seq.) In addition the Commonwealth is authorized to act on behalf of the City and School District to enforce the collection of this tax. This tax is collected by realty transfer stamps that are issued by the Allegheny County Real Estate department, Recorder of Deeds (412-350-4226). The tax collected is then remitted to the City Treasurer. Pittsburgh Code Chapters 255 & 256
 jasujazmudzinski
+In 2017, Pittsburgh celebrated the 100th Anniversary of our historic seat of government, the City-County Building (which is at Grant Street)! Explore this website to learn about its dynamic history and find out how to visit our historic home!
+In 1794, the newly formed Borough of Pittsburgh established a Public Market House in the current location of Market Square. Aside from creating the public market tradition that continues there today, this location was also home to the very first Pittsburgh Municipal Hall. As Pittsburgh continued to grow, so would the space required for government services. The Market House quickly became obsolete and the cornerstone of a new City Hall was laid at Smithfield Street and Oliver Avenue in May of 1869. The County, which first courthouse was also in this location moved to its current location on Grant Street in 1836. The Smithield Street City Hall would serve until the completion of the City-County Building in 1917. It would sit abandoned for 50 years before sold for a redevelopment in the 1950's.
+Address: 414 Grant Street, Pittsburgh, PA 15219
+jasujazmudzinski
+The City Controller is one of two independently elected, citywide offices in the City of Pittsburgh, the other being the Mayor. The term of office for the City Controller is four years and is not term-limited.
+Pittsburgh's 2025 operating budget includes 27 departments.jasujazmudzinski

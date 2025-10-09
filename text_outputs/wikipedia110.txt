@@ -1,0 +1,28 @@
+Title: Summary
+This is a list of 90 neighborhoods in the city of Pittsburgh, Pennsylvania, United States. Generally neighborhood development followed ward boundaries, although the City Planning Commission has defined some neighborhood areas. The map of neighborhoods presented here is based on the official designations from the City of Pittsburgh.
+Title: Neighborhoods 
+['Allegheny Center', 'Allegheny West', 'Allentown', 'Arlington', 'Arlington Heights', 'Banksville', 'Bedford Dwellings', 'Beechview', 'Beltzhoover', 'Bloomfield', 'Bluff (also known as Uptown or Soho )', 'Bon Air', 'Brighton Heights', 'Brookline', 'California-Kirkbride', 'Carrick', 'Central Business District (also known as Downtown and the Golden Triangle ) Chinatown (historic) Cultural District', 'Central Lawrenceville', 'Central Northside Mexican War Streets', 'Central Oakland', 'Chartiers', 'Chateau', 'Crafton Heights', 'Crawford-Roberts', 'Duquesne Heights', 'East Allegheny (also known as Deutschtown )', 'East Carnegie', 'East Hills', 'East Liberty', 'Elliott', 'Esplen', 'Fairywood', 'Fineview', 'Friendship', 'Garfield The Valley Hilltop', 'Glen Hazel', 'Greenfield Four Mile Run', 'Hays', 'Hazelwood', 'Highland Park', 'Homewood North', 'Homewood South', 'Homewood West', 'Knoxville', 'Larimer', 'Lincoln–Lemington–Belmar', 'Lincoln Place', 'Lower Lawrenceville', 'Manchester', 'Marshall-Shadeland (also known as Brightwood and Woods Run ) Brunot Island', 'Middle Hill', 'Morningside', 'Mount Oliver (not to be confused with the neighboring borough of Mount Oliver )', 'Mount Washington Chatham Village', 'New Homestead', 'North Oakland', 'North Point Breeze', 'North Shore', 'Northview Heights', 'Oakwood', 'Overbrook', 'Perry North (also known as Observatory Hill )', 'Perry South (also known as Perry Hilltop )', 'Point Breeze Park Place', 'Polish Hill', 'Regent Square', 'Ridgemont', 'Saint Clair', 'Shadyside', 'Sheraden', 'South Oakland Panther Hollow', 'South Shore Station Square', 'South Side Flats SouthSide Works', 'South Side Slopes', 'Spring Garden', 'Spring Hill–City View', 'Squirrel Hill North', 'Squirrel Hill South Summerset', 'Stanton Heights', 'Strip District', 'Summer Hill', 'Swisshelm Park Duck Hollow', 'Terrace Village', "Troy Hill Washington's Landing", 'Upper Hill', 'Upper Lawrenceville', 'West End', 'West Oakland', 'Westwood', 'Windgap']
+['Chinatown (historic)', 'Cultural District']
+['Mexican War Streets']
+['The Valley', 'Hilltop']
+['Four Mile Run']
+['Brunot Island']
+['Chatham Village']
+['Park Place']
+['Panther Hollow']
+['Station Square']
+['SouthSide Works']
+['Summerset']
+['Duck Hollow']
+["Washington's Landing"]
+jasujazmudzinski
+
+Title: Former neighborhoods 
+['East Street Valley, which was demolished to make way for Parkway North.']
+Title: Areas 
+['Central', 'East End', 'North Side', 'South Side', 'West End']
+Title: List of municipalities annexed 
+['Pitt Township (part) in 1816', 'Northern Liberties in 1837', 'Lawrenceville in 1867', 'Collins, Liberty, Oakland, Peebles and Pitt Twps. in 1868', 'Allentown, Birmingham, East Birmingham, Monongahela, Mount Washington, Ormsby, South Pittsburgh, St. Clair, Temperanceville, Union and West Pittsburgh in 1872', 'Garfield in 1881', 'Brushton in 1894', 'Beltzhoover in 1898', 'Esplen and Sterrett Twp. in 1906', 'Allegheny in 1907, including formerly-annexed Manchester (1867) and Duquesne (part, 1868)', 'Beechview and West Liberty in 1908', 'Spring Garden in 1920', 'Lower St. Clair Township in 1924', 'Carrick, Knoxville, and Westwood in 1927', 'Overbrook in 1930']
+
+jasujazmudzinski
+

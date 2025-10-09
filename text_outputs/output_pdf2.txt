@@ -90,7 +90,7 @@ Fee Schedule....................................................................
 
 Budget Authorizing
 Legislation
-5 jasujazumdinski
+5 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Authorizing Legislation
@@ -136,7 +136,7 @@ considered as part of the appropriation titles.
 Section 10. The appropriations related to grants, trust funds, and special revenue funds contained in this budget
 document shall be used as a guide. The revenues and expenditures of City accounts other than the general
 operating budget are authorized by their enabling legislation.
-6 jasujazumdinski
+6 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Authorizing Legislation
@@ -190,7 +190,7 @@ Fire Lieutenant 112
 Firefighter 482
 Firefighter Recruit As Needed
 Total Uniformed Firefighters 678
-8 jasujazumdinski
+8 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Authorizing Legislation
@@ -229,7 +229,7 @@ budget as needed. No changes shall affect any salaries or staffing levels, or ot
 
 American Rescue
 Plan
-10 jasujazumdinski
+10 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 American Rescue Plan
@@ -280,7 +280,7 @@ project
 Recovery Task Force
 ◦ A public hearing was held on August 1, 2023
 ◦ Created Version 5 of the plan
-11 jasujazumdinski
+11 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 American Rescue Plan
@@ -330,7 +330,7 @@ Authority
 • File 2024-1035 - would authorize an agreement related to the "Mobile restrooms" allocation
 • File 2024-1068 - would amend the authorization of the agreement with the County of Allegheny
 Submitted reports are available on OMB's American Rescue Plan Reporting web page.
-12 jasujazumdinski
+12 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 American Rescue Plan
@@ -362,7 +362,7 @@ Section 7. All appropriated funds shall be obligated by December 31, 2024 and sp
 Section 8. All expenses shall comply with United States federal law, rules, and guidelines. The Mayor and City
 Council shall amend the Plan if it is determined that a project does not qualify as an approved use of federal
 funds.
-13 jasujazumdinski
+13 jasujazmudzinski
 
 Resolution 523 of 2024
 Exhibit A, version 8.2 ARPA Allocation
@@ -399,7 +399,7 @@ City - Capital Paulson Rec Center Tech Upgrades $ 25,177 $ — $ — $ — $ 25,
 City - Capital Public Works Fourth Division construction $ 3,532,494 $ 1,638,030 $ — $ — $ 5,170,524
 City - Capital Streetlights - 8,000 new lights $ — $ 3,000,000 $ — $ — $ 3,000,000
 City - Capital Davis Avenue pedestrian bridge $ 928,290 $ — $ 3,750,000 $ — $ 4,678,290
-14 jasujazumdinski
+14 jasujazmudzinski
 
 Funding ARPA Expenses 2021 2022 2023 2024 Four Year Total
 City - Capital North Avenue streetscape, safety, and signal improvements $ 1,000,000 $ 1,500,000 $ — $ — $ 2,500,000
@@ -437,7 +437,7 @@ URA Swisshelm Park slag heap remediation $ — $ — $ 4,000,000 $ — $ 4,000,0
 URA Pittsburgh Technology Center garage support $ — $ — $ 3,131,770 $ — $ 3,131,770
 PPA Mellon Square storefront support $ — $ — $ 1,536,398 $ — $ 1,536,398
 PPA Kirkwood Ave. grant match $ 23,383 $ — $ — $ — $ 23,383
-15 jasujazumdinski
+15 jasujazmudzinski
 
 Funding ARPA Expenses 2021 2022 2023 2024 Four Year Total
 PPA EV charger support $ 56,617 $ — $ — $ — $ 56,617
@@ -455,7 +455,7 @@ Left to Plan
 16
 
 Budget Guide
-17 jasujazumdinski
+17 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Guide
@@ -494,7 +494,7 @@ hierarchy but whose sources of financing exist outside of the City’s General F
 Authorities are not included in the Operating Budget.
 A comprehensive visualization of the government of the City of Pittsburgh is included in the organization chart
 presented in this document.
-18 jasujazumdinski
+18 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Guide
@@ -538,7 +538,7 @@ Balanced Budget Mandate
 The City’s Home Rule Charter requires that the annual Operating Budget be balanced, with estimated revenues
 equal to or greater than estimated expenditures. Should revenues exceed expenditures at the end of a fiscal year,
 the budget surplus is transferred into the City’s reserve fund balance.
-19 jasujazumdinski
+19 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Guide
@@ -583,7 +583,7 @@ Fiduciary Funds.
 Budget Allocations
 This budget document divides total expenditures across the Elected Offices, Departments, and Bureaus that
 comprise the government of the City. Individual divisions carry out unique tasks.
-20 jasujazumdinski
+20 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Guide
@@ -635,7 +635,7 @@ Subclasses
 82 Debt Service
 90 Transfers
 91 Transfers - Out
-21 jasujazumdinski
+21 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Guide
@@ -681,7 +681,7 @@ The Payroll Preparation Tax was initiated following the City of Pittsburgh’s e
 at the rate of 0.55 percent on the gross payroll of employers and the distribution of net income from self-employed
 individuals, members of partnerships, associations, joint ventures or other entities who perform work or provide
 services within the City of Pittsburgh. Nonprofit and other charitable organizations are excluded from this tax.
-22 jasujazumdinski
+22 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Guide
@@ -719,7 +719,7 @@ of Pittsburgh employees. The Operating Budget also pays the principal and intere
 and current issuance of debt generated by previous and ongoing capital projects and other programs. The chart
 below illustrates historic costs associated with debt service, pension and other post-employment benefits (OPEB)
 contributions, health insurance and workers’ compensation.
-23 jasujazumdinski
+23 jasujazmudzinski
 
 )snoilliM(
 $
@@ -757,7 +757,7 @@ The City of Pittsburgh operates three pension plans for retired police, fire, an
 employment benefits" refers to benefits, such as health insurance, that are provided to qualifying retired City
 workers. These expenditures are housed within the Personnel – Employment Benefits subclass in the Department
 of Finance and are organized via the following individual accounts:
-24 jasujazumdinski
+24 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Guide
@@ -805,7 +805,7 @@ legislative oversight on any matters related to the budget, and oversees budget 
 Analysts in OMB prepare quarterly reports on the performance of major revenue sources and expenditure
 categories, reports on key factors driving the budget, reports on cash flow, and brief updates on important
 management initiatives.
-25 jasujazumdinski
+25 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Guide
@@ -853,7 +853,7 @@ above. These requests are often related to software, equipment, or personnel and
 achieving the goals or augmenting the services of each individual Department. OMB compiles all such requests
 and evaluates how they relate to the Mayor’s strategic initiatives. Subject to available funds, those requests that
 fall in line with the citywide initiatives are funded in each respective division’s budget in the five-year forecast.
-26 jasujazumdinski
+26 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Guide
@@ -866,7 +866,7 @@ The most detailed and specific illustration of the General Fund Operating Budget
 the Departmental Sections of the document. This section details funds by subclass and account that have been
 appropriated to each individual division. The following are the different components that in aggregate make up the
 Departmental Sections of the Operating Budget.
-27 jasujazumdinski
+27 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Budget Guide
@@ -916,7 +916,7 @@ summary follows when appropriate.
 
 Five-Year
 Financial Forecast
-29 jasujazumdinski
+29 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Five-Year Financial Forecast
@@ -969,7 +969,7 @@ EXPENDITURES 26.1% 21.9% 17.6% 16.9% 14.0% 10.2%
 DEBT SERVICE AS A % OF
 EXPENDITURES 9.1% 11.1% 11.6% 7.1% 7.6% 8.1%
 Totals may not sum due to rounding
-30 jasujazumdinski
+30 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Five-Year Financial Forecast
@@ -1011,7 +1011,7 @@ Totals may not sum due to rounding
 31
 
 Revenue
-32 jasujazumdinski
+32 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1077,7 +1077,7 @@ Total Revenues $ 551,634,859 $ 593,604,491 $ 658,802,293 $ 697,612,483 714,214,9
 Annual Growth Rate (3.2)% 7.6% 11.0% 5.9% 8.4%
 Totals may not add or match due to rounding
 *Compound Annual Growth Rate
-34 jasujazumdinski
+34 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1151,7 +1151,7 @@ Intergovernmental 53,755,298 38.8 %
 Interest Earnings 14,878,061 10.7 %
 Miscellaneous Revenues 238,361 0.2 %
 Total $ 138,488,621 100.0 %
-36 jasujazumdinski
+36 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1194,7 +1194,7 @@ Contracted Services
 Miscellaneous
 42.2%
 0.4%
-37 jasujazumdinski
+37 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1231,7 +1231,7 @@ investments in Treasury Bills, Certificates of Deposit, and other insured and/or
 investment as permitted under the City’s investment policy. Miscellaneous revenues are budgeted at $238,361.
 This amount consists of revenues that cannot esaily be classified into any of the other categories and other
 proceeds.
-38 jasujazumdinski
+38 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1277,7 +1277,7 @@ over the prior year. The payroll preparation tax is levied at a rate of 0.55 per
 and net income from self-employed individuals, members of partnerships, associations and joint ventures who
 perform work or provide services within the City of Pittsburgh. Non-profits an exempt from this tax. The payroll
 preparation tax forecast uses total non-farm wages for Allegheny County to forecast future revenues. Total non-
-39 jasujazumdinski
+39 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1320,7 +1320,7 @@ opposing teams and non-resident performers comprise the remainder of the amuseme
 teams and clubs economic indicator is used to forecast 70 percent of amusement tax revenues. The remaining 30
 percent is forecast with consumer price index (inflation) to generate a more conservative forecast. Total
 amusement tax revenues are forecast to increase by 2.5 percent each year through 2029.
-40 jasujazumdinski
+40 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1363,7 +1363,7 @@ of license revenue is liquor and malt beverage licenses, budgeted at $404 thousa
 percent per year thereafter. Permits are generally issued for building construction and renovation. The largest
 source of permit revenues are commercial building permits, budgeted at $4.0 million in 2025. Total license and
 permit revenues are forecast to increase by 2.1 percent each year through 2029.
-41 jasujazumdinski
+41 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1422,7 +1422,7 @@ Intergovernmental
 8.0%
 All Other Revenues
 81.6%
-43 jasujazumdinski
+43 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1478,7 +1478,7 @@ Account 2025 2026 2027 2028 2029
 42306 - Commercial Plan Review Meeting 64,103 65,577 66,888 68,226 69,591
 42307 - Commercial-Fire Alarm 492,145 503,464 513,553 523,804 534,280
 42309 - Commercial-HVAC 1,298,316 1,328,178 1,354,741 1,381,836 1,409,473
-44 jasujazumdinski
+44 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1533,7 +1533,7 @@ Account 2025 2026 2027 2028 2029
 42395 - ONESTOPPGH Permit Tech Fee — — — — —
 42396 - Floodplain Permit Fees 26,985 27,606 28,158 28,721 29,296
 42901 - License/Permit Penalty Fee 10,048 10,048 10,048 10,048 10,048
-45 jasujazumdinski
+45 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1589,7 +1589,7 @@ Account 2025 2026 2027 2028 2029
 45527 - Intergovernmental Revenue-State 1,000,000 1,200,000 1,200,000 1,200,000 1,200,000
 45701 - CDBG - OMB 213,328 213,328 213,328 213,328 213,328
 45707 - JTPA/WIA 130,000 130,000 130,000 130,000 130,000
-46 jasujazumdinski
+46 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Revenue
@@ -1663,7 +1663,7 @@ Expenditures
 82 - Debt Service 59,968,317 69,390,272 73,949,315 $ 4,559,043 6.6%
 Total Expenditures $ 620,861,537 $ 685,732,246 $ 665,619,090 $ (20,113,156) (2.9)%
 Totals may not sum due to rounding
-49 jasujazumdinski
+49 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Expenditures
@@ -1707,7 +1707,7 @@ Administration, Bureau of Emergency Medical Services, Bureau of Police, Bureau o
 and Control, Office of Community Health and Safety. In total these budgets equate to $262,070,434 or 39.4
 percent of total budgeted expenditures. Public Safety Administration ensures proper coordination across the
 divisions.
-50 jasujazumdinski
+50 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Expenditures
@@ -1736,7 +1736,7 @@ personnel-related expenditures, professional and technical services, property se
 property, miscellaneous expenses, and debt service. Of the $171,981,111 budget in non-personnel related
 expenditures in fiscal year 2025, $73,949,315 or 43.0 percent is dedicated to repaying the principal and interest
 costs of issued bonds. These bonds are used to finance capital infrastructure projects throughout the City.
-51 jasujazumdinski
+51 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Expenditures
@@ -1782,7 +1782,7 @@ management initiative.
 workers' compensation costs, employer mandated costs such as social security, and employer
 contributions to the pension fund. Health care costs are projected to rise over the course of the next few
 years, but the City is working to improve its overall wellness program with the goal of improving employee
-52 jasujazumdinski
+52 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Expenditures
@@ -1840,7 +1840,7 @@ $0 0.0%
 2018 ( 2 a 0 c 1 tu 9 a ( 2 l a ) 0 c 2 tu 0 a ( 2 l a ) 0 c 2 tu 1 a ( 2 l a ) 0 c 2 tu 2 a ( 2 l a ) 0 c 2 tu 3 a ( 2 l a ) 0 c 2 2 tu 4 0 a 2 ( l 5 a ) c ( 2 t p u 0 r a 2 o l 6 j ) e c ( 2 p t 0 e r 2 o d 7 j ) e c ( 2 p t 0 e r 2 o d 8 j ) e c ( 2 p t 0 e r 2 o d 9 j ) e c (p te ro d j ) ected)
 Budget Total Debt Service
 Percent of Total Expenditures
-54 jasujazumdinski
+54 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Expenditures
@@ -1890,7 +1890,7 @@ Account 2025 2026 2027 2028 2029
 53533 - Animal Services 742,103 632,898 637,898 642,898 642,898
 53545 - Towing Services 80,000 80,000 80,000 80,000 80,000
 53701 - Repairs 108,685 108,685 108,685 108,685 108,685
-55 jasujazumdinski
+55 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Expenditures
@@ -1961,7 +1961,7 @@ Expenditures Total $ 665,619,090 $ 679,273,238 $ 671,209,755 $ 692,131,202 $ 712
 
 City Council
 Districts
-58 jasujazumdinski
+58 jasujazmudzinski
 
 City of Pittsburgh Operating Budget City Council Districts
 Fiscal Year 2025 101100
@@ -2036,7 +2036,7 @@ CITY COUNCIL
 56 - SUPPLIES
 52 - PERSONNEL-EMPLOYEE BENEFITS
 51 - PERSONNEL-SALARIES & WAGES
-62 jasujazumdinski
+62 jasujazmudzinski
 
 Office of the
 City Clerk
@@ -2065,7 +2065,7 @@ operation and fiscal condition of the City. The Division produces, supervises, a
 operating, capital, and Community Development budgets and compiles special reports and executive summaries
 for Council to assist them in their deliberations.
 Other Divisions include the Public Engagement Division and the Solicitor Division.
-64 jasujazumdinski
+64 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of the City Clerk
 Fiscal Year 2025 101200
@@ -2106,7 +2106,7 @@ Total Full-Time Permanent Positions 21 $ 1,568,897 21 $ 1,574,114
 Temporary, Part-Time, and Seasonal Allowances — — — varies 29,472
 Vacancy Allowance — (10,027) — —
 Total Full-Time Positions and Net Salaries 21 $ 1,558,870 21 $ 1,603,586
-65 jasujazumdinski
+65 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of the City Clerk
 Fiscal Year 2025 101200
@@ -2179,7 +2179,7 @@ Office of the City Clerk
 Office of the Mayor
 68
 
-69 jasujazumdinski
+69 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of the Mayor
 Fiscal Year 2025 102000
@@ -2228,7 +2228,7 @@ Performance Operations Analyst 1 20G 12 66,179 1 20G 12 68,162
 311 Call Center Representative 5 U01-N 12 205,348 5 U01-N 12 211,509
 Digital Engagement Coordinator 1 18G 12 60,837 1 18G 12 62,670
 Total Office of Neighborhood Services 16 $ 953,081 15 $ 919,583
-70 jasujazumdinski
+70 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of the Mayor
 Fiscal Year 2025 102000
@@ -2303,7 +2303,7 @@ Expenditures
 57 - PROPERTY 5,000 — — —
 57501 - Machinery & Equipment 5,000 — — —
 Expenditures Total $ 3,451,954 $ 5,033,800 $ 4,963,344 $ (70,456) (1.4)%
-72 jasujazumdinski
+72 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of the Mayor
 Fiscal Year 2025 102000
@@ -2333,7 +2333,7 @@ Management and
 Budget
 74
 
-75 jasujazumdinski
+75 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of Management & Budget
 Fiscal Year 2025 102200
@@ -2377,7 +2377,7 @@ implementing cost management initiatives related to procurement, warehousing, an
 ▪ Funding support includes: the Brownsville Road corridor, renovation of the Lewis
 Playground in Hazelwood, Police Recruiting efforts, and investment in the installation of
 electric vehicle (EV) charging infrastructure throughout the City
-76 jasujazumdinski
+76 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of Management & Budget
 Fiscal Year 2025 102200
@@ -2441,7 +2441,7 @@ Temporary, Part-Time, and Seasonal Allowances — 5,000 — 5,000
 Vacancy Allowance — (79,701) — (110,655)
 Total Full-time Positions and Net Salaries 32 $ 2,594,631 32 $ 2,660,726
 Community Development positions are described in the appropriate Trust Fund section.
-78 jasujazumdinski
+78 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of Management & Budget
 Fiscal Year 2025 102200
@@ -2522,7 +2522,7 @@ Innovation and
 Performance
 81
 
-82 jasujazumdinski
+82 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Innovation & Performance
 Fiscal Year 2025 103000
@@ -2562,7 +2562,7 @@ departments, offices, and bureaus. Phase 1 will go live in Quarter 1 of 2025.
 • Adopted better accessibility standards and began a multi-year enhancement effort of all applications
 systems used by the public, to include improved language translation, text-to-speech auditory support,
 and high-visibility color contrast designs
-83 jasujazumdinski
+83 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Innovation & Performance
 Fiscal Year 2025 103000
@@ -2616,7 +2616,7 @@ Database Administrator 1 27G 12 88,375 1 27G 12 91,021
 Senior Manager, Innovation 1 29G 12 95,697 1 29G 12 98,571
 Senior Project Coordinator 2 23E 12 138,070 2 21G 12 142,230
 Project Coordinator — — — 1 20G 12 68,162
-84 jasujazumdinski
+84 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Innovation & Performance
 Fiscal Year 2025 103000
@@ -2652,7 +2652,7 @@ Temporary, Part-Time, and Seasonal Allowances — 72,050 — 48,000
 Vacancy Allowance — (300,511) — (321,828)
 Digital Equity Grant Funding — (30,000) — —
 Total Full-time Positions and Net Salaries 67 $ 4,843,110 68 $ 5,089,971
-85 jasujazumdinski
+85 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Innovation & Performance
 Fiscal Year 2025 103000
@@ -2727,7 +2727,7 @@ Commission on
 Human Relations
 88
 
-89 jasujazumdinski
+89 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Commission on Human Relations
 Fiscal Year 2025 105000
@@ -2784,7 +2784,7 @@ Student Interns — — $ 5,000 — — $ 5,000
 Total Full-Time Permanent Positions 8 $ 543,947 8 $ 560,280
 Temporary, Part-Time, and Seasonal Allowances — 5,000 — 5,000
 Total Full-Time Positions and Net Salaries 8 $ 548,947 8 $ 565,280
-91 jasujazumdinski
+91 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Commission on Human Relations
 Fiscal Year 2025 105000
@@ -2845,7 +2845,7 @@ Office of the
 City Controller
 94
 
-95 jasujazumdinski
+95 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of the City Controller
 Fiscal Year 2025 106000
@@ -2873,7 +2873,7 @@ Fiscal Audit - Performs fiscal reviews of city departments and authorities, typi
 expenditures; audits the City's imprest and trust fund accounts.
 Engineering - Inspects and audits engineering, architectural, construction and demolition contracts during and
 after completion of projects
-96 jasujazumdinski
+96 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of the City Controller
 Fiscal Year 2025 106000
@@ -2921,7 +2921,7 @@ Contract Specialist 1 18F 12 58,352 1 17G 12 60,112
 Controller's Clerk 2 18E 12 111,776 6 16G 12 345,449
 Clerk 2 4 18E 12 223,552 — — —
 Financial Systems Manager 1 33A 12 58,352 — — —
-97 jasujazumdinski
+97 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of the City Controller
 Fiscal Year 2025 106000
@@ -2983,7 +2983,7 @@ Expenditures
 57501 - Machinery & Equipment 5,890 15,819 15,819 —
 57571 - Furniture & Fixtures 85 3,820 3,820 —
 Expenditures Total $ 4,615,962 $ 4,904,488 $ 5,402,279 $ 497,791 10.1%
-99 jasujazumdinski
+99 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of the City Controller
 Fiscal Year 2025 106000
@@ -3013,7 +3013,7 @@ Department of
 Finance
 101
 
-102 jasujazumdinski
+102 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Finance
 Fiscal Year 2025 107000
@@ -3059,7 +3059,7 @@ accounts are collected for the current year. The Real Estate division manages th
 online for the public to search and apply for properties that are for sale. The division works with property buyers,
 delinquency collectors, the School District, County Assessor’s Office, the Urban Redevelopment Authority, and the
 Law department to return property to the tax rolls and expedite the sales processes.
-103 jasujazumdinski
+103 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Finance
 Fiscal Year 2025 107000
@@ -3087,7 +3087,7 @@ vendors, ROLLKALL, and 412 ONESTOPPGH Counter
 • Completed Data & Software Inventories
 • Upgraded security door access to improve staff safety
 • Created new website for the Other Post-Employment Benefits Trust Fund
-104 jasujazumdinski
+104 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Finance
 Fiscal Year 2025 107000
@@ -3146,7 +3146,7 @@ Director 85% 15%
 Assistant Real Estate Supervisor 50% 50%
 Senior Assistant, Real Estate 25% 75%
 Assistant II, Administrative 10% 90%
-106 jasujazumdinski
+106 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Finance
 Fiscal Year 2025 107000
@@ -3223,7 +3223,7 @@ $ 177,731,294 $ 190,894,635 $ 193,056,054 $ 2,161,419 1.1%
 • OPEB trust contribution: $750,000
 58101 - Grants is broken downs as follows:
 • Carnegie Library grant, per 1890s agreement: $40,000
-108 jasujazumdinski
+108 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Finance
 Fiscal Year 2025 107000
@@ -3255,7 +3255,7 @@ DEPARTMENT OF FINANCE
 Department of Law
 110
 
-111 jasujazumdinski
+111 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Law
 Fiscal Year 2025 108000
@@ -3292,7 +3292,7 @@ costs of additional litigation and eliminating any expenses for judgments or set
 • Challenged additional tax exempt properties on the basis that the properties were not purely public
 charities or not being used for a charitable purpose. Proceeded to hearing on a number properties in
 front of the Board of Viewers. Reviewed all parcels with a charitable tax exemption.
-112 jasujazumdinski
+112 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Law
 Fiscal Year 2025 108000
@@ -3363,7 +3363,7 @@ Expenditures
 58 - MISCELLANEOUS 5,762,197 6,830,000 1,280,000 (5,550,000) (81.3)%
 58105 - Judgements 5,762,197 6,830,000 1,280,000 (5,550,000)
 Expenditures Total $ 10,682,325 $ 12,990,528 $ 6,989,174 $ (6,001,354) (46.2)%
-114 jasujazumdinski
+114 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Law
 Fiscal Year 2025 108000
@@ -3430,7 +3430,7 @@ streamline the filing process for candidates and their committees
 • Disclosures: Overhauled the Statement of Affiliations for improved identification of potential conflicts
 • Investigations and Enforcement: Continued efforts to investigate and, when applicable, prosecuted ethics
 complaints and enforced violations
-118 jasujazumdinski
+118 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Ethics Hearing Board
 Fiscal Year 2025 108100
@@ -3499,7 +3499,7 @@ Office of Municipal
 Investigations
 122
 
-123 jasujazumdinski
+123 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of Municipal Investigations
 Fiscal Year 2025 240000
@@ -3550,7 +3550,7 @@ Total Full-Time Permanent Positions 8 $ 552,395 8 $ 568,942
 Total Full-Time Permanent Positions 8 $ 552,395 8 $ 568,942
 Vacancy Allowance $ (19,556) $ (19,556)
 Total Full-Time Positions and Net Salaries 8 $ 532,839 8 $ 549,386
-125 jasujazumdinski
+125 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of Municipal Investigations
 Fiscal Year 2025 240000
@@ -3607,7 +3607,7 @@ Human Resources
 and Civil Service
 128
 
-129 jasujazumdinski
+129 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Human Resources & Civil Service
 Fiscal Year 2025 109000
@@ -3653,7 +3653,7 @@ Pittsburgh Partnership - The Pittsburgh Partnership provides employment and trai
 help City of Pittsburgh residents become attached or reattached to the labor force. Funding for the Employment
 and Retention Network (EARN) program is provided by the Pennsylvania Department of Human Services, while
 Community Development and Block Grant and general funds support the Summer Youth Employment initiative.
-130 jasujazumdinski
+130 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Human Resources & Civil Service
 Fiscal Year 2025 109000
@@ -3708,7 +3708,7 @@ Training & Development Coordinator 2 18E 12 111,776 2 18G 12 125,341
 Employee Relations Coordinator 1 20G 12 66,179 1 20G 12 68,162
 DHR Investigator 1 19E 12 58,352 1 18G 12 62,670
 Total Full-Time Permanent Positions 38 $ 2,659,330 38 $ 2,793,668
-132 jasujazumdinski
+132 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Human Resources & Civil Service
 Fiscal Year 2025 109000
@@ -3773,7 +3773,7 @@ Expenditures
 56151 - Operational Supplies 69,520 93,500 93,500 —
 56301 - Parts 2,804 — — —
 56401 - Materials — 3,500 3,500 —
-134 jasujazumdinski
+134 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Human Resources & Civil Service
 Fiscal Year 2025 109000
@@ -3821,7 +3821,7 @@ Department of
 City Planning
 137
 
-138 jasujazumdinski
+138 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of City Planning
 Fiscal Year 2025 110000
@@ -3857,7 +3857,7 @@ transit lines
 single unit detached districts, and draft and pass legislation to simplify the process for childcare uses
 • Working to expand the new base Zoning Districts (UC-MU and UC-E) to a portion of North Oakland, as
 identified in the Oakland Plan
-139 jasujazumdinski
+139 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of City Planning
 Fiscal Year 2025 110000
@@ -3915,7 +3915,7 @@ Total Full-Time Permanent Positions 56 $ 4,039,786 54 $ 4,038,083
 Temporary, Part-Time, and Seasonal Allowances — 62,196 — 62,196
 Vacancy Allowance — (201,642) — (254,500)
 Total Full-Time Positions and Net Salaries 56 $ 3,900,340 54 $ 3,845,779
-141 jasujazumdinski
+141 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of City Planning
 Fiscal Year 2025 110000
@@ -3982,7 +3982,7 @@ Permits, Licenses,
 and Inspections
 144
 
-145 jasujazumdinski
+145 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Permits, Licenses, & Inspections
 Fiscal Year 2025 130000
@@ -4030,7 +4030,7 @@ Licensing and Administration Division
 The licensing and administration division:
 • Regulates business and trade licenses per PCC Title 7 Business Licenses.
 • Performs PLI administrative functions.
-146 jasujazumdinski
+146 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Permits, Licenses, & Inspections
 Fiscal Year 2025 130000
@@ -4062,7 +4062,7 @@ OneStopPGH system.
 and DCP’s zoning application
 • Prepared the launch of in-person services at the OneStopPGH counter at 412 Blvd of the Allies
 • Prepared the launch of the residential housing rental permit program
-147 jasujazumdinski
+147 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Permits, Licenses, & Inspections
 Fiscal Year 2025 130000
@@ -4114,7 +4114,7 @@ Total Full-Time Permanent Positions 120 $ 8,202,609 120 $ 8,542,894
 Temporary, Part-Time, and Seasonal Allowances — 5,000 — 5,000
 Vacancy Allowance — (820,761) — (516,779)
 Total Full-Time Positions and Net Salaries 120 $ 7,386,848 120 $ 8,031,115
-149 jasujazumdinski
+149 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Permits, Licenses, & Inspections
 Fiscal Year 2025 130000
@@ -4188,7 +4188,7 @@ Bureau of
 Administration
 153
 
-154 jasujazumdinski
+154 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Public Safety - Bureau of Administration
 Fiscal Year 2025 210000
@@ -4240,7 +4240,7 @@ Park Rangers act as park ambassadors for the Department of Public Safety by educ
 users on park offerings, programs, activities, local ordinances, rules, and regulations. Park Rangers also
 engage park visitors in mutually respectful ways that benefit and develop relationships and appropriate
 park use.
-155 jasujazumdinski
+155 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Public Safety - Bureau of Administration
 Fiscal Year 2025 210000
@@ -4293,7 +4293,7 @@ Pittsburgh.
 Special Inter-Bureau Operations - Special Inter-Bureau Operations includes emergency response requiring
 personnel, equipment, and resources from EMS, Fire, Police, Emergency Management, Animal Care and Control,
 and the Rangers. These operations include on-going operational training, readiness, planning, and provide
-156 jasujazumdinski
+156 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Public Safety - Bureau of Administration
 Fiscal Year 2025 210000
@@ -4344,7 +4344,7 @@ academic year, resulting in 270 conducted meditations, over 1,000 community reso
 students through NewEra412, and a 100% graduation rate of eligible participants
 • The Violence Prevention program hosted CPR, Stop the Bleed, and First Aid trainings for youth sports
 partners and grantees, certifying 50 people and securing free AEDs, with the support of Damar Hamlin
-157 jasujazumdinski
+157 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Public Safety - Bureau of Administration
 Fiscal Year 2025 210000
@@ -4408,7 +4408,7 @@ Total Full-Time Positions and Net Salaries 135 $ 5,119,093 134 $ 5,099,561
 The labor agreements for SEIU 192B and SEIU 668 members expire on December 31, 2024. This budget reflects
 a 0% salary increase for members as conversations continue through Q4.The City anticipates that these numbers
 will change.
-159 jasujazumdinski
+159 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Public Safety - Bureau of Administration
 Fiscal Year 2025 210000
@@ -4490,7 +4490,7 @@ Emergency Medical
 Services
 162
 
-163 jasujazumdinski
+163 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Emergency Medical Services
 Fiscal Year 2025 220000
@@ -4528,7 +4528,7 @@ protection.
 For the Hazmat Team, EMS participates with the Bureaus of Fire and Police, providing personnel trained and
 certified to the Technician level for entry, evaluation, mitigation, and decontamination. EMS also provides the
 required medical monitoring for pre-entry and post-entry for an incident.
-164 jasujazumdinski
+164 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Emergency Medical Services
 Fiscal Year 2025 220000
@@ -4568,7 +4568,7 @@ administer blood on September 6, 2024
 Rescue 2
 ◦ Pittsburgh EMS is awaiting final legal agreements with the Blood Bank to deploy blood in the field
 and begin the program
-165 jasujazumdinski
+165 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Emergency Medical Services
 Fiscal Year 2025 220000
@@ -4607,7 +4607,7 @@ are subject to full ratification.
 If ratified, the following provision will be implemented:
 • The rank of "Senior Emergency Medical Technician" will be eliminated, with current employees moving into the new
 appropriate EMT position based on their anniversary dates, as indicated above
-166 jasujazumdinski
+166 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Emergency Medical Services
 Fiscal Year 2025 220000
@@ -4698,7 +4698,7 @@ BUREAU OF EMERGENCY MEDICAL SERVICES
 Bureau of Police
 170
 
-171 jasujazumdinski
+171 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Police
 Fiscal Year 2025 230000
@@ -4742,7 +4742,7 @@ investigation and clearance of crimes against persons and property. There are tw
 Investigations Branch: Major Crimes and Violent Crimes. Members of the Investigations Branch are responsible
 for the investigation of criminal offenses, the detection, arrest and prosecution of criminals and the recovery of
 lost/stolen property to return to its rightful owner
-172 jasujazumdinski
+172 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Police
 Fiscal Year 2025 230000
@@ -4804,7 +4804,7 @@ overall quality of life in the Central Business District. Through extensive inve
 arrests were made, accompanied by the seizure of illicit narcotics and firearms. Twenty officers are
 assigned to DPSC and engage in a focused effort with business owners to improve quality of life issues
 from homelessness, to drug abuse, to juvenile disorder.
-174 jasujazumdinski
+174 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Police
 Fiscal Year 2025 230000
@@ -4856,7 +4856,7 @@ Police Officer - First Year 32.19 33.15
 The number of sworn police personnel shown above reflects the anticipated strength of the Bureau in 2025 with planned
 recruit classes and anticipated retirements. The budget also reflects an effort to rebalance public safety services within the
 Bureau via civilianization.
-176 jasujazumdinski
+176 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Police
 Fiscal Year 2025 230000
@@ -4929,7 +4929,7 @@ Expenditures
 57501 - Machinery & Equipment 2,320,389 2,707,185 3,705,073 997,888
 57571 - Furniture & Fixtures 1,986 — — —
 Expenditures Total $ 118,630,174 $ 123,160,604 $ 120,642,195 $ (2,518,409) (2.0)%
-178 jasujazumdinski
+178 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Police
 Fiscal Year 2025 230000
@@ -4958,7 +4958,7 @@ BUREAU OF POLICE
 Bureau of Fire
 180
 
-181 jasujazumdinski
+181 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Fire
 Fiscal Year 2025 250000
@@ -5006,7 +5006,7 @@ health and safety of Bureau employees through preventive and corrective measures
 the capability and response of the Bureau on the City's three rivers.
 • The Bureau of Fire continued to further gender equity by hosting the Girl's Fire Camp for the third
 consecutive year.
-182 jasujazumdinski
+182 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Fire
 Fiscal Year 2025 250000
@@ -5044,7 +5044,7 @@ Firefighter - 4th Year $ 36.26 $ 38.07
 Firefighter - 3rd Year $ 32.19 $ 33.79
 Firefighter - 2nd Year $ 27.99 $ 29.39
 Firefighter - 1st Year $ 23.80 $ 24.99
-183 jasujazumdinski
+183 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Fire
 Fiscal Year 2025 250000
@@ -5134,7 +5134,7 @@ Bureau of Animal
 Care and Control
 187
 
-188 jasujazumdinski
+188 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Animal Care & Control
 Fiscal Year 2025 280000
@@ -5182,7 +5182,7 @@ Highland Park Reservoir.
 four cats and one dog from a house fire.
 ◦ Over three dozen injured, abandoned, or sick wild animals were taken to the Human Animal
 Rescue of Pittsburgh's Wildlife Center in Verona, PA to receive veterinary care.
-189 jasujazumdinski
+189 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Animal Care & Control
 Fiscal Year 2025 280000
@@ -5258,7 +5258,7 @@ Community Health
 and Safety
 193
 
-194 jasujazumdinski
+194 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of Community Health and Safety
 Fiscal Year 2025 102300
@@ -5309,7 +5309,7 @@ survivors of trauma to provide emotional support and link them to appropriate tr
 to stabilize them and begin the process of healing. TSAP also provides community trauma response following
 shootings and other instances of violence, providing a supportive debriefing space and linkage to resources in a
 larger group setting.
-195 jasujazumdinski
+195 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of Community Health and Safety
 Fiscal Year 2025 102300
@@ -5363,7 +5363,7 @@ leveraging best practices in community outreach and community engagement. Staff 
 by developing programs and other initiatives in partnership with the community to enhance the quality of life,
 safety, and security of our community.
 Note: The Office of Community Health full time positions can be found in the Stop the Violence trust fund.
-196 jasujazumdinski
+196 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Office of Community Health and Safety
 Fiscal Year 2025 102300
@@ -5423,7 +5423,7 @@ Department of
 Public Works
 200
 
-201 jasujazumdinski
+201 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Public Works
 Fiscal Year 2025
@@ -5472,7 +5472,7 @@ subsidence, snow and ice storms, and other disasters
 • Leaf collection and removal
 • Snow and ice control
 • Field maintenance
-202 jasujazumdinski
+202 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Public Works
 Fiscal Year 2025
@@ -5523,7 +5523,7 @@ An inventory of outputs:
 • 4,144 tons of yard debris composted
 • 17 tons of electronic products collected
 • 100 tons of scrap metal recycled
-203 jasujazumdinski
+203 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Public Works
 Fiscal Year 2025
@@ -5576,7 +5576,7 @@ Maintenance, and Anti-Litter Enforcement.
 
 Bureau of
 Administration
-205 jasujazumdinski
+205 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Public Works - Bureau of Administration
 Fiscal Year 2025 410000
@@ -5645,7 +5645,7 @@ Expenditures
 56151 - Operational Supplies 5,119 3,250 2,750 (500)
 56401 - Materials 2,082 — — —
 Expenditures Total $ 1,651,091 $ 13,134,566 $ 14,269,913 $ 1,035,347 8.6%
-207 jasujazumdinski
+207 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Public Works - Bureau of Administration
 Fiscal Year 2025 410000
@@ -5712,7 +5712,7 @@ Total Full-Time Positions and Net Salaries 316 $ 15,629,032 286 $ 15,247,009
 The labor agreement for AFSMCE 2037 members expires on December 31, 2024. This budget reflects a 0%
 salary increase for members as conversations continue through Q4. The City anticipates that these numbers will
 change.
-210 jasujazumdinski
+210 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Operations
 Fiscal Year 2025 420000
@@ -5805,7 +5805,7 @@ BUREAU OF OPERATIONS
 Bureau of
 Environmental
 Services
-214 jasujazumdinski
+214 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Environmental Services
 Fiscal Year 2025 430000
@@ -5843,7 +5843,7 @@ Total Full-Time Positions and Net Salaries 195 $ 9,561,254 203 $ 9,820,388
 The labor agreement for AFSMCE 2037 members expires on December 31, 2024. This budget reflects a 0%
 salary increase for members as conversations continue through Q4. The City anticipates that these numbers will
 change.
-215 jasujazumdinski
+215 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Environmental Services
 Fiscal Year 2025 430000
@@ -5914,7 +5914,7 @@ BUREAU OF ENVIRONMENTAL SERVICES
 217
 
 Bureau of Facilities
-218 jasujazumdinski
+218 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Facilities
 Fiscal Year 2025 450000
@@ -5965,7 +5965,7 @@ Total Full-Time Positions and Net Salaries 90 $ 5,300,707 88 $ 5,482,525
 The labor agreement for AFSMCE 2037 members expires on December 31, 2024. This budget reflects a 0%
 salary increase for members as conversations continue through Q4. The City anticipates that these numbers will
 change.
-219 jasujazumdinski
+219 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Bureau of Facilities
 Fiscal Year 2025 450000
@@ -6055,7 +6055,7 @@ Parks and
 Recreation
 223
 
-224 jasujazumdinski
+224 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Parks & Recreation
 Fiscal Year 2025 500000
@@ -6104,7 +6104,7 @@ and aquatic activity year-round. The aquatics division operates 18 City of Pitts
 during the summer months. In the off season the aquatics team operates the Oliver Bath House, scheduled to
 complete renovation in fall of 2024, and partners with Pittsburgh Public Schools to host swim opportunities and
 lifeguard trainings for Pittsburgh youth that may be interesting in becoming a part of the City’s aquatics team. In
-225 jasujazumdinski
+225 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Parks & Recreation
 Fiscal Year 2025 500000
@@ -6161,7 +6161,7 @@ Total Full-Time Permanent Positions 53.80 $ 2,883,917 52.80 $ 2,895,805
 Temporary, Part-Time, and Seasonal Allowances — 1,391,080 — 1,467,182
 Vacancy Allowance — (506,510) — (202,706)
 Total Full-Time Positions and Net Salaries 53.80 $ 3,768,487 52.80 $ 4,160,281
-227 jasujazumdinski
+227 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Parks & Recreation
 Fiscal Year 2025 500000
@@ -6238,7 +6238,7 @@ Expenditures Total $ 5,378,737 $ 5,634,625 $ 8,886,563 $ 251,937 57.7%
 The City and Allegheny County Department of Human Services are finalizing a new partnership that will allow the
 County to offer financial support to City programs serving children and families, including recreational
 programming.
-230 jasujazumdinski
+230 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Parks & Recreation
 Fiscal Year 2025 500000
@@ -6269,7 +6269,7 @@ Mobility and
 Infrastructure
 232
 
-233 jasujazumdinski
+233 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Mobility & Infrastructure
 Fiscal Year 2025 600000
@@ -6318,7 +6318,7 @@ operation of the overall transportation and mobility network. The Bureau include
 • Traffic Design Division - The Design Division develops design standards and guidelines for
 transportation facilities including travel way dimensions, assemblage, operation, markings, signage, and
 other components. The Division is central in the determining design of facilities for vehicles, bicycles and
-234 jasujazumdinski
+234 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Mobility & Infrastructure
 Fiscal Year 2025 600000
@@ -6363,7 +6363,7 @@ safe operation of the mobility system such as landslides, sink holes, and bridge
 • Bridge Maintenance Division - The Bridge Maintenance Division performs routine maintenance and
 small repairs using in-house staff for the city’s inventory of 145 bridges. The division also oversees and
 inspects bridge repair work performed by city contractors.
-235 jasujazumdinski
+235 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Mobility & Infrastructure
 Fiscal Year 2025 600000
@@ -6402,7 +6402,7 @@ Projects, eight traffic safety projects, and 11 traffic Signal Replacement Proje
 • In coordination with the Office of Management and Budget and other partners, DOMI was awarded over
 $16 million in grant funding to make the City’s streets safer, and to support the Mayor’s goal of eliminating
 road-related deaths and serious injuries.
-236 jasujazumdinski
+236 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Mobility & Infrastructure
 Fiscal Year 2025 600000
@@ -6455,7 +6455,7 @@ Construction Supervisor 1 29E 12 88,375 1 27G 12 91,021
 Bridge Maintenance Supervisor 1 27E 12 81,074 1 25G 12 83,512
 Project Engineer 2 25E 12 149,611 2 23G 12 154,086
 Inspector 4 1 23E 12 69,035 1 21G 12 71,115
-237 jasujazumdinski
+237 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Mobility & Infrastructure
 Fiscal Year 2025 600000
@@ -6505,7 +6505,7 @@ Total Full-Time Permanent Positions 118 $ 8,001,326 122 $ 8,702,174
 Temporary, Part-Time, and Seasonal Allowances — 193,770 — 150,060
 Vacancy Allowance — (629,403) — (592,737)
 Total Full-Time Positions and Net Salaries 118 $ 7,565,693 122 $ 8,259,497
-238 jasujazumdinski
+238 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Department of Mobility & Infrastructure
 Fiscal Year 2025 600000
@@ -6586,7 +6586,7 @@ Citizen Police
 Review Board
 241
 
-242 jasujazumdinski
+242 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Citizen Police Review Board
 Fiscal Year 2025 999900
@@ -6637,7 +6637,7 @@ mediation and conciliation skills as well as crisis management and safety skills
 and performance objectives expected of Certified Police Oversight Professionals.
 Administrative - The Executive Director is responsible for administering the policies and procedures of the Board
 and those of the City which affect the daily operation of the Independent Citizen Police Review Board. Activities
-243 jasujazumdinski
+243 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Citizen Police Review Board
 Fiscal Year 2025 999900
@@ -6709,7 +6709,7 @@ Expenditures
 56101 - Office Supplies 2,133 4,000 4,000 —
 56151 - Operational Supplies 19,300 13,120 13,120 —
 $ 715,676 $ 914,154 $ 933,156 $ 19,002 2.1%
-246 jasujazumdinski
+246 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Citizen Police Review Board
 Fiscal Year 2025 999900
@@ -6782,7 +6782,7 @@ Expenditures
 Expenditures Total $ 70,016 $ 70,000 $ (16) —%
 Net Total $ (16) $ — $ 16
 Projected Ending Balance $ 315,448
-249 jasujazumdinski
+249 jasujazmudzinski
 
 City of Pittsburgh Operating Budget EEOC Trust Fund
 Fiscal Year 2025 1050282000
@@ -6825,7 +6825,7 @@ Expenditures
 Expenditures Total $ 38,500 $ 38,500 $ — —%
 Net Total $ (3,500) $ — $ 3,500
 Projected Ending Balance $ 206,066
-250 jasujazumdinski
+250 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Three Taxing Bodies Trust Fund
 Fiscal Year 2025 1070876500
@@ -6889,7 +6889,7 @@ Director 85% 15%
 Assistant Real Estate Supervisor 50% 50%
 Senior Assistant, Real Estate 25% 75%
 Assistant II, Administrative 10% 90%
-252 jasujazumdinski
+252 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Pittsburgh Partnership Trust Fund
 Fiscal Year 2025 1090230000
@@ -6956,7 +6956,7 @@ Job Developer 1 19E 12 58,352 1 17G 12 60,112
 Human Resources Specialist 3 12D 12 128,611 3 09G 12 132,475
 Human Resources Assistant 1 07D 12 37,285 1 04G 12 38,397
 Total Full-Time Positions and Net Salaries 20 $ 1,251,895 20 $ 1,289,580
-254 jasujazumdinski
+254 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Community Development Trust Fund
 Fiscal Year 2025 120000024
@@ -7004,7 +7004,7 @@ Senior Program Coordinator, CD 1 U09-H 12 69,155 2 U09-H 12 142,460
 Program Coordinator II, CD 2 U07-N 12 127,920 2 U07-N 12 131,758
 Program Coordinator, Community Development 3 U07-L 12 184,821 2 U07-L 12 126,910
 Total Full-Time Positions and Net Salaries 11 773,032 11 804,045
-256 jasujazumdinski
+256 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Police Secondary Employment Trust Fund
 Fiscal Year 2025 2100246700
@@ -7054,7 +7054,7 @@ Position Summary
 Title FTE Grade Months Budget FTE Grade Months Budget
 Assistant I, Administrative 1 U02-G 12 $ 38,542 1 U02-G 12 $ 39,698
 Total Full-Time Positions and Net Salaries 1 $ 38,542 1 $ 39,698
-258 jasujazumdinski
+258 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Stop the Violence Trust Fund
 Fiscal Year 2025 2100247700
@@ -7115,7 +7115,7 @@ Expenditures
 Expenditures Total $ 11,095,749 $ 11,841,651 $ 1,075,902 6.7%
 Net Total $ (253,064) $ (648,583) $ (725,519)
 Projected Ending Balance $ 16,169,861
-260 jasujazumdinski
+260 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Stop the Violence Trust Fund
 Fiscal Year 2025 2100247700
@@ -7154,7 +7154,7 @@ Trauma Specialist 1 22E 12 66,179 1 20G 12 68,162
 Law Enforcement Assisted Division (LEAD)
 Program Manager LEAD 1 27E 12 81,074 1 25G 12 83,512
 38 2,522,208 47 3,194,880
-261 jasujazumdinski
+261 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Stop the Violence Trust Fund
 Fiscal Year 2025 2100247700
@@ -7216,7 +7216,7 @@ Expenditures
 Expenditures Total $ 6,692,500 $ 6,692,500 $ — —%
 Net Total $ 1,507,851 $ 1,426,345 $ (81,506)
 Projected Ending Balance $ 13,688,064
-263 jasujazumdinski
+263 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Regional Asset District - Public Works Trust Fund
 Fiscal Year 2025 4000280300
@@ -7287,7 +7287,7 @@ Total Full-Time Positions and Net Salaries 73 $ 3,933,817 86 $ 4,616,747
 The labor agreement for AFSMCE 2037 members expires on December 31, 2024. This budget reflects a 0%
 salary increase for members as conversations continue through Q4. The City anticipates that these numbers will
 change.
-265 jasujazumdinski
+265 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Public Works Trust Fund
 Fiscal Year 2025 4000284300
@@ -7361,7 +7361,7 @@ Position Summary
 Title FTE Grade Months Budget FTE Grade Months Budget
 Arborist-Utility Coordinator 1 19G 12 $ 63,437 — — $ —
 Total Full-Time Positions and Net Salaries 1 $ 63,437 — $ —
-268 jasujazumdinski
+268 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Parks Tax Trust Fund
 Fiscal Year 2025 4000280070
@@ -7383,7 +7383,7 @@ other allowable contracting procedures pursuant to Chapter 161 of the City Code 
 Section 5. In accordance with Article 9 of the Home Rule Charter, Chapter 238 of the City Code, and Chapter 263
 of the City Code, any funds remaining in the Parks Trust Fund at the end of the fiscal year shall be carried into the
 next fiscal year and may be spent in addition to the appropriations set in Section 1.
-269 jasujazumdinski
+269 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Parks Tax Trust Fund
 Fiscal Year 2025 4000280070
@@ -7429,7 +7429,7 @@ Expenditures
 Expenditures Total $ 10,449,052 $ 9,851,973 $ (597,079) (5.7)%
 Net Total $ (380,339) $ (7,393) $ 372,946
 Projected Ending Balance $ 1,683,276
-270 jasujazumdinski
+270 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Parks Tax Trust Fund
 Fiscal Year 2025 4000280070
@@ -7475,7 +7475,7 @@ Total Full-Time Positions and Net Salaries 54 $ 3,835,665 57 $ 4,116,344
 The labor agreement for AFSMCE 2037 and SEIU 668 members expires on December 31, 2024. This budget
 reflects a 0% salary increase for members as conversations continue through Q4.The City anticipates that these
 numbers will change.
-271 jasujazumdinski
+271 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Special Events Trust Fund
 Fiscal Year 2025 5000731400
@@ -7542,7 +7542,7 @@ Total Full-Time Positions and Net Salaries 1.15 $ 82,925 1.15 $ 85,413
 Department of Special Events
 2024 Allocations Parks & Recreation Trust Fund
 Program Coordinator 3 85% 15%
-273 jasujazumdinski
+273 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Regional Asset District - Parks & Recreation Trust Fund
 Fiscal Year 2025 5000280400
@@ -7591,7 +7591,7 @@ Expenditures
 Expenditures Total $ 2,440,079 $ 2,231,219 $ (8,860) (8.6)%
 Net Total $ (190,529) $ 130,809 $ 121,338
 Projected Ending Balance $ 1,157,744
-274 jasujazumdinski
+274 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Regional Asset District - Parks & Recreation Trust Fund
 Fiscal Year 2025 5000280400
@@ -7630,7 +7630,7 @@ Park Ranger —% 40% 60%
 The labor agreement for SEIU 668 members expires on December 31, 2024. This budget reflects a 0% salary
 increase for members as conversations continue through Q4. The City anticipates that these numbers will
 change.
-275 jasujazumdinski
+275 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Mellon Park Trust Fund
 Fiscal Year 2025 5000283300
@@ -7703,7 +7703,7 @@ Park Ranger —% 40% 60%
 The labor agreement for SEIU 668 members expires on December 31, 2024. This budget reflects a 0% salary
 increase for members as conversations continue through Q4. The City anticipates that these numbers will
 change.
-277 jasujazumdinski
+277 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Schenley Park Rink Trust Fund
 Fiscal Year 2025 5000284500
@@ -7744,7 +7744,7 @@ Expenditures
 Expenditures Total $ 157,000 $ 157,000 $ — —%
 Net Total $ 3,000 $ 3,000 $ —
 Projected Ending Balance $ 857,379
-278 jasujazumdinski
+278 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Senior Citizens Program Trust Fund
 Fiscal Year 2025 5000285000
@@ -7821,7 +7821,7 @@ Assistant Director - HAL 50% 50%
 The labor agreement for SEIU 668 members expires on December 31, 2024. This budget reflects a 0% salary
 increase for members as conversations continue through Q4. The City anticipates that these numbers will
 change.
-280 jasujazumdinski
+280 jasujazmudzinski
 
 City of Pittsburgh Operating Budget Special Food Service Trust Fund
 Fiscal Year 2025 5000285500
@@ -7899,7 +7899,7 @@ Revenues Total $ 858,500 $ 858,500 $ — —%
 Expenditures Total $ 729,725 $ 729,725 $ — —%
 Net Total $ 128,775 $ 128,775 $ —
 Projected Ending Balance $ 2,036,351
-283 jasujazumdinski
+283 jasujazmudzinski
 
 Archives and Records Management Trust Fund
 Department: City Clerk 1012877000
@@ -7937,7 +7937,7 @@ Expenditures: Expenses to buy copies of the Code for City customers
 Last 12 months* Last 12 months* Spending Authority
 Revenues Expenditures as of 11/13/24
 $ 41,967.00 $ 38,875.50 $ 52,198.21
-284 jasujazumdinski
+284 jasujazmudzinski
 
 Comcast Franchise Trust Fund
 Department: Innovation & Performance 1030281500
@@ -7978,7 +7978,7 @@ salaries, supplies, materials, and other miscellaneous expenses
 Last 12 months* Last 12 months* Spending Authority
 Revenues Expenditures as of 11/13/24
 $ 1,530.00 $ 24,526.00 $ 1,135,956.83
-285 jasujazumdinski
+285 jasujazmudzinski
 
 Crossing Guards Special Events Trust Fund
 Department: Public Safety 2100240840
@@ -8019,7 +8019,7 @@ the terms of the grants.
 Last 12 months* Last 12 months* Spending Authority
 Revenues Expenditures as of 11/13/24
 $ 105,859.00 $ 70,578.34 $ 88,313.70
-286 jasujazumdinski
+286 jasujazmudzinski
 
 EMS Reimbursable Events Trust Fund
 Department: EMS 2200243700
@@ -8057,7 +8057,7 @@ Federal Task Force.
 Last 12 months* Last 12 months* Spending Authority
 Revenues Expenditures as of 11/13/24
 $ — $ — $ 14,543.35
-287 jasujazumdinski
+287 jasujazmudzinski
 
 Graffiti Trust Fund
 Department: Police 2300244200
@@ -8101,7 +8101,7 @@ hazardous material cleanup cost.
 Last 12 months* Last 12 months* Spending Authority
 Revenues Expenditures as of 11/13/24
 $ 25,000.00 $ 74,568.37 $ 42,369.78
-288 jasujazumdinski
+288 jasujazmudzinski
 
 Lead Safety Trust Fund
 Department: OMB 0222802700
@@ -8143,7 +8143,7 @@ permit purposes.
 Last 12 months* Last 12 months* Spending Authority
 Revenues Expenditures as of 11/13/24
 $ 47,662.00 $ — $ 59,608.91
-289 jasujazumdinski
+289 jasujazmudzinski
 
 Public Safety Training Trust Fund
 Department: Public Safety 2300246900
@@ -8183,7 +8183,7 @@ with YCPC and the Mayor’s Youth Initiative and will be used to pay costs assoc
 Last 12 months* Last 12 months* Spending Authority
 Revenues Expenditures as of 11/13/2024
 $ — $ 6,522.41 $ 172,453.60
-290 jasujazumdinski
+290 jasujazmudzinski
 
 Other Post Employment Benefits (OPEB) Trust Fund
 Department: Finance 1070813500
@@ -8225,7 +8225,7 @@ City Planning and/or Department of Public Works.
 Last 12 months* Last 12 months* Spending Authority
 Revenues Expenditures as of 11/13/24
 $ — $ — $ 91,685.00
-291 jasujazumdinski
+291 jasujazmudzinski
 
 Stormwater Management Trust Fund
 Department: City Planning and the Pittsburgh Water and Sewer Authority (PWSA) 1100280640
@@ -8268,7 +8268,7 @@ the annual operating budget
 Last 12 months* Last 12 months* Spending Authority
 Revenues Expenditures as of 11/13/24
 $ 3,750.00 $ — $ 33,889.62
-292 jasujazumdinski
+292 jasujazmudzinski
 
 OneStopPGH Permitting Technology Trust Fund
 Department: Any department that collects OneStopPGH
@@ -8323,7 +8323,7 @@ The American Rescue Plan Trust Fund is detailed in the narrative of this budget 
 294
 
 Grants
-295 jasujazumdinski
+295 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Grants
@@ -8352,7 +8352,7 @@ charging infrastructure in our communities, construct safety and accessibility i
 Road Corridor and install multiple intersection improvements throughout the City. Additionally, grants were
 received to support the City’s other departments including the renovation of Lewis Playground in Hazelwood and
 vehicles for our Park Rangers.
-296 jasujazumdinski
+296 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Grants
@@ -8426,7 +8426,7 @@ Awarded Spent Balance
 Appalachian Regional
 329400459 Digital Equity Coordinator 30,000 1,455 28,545
 Commission
-297 jasujazumdinski
+297 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Grants
@@ -8485,7 +8485,7 @@ PA Commission on Crime
 2129400457 Radio Replacement Program 17,598,124 17,383,537 214,587
 and Delinquency
 2129400483 Department of Justice BJA Appropriation 966,000.00 — 966,000.00
-298 jasujazumdinski
+298 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Grants
@@ -8549,7 +8549,7 @@ Management Agency
 Office of the State Fire
 2529400469 Commissioner Purchase of Handtools 20,000 — 20,000
 2529400482 Norfolk Southern Purchase of non toxic foam 15,000 — 15,000
-299 jasujazumdinski
+299 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Grants
@@ -8626,7 +8626,7 @@ Office of the State Fire
 Commissioner
 4029400445 PA Department of Aging Mt. Washington Healthy Active Living Center 50,000 38,762 11,238
 4029400446 PA Department of Aging West End Healthy Active Living Center 90,200 — 90,200
-300 jasujazumdinski
+300 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Grants
@@ -8698,7 +8698,7 @@ Transportation
 PA Department of
 6029400306 Community and Economic S 21st Street Improvements 500,000 — 500,000
 Development
-301 jasujazumdinski
+301 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Grants
@@ -8796,7 +8796,7 @@ Awarded Spent Balance
 Housing and Urban
 8229400488 Homewood Ave $ 750,000 $ — $ 750,000
 Development
-303 jasujazumdinski
+303 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Grants
@@ -8878,7 +8878,7 @@ Organization Chart
 308
 
 2025 Salary Tables
-309 jasujazumdinski
+309 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Salary Tables
@@ -8988,7 +8988,7 @@ Grade and Step Annual Rate
 13-5 114,193
 13-6 116,657
 14-1 120,578
-312 jasujazumdinski
+312 jasujazmudzinski
 
 Debt Service
 313
@@ -9099,7 +9099,7 @@ Date Principal Coupon Interest Debt Service Debt Service
 9/1/2035 4,110,000 5.000 % 210,625 4,320,625 4,531,250
 3/1/2036 107,875 107,875
 9/1/2036 4,315,000 5.000 % 107,875 4,422,875 4,530,750
-315 jasujazumdinski
+315 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Debt Service
@@ -9219,7 +9219,7 @@ Date Principal Coupon Interest Debt Service Debt Service
 9/1/2031 4,425,000.00 1.799 % 82,469.03 4,507,469.03 4,589,938.05
 3/1/2032 42,666.15 42,666.15
 9/1/2032 4,470,000.00 1.909 % 42,666.15 4,512,666.15 4,555,332.30
-318 jasujazumdinski
+318 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Debt Service
@@ -9303,7 +9303,7 @@ Date Principal Coupon Interest Debt Service Debt Service
 9/1/2041 3,720,000.00 5.000 % 190,625.00 3,910,625.00 4,101,250.00
 3/1/2042 97,625.00 97,625.00
 9/1/2042 3,905,000.00 5.000 % 97,625.00 4,002,625.00 4,100,250.00
-320 jasujazumdinski
+320 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Debt Service
@@ -9395,7 +9395,7 @@ Date Principal Coupon Interest Debt Service Debt Service
 9/1/2043 3,835,000.00 5.000 % 196,625.00 4,031,625.00 4,228,250.00
 3/1/2044 100,750.00 100,750.00
 9/1/2044 4,030,000.00 5.000 % 100,750.00 4,130,750.00 4,231,500.00
-322 jasujazumdinski
+322 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Debt Service
@@ -9493,7 +9493,7 @@ Date Principal Coupon Interest Debt Service Debt Service
 9/1/2045 3,370,000.00 5.000 % 172,750.00 3,542,750.00 3,715,500.00
 3/1/2046 88,500.00 88,500.00
 9/1/2046 3,540,000.00 5.000 % 88,500.00 3,628,500.00 3,717,000.00
-324 jasujazumdinski
+324 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Debt Service
@@ -9591,7 +9591,7 @@ Date Principal Coupon Interest Debt Service Debt Service
 9/1/2047 3,600,000.00 5.000 % 184,500.00 3,784,500.00 3,969,000.00
 3/1/2048 94,500.00 94,500.00
 9/1/2048 3,780,000.00 5.000 % 94,500.00 3,874,500.00 3,969,000.00
-326 jasujazumdinski
+326 jasujazmudzinski
 
 City of Pittsburgh Operating Budget
 Fiscal Year 2025 Debt Service
@@ -9710,7 +9710,7 @@ Open Flames and Torches $39.14
 105.6.40 Rooftop Heliports $272.95
 105.6.41 Spraying or Dipping $44.29
 105.6.42 Storage of Scrap Tires and Tire Products $73.13
-333 jasujazumdinski
+333 jasujazmudzinski
 
 105.6.43 Tent and Canopies (Larger than 20x20) $32.96
 105.6.44 Tire-Building Plants $39.14
@@ -9791,7 +9791,7 @@ Funds-in-Lieu to Street Tree Commission Trust Fund varies
 Funds-in-Lieu to Stormwater Management Trust Fund varies
 Funds-in-Lieu to Parking Trust Fund varies
 Note: Third-party payment providers may charge their own processing fee
-335 jasujazumdinski
+335 jasujazmudzinski
 
 DEPARTMENT OF MOBILITY & INFRASTRUCTURE
 Fee Description 2025
@@ -9880,7 +9880,7 @@ Extension Fees and Traffic Review Fees Only
 Barricade (<25) $60.00
 Barricade (25-100) $75.00
 Barricade (>100) $90.00
-337 jasujazumdinski
+337 jasujazmudzinski
 
 Scaffolding (<25) $40.00
 Scaffolding (25-100) $60.00
@@ -9966,7 +9966,7 @@ Master Fire Fighter* $56.84 per hour
 Fire Lieutenant* $61.77 per hour
 Fire Captain* $67.95 per hour
 Battalion Chief-2010* $76.32 per hour
-339 jasujazumdinski
+339 jasujazmudzinski
 
 Battalion Chief* $81.59 per hour
 Deputy Chief-2010* $80.93 per hour
@@ -10010,7 +10010,7 @@ Daily Pool Pass Adult (16+ years old) $5.00
 Daily Pool Pass Youth (3-15 years old) $3.00
 Non-City Resident $45.00
 City Resident Family of Four $60.00
-340 jasujazumdinski
+340 jasujazmudzinski
 
 Add on to Family of Four tag (additional family members
 $10.00
@@ -10062,7 +10062,7 @@ Advanced Payment - Tennis weekday night owl 9 pm - 10 pm $23.00
 Advanced Payment - Tennis weekend super prime time 7 am
 - 6 pm $34.00
 Advanced Payment - Tennis weekend night owl 6 pm - 8 pm $25.00
-341 jasujazumdinski
+341 jasujazmudzinski
 
 Permit Fee- High School Rental (per season spring, summer,
 fall) $500.00
@@ -10108,7 +10108,7 @@ Additional Stall (per market) $15.00
 Squirrel Hill Winter Session
 Market (per market) $20.00
 Additional Stall (per market) $15.00
-342 jasujazumdinski
+342 jasujazmudzinski
 
 DEPARTMENT OF PERMITS, LICENSES, and INSPECTIONS
 Fee Description 2025
@@ -10153,7 +10153,7 @@ Residential Permit Accelerated Plan Review Fee (All) - based on the value of con
 Residential Permit Accelerated Plan Review Fee Minimum (All) $500.00
 Residential Permit Accelerated Plan Review Fee Maximum (All) $8,000.00
 Plan Review Meeting (1 hour) Optional
-343 jasujazumdinski
+343 jasujazmudzinski
 
 Commercial Plan Review Meeting - based on the value of construction 0.25 %
 Commercial Plan Review Meeting Minimum Fee $125.00
@@ -10197,7 +10197,7 @@ Fire & Life Safety Registration & Inspection (initial and renewal) $150.00
 Parking Lot (initial and renewal) per location $135.00
 Peddler License (initial and renewal) $75.00
 Rental Permit Program
-344 jasujazumdinski
+344 jasujazmudzinski
 
 Rental Permit Program Registration Fee - flat fee per property $16.00
 Rental Permit Program General Inspection Fee - flat fee per property $5.50
@@ -10284,7 +10284,7 @@ West End Park Gazebo Shelter $130.00
 Banksville Park Gazebo Shelter $130.00
 Oakwood Park Shelter $130.00
 Mt. Washington Overlooks - per 2 hours per platform $50.00
-346 jasujazumdinski
+346 jasujazmudzinski
 
 OTHER
 General Permit - Contact DPW Permits office $50.00
@@ -10328,7 +10328,7 @@ Street Sweeping First Hour $340.00
 DPW services not otherwise identified - Hourly rate $90.00
 Trans-bleachers Daily Rental $170.00
 Trans-bleachers Set-up fee $227.00
-347 jasujazumdinski
+347 jasujazmudzinski
 
 Traffic cones - delivery, set up and pick up (per cone, 10 min) $6.00
 Water Barrier (per barricade, min 10) $30.00
@@ -10371,7 +10371,7 @@ Right of Way- Sidewalk- Commercial (per block) $22.00
 Run/Walk/Ride Permit- Park & Trail Only- Charitable $75.00
 Run/Walk/Ride Permit- Park & Trail Only- General $150.00
 Run/Walk/Ride Permit- Park & Trail Only-Commercial $250.00
-348 jasujazumdinski
+348 jasujazmudzinski
 
 Run/Walk/Ride Permit- Park/Trail & ROW- Charitable- park/local $125.00
 Run/Walk/Ride Permit- Park/Trail & ROW- Charitable- Collector $200.00
@@ -10415,7 +10415,7 @@ Right of Way Closure - Sidewalk - per day $100.00
 Additional Block Closure - per day 10% of base
 Intermittent Traffic Control - Arterial - per block $625.00
 Intermittent Traffic Control - Collector - per block $500.00
-349 jasujazumdinski
+349 jasujazmudzinski
 
 Intermittent Traffic Control - Local - per block $450.00
 Intermittent Traffic Control - Park Road - per block $375.00
@@ -10493,7 +10493,7 @@ DEPARTMENT OF FINANCE
 Fee Description 2025
 NSF Fee $30.00
 Property Sale - application fee $25.00
-351 jasujazumdinski
+351 jasujazmudzinski
 
 HUMAN RESOURCES & CIVIL SERVICE
 Fee Description 2025
@@ -10533,7 +10533,7 @@ EV Accident Storage Rate (per day) $95.00
 Towing Fee-Non City Owned Passenger Cars/Trucks April 1st 2025 Onwards $155.00
 Towing Fee-Non City Owned Passenger Cars/Trucks Pre April 1st 2025 $135.00
 Towing Fee-Non City Owned Vehicles <9,000 lbs April 1st 2025 Onwards $155.00
-352 jasujazumdinski
+352 jasujazmudzinski
 
 Towing Fee-Non City Owned Vehicles <9,000 lbs Pre April 1st 2025 $135.00
 Towing Fee-Non City Owned Vehicles 9,001-20,000 lbs April 1st 2025 Onwards $275.00
@@ -10592,4 +10592,4 @@ Shrink Wrap April 1st 2025 Onwards (per hour) $30.00
 Debris Cleanup April 1st 2025 Onwards (per hour) $150.00
 Debris Cleanup Pre April 1st 2025 (per hour) $15.00
 Note: Third-party payment providers may charge their own processing fee
-354 jasujazumdinski
+354 jasujazmudzinski
