@@ -6,14 +6,14 @@ CMU has 127,691 active alumni
 45% of CMU's students are international students
 22+ Members Pittsburgh Symphony Orchestra musicians serve as distinguished faculty in CMU's School of Music
 21 Nobel Prizes have been awarded to CMU faculty and alumni award, widely recognized as one of the highest honors an individual can receive, in 5 of the 6 possible categories.
-jasujazumdinski
+jasujazmudzinski
 In 1955, Herbert Simon and Allen Newell create Logic Theorist, a computer program that could solve logic puzzles in the same way a human might in a game of chess.
 In 1984, CMU built the robot terregator, which pioneered exploration, road following and mine mapping. It was the world’s first rugged, capable, autonomous outdoor navigation robot.
 In 2006, CMU founded its machine learning department, considered the world’s first machine learning academic department.
 CMU’s and General Motors self-driving SUV “BOSS” wins the 2007 DARPA Urban Challenge, a driverless car competition.
 In 2018, CMU announced the first AI undergraduate major. This was the first offered AI undergraduate major by a U.S. university in response to extraordinary technical breakthroughs in AI and the growing demand by students and employers.
 In 2022, CMU announces a new first-of-its-kind Master of Science in Artificial Intelligence Engineering degree, combining AI and machine learning with engineering domain knowledge.
-jasujazumdinski
+jasujazmudzinski
 
 CMU is the number 24 University in the World by Times Higher Education and #20 in the U.S. by U.S. News & World Report.
 CMU holds the #1 artificial intelligence program and the #2 computer science program in the U.S., according to U.S. News & World Report.
@@ -23,7 +23,7 @@ CMU is a founding EPA Green Power Partner and receive 100% of its electricity fr
 13 Turing Awards awarded to CMU faculty and alumni.
 CMU Senior Zoe Schneider Awarded K&L Gates Prize
 Carnegie Mellon University historian Edda Fields-Black has been awarded the 2025 Pulitzer Prize in History for her book COMBEE: Harriet Tubman, the Combahee River Raid and Black Freedom during the Civil War. The book explores the 1863 Combahee River Raid, led by Tubman, which resulted in the liberation of 756 enslaved people. Fields-Black’s work highlights the voices of the freedom seekers and Tubman’s leadership in this pivotal Civil War event.
-jasujazumdinski
+jasujazmudzinski
 
 Times Higher Education Rankings of CMU (2025)
 World University Rankings: #24
@@ -66,7 +66,7 @@ Animation Career Review Rankings of CMU (2024)
 Top 50 Animation Schools and Colleges in the U.S.: #15
 Top 50 Game Design Schools and Colleges in the U.S.: #3
 Top 50 Graphic Design Schools and Colleges in the U.S.: #12
-jasujazumdinski
+jasujazmudzinski
 
 
 CMU is proud to call Pittsburgh, Pennsylvania home. The city provides an unbeatable combination of affordability and opportunity for our students and staff. With a cost of living at the national average, a thriving innovation ecosystem, and rich cultural offering,  the Steel City is an ideal place to study and launch your career.
@@ -76,7 +76,7 @@ Pittsburgh has a top 10 Rental Market for Recent College Graduates according to 
 Pittsburgh is the #2 Best City to Find a Job According to WalletHub
 Pittsburh has 3,800 Acres Of city parks to explore, including Schenley Park, which is adjacent to CMU campus
 Nearly 300,000 professionals power Pittsburgh's booming tech industries. Opportunities multiply through startup accelerators, networking events and an innovative community eager to support the next big idea. Robotics and software engineering are the city's tech cornerstones, attracting global giants and nurturing homegrown success stories. Google, Uber, Microsoft and Apple have all established significant presences here, while an ever-expanding galaxy of tech startups — including language-learning phenomenon Duolingo and fashion innovator Modcloth — trace their roots back to Carnegie Mellon University.
-jasujazumdinski
+jasujazmudzinski
 
 https://www.cmu.edu/campus-life/living-in-pittsburgh
 Vision
@@ -94,7 +94,7 @@ Empathy and compassion, reflected in our focus on improving the human condition 
 Inclusion, reflected in a culture and climate that seeks, welcomes and advances talented minds from diverse backgrounds
 Integrity, reflected in our adherence to the highest ethical standards in personal and professional behavior, and in our commitment to transparency and accountability in governance and everything we do
 Sustainability, reflected in our shared commitment to lead by example in preserving and protecting our natural resources, and in our approach to responsible financial planning
-jasujazumdinski
+jasujazmudzinski
 
 The Fence
 The Fence is an iconic piece of Carnegie Mellon’s Pittsburgh campus. Serving as a student-centered space for free expression and community, The Fence has brought the CMU community together for more than 100 years. 
@@ -121,7 +121,7 @@ Concerns at The Fence
 Respect for fellow students and The Fence itself is key to ensuring this time-honored tradition continues. Student Government is committed to making sure all students and student organizations can freely participate in the tradition of painting The Fence. 
 The Fence has, at times, been a flashpoint for discourse and a source of conflict. The Poster Policy Arbiter (PPA) is a student employed by Student Government to intake any concerns surrounding The Fence, help identify possible solutions, and encourage open and restorative dialogue among impacted students. By informing Student Government about possible violations of the Poster Policy or instances of conflict at The Fence, CMU community members help us to keep painting The Fence a positive experience for all.
 Concerns about The Fence can be reported to the Poster Policy Arbiter and Student Government through one of the following methods:
-jasujazumdinski
+jasujazmudzinski
 
 History of The Fence
 How It Started
@@ -136,7 +136,7 @@ After many decades (and layers of paint), in 1989, the west end of the Fence col
 2011: After first-year art students damaged The Fence with a hacksaw, students rallied around its restoration. “Operation Heal the Fence”, a student-coordinated event, “attracted hundreds of students to the Cut that night to reclaim and repaint the Fence”.
 2020: During the COVID-19 pandemic, The Fence was painted with a very relatable “CYA on Zoom.” 
 2020: When someone changed the “Black Lives Matter” message to “All Lives Matter,” students quickly gathered to repaint The Fence to its original message.
-jasujazumdinski
+jasujazmudzinski
 
 Save the Date: Spring Carnival 2026
 Mark your calendars for the next Spring Carnival and Reunion Weekend: April 9-11, 2026! We will be celebrating the undergraduate class years ending in 1s and 6s, plus the first reunion of the Class of 2025. Learn about Reunion Weekend and how you can get involved.
@@ -180,13 +180,13 @@ All Gender:
 SDC A (2:25.62)
 PiKA A (2:38.77)
 Fringe A (2:43.90)
-jasujazumdinski
+jasujazmudzinski
 "What's Buggy?" you ask.
 It is the quintessential interdisciplinary sport and it's one of Carnegie Mellon University's longest held traditions.
 This annual student-led relay race, officially known as "Sweepstakes," partners designers, engineers, mechanics and athletes. Together, these brilliant, quirky, creative minds produce a buggy — an aerodynamic vehicle with no engine. It's powered by brains and brawn alone.
-In just over two minutes, teams of power-pushing men and women race around a .84 mile track with buggy and driver leading the way around Schenley Park's Flagstaff Hill, with speeds up to 40 mph.
+In just over two minutes, teams of power-pushing men and women race around a 0.84 mile track with buggy and driver leading the way around Schenley Park's Flagstaff Hill, with speeds up to 40 mph.
 Every April during Spring Carnival, students, alumni and community fans watch Buggy teams compete for the annual title.
-jasujazumdinski
+jasujazmudzinski
 Scotty Saturday
 October 4, 2025 is Scotty Saturday!
 Scotty Saturday celebrates Carnegie Mellon spirit and pride, uplifting our incredible students and highlighting the vibrancy of our campus! Join us for a fun-filled afternoon of activities, traditions, student talent showcases, free snacks, and more!
@@ -199,7 +199,7 @@ Tartans Football Game 2pm
 Evening Eats & Entertainment 4pm - 6pm
 Apparel Sale 4pm - 6pm
 Student Showcase 4pm - 6pm
-jasujazumdinski
+jasujazmudzinski
 
 The FAIR showcases many of CMU's 350+ Student Government recognized student organizations and 20+ sorority and fraternity organizations. The entire CMU community — undergraduate and graduate students, staff, and faculty — are invited to explore ways to get involved at Carnegie Mellon.
 
@@ -222,7 +222,7 @@ Each organization has a unique QR Code on their TartanConnect page that users ca
 Do not expect to have electrical outlets. Generators are not permitted. We ask that any music or recorded sound be played only at a level that does not impede conversations at the table next you. A staff member from the Office of Student Involvement and Traditions may ask you to turn sound down or off. We will not be able to provide performance or demonstration space for your organization. 
 Brainstorm with organization members for a creative giveaway to pass out to visitors. (Live animals are not permitted as giveaways). Have members at your table to answer questions. Be proactive and approach students instead of just setting up a display and standing by it. Have a sign-up sheet ready to collect names and emails of those interested in joining your organization.
 Plan when and where your first meeting or information session will be so that you can advertise that information during the FAIR.
-jasujazumdinski
+jasujazmudzinski
 Founder Spotlight
 A self-educated "working boy," Andrew Carnegie emigrated from Scotland in 1848 and settled in Pittsburgh, Pa. Attending night school and borrowing books, Carnegie went from factory worker in a textile mill to successful entrepreneur and industrialist. He rose to prominence by founding what became the world's largest steel producing company by the end of the 19th century.
 "My heart is in the work," he stated, which would become part of the school's official motto.
@@ -246,13 +246,13 @@ The CMU of Today
 In 1967, Carnegie Tech merged with the Mellon Institute, a science research center founded by the Mellon family of Pittsburgh, to become known as Carnegie Mellon University.
 This support from the Mellons allowed Carnegie Mellon to establish the last of its current pillars: the Mellon College of Science and the College of Humanities and Social Sciences, now known as the Marianna Brown Dietrich College of Humanities and Social Sciences.
 In 2017, Carnegie Mellon celebrated the 50th anniversary of the Carnegie Tech–Mellon Institute merger, revisiting the shared vision of the founders and recognizing the impact it has had, and will continue to have, in the world of higher education, research and discovery.
-jasujazumdinski
+jasujazmudzinski
 CMU's global leadership
 Today its global presence includes campuses in Qatar and Silicon Valley, Calif., more than a dozen degree-granting locations, and more than 20 research partnerships in cities and countries such as Los Angeles, New York City, Washington, D.C., China, Portugal and Rwanda.
 2002: Carnegie Mellon established a branch campus in Silicon Valley, the epicenter of the modern technological revolution.
 2004: Carnegie University in Qatar (CMU-Q) opened its doors with 41 students, offering programs in Business Administration and Computer Science.
 2011: Carnegie Mellon University and the Government of Rwanda signed an agreement to establish CMU-Africa. This partnership was designed to respond to the critical shortage of high-quality engineering talent required to harness Africa's tremendous potential as home to the fastest-growing workforce in the world.
-jasujazumdinski
+jasujazmudzinski
 College of Fine Arts, School of Architecture
 Undergraduate Majors
 Bachelor of Architecture, 5-year program, NAAB-accredited
@@ -282,7 +282,7 @@ Minor in Art
 Minor in Photography
 Minor in IDEATE
 Learn MorE
-jasujazumdinski
+jasujazmudzinski
 
 College of Fine Arts, School of Design
 Undergraduate Majors
@@ -336,7 +336,7 @@ Undergraduate Minors for Non-Music Majors
 Minor in Music
 Minor in Music Technology
 Minor in Music Theory
-jasujazumdinski
+jasujazmudzinski
 
 Tepper School of Business Programs
 B.S. in Business Administration
@@ -356,7 +356,7 @@ Our business curriculum is designed around core courses that include business, e
 The first-year curriculum is devoted to building foundational analysis, communication, and context skills through courses in economics, math, and the liberal arts. First-year students also enroll in Business Science, a course that sets the foundation for their business education. With one of the lowest student-to-faculty ratios of the top 10 undergraduate business programs, Tepper School faculty enjoy taking a more personal interest in your success.
 After your first semester, you will discover that our curriculum is flexible and allows you to maximize your undergraduate studies to achieve your academic goals. During sophomore and junior years, you’ll concentrate on your business core classes, electives, and general education courses and select a minor. Senior year includes a senior capstone course and is flexible enough to finish your degree requirements in the pathway that works best for you.
 Check the undergraduate course catalog for additional business curriculum details.
-jasujazumdinski
+jasujazmudzinski
 CMU School of Computer Science programs
 Artificial Intelligence
 B.S. in Artificial Intelligence
@@ -375,7 +375,7 @@ Bachelor of Humanities and Arts (jointly with the Dietrich College of Humanities
 Bachelor of Science and Arts (jointly with the Mellon College of Science and the College of Fine Arts)
 Computational Finance Program
 B.S. in Computational Finance (jointly with the Dietrich College of Humanities and Social Sciences, Heinz College, Mellon College of Science and Tepper School of Business)
-jasujazumdinski
+jasujazmudzinski
 Mellon College of Science programs
 Biological Sciences
 B.A. in Biological Sciences
@@ -453,7 +453,7 @@ B.S. in Statistics and Data Science (Mathematical Sciences Track)
 B.S. in Statistics and Data Science (Neuroscience Track)
 B.S. in Statistics and Machine Learning
 B.S. in Economics and Statistics
-jasujazumdinski
+jasujazmudzinski
 College of Engineering Programs
 Additional major in Biomedical Engineering
 Minor in Biomedical Engineering
@@ -482,17 +482,17 @@ Electronic Materials
 Global Engineering
 Materials Science and Engineering
 Mechanical Behavior of Materials
-jasujazumdinski
+jasujazmudzinski
 Intramural sports are popular on CMU campus, including leagues and one-day events throughout the academic year. You can participate in flag football, soccer, softball, inner-tube water polo, cross country and dodgeball — just to name a few. Whether you’re in it for the fierce competition or just for the friendly camaraderie, you’ll find a team to fit.
 CMU Club sports offer you a chance to continue your interests from high school or to pick up a new one, while competing against other colleges and universities. There are 23 club sports organizations, including figure skating, crew (rowing), cricket, rugby, Ultimate Frisbee, cycling, fencing and martial arts.
 Carnegie Mellon sponsors 19 Division III varsity sports teams. The Carnegie Mellon Tartans consistently compete on a high level, with teams and individual athletes routinely continuing on to post-season competition.
-jasujazumdinski
+jasujazmudzinski
 CMU Fraternities and Sororities
 CMU has 1,100+ Fraternity & Sorority Life members
 19% of the student body joins a fraternity or sorority
 CMU has 18 Chapters on campus and in the city
 Fraternity and Sorority Life at Carnegie Mellon University is more than just a social experience—it’s a network of driven, passionate students who support each other academically, professionally, and personally. With a strong emphasis on leadership, philanthropy, and personal growth, fraternities and sororities at CMU create spaces for students to build lifelong friendships while making a tangible impact on campus and beyond. Whether organizing large-scale service initiatives, fostering mentorship opportunities, or celebrating traditions, Fraternity and Sorority Life at CMU is about finding a community that challenges and inspires you to be your best.
-jasujazumdinski
+jasujazmudzinski
 Nearly 300,000 professionals power Pittsburgh's booming tech industries. Opportunities multiply through startup accelerators, networking events and an innovative community eager to support the next big idea. Robotics and software engineering are the city's tech cornerstones, attracting global giants and nurturing homegrown success stories. Google, Uber, Microsoft and Apple have all established significant presences here, while an ever-expanding galaxy of tech startups — including language-learning phenomenon Duolingo and fashion innovator Modcloth — trace their roots back to Carnegie Mellon University.
 First-Year Move-In
 Congratulations on your admission to Carnegie Mellon University! Move-In Day at CMU is high-energy and engaging, and we can't wait to meet you! You'll find all the need-to-know information here, but feel free to email us with any questions.
@@ -501,7 +501,7 @@ Due to traffic restrictions, students will be required to sign up for a move-in 
 Sensory-Friendly Move-In Option
 At Carnegie Mellon, we understand that Move-In day can be exciting, but also a bit overwhelming. That's why we are offering a sensory-friendly move-in experience for students and families who prefer a calmer environment.
 If you're interested in a lower sensory move-in experience, you can sign up for a move-in timeslot between 1:30 - 2:30 p.m. ET on Saturday, August 16. During this hour, our student leaders and volunteers will create a welcoming atmosphere with limited music and cheers, and will be ready to help you move your belongings. While we can't guarantee complete silence, we're committed to making this time as sensory-friendly as possible to ensure an inclusive and comfortable start for everyone.
-jasujazumdinski
+jasujazmudzinski
 The Block Center
 Artificial intelligence (AI) is reshaping industries, decision-making, and daily life, making it essential to develop AI systems that are fair, transparent, and accountable. At The Block Center, our Responsible AI focus area is dedicated to ensuring AI technologies serve society equitably. We examine how AI impacts individuals and communities, develop frameworks for ethical AI deployment, and collaborate with policymakers, researchers, and industry leaders to promote responsible innovation.
 Carnegie Mellon’s interdisciplinary expertise—spanning computer science, public policy, ethics, and business—positions us as a leader in AI research. Through funded projects, we support initiatives that address bias in AI, improve system accountability, and create tools for AI governance. Our team of experts works at the intersection of technology and society, shaping policies and best practices that ensure AI benefits all.
@@ -510,20 +510,20 @@ Responsible AI is a university-wide initiative housed at The Block Center, with 
 AI Policy Impact
 The Responsible AI (RAI) initiative at Carnegie Mellon's Block Center for Technology and Society significantly influences policy by translating AI research into actionable insights that promote fairness, accountability, and transparency. By engaging with policymakers, the initiative ensures that AI technologies are developed and implemented in ways that are socially responsible and equitable.
 Additionally, the initiative fosters community engagement through programs like "AI 101," which educates various stakeholders—including labor unions, media professionals, and government representatives—on the societal implications of AI. These efforts demystify AI technologies and encourage inclusive dialogue, ensuring that diverse perspectives inform AI policy development. ​
-jasujazumdinski
+jasujazmudzinski
 The Wilton E. Scott Institute for Energy Innovation at Carnegie Mellon University is focused on developing and demonstrating the technologies, systems, and policies needed to accelerate the transition to a sustainable, net-zero energy future.
 The Gelfand Center works with faculty, students and staff through on-campus and community-based activities that improve educational opportunities, especially in the areas of science, technology, engineering and mathematics education for youth.  The Leonard Gelfand Center for Service Learning and Outreach was endowed by alumnus Mark Gelfand, MCS '73, to create and strengthen partnerships with local schools and education providers.
 Located in the Provost's division under the Vice Provost for Education, the Gelfand Center collaborates with departments across the University to support this mission. 
-jasujazumdinski
+jasujazmudzinski
 The Carnegie Mellon Institute for Strategy & Technology, or "CMIST," is a university-wide initiative dedicated to the wise development, use and governance of new and emerging technologies that are changing war and peace.  The home for Carnegie Mellon University’s study of Political Science and International Relations, CMIST is uniquely poised to take advantage of the university’s strengths in computer science and engineering, and its distinctive tradition of cross-university, cross-disciplinary research.  Focused on questions of power and governance, CMIST builds new frameworks for managing global and national security challenges. 
 CMIST Non-Resident Fellow, Jamie Morgan has released her first white paper, Harnessing Innovation: A Lethal Empowerment Approach to Partner-Led Deterrence in Asia. This paper explores how decentralized communications, unmanned platforms, and advanced planning tools could significantly bolster allied security in the Indo-Pacific. Morgan argues that the US defense export system, still governed by Cold War-era processes, is failing to deliver these critical technologies quickly and effectively. To remedy this, the paper presents specific, actionable policy solutions to ensure partners have timely access to innovative, dual-use systems—before they are forced to seek out foreign competitors.
-jasujazumdinski
+jasujazmudzinski
 Welcome to the Humanities Center
 Founded in 2003, the Humanities Center at Carnegie Mellon promotes and supports scholarship and research that actively engages with culture and human production across the disciplines.
 Our Mission
 The Humanities Center at Carnegie Mellon brings together faculty and graduate students in humanities departments (English, History, Languages, Cultures and Applied Linguistics, and Philosophy) and from the arts, social sciences, and sciences who engage in studying the human experience, human condition, and human-centered responses to real-world challenges.
 An essential component of the humanities ecosystem at CMU, the Humanities Center is an incubator for original, innovative, cutting-edge, and interdisciplinary humanistic research, publicizing our humanities research and its value in our global and increasingly technologically driven society to the university and the world.
-jasujazumdinski
+jasujazmudzinski
 CMU is Deep-Rooted in AI
 AI in Health
 CMU is reshaping healthcare with robotics and AI innovations that enhance patient care and safety. Tools like the Head-Worn Assistive Teleoperation (HAT) interface provide independence for individuals with paralysis, while AI-driven systems prevent medication errors and analyze healthcare data to detect adverse drug events early. Deep learning models improve disease detection, and the Delphi Center for Innovation in Outbreak Analytics uses AI to enhance epidemic forecasting and readiness, ensuring preparedness for future health crises.
@@ -533,11 +533,11 @@ AI in Society and Workforce
 Even as we break new ground, we recognize the importance of bringing interdisciplinary teams together to explore the impact of this technology. At CMU, scientists and engineers work together with philosophers, artists and economists to discover what might be possible, while ethicists, social scientists and policy experts guide our path. The university-wide Block Center for Technology and Society is a hub for this work, and is engaged in three primary focus areas: how emerging technologies will alter the future of work, how AI and analytics can be harnessed for social good, and how innovation in these spaces can be more inclusive and improve quality of life for all.
 Transforming Science
 The future of science is being driven by powerful AI technologies that are essential to the analysis, connection and application of massive data streams. At CMU, we are leading the science revolution by bringing our strengths in computational methods to scientific discovery and inquiry. The birthplace of cognitive psychology, CMU has built on our legacy in brain science through our Neuroscience Institute, where neuroscientists, psychologists, statisticians, computer scientists and engineers drive new breakthroughs. We are also the first academic institution to launch a cloud lab for artificial intelligence-driven experimentation, revolutionizing academic laboratory research.
-jasujazumdinski
+jasujazmudzinski
 The origins of AI at CMU date back to our founding as a comprehensive research university in 1967, when the Mellon Institute of Industrial Research, founded by Richard and Andrew Mellon, merged with Carnegie Tech to create Carnegie Mellon University. In this fertile ground for ground-breaking research, CMU researchers Alan Newell, Herb Simon, Allen Perlis and Raj Reddy came to dominate the emerging field of computer science and establish artificial intelligence as the next frontier in human progress.
 At a time when computers were barely understood, we were among the very first to recognize the power of computing, and we made some big bets. In 1965, we established our department of computer science. In 1979, we founded the first robotics institute at a U.S. university. In 1984, we attracted funding from the government to launch the Software Engineering Institute. And in 1988, we announced the first college in the world devoted solely to computer science. Ours is still the model that others follow.
 In the process, we have created new fields of inquiry — such as machine learning and the science of learning—and have magnified our societal impact through technologies like autonomous vehicles and additive manufacturing.
-jasujazumdinski
+jasujazmudzinski
 Carnegie Mellon University has more than 100 research centers and institutes, addressing a broad range of interests and industries. 
 The examples below showcase some of the centers where Carnegie Mellon students and faculty are working to solve real-world problems.
 
@@ -578,12 +578,12 @@ School of Computer Science Research and Additional Centers
 Software Engineering Institute
 Steinbrenner Institute for Environmental Education and Research
 Wilton E. Scott Institute for Energy Innovation
-jasujazumdinski
+jasujazmudzinski
 The Fence. All-night study sessions. Spring Carnival. Homecoming on a crisp fall day. Those traditions are part of your Carnegie Mellon University experience — and this space is your connection to those memories, whether you graduated 50 years ago or just last spring. 
 The Carnegie Mellon University Alumni Association is the link between your experiences at CMU and everything and everyone that CMU is today, including your fellow alumni and current faculty, staff and students. On this site, you can explore all of the activities, events and resources available for you to deepen your experience as an alum. 
 Please reach out if you need additional information or assistance — the CMU Alumni Association is here to help you stay connected to the university’s past, present and future. And check back frequently — exciting events and news are always on the way. 
 Welcome home, Tartans.
-jasujazumdinski
+jasujazmudzinski
 New, incoming first-year students, including international first-year students and College of Fine Arts transfer students, are required to live on campus. Housing assignments for first-year students are based on a randomly generated lottery number order for all students who apply before May 25. After May 25, students will receive lottery numbers at the end of the line in the order that their application is received.
 Boss House
 One of the oldest residence halls on campus, Boss House is a first-year community that offers a large outdoor courtyard, first-floor community lounge, recreation and television areas, study lounges, and laundry facilities. You can always find a sense of home here with your friends and housemates, working or hanging out in the lounges and sharing their best first-year memories.
@@ -609,7 +609,7 @@ DEMOGRAPHICS: First-year
 AMENITIES: TV room, community kitchen, laundry facilities, lounges on multiple floors
 AIR-CONDITIONING: Window units
 Resident Assistants (RAs): 1
-jasujazumdinski
+jasujazmudzinski
 Donner House is a traditional-style residence hall consisting of four floors with a large community lounge on the first floor. Donner is one of the larger communities on campus, consisting of around 240 first-year students. Our size and our love for all things blue have inspired us to adopt the blue whale as our official house mascot. What has a bigger heart than a blue whale? (Answer: nothing.) Despite our size, we boast a very tight-knit and caring community with a lot of spirit.
 Donner House is one of two first-year communities that offer reduced-rate housing options in a Double-as-Triple room. Students who opt-in or are placed in a Double-as-Triple will receive a discounted housing rate. For more information, visit this page!
 Donner House at a Glance
@@ -623,7 +623,7 @@ AIR-CONDITIONING: None (Limited window units in medical accommodation rooms)
 Resident Assistants (RAs): 9
 Color: blue
 Animal: whale
-jasujazumdinski
+jasujazmudzinski
 E-Tower
 E-Tower is a connected, supportive and reflective first-year community. Kindness and belonging create a welcoming environment in the breezeway, where Pineapples (residents of E-Tower) share encouraging words and thoughtful contemplations with one another on the large chalk board. Signature experiences of E-Tower include a faculty engagement series, reflection through journaling and other prompts, family style meals and gatherings, and end-of-the-week casual catch-up events. Pineapples maintain their connections throughout their time at CMU.
 E-Tower is connected to Morewood Gardens, offering access to all of Morewood Gardens’ amenities like The Underground and makerspaces.
@@ -638,7 +638,7 @@ AIR-CONDITIONING: None
 Resident Assistants (RAs): 5
 Color: yellow
 Symbol: pineapple
-jasujazumdinski
+jasujazmudzinski
 Hamerschlag House
 Hamerschlag House, affectionately known as “Schlag,” is a traditional, first-year residence hall offering mostly double occupancy rooms, and a few singles. It is located in the heart of the Margaret Morrison St Neighborhood, just a short walk to the Neighborhood Commons. Hamerschlag was renovated with updates to study rooms, the community lounge space, and air conditioning in 2025. There is also an elevated patio known as the “Schroof,” and a large community lounge with amenities like vending machines, work spaces, ping-pong, and community TVs. Residents of Schlag enjoy a variety of traditions from the past and also will be developing new traditions in the future!
 Hamerschlag House at a Glance
@@ -652,7 +652,7 @@ AIR-CONDITIONING: Central, in-unit
 Resident Assistants (RAs): 6
 Color: Red
 Animal: hedghehog
-jasujazumdinski
+jasujazmudzinski
 Henderson House
 The WHeSco community is three residential houses – Scobell, Henderson and Welch - under one umbrella. First-year residents of WHeSco have the bonus of being part of an intimate house community (under 90 residents) as well as the combined WHeSco community of around 200 residents, allowing for many opportunities to connect with a wide-range of students. WHeSco is proximate to many academic buildings and dining options in Resnik. Each building has a central area on the ground floor where students have access to lounges, laundry, and a kitchen.
 Henderson House is a L.E.E.D. Certified Green Building.
@@ -666,7 +666,7 @@ AIR-CONDITIONING: Central, in-unit
 Resident Assistants (RAs): 3
 Color: Maroon
 Animal: Penguin
-jasujazumdinski
+jasujazmudzinski
 The Maggie Mo First-Year Houses are a community of small houses located in the Margaret Morrison Street Neighborhood in close proximity to all of the first-year communities on the Hill. Residents will enjoy large double or triple bedrooms with semi-private bathrooms, and a large first floor community space and kitchen dedicated to 14-22 residents and one Resident Assistant in each house. Each Maggie Mo First-Year House opens onto the outdoor plaza and is be located next to the Neighborhood Commons in Hamerschlag House, which offers additional space for studying and socializing.
 The Maggie Mo First-Year Houses are one of two first-year communities that offer reduced-rate housing options in a Double-as-Triple room. Students who opt-in or are placed in a Double-as-Triple will receive a discounted housing rate. For more information, visit this page!
 Maggie Mo First-Year Houses at a Glance
@@ -678,7 +678,7 @@ LOCATION: Margaret Morrison Avenue Neighborhood
 AMENITIES: TV lounge, shared kitchen, laundry facilities, recreation
 AIR-CONDITIONING: Window units in bedrooms
 Resident Assistants (RAs): 5
-jasujazumdinski
+jasujazmudzinski
 McGill shares a large outdoor courtyard with Boss House and offers a first-floor community lounge with recreation and television areas, study lounges and laundry facilities. 
 McGill at a Glance
 ROOM TYPES: Semi-suite singles and doubles
@@ -689,11 +689,11 @@ LOCATION: Margaret Morrison Avenue Neighborhood
 AMENITIES: Recreation areas, TV areas, study lounges, laundry facilities, shared kitchen, semi-private bathrooms
 AIR-CONDITIONING: Window units
 Resident Assistants (RAs): 3
-jasujazumdinski
+jasujazmudzinski
 Mudge House offers an abundance of charm and inspiration. Donated to Carnegie Mellon University by the Mudge family, the original mansion (A-tower) consists of a variety of room types from singles to quads. Two additional towers of suite style rooms were added to bring the occupancy of Mudge to 310 students. Mudgies are encouraged to take advantage of the serenity of manicured courtyard and Koi pond. The first floor of Mudge is a perfect place for larger gatherings or a quiet catch-up with a few friends. Each spring, Mudge hosts a Dinner with the Deans and Faculty event, where more than 30 invited faculty and staff come to Mudge for a celebratory dinner with residents.
 Color: purple
 Animal: koi fish
-jasujazumdinski
+jasujazmudzinski
 Residence on 5th
 The Residence on Fifth, also known as "the Rez," is a first-year apartment building in the Oakland community. Residents have their own kitchens and bathrooms in addition to lots of great common and programming space. The Rez has a newly renovated movie room, computer cluster, wireless Internet, laundry facilities, central air-conditioning, and an exercise room, and there are lots of great nooks and crannies for studying. Residents spend a lot of time in the lounges and on the first floor, creating a close-knit community.
 Residence on Fifth at a Glance
@@ -707,7 +707,7 @@ AIR-CONDITIONING: Central, in-unit
 Resident Assistants (RAs): 3
 Residence on Fifth Color = Pink
 Residence on Fifth Animal = Flamingo
-jasujazumdinski
+jasujazmudzinski
 Stever is a first-year residence hall that boasts having more common lounge space than any other residence on campus and was the first campus building to be designated a "green" building. With the goal of significantly reducing and/or eliminating the negative impact of the building on the environment, it received a silver rating for Leadership in Energy and Environmental Design (LEED) from the U.S. Green Building Council in September 2003. The building has individually controlled, year-round heating and cooling options in all rooms with enhanced air exchange and ventilation systems. All public spaces and community baths have automatic lighting and flow controls.
 Stever House at a Glance
 ROOM TYPE: Traditional double
@@ -720,7 +720,7 @@ AIR-CONDITIONING: Central, in-unit.  Year-around heating and cooling options in 
 Resident Assistants (RAs): 9
 Color: Green
 Symbol: Cactus
-jasujazumdinski
+jasujazmudzinski
 Upper-class Housing at CMU
 As a current, transfer, or international student, you have a number of housing options available to you: on-campus housing, Greek housing, or off-campus-housing. After your first year, we hope you choose to continue living on campus, which, as research shows, significantly contributes to academic success and graduating on time. Specifically at Carnegie Mellon, living on campus provides:
 A 24/7 community of support
@@ -744,7 +744,7 @@ Roselawn Apartments
 Spirit House
 West Wing
 Woodlawn Apartments
-jasujazumdinski
+jasujazmudzinski
 Farnam Jahanian
 President, Henry L. Hillman President's Chair
 Farnam Jahanian is the 10th president of Carnegie Mellon University, where he holds the Henry L. Hillman President’s Chair. He is currently serving in his second five-year term as president and holds three faculty appointments: in CMU’s School of Computer Science, College of Engineering, and the H. John Heinz III College of Information Systems and Public Policy.
@@ -772,7 +772,7 @@ Jahanian has earned numerous awards over his career to date, including a Nationa
 The author of over 100 published research papers, Jahanian is a celebrated scholar on a range of topics, including distributed computing, network security and network protocols and architectures. His research has been supported by numerous major sponsors, including the NSF, DHS, DARPA, NSA, ONR as well as companies that include Cisco, Intel, Google, Boeing, VeriSign, Hitachi, Hewlett-Packard and IBM.
 
 Jahanian holds a master’s degree and a Ph.D. in Computer Science from the University of Texas at Austin. He is a Fellow of the Association for Computing Machinery, the Institute of Electrical and Electronic Engineers and the American Association for the Advancement of Science.
-jasujazumdinski
+jasujazmudzinski
 CMU President's Staff
 Kelly Elder: Executive Administrator and Director of Administrative Operations
 Tricia O'Reilly: Chief of Staff
@@ -782,7 +782,7 @@ Chelsea Blackburn Cohen: Senior Manager, Strategic Initiatives and Engagement
 Bethany Cody: Senior Director, Executive Communications
 Kelsee Knox: Executive Assistant to the Chief of Staff
 Kathleen Sandusky: Senior Manager of Executive Communications
-jasujazumdinski
+jasujazmudzinski
 Subset of President Farnham's Letter Enhancing Enterprise Creation, Entrepreneurship and Industry Engagement at CMU:
 Dear Faculty and Staff Colleagues,
 Carnegie Mellon has always thrived by anticipating change and positioning ourselves at the forefront of discovery, creativity and innovation.
@@ -793,7 +793,7 @@ The PAB’s final report highlighted four priority areas: (1) more integrated, s
 CMU has already begun implementing many of these recommendations, including selecting a new enterprise research support system, reimagining research support staffing structures, streamlining industry partnerships, benchmarking IP policies, and expanding support for research-based start-ups.
 Looking ahead, CMU will roll out a fully integrated research support system, update IP and licensing policies, align industry and federal partnerships, and strengthen the Swartz Center’s role as a university-wide hub for entrepreneurship — all in alignment with our Strategic Framework and long-term research priorities.
 To help CMU maintain its edge in a rapidly evolving environment, in the fall of 2023, I convened a Presidential Advisory Board (PAB) on Enterprise Creation, Entrepreneurship and Industry Engagement. I charged the PAB with assessing CMU’s current strengths, identifying areas where we must be more agile and effective, and proposing strategies that will allow us to better support discovery, translation and a broader impact. Co-chaired by Vice President for Research Theresa Mayer and trustee Ron Bianchini, the PAB included faculty, staff, alumni, trustees and external partners. This group spent 18 months on a rigorous process that combined quantitative benchmarking with qualitative engagement, including interviews with 150 internal and external stakeholders. The result is a set of reflections and recommendations that provide a roadmap for strengthening our research and innovation ecosystem.
-jasujazumdinski
+jasujazmudzinski
 Subset of President Farnham's Letter Enhancing Enterprise Creation, Entrepreneurship and Industry Engagement at CMU
 PAB Recommendations
 I believe a great university shows its strength through a relentless pursuit of excellence, never resting on past achievements but continually adapting and improving. The PAB was designed in that spirit — to push us forward and build on CMU’s remarkable success so we are ready to lead as the pace of innovation accelerates. Importantly, the Advisory Board acknowledged the many things CMU is doing right — from our world-class research and entrepreneurial ecosystem to the collaborative spirit of our faculty and students — and urged us to build on these strengths as we look to the future. Today, the current political headwinds and shifting industry dynamics have made the PAB’s recommendations even more relevant and urgent.
@@ -803,7 +803,7 @@ Technology Transfer and Commercialization: The Advisory Board highlighted that C
 Research Support Services: Stakeholders interviewed by the PAB pointed to outdated systems and overly complex processes as barriers to collaboration and agility. To remain competitive, CMU must modernize with best-in-class enterprise systems, streamline processes to reduce administrative burden for faculty and staff, and recruit, develop and retain an industry-leading workforce.
 Entrepreneurship and Enterprise Creation: The Advisory Board singled out the important role of our Swartz Center for Entrepreneurship as a campus-wide resource and recommended a more integrated approach that allows the center to better connect to, and coordinate across, CMU’s centers, programs and resources. The PAB encouraged us to expand end-to-end support to launch and grow investment-ready start-ups from high-potential research, and to establish a university-wide alumni mentor program to support campus entrepreneurs. The report also underscored the impact of the Swartz Center in fostering a vibrant regional innovation ecosystem.
 Before describing the progress made and work ahead, I wish to acknowledge the extraordinary leadership of Theresa Mayer and the collaborative engagement of colleagues across our schools and colleges. The deans and associate deans of research have been indispensable partners in this work, helping to shape priorities and ensure that changes are responsive to faculty and student needs. I am also grateful to our Board of Trustees for its partnership, endorsement and continued guidance as we move this work forward.
-jasujazumdinski
+jasujazmudzinski
 Subset of President Farnham's Letter Enhancing Enterprise Creation, Entrepreneurship and Industry Engagement at CMU
 Progress to Date
 With the benefit of the Advisory Board’s recommendations, we have already begun to strengthen the foundation of our research enterprise.
@@ -825,14 +825,14 @@ Warm regards,
 Farnam Jahanian
 President
 Henry L. Hillman President’s Chair
-jasujazumdinski
+jasujazmudzinski
 Office of the Provost and Chief Academic Officer
 As the university's chief academic officer, the provost has broad responsibility for leading CMU's schools, institutes and campuses and is instrumental in long-range institutional and academic planning and implementation. The provost also oversees academic and budgetary policy and priorities, ensures the quality of the student body and maintains educational excellence. In addition, the provost has oversight responsibility for recruiting, hiring and advancement of faculty and academic administrators and for the university's promotion and tenure of the 1,500 members of CMU's faculty. 
 Supporting these efforts and initiatives is an extraordinary group of academic and administrative leaders, including deans, vice provosts and key faculty and professional staff who are committed to continuing CMU's success and tradition in education, research and societal impact.
-jasujazumdinski
+jasujazmudzinski
 Provost Priorities
 The university's strategic plan is the foundation for the provost's priorities, which were derived, reinforced and prioritized through ongoing listening sessions with the Carnegie Mellon community. These seven areas of focus aim to strengthen the pillars of our institution. From student success and experience to inclusive excellence, our goal is to create a more holistically supportive and welcoming environment for the campus community.
-jasujazumdinski
+jasujazmudzinski
 James H. Garrett, Jr: Provost and Chief Academic Officer
 David P. Bennett: Vice President for University Advancement
 Angela Blanton: Vice President for Finance and Chief Financial Officer
@@ -845,7 +845,7 @@ Theresa Mayer: Vice President for Research
 Tricia O'Reilly: Chief of Staff to the President
 Stan Waddell: Vice President for Information Technology and Chief Information Officer
 Daryl Weinert: Vice President for Operations
-jasujazumdinski
+jasujazmudzinski
 CMU Deans
 Isabelle Bajeux-Besnainou: Dean, Tepper School of Business
 Vijayakumar Bhagavatula: Interim Dean, College of Engineering
@@ -858,9 +858,9 @@ Richard Scheines: Dean, Dietrich College of Humanities and Social Sciences
 Barbara Shinn-Cunningham: Dean, Mellon College of Science
 Michael Trick: Dean, Qatar Campus
 Keith Webster: Dean, University Libraries, Director of Emerging and Integrative Media Initiatives 
-jasujazumdinski
+jasujazmudzinski
 David A. Coulter served as Vice Chairman, Managing Director and Senior Advisor at Warburg Pincus LLC, focusing on the firm’s financial services practice from 2005–2014. He continues to serve as a Special Limited Partner to Warburg Pincus. Mr. Coulter retired in September 2005 as Vice Chairman of J.P. Morgan & Chase Co. He previously served as Executive Chairman of its investment bank, asset and wealth management, and private equity business. Mr. Coulter was a member of the firm’s three-person Office of the Chairman and also its Executive Committee. Mr. Coulter came to J.P. Morgan Chase via its July 2000 acquisition of The Beacon Group, a small merchant banking operation. Before joining The Beacon Group, Mr. Coulter was the Chairman and Chief Executive Officer of the BankAmerica Corporation and Bank of America NT & SA. His career at Bank of America was from 1976 to 1998 and covered a wide range of banking activities. He was also an active member of the Federal Reserve Advisory Council and the International Monetary Conference. He served on the board of Aeolus Re, MBIA, Mastercard International, Webster Bank, Sterling Financial, the Strayer Corporation, Santander Asset Management, and Triton International. He currently is on the board of Varo Money, Inc., ModivCare, and Innovu. He also serves on the boards of Lincoln Center, Carnegie Mellon University, Asia Society of Northern California, and the American Prairie Reserve. He received both his B.S. and his M.S. from Carnegie Mellon University and currently serves as a Trustee for Carnegie Mellon. He is the current Chair of the Board of trustees
-jasujazumdinski
+jasujazmudzinski
 Officers of the Corporation consist of the following: chair of the Board of Trustees, two vice chairs of the Board of Trustees, the president, chief financial officer, secretary, treasurer and vice presidents.
 The duties and powers of all officers are determined by the Board. The chief financial officer, the treasurer and the secretary will hold office for one year and until their successors shall assume office. The chair and the vice chairs serve for a term of three years. The Board determines the length of the term the president serves. The Board may dismiss any officer for cause at any time. The election of officers takes place at each annual meeting of the Board, but officers may be elected at any meeting to fill vacancies. Any two or more offices may be held by the same person.
 2025-26 Officers of the Corporation
@@ -881,7 +881,7 @@ Theresa Mayer, Vice President for Research
 Carrie Nelson, Assistant Treasurer
 Stan Waddell, Vice President for Information Technology and Chief Information Officer
 Daryl Weinert, Vice President for Operations
-jasujazumdinski
+jasujazmudzinski
 CMU Voting Trustees
 The business, property and affairs of the Corporation are managed by or under the direction of a Board of Trustees of the Corporation.
 
@@ -932,7 +932,7 @@ David Tepper*, president and founder, Appaloosa Management LP
 Thomas Tull, co-chairman, TWG Global
 Tamara Tunie*, actor, director and producer
 * Alumnus/a
-jasujazumdinski
+jasujazmudzinski
 Upon the recommendation of the Nominating and Governance Committee, the Board of Trustees may grant the status of emeritus/a trustee to those members who have made distinguished contributions to the university and who have attained at least age 60 or a maximum of age 75. The Board of Trustees may change the age at which trustees must be granted emeritus/a status or resign from the Board.
 
 
@@ -976,7 +976,7 @@ Donald E. Stitzenberg*, principal, CBA Associates
 Mary Ann Ulishney*
 Paula Kauffman Wagner*, producer/owner, Chestnut Ridge Productions
 ** Alumnus/a
-jasujazumdinski
+jasujazmudzinski
 Awards won by CMU Faculty and Alumni
 Carnegie Mellon University's faculty and alumni have been recognized with some of the highest awards and honors in their respective fields, a testament to their pioneering work. 
 American Academy of Arts & Sciences: 26
@@ -993,7 +993,7 @@ National Book Award: 1
 National Medal of Science: 2
 National Medal of Technology and Innovation: 6
 Vannevar Bush Award: 1
-jasujazumdinski
+jasujazmudzinski
 Student Awards
 At Carnegie Mellon University, we take great pride in our students' remarkable achievements, which highlight their unwavering commitment, brilliance and the rigorous, interdisciplinary education they receive.
 Churchill Scholarships: 11
@@ -1004,14 +1004,81 @@ Marshall Scholarship: 5
 Rhodes Scholarship: 4
 Truman Scholarship: 6
 Udall Scholarship: 3
-jasujazumdinski
+jasujazmudzinski
 The average financial aid offer at CMU is $59,017
 CMU bolstered our investment in undergraduate financial aid by over 86% in the last 10 years – from $75.7 million in 2015 to $141.1 million in 2024.
 $114,704 is the Average Post-Graduation Salary at CMU. 90% of CMUU 2024 graduates were employed or continued their education within 6 months after graduation.
-jasujazumdinski
+jasujazmudzinski
 CMU and NVIDIA to Lead Joint Research Center for Robotics, Autonomy & AI
 Carnegie Mellon University has partnered with NVIDIA and the University of Pittsburgh to establish the NVIDIA AI Tech Community in Pittsburgh, advancing innovation in robotics, autonomy, and AI. This collaboration includes two new joint research centers, with CMU focusing on robotics and autonomy, enabling researchers to leverage NVIDIA’s AI expertise and technology. The initiative will support local startups, enhance AI development across sectors, and position Pittsburgh as a leader in responsible AI innovation.
 
 Researchers Develop First AI-enabled Wearable to Detect Drug Errors
 CMU researchers have developed the first AI-powered wearable camera to detect medication errors, aiming to improve patient safety in hospitals. The device alerts healthcare professionals to potential mistakes in real time, enhancing accuracy during drug administration. This innovative technology could significantly reduce error rates during drug administration under stressful situations, underscoring CMU’s role in advancing AI applications in healthcare.
-jasujazumdinski
+jasujazmudzinski
+The intersection of fields is a Carnegie Mellon University specialty. Renowned faculty at the university's seven schools/colleges explore side by side with students, collaborating on research, tackling society's biggest challenges and delivering work that matters. In addition to the hundreds of programs offered by the schools and colleges, CMU also offers dozens of interdisciplinary programs, which are designed especially for students who want to work beyond just one discipline.
+1. College of Engineering
+2. Mellon College of Science
+3. College of Fine Arts
+4. School of Computer Science
+5. Dietrich College of Humanities & Social Sciences
+6. Tepper School of Business
+7. Heinz College of Information Systems & Public Policy
+jasujazmudzinski
+Since our inception over 50 years ago, the Computer Science Department’s mission has remained steadfast: to lead in computer science research and education that has real-world impact — to push the frontiers of the field and produce the next generation’s leaders.
+Values
+In the Computer Science Department, we believe that our success rests on these four pillars.
+Leadership in education. From the beginning, we designed our programs to prepare our students to be leaders in academia and industry. Our Ph.D. program believes strongly in research from day one, and we consistently monitor our graduate curriculum to ensure that it’s a perfect balance of rigor and flexibility. Our enthusiasm for undergraduate education is unparalleled, and we consistently rank as the top undergraduate computer science program in the country.
+The quality and impact of our research. We strive for both high-quality, high impact research, collaboratively and across disciplines. We build things for real users with real-world impact. We think big, taking risks in our research agendas to support uncommon research areas, to start uncharted research areas, and to dream of projects beyond what a single faculty member could accomplish alone.
+A supportive culture that brings out the best in people. We live by the Reasonable Person Principle, which relies on mutual trust and support among all faculty, staff and students. We take collective responsibility for our students and faculty, through shared oversight of grad students and faculty processes, like assigning teaching duties. We presume success, and admit or hire only those candidates we expect to excel.
+Diversity. The percentage of women out of all students receiving undergraduate degrees in computer science at Carnegie Mellon now hovers around 33 percent — almost twice the national average.
+jasujazmudzinski
+CMU Computer Science Department History (1956-1967)
+1956: Herbert A. Simon, associate dean of Carnegie Institute of Technology’s business school, joins forces with several faculty members to establish the Computation Center. Alan Perlis (S’42), a Pittsburgh native and MCS graduate, is brought from Purdue University to be the center’s director.
+August 1956: The university’s first computer, an IBM 650, is delivered to basement of the Graduate School of Industrial Administration building.
+1958: Carnegie Tech offers the first freshman-level computer programming course in the nation. It is taught by Alan Perlis.
+1961: The Systems and Communication Sciences program is established. This interdisciplinary program combines computer science, mathematics, psychology, business and electrical engineering, and provides the exams for Carnegie Mellon’s first computer science-related Ph.D. students.
+1962: CIT receives a $600,000 contract to research the theory of computer programming, AI, interpretation of natural languages, man-computer interactions and design of computing machinery from the Advanced Research Projects Agency of the Defense Department.
+1965: Carnegie Mellon establishes the Computer Science Department with the support of a $5 million grant from the Richard K. Mellon Foundation. Alan Perlis is its first head. The first students enroll in the Ph.D. program in CS.
+1967: The first computer science doctoral degrees are awarded.
+jasujazmudzinski
+CMU Computer Science Department History (1967-1999)
+1971: Joseph Traub takes over as head of the computer science department.
+1975: Herb Simon and Allen Newell win the Turing Award, often called the Nobel Prize of computer science.
+1978: Herb Simon wins the Nobel Prize in Economics for decision-making theory.
+1979: A. Nico Habermann takes over as head of the computer science department when Joseph Traub leaves to lead the newly formed department at Columbia University.
+1983: The Andrew Project begins, making Carnegie Mellon the first wired campus.  One outcome was AFS, a widely used network file system.
+1985: The Computer Science Department becomes a floating unit at Carnegie Mellon, not tethered to a particular school or college. 
+1985: Carnegie Mellon develops and launches its groundbreaking “Andrew” campus-wide communications network, one of the first in the nation. Leadership in developing and implementing the network came from the Computer Science Department, most notably from a campus-wide committee chaired by Allen Newell.
+1988: The School of Computer Science is established. Nico Haberman is the first dean.
+1989–90: The School of Computer Science creates an undergraduate program.
+1992: Raj Reddy becomes dean of the School of Computer Science.
+1999: James Morris (CS’63) becomes dean of the School of Computer Science.
+jasujazmudzinski
+CMU Computer Science Department History (2000-Present)
+2000: The Wireless Andrew network is installed — the first of its kind in the country.
+2000: BusinessWeek and Yahoo! Internet Life magazines rate Carnegie Mellon as the Most Wired University.
+2000: US News ranks the graduate CS program #3, tied with UC-Berkeley.
+2002: Randal Bryant and David O’Hallaron publish a “definitive” textbook for computer programming based on the 15-213 course. It's used in 18 schools in its first year.
+2002: SCS is ranked #1 by US News & World Report for its computer science Ph.D. program (tied with MIT, Stanford and UC-Berkeley).
+2002: Intel opens a research lab in conjunction with Carnegie Mellon, with SCS’s M. Satyanarayanan (CS’79, ’83) as director.
+2003: SCS Day, the first undergraduate talent showcase, is held on campus.
+2004: Randal Bryant becomes dean of the School of Computer Science.
+2004: Jeannette Wing is announced as head of the Computer Science Department.
+2004: Carnegie Mellon opens a branch campus at Education City in Doha, Qatar, offering undergraduate education in computer science and business. Former Robotics Institute Director Chuck Thorpe (CS’85) becomes the first dean.
+2004: Carnegie Mellon receives a $20 million gift from the Bill and Melinda Gates Foundation to help fund construction of a new building dedicated to expanding the horizons of computer science.
+2005: Google announces plans to open an engineering lab in Pittsburgh in collaboration with Carnegie Mellon, with SCS professor Andrew Moore as director.
+2007: Professor Randy Pausch delivers his "Last Lecture," which goes viral and receives more than 17 million (now) hits on YouTube. His lecture is later turned into a book.
+2007: Peter Lee becomes head of the Computer Science Department.
+2008: The Henry L. Hillman Foundation Gives Carnegie Mellon $10 Million for a research building in the new computer science complex.
+2008: Ed Clarke wins the Turing Award, computing's highest honor.
+2008: Carnegie Mellon and Sun Microsystems collaborate to support continued development of the Alice programming environment.
+2009: The Gates Center for Computer Science and the Hillman Center for Future-Generation Technologies is completed and dedicated by Bill Gates in September.
+2009: Disney honors Randy Pausch with a memorial fellowship for Carnegie Mellon Computer Science and Fine Arts students.
+2009: Carnegie Mellon computer scientists Ed Clarke and André Platzer develop a method for verifying the safety of computer-controlled devices.
+2010: Jeannette Wing returns to her role as head of the Computer Science Department after two years with the National Science Foundation.
+2013: Frank Pfenning is named head of the Computer Science Department. 
+2014: SCS celebrates 25 years & Andrew Moore becomes dean of SCS.
+2015: The Computer Science Department celebrates 50 years of changing the world!
+2018: Srini Seshan is named head of the Computer Science Department
+
+
