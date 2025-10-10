@@ -1,6 +1,5 @@
 import requests
-from bs4 import BeautifulSoup, Tag
-
+from bs4 import BeautifulSoup
 # downloads html data from britannica 
 def download_britannica():
     Headers = {"User-Agent": "HW_Project/1.0 (+https://github.com/njasuja/11711_HW2; njasuja@andrew.cmu.edu)"}

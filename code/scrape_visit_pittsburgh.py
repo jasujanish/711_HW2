@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoups
 import os 
 
 # Gets HTML data via requests

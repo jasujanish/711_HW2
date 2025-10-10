@@ -5,6 +5,12 @@ faiss-cpu>=1.7.4
 spacy>=3.5.0
 rank-bm25>=0.2.1
 numpy>=1.24.0
+requests>=2.31.0
+beautifulsoup4>=4.13.5
+pdfplumber>=0.11.7
+markdown>=3.9
+pymupdf4llm>=0.0.27
+pdfplumber>=0.11.7
 blobfile
 tiktoken
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0-py3-none-any.whl
